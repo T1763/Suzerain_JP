@@ -126,14 +126,20 @@ textarea { min-height: 96px; resize: vertical; }
   background: var(--surface);
 }
 .drop.over { border-color: var(--accent); color: var(--text); }
-.shots { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
-.shot { position: relative; width: 150px; }
-.shot img { width: 150px; height: 96px; object-fit: cover; border-radius: 6px; border: 1px solid var(--line); display: block; }
-.shot button {
-  position: absolute; top: 4px; right: 4px; border: 0; border-radius: 50%; width: 26px; height: 26px; cursor: pointer;
-  background: rgba(0,0,0,.65); color: #fff; font-size: 15px; line-height: 26px; padding: 0;
+/* スクリーンショットは本文の幅いっぱいに、縦横比そのままで出す（画面の文字が読めるように） */
+.shots {
+  display: flex; flex-direction: column; gap: 16px; margin-top: 12px;
+  /* 広い画面では本文の枠（800px）を越えて最大 1200px まで広げる */
+  width: min(1200px, calc(100vw - 32px)); position: relative; left: 50%; transform: translateX(-50%);
 }
-.shot span { display: block; font-size: .75rem; color: var(--muted); }
+.shot { position: relative; width: 100%; }
+.shot a { display: block; cursor: zoom-in; }
+.shot img { width: 100%; height: auto; border-radius: 6px; border: 1px solid var(--line); display: block; background: #000; }
+.shot button {
+  position: absolute; top: 8px; right: 8px; border: 0; border-radius: 50%; width: 34px; height: 34px; cursor: pointer;
+  background: rgba(0,0,0,.7); color: #fff; font-size: 18px; line-height: 34px; padding: 0;
+}
+.shot span { display: block; font-size: .8rem; color: var(--muted); margin-top: 4px; }
 .status { margin-top: 14px; }
 .status.ok { color: var(--ok); }
 .status.err { color: var(--err); }

@@ -93,8 +93,11 @@
       var x = document.createElement('button'); x.type = 'button'; x.textContent = '×';
       x.setAttribute('aria-label', (i + 1) + '枚目を外す');
       x.addEventListener('click', function () { URL.revokeObjectURL(s.url); shots.splice(i, 1); render(); });
-      var cap = document.createElement('span'); cap.textContent = Math.round(s.blob.size / 1024) + ' KB';
-      d.appendChild(img); d.appendChild(x); d.appendChild(cap); list.appendChild(d);
+      var cap = document.createElement('span');
+      cap.textContent = (i + 1) + '枚目・' + Math.round(s.blob.size / 1024) + ' KB（押すと原寸で開きます）';
+      var link = document.createElement('a'); link.href = s.url; link.target = '_blank'; link.rel = 'noopener';
+      link.appendChild(img);
+      d.appendChild(link); d.appendChild(x); d.appendChild(cap); list.appendChild(d);
     });
   }
 
