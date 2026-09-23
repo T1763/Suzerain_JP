@@ -13,7 +13,7 @@
 
 const MAX_SHOTS = { report: 3, tester: 10 };
 const MAX_BYTES = 5 * 1024 * 1024;
-const LIMITS = { story: 40, type: 40, scene: 200, ja: 2000, en: 2000, note: 4000, steps: 2000, turn: 40, version: 100 };
+const LIMITS = { story: 40, type: 40, scene: 200, detail: 4000, ja: 2000, en: 2000, note: 4000, steps: 2000, turn: 40, version: 100 };
 
 export default {
   async fetch(req, env) {
@@ -58,7 +58,7 @@ export default {
       const mode = fd.get('mode') === 'tester' ? 'tester' : 'report';
       const f = {};
       for (const k of Object.keys(LIMITS)) f[k] = String(fd.get(k) || '').replace(/\r\n?/g, '\n').trim().slice(0, LIMITS[k]);
-      if (!f.ja) return reply(400, { ok: false, error: '画面に出ている日本語を書いてください' });
+      if (!f.detail) return reply(400, { ok: false, error: '問題の詳細を書いてください' });
 
       const files = fd.getAll('shots').filter((x) => typeof x === 'object' && x && 'arrayBuffer' in x);
       if (files.length > MAX_SHOTS[mode]) return reply(400, { ok: false, error: `スクリーンショットは ${MAX_SHOTS[mode]} 枚までです` });
@@ -83,7 +83,7 @@ export default {
       }
 
       const issue = await gh.createIssue({
-        title: `[${shortType(f.type)}] ${oneLine(f.ja, 60)}`,
+        title: `[${shortType(f.type)}] ${oneLine(f.ja || f.detail, 60)}`,
         body: issueBody(mode, f, links, id),
         labels: ['翻訳の不備', shortType(f.type)].concat(mode === 'tester' ? ['tester'] : []),
       });
@@ -130,7 +130,8 @@ function issueBody(mode, f, links, id) {
   row('種類', f.type);
   row('場面', f.scene);
   if (mode === 'tester') { row('版', f.version); row('ターン', f.turn); }
-  out.push('', '### 画面の日本語', quote(f.ja));
+  out.push('', '### 問題の詳細', quote(f.detail));
+  if (f.ja) out.push('', '### 画面に出ている文', quote(f.ja));
   if (f.en) out.push('', '### 英語の原文', quote(f.en));
   if (f.steps) out.push('', '### その場面までの流れ', quote(f.steps));
   if (f.note) out.push('', '### 気づいたこと', quote(f.note));

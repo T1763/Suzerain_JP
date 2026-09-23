@@ -114,7 +114,11 @@
   form.addEventListener('submit', function (e) {
     e.preventDefault();
     if (!cfg.relay) return;
-    if (!form.reportValidity()) return;
+    if (!form.reportValidity()) { setStatus('「問題の詳細」を書いてください。', 'err'); return; }
+    if (tsWidget !== null && !window.turnstile.getResponse(tsWidget)) {
+      setStatus('送信ボタンの上の「私はロボットではありません」にチェックを入れてください。', 'err');
+      return;
+    }
     var fd = new FormData(form);
     fd.append('mode', mode);
     shots.forEach(function (s, i) { fd.append('shots', s.blob, 'shot' + (i + 1)); });

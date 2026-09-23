@@ -38,12 +38,17 @@ body:
       label: 場面
       placeholder: 例 1ターン目の経済会議／新聞／索引の人物の項目
   - type: textarea
-    id: ja
+    id: detail
     attributes:
-      label: 画面に出ている日本語
-      description: 該当する文をそのまま書き写してください（一部だけでも構いません）
+      label: 問題の詳細
+      description: どこがどうおかしいかを書いてください
     validations:
       required: true
+  - type: textarea
+    id: ja
+    attributes:
+      label: 画面に出ている文（分かれば）
+      description: 該当する文をそのまま書き写してください（英語のままならその英語を。一部だけでも構いません）
   - type: textarea
     id: en
     attributes:

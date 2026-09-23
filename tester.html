@@ -69,14 +69,20 @@
     </div>
 
     <div class="field">
+      <label for="f-detail">問題の詳細<span class="req">必須</span></label>
+      <p class="hint">どこがどうおかしいかを書いてください。例: 「〜」が英語のまま／人名の読みが前の場面と違う／文字が枠からはみ出している</p>
+      <textarea id="f-detail" name="detail" maxlength="4000" required></textarea>
+    </div>
+
+    <div class="field">
       <label for="f-scene">場面</label>
       <p class="hint">誰との会話か、どの画面か（報告書・新聞・索引・法案など）</p>
       <input type="text" id="f-scene" name="scene" maxlength="200">
     </div>
 
     <div class="field">
-      <label for="f-ja">画面に出ている日本語<span class="req">必須</span></label>
-      <textarea id="f-ja" name="ja" maxlength="2000" required></textarea>
+      <label for="f-ja">画面に出ている文（分かれば）</label>
+      <textarea id="f-ja" name="ja" maxlength="2000"></textarea>
     </div>
 
     <div class="field">
@@ -118,8 +124,8 @@
     <p><a href="https://github.com/T1763/Suzerain_JP">GitHub</a> ・ <a href="./">ダウンロード</a> ・ <a href="report.html">ふつうの報告フォーム</a></p>
   </div>
 </footer>
-<script src="assets/config.js"></script>
-<script src="assets/site.js"></script>
-<script src="assets/report.js"></script>
+<script src="assets/config.js?v=2"></script>
+<script src="assets/site.js?v=2"></script>
+<script src="assets/report.js?v=2"></script>
 </body>
 </html>
