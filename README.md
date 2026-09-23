@@ -1,5 +1,7 @@
 # Suzerain 非公式日本語訳データ / Unofficial Japanese translation data for Suzerain
 
+https://t1763.github.io/Suzerain_JP/
+
 ゲーム **Suzerain**（3.1.0 (Windows) Build 175 / Unity 6000.3.9f1 / Windows / Steam）の、非公式の日本語訳データです。
 Unofficial Japanese translation data for **Suzerain** (3.1.0 (Windows) Build 175 / Unity 6000.3.9f1 / Windows / Steam).
 
