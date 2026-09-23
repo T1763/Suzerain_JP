@@ -1,2 +1,5 @@
 plugins:
   - jekyll-sitemap
+# 報告の中継（Cloudflare Worker）のコードはサイトに出さない
+exclude:
+  - worker

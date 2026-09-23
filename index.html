@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Suzerain 日本語化（非公式）— ダウンロードと導入方法</title>
+<meta name="description" content="政治シミュレーションゲーム『Suzerain』（Steam 版）を日本語で遊ぶための非公式の日本語化パッチ。会話・報告書・新聞・索引・メニューまで日本語になります。ダウンロード、入れ方、英語への戻し方を説明します。DLC『Kingdom of Rizia』にも対応。">
+<link rel="canonical" href="https://t1763.github.io/Suzerain_JP/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Suzerain 日本語化">
+<meta property="og:title" content="Suzerain 日本語化（非公式）— ダウンロードと導入方法">
+<meta property="og:description" content="『Suzerain』を日本語で遊ぶための非公式の日本語化パッチ。会話・報告書・新聞・索引まで日本語に。">
+<meta property="og:url" content="https://t1763.github.io/Suzerain_JP/">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="assets/site.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://t1763.github.io/Suzerain_JP/#website",
+      "name": "Suzerain 日本語化",
+      "url": "https://t1763.github.io/Suzerain_JP/",
+      "inLanguage": "ja"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Suzerain 日本語化パッチ（非公式）",
+      "applicationCategory": "GameApplication",
+      "operatingSystem": "Windows",
+      "inLanguage": "ja",
+      "isAccessibleForFree": true,
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "JPY" },
+      "downloadUrl": "https://github.com/T1763/Suzerain_JP/releases/latest",
+      "url": "https://t1763.github.io/Suzerain_JP/"
+    },
+    {
+      "@type": "HowTo",
+      "name": "Suzerain 日本語化パッチの入れ方",
+      "inLanguage": "ja",
+      "step": [
+        { "@type": "HowToStep", "position": 1, "text": "最新版の ZIP をダウンロードして、好きな場所に展開する。" },
+        { "@type": "HowToStep", "position": 2, "text": "Suzerain と Steam を終了する。" },
+        { "@type": "HowToStep", "position": 3, "text": "展開したフォルダの INSTALL_JP.bat をダブルクリックする。" },
+        { "@type": "HowToStep", "position": 4, "text": "「→ 日本語版を入れました。」と表示されたら、ゲームを起動する。" }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="inner">
+    <a class="brand" href="./">Suzerain 日本語化<small>非公式</small></a>
+    <nav aria-label="サイト内">
+      <ul>
+        <li><a href="./" aria-current="page">ダウンロード</a></li>
+        <li><a href="glossary.html">用語対訳表</a></li>
+        <li><a href="report.html">不備の報告</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <h1>Suzerain 日本語化パッチ</h1>
+  <p class="lead">政治シミュレーションゲーム『Suzerain』（スゼレイン）を日本語で遊ぶための、有志による非公式の日本語化です。</p>
+
+  <div class="card">
+    <h2 style="margin-top:0">最新版のダウンロード</h2>
+    <p style="margin:0 0 12px">GitHub で公開している最新版と、常に同じものが表示されます。</p>
+    <a class="btn" href="https://github.com/T1763/Suzerain_JP/releases/latest">最新版をダウンロード</a>
+    <div id="release" class="release"><p class="meta">最新版の情報を読み込んでいます…</p></div>
+  </div>
+
+  <h2>日本語になるところ</h2>
+  <ul>
+    <li>会話・語り（本編『Sordland』と DLC『Kingdom of Rizia』）</li>
+    <li>報告書・新聞・日誌・法案や政策の説明</li>
+    <li>索引（ゲーム内の Codex）。本文の青い語から項目が開きます</li>
+    <li>起動画面・メインメニュー・ゲーム中のメニュー</li>
+  </ul>
+  <p>フォントの追加や DLL の導入はしていません。ゲームのファイルを日本語版に置き換えるだけです。</p>
+
+  <h2>動作環境</h2>
+  <ul>
+    <li>Windows の Steam 版『Suzerain』</li>
+    <li>追加のソフトは不要です（Windows に最初から入っている PowerShell で動きます）</li>
+    <li>Steam のインストール先は自動で見つけます。別のドライブに入れていても大丈夫です</li>
+  </ul>
+
+  <h2>入れ方</h2>
+  <ol class="steps">
+    <li>上のボタンから最新版の ZIP をダウンロードし、好きな場所に展開します。<br>
+      <small>展開する前に ZIP を右クリック →「プロパティ」→ 下の「許可する」にチェックを入れておくと、警告が出にくくなります。</small></li>
+    <li><strong>Suzerain と Steam を終了</strong>します。</li>
+    <li>展開したフォルダの <code>INSTALL_JP.bat</code> をダブルクリックします。</li>
+    <li>黒い画面に <code>→ 日本語版を入れました。</code> と出たら完了です。何かキーを押して閉じ、ゲームを起動してください。</li>
+  </ol>
+  <p>「Windows によって PC が保護されました」と出た場合は、「詳細情報」→「実行」で進めます。</p>
+
+  <h2>英語に戻す</h2>
+  <p>ゲームを終了してから <code>UNINSTALL_JP.bat</code> をダブルクリックします。<code>→ 英語の原本に戻しました。</code> と出れば完了です。</p>
+  <p>Steam の「ゲームファイルの整合性を確認」をしても英語に戻ります。日本語に戻したいときは、もう一度 <code>INSTALL_JP.bat</code> を実行してください。</p>
+
+  <h2>うまくいかないとき</h2>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>表示</th><th>意味と対処</th></tr></thead>
+    <tbody>
+      <tr><td><code>中止: ゲームが起動中です。</code></td><td>ゲームを終了してから、もう一度実行してください。</td></tr>
+      <tr><td><code>!! 書き込めません（権限）。</code></td><td>Steam を終了してから、もう一度実行してください。</td></tr>
+      <tr><td><code>!! Suzerain のインストール先が見つかりません。</code></td><td>フォルダの中でコマンドプロンプトを開き、<code>set SUZERAIN_ROOT=D:\SteamLibrary\steamapps\common\Suzerain</code>（自分のインストール先）と入力してから <code>INSTALL_JP.bat</code> と入力して実行してください。</td></tr>
+      <tr><td><code>★見覚えのない中身（ゲーム更新？）</code><br><code>中止: 上の★の対象があるため、何も変えていません。</code></td><td>ゲーム本体が更新され、この日本語版と合わなくなっています。安全のため何も変更していません。このページで新しい版が出るのをお待ちください。</td></tr>
+      <tr><td><code>★ファイルが見つからない</code></td><td>ゲームのファイルが足りません。Steam で「ゲームファイルの整合性を確認」をしてから、もう一度実行してください。</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2>よくある質問</h2>
+  <h3>セーブデータは消えますか？</h3>
+  <p>消えません。日本語化が書き換えるのはゲームの文字のデータだけです。</p>
+  <h3>ゲームがアップデートされたら？</h3>
+  <p>Steam の更新で英語に戻ることがあります。<code>INSTALL_JP.bat</code> が「★見覚えのない中身」と言う場合は、更新に合わせた新しい版が必要です。このページの最新版をご確認ください。</p>
+  <h3>訳がおかしいところを見つけたら？</h3>
+  <p><a href="report.html">不備の報告</a>から、スクリーンショットを付けて送ってください。GitHub のアカウントは要りません。</p>
+  <h3>固有名詞の訳を確かめたい</h3>
+  <p><a href="glossary.html">用語対訳表</a>で、人名・地名・組織名の英語と日本語を引けます。</p>
+</main>
+
+<footer class="site-footer">
+  <div class="inner">
+    <p>このサイトと日本語化は有志による非公式のもので、開発元の Torpor Games とは関係ありません。</p>
+    <p><a href="https://github.com/T1763/Suzerain_JP">GitHub</a> ・ <a href="report.html">不備の報告</a> ・ <a href="tester.html">テスターの方へ</a></p>
+  </div>
+</footer>
+<script src="assets/config.js"></script>
+<script src="assets/site.js"></script>
+</body>
+</html>
