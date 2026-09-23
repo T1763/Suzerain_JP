@@ -129,8 +129,11 @@ textarea { min-height: 96px; resize: vertical; }
 /* スクリーンショットは本文の幅いっぱいに、縦横比そのままで出す（画面の文字が読めるように） */
 .shots {
   display: flex; flex-direction: column; gap: 16px; margin-top: 12px;
-  /* 広い画面では本文の枠（800px）を越えて最大 1200px まで広げる */
-  width: min(1200px, calc(100vw - 32px)); position: relative; left: 50%; transform: translateX(-50%);
+  /* ブラウザの画面幅の半分（2026-09-23 ユーザー指定）。スマホでは半分だと読めないので幅いっぱい */
+  width: 50vw; position: relative; left: 50%; transform: translateX(-50%);
+}
+@media (max-width: 700px) {
+  .shots { width: 100%; left: 0; transform: none; }
 }
 .shot { position: relative; width: 100%; }
 .shot a { display: block; cursor: zoom-in; }
