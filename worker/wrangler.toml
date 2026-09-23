@@ -1,0 +1,9 @@
+# Cloudflare Worker（報告の中継）。このフォルダで npx wrangler deploy
+# 鍵（GITHUB_TOKEN・TURNSTILE_SECRET）はここに書かない。npx wrangler secret put <名前> で入れる
+name = "suzerain-jp-report"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+REPO = "T1763/Suzerain_JP"
+ALLOW_ORIGIN = "https://t1763.github.io"
