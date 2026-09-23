@@ -11,6 +11,19 @@ Unofficial Japanese translation data for **Suzerain** (3.1.0 (Windows) Build 175
   **The English source text is not included.** Each row carries only the in-game ID and the Japanese text; join it with your own copy of the game data by ID.
 - 作り方は `HOW_IT_WORKS.md` を参照。 / See `HOW_IT_WORKS.md` for how the translation is applied to the game.
 
+## 日本語化の入れ方・英語に戻す / Installing and reverting
+
+入れ方はサイト https://t1763.github.io/Suzerain_JP/ を参照（Releases の ZIP を展開して `INSTALL_JP.bat`）。
+配布物に英語の元のファイルは入っていません。**英語に戻すときは Steam でゲームファイルをリフレッシュします。**
+See the site for installation (unzip the Release and run `INSTALL_JP.bat`). The English original files are not shipped;
+**to go back to English, let Steam refresh the game files:**
+
+1. Suzerain を終了する / Quit Suzerain.
+2. Steam の「ライブラリ」で Suzerain を右クリック →「プロパティ」 / In the Steam Library, right-click Suzerain → **Properties**.
+3. 「インストール済みファイル」→「ゲームファイルの整合性を確認」 / **Installed Files** → **Verify integrity of game files**.
+4. 置き換えたファイル（約100MB）が取り直され、英語に戻ります。セーブデータは消えません。 /
+   The replaced files (about 100 MB) are downloaded again and the game is back in English. Save data is not affected.
+
 ## ファイル / Files
 
 各データは同じ内容の `.json`（UTF-8）と `.csv`（UTF-8 BOM 付き・RFC 4180。改行を含む欄は引用符で囲む）の2形式です。
