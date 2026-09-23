@@ -158,3 +158,19 @@ textarea { min-height: 96px; resize: vertical; }
   .card { padding: 14px 14px; }
   th, td { padding: 7px 6px; }
 }
+
+/* トップのプレイ画面：1枚が画面幅の約4分の1、縦2×横3（2026-09-23 ユーザー指定） */
+.screens {
+  display: grid; grid-template-columns: repeat(3, 25vw); gap: 16px; justify-content: center;
+  width: calc(100vw - 32px); position: relative; left: 50%; transform: translateX(-50%); margin-top: 12px;
+}
+.screen { margin: 0; }
+.screen img { width: 100%; height: auto; display: block; border-radius: 6px; border: 1px solid var(--line); background: #000; }
+.screen figcaption { font-size: .88rem; color: var(--muted); margin-top: 6px; line-height: 1.6; }
+@media (max-width: 1000px) {
+  /* 4分の1だと小さすぎる幅では2列、スマホでは1列 */
+  .screens { grid-template-columns: repeat(2, minmax(0, 1fr)); width: 100%; left: 0; transform: none; }
+}
+@media (max-width: 560px) {
+  .screens { grid-template-columns: 1fr; }
+}
