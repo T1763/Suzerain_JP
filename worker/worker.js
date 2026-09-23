@@ -94,7 +94,9 @@ export default {
       return reply(200, { ok: true, number: issue.number, url: issue.html_url });
     } catch (e) {
       console.error(e && e.stack ? e.stack : e);
-      return reply(500, { ok: false, error: 'サーバーのエラー' });
+      // どこで失敗したか（GitHub の状態番号と説明文だけ。鍵は含まない）
+      const why = String((e && e.message) || e).replace(/"documentation_url":"[^"]*",?/g, '').slice(0, 200);
+      return reply(500, { ok: false, error: `サーバーのエラー: ${why}` });
     }
   },
 };
@@ -166,6 +168,7 @@ function github(env) {
     if (has.ok) return;
     const repo = await call('GET', '');
     const base = await call('GET', `/git/ref/heads/${repo.j.default_branch}`);
+    if (!repo.ok || !base.ok) throw new Error(`read repo: ${repo.status}/${base.status} ${JSON.stringify(repo.ok ? base.j : repo.j)}`);
     const made = await call('POST', '/git/refs', { ref: `refs/heads/${branch}`, sha: base.j.object.sha });
     if (!made.ok && made.status !== 422) throw new Error(`create branch: ${made.status} ${JSON.stringify(made.j)}`);
   }
