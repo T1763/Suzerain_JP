@@ -13,9 +13,9 @@ Unofficial Japanese translation data for **Suzerain** (3.1.0 (Windows) Build 175
 
 ## 日本語化の入れ方・英語に戻す / Installing and reverting
 
-入れ方はサイト https://t1763.github.io/Suzerain_JP/ を参照（Releases の ZIP を展開して `INSTALL_JP.bat`）。
+入れ方はサイト https://t1763.github.io/Suzerain_JP/ を参照（Releases の ZIP を展開し、中の `Suzerain_Data` フォルダをゲームのフォルダへ上書き。スクリプトは実行しません）。
 配布物に英語の元のファイルは入っていません。**英語に戻すときは Steam でゲームファイルをリフレッシュします。**
-See the site for installation (unzip the Release and run `INSTALL_JP.bat`). The English original files are not shipped;
+See the site for installation (unzip the Release and drag its `Suzerain_Data` folder over the game folder, replacing files; nothing is executed). The English original files are not shipped;
 **to go back to English, let Steam refresh the game files:**
 
 1. Suzerain を終了する / Quit Suzerain.
