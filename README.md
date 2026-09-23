@@ -1,180 +1,80 @@
-# Suzerain 非公式日本語訳データ / Unofficial Japanese translation data for Suzerain
+# Suzerain 日本語化パッチ（非公式）
 
-https://t1763.github.io/Suzerain_JP/
+政治シミュレーションゲーム『Suzerain』（スゼレイン）を日本語で遊ぶための、有志による非公式の日本語化です。
 
-ゲーム **Suzerain**（3.1.0 (Windows) Build 175 / Unity 6000.3.9f1 / Windows / Steam）の、非公式の日本語訳データです。
-Unofficial Japanese translation data for **Suzerain** (3.1.0 (Windows) Build 175 / Unity 6000.3.9f1 / Windows / Steam).
+- **サイト**: https://t1763.github.io/Suzerain_JP/
+- **最新版のダウンロード**: https://github.com/T1763/Suzerain_JP/releases
+- **不備の報告**: https://t1763.github.io/Suzerain_JP/report.html
+- **用語対訳表**: https://t1763.github.io/Suzerain_JP/glossary.html
 
-- 生成日 / Generated: 2026-09-23
-- ゲームのファイル（バンドル等）は含みません。訳文だけです。 / No game files are included — translations only.
-- **英語の原文は含みません**。各行はゲーム内の ID と日本語訳だけを持ちます。原文はお手持ちのゲームのデータと ID で突き合わせてください。
-  **The English source text is not included.** Each row carries only the in-game ID and the Japanese text; join it with your own copy of the game data by ID.
-- 作り方は `HOW_IT_WORKS.md` を参照。 / See `HOW_IT_WORKS.md` for how the translation is applied to the game.
+## 日本語になるところ
 
-## 日本語化の入れ方・英語に戻す / Installing and reverting
+- 会話・語り（本編『Sordland』と DLC『Kingdom of Rizia』）
+- 報告書・新聞・日誌・法案や政策の説明
+- 索引（ゲーム内の Codex）。本文の青い語から項目が開きます
+- 起動画面・メインメニュー・ゲーム中のメニュー
 
-入れ方はサイト https://t1763.github.io/Suzerain_JP/ を参照（Releases の ZIP を展開し、中の `Suzerain_Data` フォルダをゲームのフォルダへ上書き。スクリプトは実行しません）。
-配布物に英語の元のファイルは入っていません。**英語に戻すときは Steam でゲームファイルをリフレッシュします。**
-See the site for installation (unzip the Release and drag its `Suzerain_Data` folder over the game folder, replacing files; nothing is executed). The English original files are not shipped;
-**to go back to English, let Steam refresh the game files:**
+フォントの追加や DLL の導入はしていません。ゲームのファイルを日本語版に置き換えるだけです。
 
-1. Suzerain を終了する / Quit Suzerain.
-2. Steam の「ライブラリ」で Suzerain を右クリック →「プロパティ」 / In the Steam Library, right-click Suzerain → **Properties**.
-3. 「インストール済みファイル」→「ゲームファイルの整合性を確認」 / **Installed Files** → **Verify integrity of game files**.
-4. 置き換えたファイル（約100MB）が取り直され、英語に戻ります。セーブデータは消えません。 /
-   The replaced files (about 100 MB) are downloaded again and the game is back in English. Save data is not affected.
+## 動作環境
 
-## ファイル / Files
+- Windows の Steam 版『Suzerain』 **3.1.0 (Windows) Build: 175**（ゲーム内の版の表記）。版が違うときは入れないでください
+- 追加のソフトは不要です。プログラムやスクリプトは実行しません（ファイルを上書きするだけなので、スマートアプリコントロールにも止められません）
 
-各データは同じ内容の `.json`（UTF-8）と `.csv`（UTF-8 BOM 付き・RFC 4180。改行を含む欄は引用符で囲む）の2形式です。
-Every dataset is provided twice with identical content: `.json` (UTF-8) and `.csv` (UTF-8 with BOM, RFC 4180; fields containing line breaks are quoted).
+## 入れ方
 
-| ファイル / File | 行数 / Rows | 内容 / Contents |
-|---|---:|---|
-| `entity/AdvisorsPageData` | 2 | 画面の文字 / On-screen text |
-| `entity/ArchetypeData` | 9 | 画面の文字 / On-screen text |
-| `entity/BillData` | 104 | 画面の文字 / On-screen text |
-| `entity/CarouselChoiceOptionData` | 137 | 画面の文字 / On-screen text |
-| `entity/CarouselChoicePageData` | 32 | 画面の文字 / On-screen text |
-| `entity/CharacterCustomizationOptionData` | 99 | 画面の文字 / On-screen text |
-| `entity/CharacterCustomizationPanelData` | 8 | 画面の文字 / On-screen text |
-| `entity/CharacterDetailsPanelData` | 4 | 画面の文字 / On-screen text |
-| `entity/CharacterDetailsSectionData` | 113 | 画面の文字 / On-screen text |
-| `entity/CodexEntryData` | 2,815 | 画面の文字 / On-screen text |
-| `entity/CodexTopicData` | 27 | 画面の文字 / On-screen text |
-| `entity/CollectionItemData` | 76 | 画面の文字 / On-screen text |
-| `entity/CompassCharacterGroupData` | 2 | 画面の文字 / On-screen text |
-| `entity/CompassConfigurationData` | 8 | 画面の文字 / On-screen text |
-| `entity/CompassData` | 2 | 画面の文字 / On-screen text |
-| `entity/CompassTitleData` | 34 | 画面の文字 / On-screen text |
-| `entity/CompositionData` | 22 | 画面の文字 / On-screen text |
-| `entity/CompositionPageData` | 6 | 画面の文字 / On-screen text |
-| `entity/ConnectionData` | 151 | 画面の文字 / On-screen text |
-| `entity/ConnectionPositionData` | 21 | 画面の文字 / On-screen text |
-| `entity/ConversationData` | 528 | 画面の文字 / On-screen text |
-| `entity/CountryDetailsDemographicData` | 30 | 画面の文字 / On-screen text |
-| `entity/CountryDetailsPanelData` | 14 | 画面の文字 / On-screen text |
-| `entity/DLCCollectionItemData` | 4 | 画面の文字 / On-screen text |
-| `entity/DecisionData` | 2,222 | 画面の文字 / On-screen text |
-| `entity/DecreeData` | 951 | 画面の文字 / On-screen text |
-| `entity/FactionData` | 12 | 画面の文字 / On-screen text |
-| `entity/FactionsPageData` | 2 | 画面の文字 / On-screen text |
-| `entity/GraphPanelData` | 2 | 画面の文字 / On-screen text |
-| `entity/HUDPeriodicStatModifierData` | 126 | 画面の文字 / On-screen text |
-| `entity/HUDStatData` | 13 | 画面の文字 / On-screen text |
-| `entity/HUDTextStatData` | 6 | 画面の文字 / On-screen text |
-| `entity/JournalEntryData` | 1,806 | 画面の文字 / On-screen text |
-| `entity/MapTokenData` | 302 | 画面の文字 / On-screen text |
-| `entity/MultipleChoiceOptionData` | 123 | 画面の文字 / On-screen text |
-| `entity/MultipleChoicePageData` | 82 | 画面の文字 / On-screen text |
-| `entity/NewsData` | 5,596 | 画面の文字 / On-screen text |
-| `entity/OneTimeDecreesPanelData` | 2 | 画面の文字 / On-screen text |
-| `entity/PagedDecisionPanelData` | 35 | 画面の文字 / On-screen text |
-| `entity/PolicyData` | 640 | 画面の文字 / On-screen text |
-| `entity/ReminderPanelData` | 12 | 画面の文字 / On-screen text |
-| `entity/ReminderPanelSegmentData` | 62 | 画面の文字 / On-screen text |
-| `entity/ReportData` | 3,365 | 画面の文字 / On-screen text |
-| `entity/ReusableDecreesPanelData` | 1 | 画面の文字 / On-screen text |
-| `entity/SituationData` | 1,058 | 画面の文字 / On-screen text |
-| `entity/StoryPackData` | 36 | 画面の文字 / On-screen text |
-| `entity/SummaryData` | 2 | 画面の文字 / On-screen text |
-| `entity/SummarySegmentData` | 220 | 画面の文字 / On-screen text |
-| `entity/TimelineElementData` | 64 | 画面の文字 / On-screen text |
-| `entity/TokenStatusEffectData` | 600 | 画面の文字 / On-screen text |
-| `entity/TooltipData` | 108 | 画面の文字 / On-screen text |
-| `entity/TutorialPageData` | 36 | 画面の文字 / On-screen text |
-| `entity/TutorialPanelData` | 2 | 画面の文字 / On-screen text |
-| `entity/WarFragmentData` | 14 | 画面の文字 / On-screen text |
-| `entity/WarProductionPanelData` | 2 | 画面の文字 / On-screen text |
-| `entity/_GameFlow` | 22 | 画面の文字 / On-screen text |
-| `dialogue/sord01` | 1,865 | 会話 / Dialogue |
-| `dialogue/sord02` | 3,305 | 会話 / Dialogue |
-| `dialogue/sord03` | 5,131 | 会話 / Dialogue |
-| `dialogue/sord04` | 2,800 | 会話 / Dialogue |
-| `dialogue/sord05` | 3,467 | 会話 / Dialogue |
-| `dialogue/sord06` | 4,092 | 会話 / Dialogue |
-| `dialogue/sord07` | 8,992 | 会話 / Dialogue |
-| `dialogue/sord08` | 8,796 | 会話 / Dialogue |
-| `dialogue/sord09` | 6,787 | 会話 / Dialogue |
-| `dialogue/sord10` | 8,221 | 会話 / Dialogue |
-| `dialogue/sord11` | 2,974 | 会話 / Dialogue |
-| `dialogue/sordend` | 1,918 | 会話 / Dialogue |
-| `dialogue/riz01` | 2,863 | 会話 / Dialogue |
-| `dialogue/riz02` | 2,373 | 会話 / Dialogue |
-| `dialogue/riz03` | 2,518 | 会話 / Dialogue |
-| `dialogue/riz04` | 4,333 | 会話 / Dialogue |
-| `dialogue/riz05` | 5,942 | 会話 / Dialogue |
-| `dialogue/riz06` | 5,648 | 会話 / Dialogue |
-| `dialogue/riz07` | 6,815 | 会話 / Dialogue |
-| `dialogue/riz08` | 10,483 | 会話 / Dialogue |
-| `dialogue/riz09` | 5,644 | 会話 / Dialogue |
-| `dialogue/riz10` | 14,023 | 会話 / Dialogue |
-| `dialogue/riz11` | 2,283 | 会話 / Dialogue |
-| `dialogue/rizend` | 2,265 | 会話 / Dialogue |
-| `dialogue/variables` | 161 | 文字列変数 / String variables |
-| `ui/mainmenu` | 170 | 固定文言 / UI strings |
-| `ui/ingame` | 276 | 固定文言 / UI strings |
-| `ui/program` | 18 | 固定文言 / UI strings |
-| `ui/boot` | 1 | 固定文言 / UI strings |
-| `glossary` | 633 | 用語集 / Glossary |
+1. **Suzerain を終了**します。
+2. [Releases](https://github.com/T1763/Suzerain_JP/releases) から最新版の ZIP をダウンロードし、右クリック →「すべて展開」で展開します。
+3. Steam の「ライブラリ」で Suzerain を右クリック →「管理」→「ローカルファイルを閲覧」を選びます。ゲームのフォルダ（`Suzerain_Data` や `Suzerain.exe` があるフォルダ）が開きます。
+4. 展開したフォルダの中の **`Suzerain_Data` フォルダ**を、ゲームのフォルダへドラッグします。
+5. 「ファイルの置換またはスキップ」と出たら **「宛先のファイルを置き換える」** を選びます（7ファイル）。「管理者の権限が必要です」と出たら「続行」を押します。
+6. ゲームを起動し、メインメニューが日本語（「物語を始める」など）になっていれば完了です。
 
-### entity/`<種別 type>` — 画面の文字 / On-screen text
+## 英語に戻す
 
-`defaultlocalgroup_assets_assets_database_entitytextassets_*.bundle` の MonoBehaviour **"Entity Text Assets"** にある `<type>DataJson` 文字列（JSON）の中身。
-Contents of the `<type>DataJson` string (itself JSON) in the MonoBehaviour **"Entity Text Assets"**.
+配布物には英語の元のファイルは入っていません。Steam にゲームのファイルを確かめ直してもらい、元に戻します。
 
-| 列 / Column | 意味 / Meaning |
+1. Suzerain を終了します。
+2. Steam の「ライブラリ」で Suzerain を右クリックし、「プロパティ」を開きます。
+3. 左の「インストール済みファイル」を選び、「ゲームファイルの整合性を確認」を押します。
+4. 確認が終わると、日本語化で置き換えたファイル（約100MB）が Steam から取り直され、英語に戻ります。
+
+日本語に戻したいときは、もう一度「入れ方」の手順で上書きしてください。
+
+## うまくいかないとき
+
+| 症状 | 対処 |
 |---|---|
-| `type` | データ種別（`StoryPackData` など） / Data type |
-| `item_id` | `items[].Id`（articy の ID） / articy ID of the item |
-| `name_in_database` | `items[].NameInDatabase` |
-| `path` | 項目の中での欄の位置（例 `StoryPackProperties.Fields[0].Value`） / Field location inside the item |
-| `ja` | 日本語訳 / Japanese text |
+| 「ファイルの置換」の画面が出ず、ファイルが増えただけ | ドラッグ先が違います。`Suzerain.exe` がある場所へ `Suzerain_Data` フォルダをドラッグしてください。心配なときは「英語に戻す」をしてからやり直してください。 |
+| 起動しない・画面がおかしい | ゲームの版が合っていない可能性があります。「英語に戻す」の手順で元に戻し、[サイト](https://t1763.github.io/Suzerain_JP/)で対応する版をご確認ください。 |
+| 一部だけ英語のまま | 7ファイルすべてが置き換わったか確かめ、もう一度上書きしてください。 |
 
-### dialogue/`<範囲 scope>` — 会話 / Dialogue
+## よくある質問
 
-`database_assets_all_*.bundle` の Dialogue System for Unity データベース（MonoBehaviour "Suzerain"）。
-範囲は会話名の先頭で分けています（`sord01`＝ソードランド編の序章とターン1、`riz01`＝リジア編の序章とターン1、`*end`＝エンディング等）。
-The Dialogue System for Unity database (MonoBehaviour "Suzerain"). Split by conversation title prefix (`sord01` = Sordland prologue + turn 1, `riz01` = Rizia prologue + turn 1, `*end` = endings etc.).
+### セーブデータは消えますか？
 
-| 列 / Column | 意味 / Meaning |
-|---|---|
-| `articy_id` | 項目の `Articy Id` / The entry's `Articy Id` |
-| `conversation_id`, `entry_id` | Dialogue System の会話 ID・項目 ID / Conversation and entry IDs |
-| `conversation` | 会話の `Title`（articy のノード名・識別子） / Conversation `Title` (identifier) |
-| `actor` | 話し手の内部名 / Speaker's internal actor name |
-| `field` | `en`（本文 / body text）または `Menu Text en`（選択肢 / choice text） |
-| `ja` | 日本語訳 / Japanese text |
+消えません。日本語化が書き換えるのはゲームの文字のデータだけです。
 
-`dialogue/variables` は文字列変数 `{RiziaDLCText.*}` などの値です。`where` が `initial` の行は変数表の Initial Value、それ以外は
-その項目（`articy_id`）の `userScript`（代入）または `conditionsString`（比較）に出てくる値です。**代入と比較は同じ訳にしないと分岐が壊れます。**
-`dialogue/variables` holds string-variable values. `where = initial` is the variable table's Initial Value; otherwise it is the value in that entry's
-`userScript` (assignment) or `conditionsString` (comparison). **Assignments and comparisons must use the same translation or branching breaks.**
+### ゲームがアップデートされたら？
 
-### ui/ — 固定文言 / Fixed UI strings
+Steam の更新で英語に戻ることがあります。**更新後のゲームに古い版を上書きしないでください**（版が合わないと正しく動かないことがあります）。更新に合わせた新しい版を[サイト](https://t1763.github.io/Suzerain_JP/)でお待ちください。
 
-`key` は英文そのものです。メニューの `locaId` もプログラム内の文字列も、英文がそのままキーになっているためです。
-`key` is the English string itself, because both the menu `locaId` and the in-program strings use the English text as the key.
+### 訳がおかしいところを見つけたら？
 
-- `ui/mainmenu`, `ui/ingame` — 場面のバンドル内の TextMeshPro（`locaId` と `m_text`） / TextMeshPro in scene bundles
-- `ui/program` — `global-metadata.dat` の文字列（同じ位置で置き換え） / String literals in `global-metadata.dat`
-- `ui/boot` — `data.unity3d` level0 の起動画面 / Launch screen in `data.unity3d` level0
+[不備の報告](https://t1763.github.io/Suzerain_JP/report.html)から、スクリーンショットを付けて送ってください。GitHub のアカウントは要りません。
 
-### glossary — 用語集 / Glossary
+### 固有名詞の訳を確かめたい
 
-作業用の用語集（`en, ja, category, tier`）。**実際の訳文と違う項目があります。食い違うときは entity/ と dialogue/ の訳文が正です。**
-The working glossary. **Some entries differ from the final translations; where they disagree, entity/ and dialogue/ are authoritative.**
+[用語対訳表](https://t1763.github.io/Suzerain_JP/glossary.html)で、人名・地名・組織名の英語と日本語を引けます。
 
-## 注意 / Caveats
+## このリポジトリについて
 
-- **訳してはいけない欄があります。**`MapTokenData` の `DemographicsProperties.EthnicityDatas[].Name` と `ReligionDatas[].Name` を
-  訳すと、セーブのロード時にゲーム内の UI が構築されなくなります（ログにエラーは出ません）。このデータでは英語のままです。
-  **Some fields must not be translated.** Translating `EthnicityDatas[].Name` / `ReligionDatas[].Name` in `MapTokenData` stops the in-game HUD
-  from being built on save load (with no error in the log). They are left in English here.
-- 対になっている欄（`CodexEntryData.Title` と `MapTokenProperties.Title`／`TokenStatusEffectProperties.CodexEntryTitle`）は同じ訳語です。
-  Paired fields (`CodexEntryData.Title` with `MapTokenProperties.Title` / `TokenStatusEffectProperties.CodexEntryTitle`) share the same string.
-- `{0}` などのプレースホルダ・タグ・角括弧は原文と同じものを含みます。 / Placeholders, tags and brackets match the source.
-- ゲーム版が違うと ID や欄の位置が変わることがあります。`manifest.json` の MD5 で版を確かめられます。
-  IDs and field locations may change between game versions; check the MD5s in `manifest.json`.
-- 翻訳はローカルの翻訳モデルの出力を規則と手作業で校正したものです。校正は途中です。
-  Machine translation (local model) corrected by rules and by hand. Proofreading is still in progress.
+- [DATA.md](DATA.md) — 訳文データ（JSON／CSV）の説明。`entity/`・`dialogue/`・`ui/`・`glossary` の形式と列
+- [HOW_IT_WORKS.md](HOW_IT_WORKS.md) — 日本語化の作り方（英語・日本語）
+- [LICENSE](LICENSE)
+
+## リンク
+
+[サイト](https://t1763.github.io/Suzerain_JP/) ・ [不備の報告](https://t1763.github.io/Suzerain_JP/report.html) ・ [テスターの方へ](https://t1763.github.io/Suzerain_JP/tester.html) ・ [公式Discord](https://discord.com/servers/suzerain-universe-473940883906232360)
+
+このサイトと日本語化は有志による非公式のものですが、開発元の Torpor Games と連絡を取り合っています。
