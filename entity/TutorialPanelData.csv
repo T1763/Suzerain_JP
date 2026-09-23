@@ -1,0 +1,3 @@
+﻿type,item_id,name_in_database,path,ja
+TutorialPanelData,0x010000CC00000021,WarProduction_Tutorial_Panel,TutorialPanelProperties.Title,戦時生産チュートリアル
+TutorialPanelData,0x0100008200000510,War_Tutorial_Panel,TutorialPanelProperties.Title,戦争チュートリアル

@@ -1,0 +1,758 @@
+[
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000405",
+  "name_in_database": "Rizia_Tooltip_Azaro",
+  "path": "TooltipProperties.Title",
+  "ja": "アザロ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000405",
+  "name_in_database": "Rizia_Tooltip_Azaro",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの三大貴族家の一つ。カルデス＝モンタクラル州を本拠とする。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000412",
+  "name_in_database": "Rizia_Tooltip_CenturyofRevolutions",
+  "path": "TooltipProperties.Title",
+  "ja": "革命の世紀"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000412",
+  "name_in_database": "Rizia_Tooltip_CenturyofRevolutions",
+  "path": "TooltipProperties.Description",
+  "ja": "世界の多くの君主国が民主制へと移り変わった激動の時代。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000046C",
+  "name_in_database": "Rizia_Tooltip_Derdia",
+  "path": "TooltipProperties.Title",
+  "ja": "デルディア"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000046C",
+  "name_in_database": "Rizia_Tooltip_Derdia",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの西に位置する神権国家。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003F3",
+  "name_in_database": "Rizia_Tooltip_EmpireofValgos",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴァルゴス帝国"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003F3",
+  "name_in_database": "Rizia_Tooltip_EmpireofValgos",
+  "path": "TooltipProperties.Description",
+  "ja": "現在のヴァルグスランドと数多の植民地からなっていた、かつての帝国。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000460",
+  "name_in_database": "Rizia_Tooltip_Estela",
+  "path": "TooltipProperties.Title",
+  "ja": "エステラ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000460",
+  "name_in_database": "Rizia_Tooltip_Estela",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの母。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000478",
+  "name_in_database": "Rizia_Tooltip_HouseToras",
+  "path": "TooltipProperties.Title",
+  "ja": "トラス家"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000478",
+  "name_in_database": "Rizia_Tooltip_HouseToras",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの一族であり、リジアの本流たる王家。ヴァレンキリス州を本拠とする。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003D5",
+  "name_in_database": "Rizia_Tooltip_Hugo",
+  "path": "TooltipProperties.Title",
+  "ja": "ウーゴ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003D5",
+  "name_in_database": "Rizia_Tooltip_Hugo",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの伯父。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003F9",
+  "name_in_database": "Rizia_Tooltip_Iza",
+  "path": "TooltipProperties.Title",
+  "ja": "イザ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003F9",
+  "name_in_database": "Rizia_Tooltip_Iza",
+  "path": "TooltipProperties.Description",
+  "ja": "ブレナス州の州都。リジア最大の大学を擁する。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000043C",
+  "name_in_database": "Rizia_Tooltip_KingValero",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴァレロ王"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000043C",
+  "name_in_database": "Rizia_Tooltip_KingValero",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの父。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000448",
+  "name_in_database": "Rizia_Tooltip_Lena",
+  "path": "TooltipProperties.Title",
+  "ja": "レナ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000448",
+  "name_in_database": "Rizia_Tooltip_Lena",
+  "path": "TooltipProperties.Description",
+  "ja": "{RiziaDLCText.LenaTooltip}"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000040B",
+  "name_in_database": "Rizia_Tooltip_Lespia",
+  "path": "TooltipProperties.Title",
+  "ja": "レスピア"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000040B",
+  "name_in_database": "Rizia_Tooltip_Lespia",
+  "path": "TooltipProperties.Description",
+  "ja": "北の隣国。豊かな民主共和国。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000430",
+  "name_in_database": "Rizia_Tooltip_Monqiz",
+  "path": "TooltipProperties.Title",
+  "ja": "モンキズ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000430",
+  "name_in_database": "Rizia_Tooltip_Monqiz",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの生まれた地。ヴァレンキリス州の州都。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003FF",
+  "name_in_database": "Rizia_Tooltip_Montaklar",
+  "path": "TooltipProperties.Title",
+  "ja": "モンタクラル"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003FF",
+  "name_in_database": "Rizia_Tooltip_Montaklar",
+  "path": "TooltipProperties.Description",
+  "ja": "カルデス＝モンタクラル州の州都。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006A00017E41",
+  "name_in_database": "Rizia_Tooltip_Morella",
+  "path": "TooltipProperties.Title",
+  "ja": "モレラ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006A00017E41",
+  "name_in_database": "Rizia_Tooltip_Morella",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの西の隣国。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003E7",
+  "name_in_database": "Rizia_Tooltip_Pabel",
+  "path": "TooltipProperties.Title",
+  "ja": "パベル"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003E7",
+  "name_in_database": "Rizia_Tooltip_Pabel",
+  "path": "TooltipProperties.Description",
+  "ja": "王宮の庭師の息子。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003ED",
+  "name_in_database": "Rizia_Tooltip_Pales",
+  "path": "TooltipProperties.Title",
+  "ja": "パレス"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003ED",
+  "name_in_database": "Rizia_Tooltip_Pales",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの南に延びる半島。かつては王国の一部だった。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003E1",
+  "name_in_database": "Rizia_Tooltip_PorteDrazon",
+  "path": "TooltipProperties.Title",
+  "ja": "ポルテ・ドラゾン"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003E1",
+  "name_in_database": "Rizia_Tooltip_PorteDrazon",
+  "path": "TooltipProperties.Description",
+  "ja": "リジア王国の首都。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003CF",
+  "name_in_database": "Rizia_Tooltip_PrinceValero",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴァレロ王子"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003CF",
+  "name_in_database": "Rizia_Tooltip_PrinceValero",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの父。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000436",
+  "name_in_database": "Rizia_Tooltip_QueenBeatrice",
+  "path": "TooltipProperties.Title",
+  "ja": "ベアトリス女王"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000436",
+  "name_in_database": "Rizia_Tooltip_QueenBeatrice",
+  "path": "TooltipProperties.Description",
+  "ja": "ルンブルク女王。あなたの義姉。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003C9",
+  "name_in_database": "Rizia_Tooltip_QueenLyza",
+  "path": "TooltipProperties.Title",
+  "ja": "リザ女王"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003C9",
+  "name_in_database": "Rizia_Tooltip_QueenLyza",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの祖母。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000472",
+  "name_in_database": "Rizia_Tooltip_Reinhart",
+  "path": "TooltipProperties.Title",
+  "ja": "アクセル・ラインハルト"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000472",
+  "name_in_database": "Rizia_Tooltip_Reinhart",
+  "path": "TooltipProperties.Description",
+  "ja": "パレス大公。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000045A",
+  "name_in_database": "Rizia_Tooltip_Rico",
+  "path": "TooltipProperties.Title",
+  "ja": "リコ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000045A",
+  "name_in_database": "Rizia_Tooltip_Rico",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの従兄弟。ウーゴ・トラスの息子。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003DB",
+  "name_in_database": "Rizia_Tooltip_Rizia",
+  "path": "TooltipProperties.Title",
+  "ja": "リジア"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003DB",
+  "name_in_database": "Rizia_Tooltip_Rizia",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたが知る唯一の故郷。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000442",
+  "name_in_database": "Rizia_Tooltip_Rumburg",
+  "path": "TooltipProperties.Title",
+  "ja": "ルンブルク"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000442",
+  "name_in_database": "Rizia_Tooltip_Rumburg",
+  "path": "TooltipProperties.Description",
+  "ja": "北に広がる巨大な王国。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000418",
+  "name_in_database": "Rizia_Tooltip_Sazon",
+  "path": "TooltipProperties.Title",
+  "ja": "サゾン"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000418",
+  "name_in_database": "Rizia_Tooltip_Sazon",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの三大貴族家の一つ。ブレナス州を本拠とする。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000454",
+  "name_in_database": "Rizia_Tooltip_SuOmina",
+  "path": "TooltipProperties.Title",
+  "ja": "スー・オミナ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000454",
+  "name_in_database": "Rizia_Tooltip_SuOmina",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアを「何よりも上に」掲げる民族主義組織。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000042A",
+  "name_in_database": "Rizia_Tooltip_Valenqiris",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴァレンキリス"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000042A",
+  "name_in_database": "Rizia_Tooltip_Valenqiris",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの出身州。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000044E",
+  "name_in_database": "Rizia_Tooltip_Vina",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴィナ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000044E",
+  "name_in_database": "Rizia_Tooltip_Vina",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの娘。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006A00017E49",
+  "name_in_database": "Rizia_Tooltip_Wehlen",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴェーレン"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006A00017E49",
+  "name_in_database": "Rizia_Tooltip_Wehlen",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの北西の隣国。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000041E",
+  "name_in_database": "Rizia_Tooltip_Wehzek",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴェゼク"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000041E",
+  "name_in_database": "Rizia_Tooltip_Wehzek",
+  "path": "TooltipProperties.Description",
+  "ja": "ヴェーレンの文化と人々。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000466",
+  "name_in_database": "Rizia_Tooltip_Wruhecism",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴルヘック教"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000466",
+  "name_in_database": "Rizia_Tooltip_Wruhecism",
+  "path": "TooltipProperties.Description",
+  "ja": "リジアの主要な宗教。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000424",
+  "name_in_database": "Rizia_Tooltip_Zille",
+  "path": "TooltipProperties.Title",
+  "ja": "ジル"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000424",
+  "name_in_database": "Rizia_Tooltip_Zille",
+  "path": "TooltipProperties.Description",
+  "ja": "リジア北端の地域。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000039D",
+  "name_in_database": "Sordland_Tooltip_Deana",
+  "path": "TooltipProperties.Title",
+  "ja": "ディアナ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000039D",
+  "name_in_database": "Sordland_Tooltip_Deana",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの娘。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000037F",
+  "name_in_database": "Sordland_Tooltip_DeividWisci",
+  "path": "TooltipProperties.Title",
+  "ja": "デイヴィド・ウィスキ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000037F",
+  "name_in_database": "Sordland_Tooltip_DeividWisci",
+  "path": "TooltipProperties.Description",
+  "ja": "大学時代の恩師。ソードランド初代大統領、革命家アルトル・S・ウィスキの息子である。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000355",
+  "name_in_database": "Sordland_Tooltip_Deyr",
+  "path": "TooltipProperties.Title",
+  "ja": "デイル"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000355",
+  "name_in_database": "Sordland_Tooltip_Deyr",
+  "path": "TooltipProperties.Description",
+  "ja": "ソードランド第二の都市。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003A9",
+  "name_in_database": "Sordland_Tooltip_EwaldAlphonso",
+  "path": "TooltipProperties.Title",
+  "ja": "エヴァルト・アルフォンソ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003A9",
+  "name_in_database": "Sordland_Tooltip_EwaldAlphonso",
+  "path": "TooltipProperties.Description",
+  "ja": "改革派の実業家であり、統一ソードランド党の改革派を率いるに至った人物。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000397",
+  "name_in_database": "Sordland_Tooltip_Franc",
+  "path": "TooltipProperties.Title",
+  "ja": "フランク"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000397",
+  "name_in_database": "Sordland_Tooltip_Franc",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの息子。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003AF",
+  "name_in_database": "Sordland_Tooltip_FrensRicter",
+  "path": "TooltipProperties.Title",
+  "ja": "フレンス・リクター"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003AF",
+  "name_in_database": "Sordland_Tooltip_FrensRicter",
+  "path": "TooltipProperties.Description",
+  "ja": "人民自由正義党の新進気鋭の人気者で、現在は同党の党首を務める。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100005800007E85",
+  "name_in_database": "Sordland_Tooltip_GeneralLuderin",
+  "path": "TooltipProperties.Title",
+  "ja": "ルデリン"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100005800007E85",
+  "name_in_database": "Sordland_Tooltip_GeneralLuderin",
+  "path": "TooltipProperties.Description",
+  "ja": "1927年に軍事クーデターを主導し、戒厳令を布告した民族主義者の将軍。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000036D",
+  "name_in_database": "Sordland_Tooltip_GeneralRikard",
+  "path": "TooltipProperties.Title",
+  "ja": "リカルド"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000036D",
+  "name_in_database": "Sordland_Tooltip_GeneralRikard",
+  "path": "TooltipProperties.Description",
+  "ja": "1928年、ルデリン将軍の軍事クーデターに対する攻勢を率いた共産主義者の将軍。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003C1",
+  "name_in_database": "Sordland_Tooltip_GreciSordland",
+  "path": "TooltipProperties.Title",
+  "ja": "グレチ・ソードランド"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003C1",
+  "name_in_database": "Sordland_Tooltip_GreciSordland",
+  "path": "TooltipProperties.Description",
+  "ja": "ソードランド語で「偉大なるソードランド」の意。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003BB",
+  "name_in_database": "Sordland_Tooltip_GusManger",
+  "path": "TooltipProperties.Title",
+  "ja": "ガス・マンガー"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003BB",
+  "name_in_database": "Sordland_Tooltip_GusManger",
+  "path": "TooltipProperties.Description",
+  "ja": "著名な実業家にして農村開発大臣。アルフォンソ大統領との近しい関係で知られる。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000361",
+  "name_in_database": "Sordland_Tooltip_Holsord",
+  "path": "TooltipProperties.Title",
+  "ja": "ホルソード"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000361",
+  "name_in_database": "Sordland_Tooltip_Holsord",
+  "path": "TooltipProperties.Description",
+  "ja": "ソードランド共和国の首都。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000385",
+  "name_in_database": "Sordland_Tooltip_IosefLancea",
+  "path": "TooltipProperties.Title",
+  "ja": "ヨセフ・ランチェア"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000385",
+  "name_in_database": "Sordland_Tooltip_IosefLancea",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたがかつてその麾下にあった、ソードランド軍の名高い指揮官。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000035B",
+  "name_in_database": "Sordland_Tooltip_Lachaven",
+  "path": "TooltipProperties.Title",
+  "ja": "デイル"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000035B",
+  "name_in_database": "Sordland_Tooltip_Lachaven",
+  "path": "TooltipProperties.Description",
+  "ja": "ソードランドで最も豊かな都市。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000367",
+  "name_in_database": "Sordland_Tooltip_Monica",
+  "path": "TooltipProperties.Title",
+  "ja": "モニカ"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000367",
+  "name_in_database": "Sordland_Tooltip_Monica",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの生涯の伴侶。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000034F",
+  "name_in_database": "Sordland_Tooltip_PetrVectern",
+  "path": "TooltipProperties.Title",
+  "ja": "ペトル・ベクターン"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000034F",
+  "name_in_database": "Sordland_Tooltip_PetrVectern",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたの親友。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003B5",
+  "name_in_database": "Sordland_Tooltip_PresidentAlphonso",
+  "path": "TooltipProperties.Title",
+  "ja": "アルフォンソ大統領"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003B5",
+  "name_in_database": "Sordland_Tooltip_PresidentAlphonso",
+  "path": "TooltipProperties.Description",
+  "ja": "ソードランド大統領であり、統一ソードランド党の新たな党首。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003A3",
+  "name_in_database": "Sordland_Tooltip_PresidentSoll",
+  "path": "TooltipProperties.Title",
+  "ja": "ソル大統領"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x01000069000003A3",
+  "name_in_database": "Sordland_Tooltip_PresidentSoll",
+  "path": "TooltipProperties.Description",
+  "ja": "タルキン・ソル大統領。1929年に共和国を再建した名高い大佐。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100005800008302",
+  "name_in_database": "Sordland_Tooltip_RepublicOfSordland",
+  "path": "TooltipProperties.Title",
+  "ja": "ソードランド共和国"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100005800008302",
+  "name_in_database": "Sordland_Tooltip_RepublicOfSordland",
+  "path": "TooltipProperties.Description",
+  "ja": "あなたが知る唯一の故郷。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000373",
+  "name_in_database": "Sordland_Tooltip_TarquinSoll",
+  "path": "TooltipProperties.Title",
+  "ja": "タルキン・ソル"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000373",
+  "name_in_database": "Sordland_Tooltip_TarquinSoll",
+  "path": "TooltipProperties.Description",
+  "ja": "ソードランド大統領であり、1929年に共和国を再建した名高い大佐。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000391",
+  "name_in_database": "Sordland_Tooltip_UnitedSordlandParty",
+  "path": "TooltipProperties.Title",
+  "ja": "統一ソードランド党"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000391",
+  "name_in_database": "Sordland_Tooltip_UnitedSordlandParty",
+  "path": "TooltipProperties.Description",
+  "ja": "1929年にタルキン・ソル大佐によって創設されたUSPは、ソードランドの与党である。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000379",
+  "name_in_database": "Sordland_Tooltip_USP",
+  "path": "TooltipProperties.Title",
+  "ja": "USP"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x0100006900000379",
+  "name_in_database": "Sordland_Tooltip_USP",
+  "path": "TooltipProperties.Description",
+  "ja": "1929年にタルキン・ソル大佐によって創設された統一ソードランド党は、ソードランドの与党である。"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000038B",
+  "name_in_database": "Sordland_Tooltip_Wehlen",
+  "path": "TooltipProperties.Title",
+  "ja": "ヴェーレン"
+ },
+ {
+  "type": "TooltipData",
+  "item_id": "0x010000690000038B",
+  "name_in_database": "Sordland_Tooltip_Wehlen",
+  "path": "TooltipProperties.Description",
+  "ja": "ヴェーレン共和国は、メルコパ南東部に位置する若く脆弱な共和国である。"
+ }
+]

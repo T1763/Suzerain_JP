@@ -1,0 +1,961 @@
+[
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000EA",
+  "name_in_database": "Option_Budget_Education_Decrease",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "減額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000EA",
+  "name_in_database": "Option_Budget_Education_Decrease",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "かつて高く評価されたこの国の公教育制度は、この十年で大きく後退した。新設校の不足、教員一人あたりの生徒数の多さ、教員給与の低さ、さらには一部地域における教室設備の不足が、公教育の格差を著しく広げている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000DC",
+  "name_in_database": "Option_Budget_Education_Increase",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "増額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000DC",
+  "name_in_database": "Option_Budget_Education_Increase",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "かつて高く評価されたこの国の公教育制度は、この十年で大きく後退した。新設校の不足、教員一人あたりの生徒数の多さ、教員給与の低さ、さらには一部地域における教室設備の不足が、公教育の格差を著しく広げている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000E3",
+  "name_in_database": "Option_Budget_Education_Maintain",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "据え置き"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000E3",
+  "name_in_database": "Option_Budget_Education_Maintain",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "かつて高く評価されたこの国の公教育制度は、この十年で大きく後退した。新設校の不足、教員一人あたりの生徒数の多さ、教員給与の低さ、さらには一部地域における教室設備の不足が、公教育の格差を著しく広げている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000A4",
+  "name_in_database": "Option_Budget_Healthcare_Decrease",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "減額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000A4",
+  "name_in_database": "Option_Budget_Healthcare_Decrease",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランドの医療制度と医療の質は、行政の非効率、需要の増大、そして都市部と地方の病院のあいだで広がる質の格差によって停滞している。妊産婦死亡や疫病の流行といった問題を抱え、平均寿命は大きく低下した。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000009C",
+  "name_in_database": "Option_Budget_Healthcare_Increase",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "増額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000009C",
+  "name_in_database": "Option_Budget_Healthcare_Increase",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランドの医療制度と医療の質は、行政の非効率、需要の増大、そして都市部と地方の病院のあいだで広がる質の格差によって停滞している。妊産婦死亡や疫病の流行といった問題を抱え、平均寿命は大きく低下した。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000A0",
+  "name_in_database": "Option_Budget_Healthcare_Maintain",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "据え置き"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000A0",
+  "name_in_database": "Option_Budget_Healthcare_Maintain",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランドの医療制度と医療の質は、行政の非効率、需要の増大、そして都市部と地方の病院のあいだで広がる質の格差によって停滞している。妊産婦死亡や疫病の流行といった問題を抱え、平均寿命は大きく低下した。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000109",
+  "name_in_database": "Option_Budget_Military_Decrease",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "減額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000109",
+  "name_in_database": "Option_Budget_Military_Decrease",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランド軍は、アルフォンソ政権が国防予算を大幅に削減するまで、国内で最も手厚く予算を配分された部門であった。北方でルンブルクが武力を誇示する動きを強め、超大国がこの地域で存在感を増しつつある今、ソードランド軍の抑止力はかつてなく重みを持つ。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000FB",
+  "name_in_database": "Option_Budget_Military_Increase",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "増額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000FB",
+  "name_in_database": "Option_Budget_Military_Increase",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランド軍は、アルフォンソ政権が国防予算を大幅に削減するまで、国内で最も手厚く予算を配分された部門であった。北方でルンブルクが武力を誇示する動きを強め、超大国がこの地域で存在感を増しつつある今、ソードランド軍の抑止力はかつてなく重みを持つ。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000102",
+  "name_in_database": "Option_Budget_Military_Maintain",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "据え置き"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000102",
+  "name_in_database": "Option_Budget_Military_Maintain",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランド軍は、アルフォンソ政権が国防予算を大幅に削減するまで、国内で最も手厚く予算を配分された部門であった。北方でルンブルクが武力を誇示する動きを強め、超大国がこの地域で存在感を増しつつある今、ソードランド軍の抑止力はかつてなく重みを持つ。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000CB",
+  "name_in_database": "Option_Budget_Security_Decrease",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "減額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000CB",
+  "name_in_database": "Option_Budget_Security_Decrease",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "各青年組織のあいだで近ごろ頂点に達した政治的緊張と、社会の諸階層にかかる経済的圧力が、司法と治安の制度が抱える問題を深めている。警察は増加する犯罪に追いつくための助けを必要としている。同時に、法廷の裁判官たちは膨れ上がる一方の未処理案件を抱え込んでいる。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000BD",
+  "name_in_database": "Option_Budget_Security_Increase",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "増額"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000BD",
+  "name_in_database": "Option_Budget_Security_Increase",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "各青年組織のあいだで近ごろ頂点に達した政治的緊張と、社会の諸階層にかかる経済的圧力が、司法と治安の制度が抱える問題を深めている。警察は増加する犯罪に追いつくための助けを必要としている。同時に、法廷の裁判官たちは膨れ上がる一方の未処理案件を抱え込んでいる。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000C4",
+  "name_in_database": "Option_Budget_Security_Maintain",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "据え置き"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000000C4",
+  "name_in_database": "Option_Budget_Security_Maintain",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "各青年組織のあいだで近ごろ頂点に達した政治的緊張と、社会の諸階層にかかる経済的圧力が、司法と治安の制度が抱える問題を深めている。警察は増加する犯罪に追いつくための助けを必要としている。同時に、法廷の裁判官たちは膨れ上がる一方の未処理案件を抱え込んでいる。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000664",
+  "name_in_database": "Option_CampaignPromise_DemocraticReforms",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "民主的改革"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000670",
+  "name_in_database": "Option_CampaignPromise_NationalValues",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国民的価値観を守る"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000763",
+  "name_in_database": "Option_CrownPrinceFocus_EnergyProduction",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "エネルギー生産"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000075D",
+  "name_in_database": "Option_CrownPrinceFocus_GoldExtractionAndTaxEfficiency",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "金の採掘と徴税効率"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000750",
+  "name_in_database": "Option_CrownPrinceFocus_InternalSecurity",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国内治安"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000757",
+  "name_in_database": "Option_CrownPrinceFocus_Military",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "軍事"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000769",
+  "name_in_database": "Option_CrownPrinceFocus_PublicOpinion",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "世論"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000702",
+  "name_in_database": "Option_DiversityOrNationalism_Diversity",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "多様性を尊ぶ"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006F6",
+  "name_in_database": "Option_DiversityOrNationalism_Nationalist",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "民族主義を支持する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006FC",
+  "name_in_database": "Option_DiversityOrNationalism_Neutral",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "中立を保つ"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006CA",
+  "name_in_database": "Option_DukeValenqiris",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "安逸な暮らし"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006C4",
+  "name_in_database": "Option_DukeValenqiris_PunishTraitors",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "裏切り者を罰する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006BE",
+  "name_in_database": "Option_DukeValenqiris_RebuildRegion",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "自らの地方を再建する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000068C",
+  "name_in_database": "Option_Education_Military",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "軍事"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000692",
+  "name_in_database": "Option_Education_RoyalCouncil",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "王室評議会"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000686",
+  "name_in_database": "Option_Education_University",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "大学"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000005F4",
+  "name_in_database": "Option_Extracurricular_HumanRightsGroup",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "人権団体"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000600",
+  "name_in_database": "Option_Extracurricular_PoliticalDebateGroup",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "政治討論会"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000005FA",
+  "name_in_database": "Option_Extracurricular_StudentCouncil",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "学生自治会"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000071E",
+  "name_in_database": "Option_FamilyBoatTrip_Accompany",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "家族に付き添う"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000718",
+  "name_in_database": "Option_FamilyBoatTrip_MeetLover",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "恋人に会う"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000712",
+  "name_in_database": "Option_FamilyBoatTrip_Work",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "代わりに仕事をする"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C737",
+  "name_in_database": "Option_Family_Impoverished",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "貧困層（デイル）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C743",
+  "name_in_database": "Option_Family_Middle",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "中間層（ホルソード）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C73D",
+  "name_in_database": "Option_Family_Wealthy",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "富裕層（ラハベン）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CE5",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_Airforce",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "リジア空軍"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CE5",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_Airforce",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "リジア王立空軍へ重点を移せば、制空権を握る足がかりを得られるかもしれない。高度な操縦士訓練を探り、爆撃機隊の拡充を検討することで、精密攻撃の能力を高め、爆撃作戦の行動範囲を広げられるだろう。［予算-2、航空攻撃の再使用待機-1、航空支援の再使用待機-1、空挺部隊+1］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CF3",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_Army",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "リジア陸軍"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CF3",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_Army",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "陸軍へ資源を振り向ければ、先進的な車両・火砲・歩兵装備によって地上作戦の幅が広がり、さらに山岳部隊を一個訓練できる。この方策は作戦上の潜在力を高め、陸上戦役により大きな柔軟性をもたらす。［予算-2、兵員+500、装備+500、山岳部隊+1］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CEC",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_Navy",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "リジア海軍"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CEC",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_Navy",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "艦砲射撃と水陸両用作戦に特化した先進的な軍艦を加えるべくリジア海軍へ投資すれば、海からの侵攻能力が大きく高まる。この戦略的拡充は海軍の存在感を押し上げ、専門の海兵部隊を一個加える。［予算-3、軍艦+1、潜水艦+1、海兵部隊+1］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CDE",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_None",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "なし"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100008E00002CDE",
+  "name_in_database": "Option_FocusPanel_MilitaryBranch_None",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "特定の軍種に重点を置かないという選択は、他の分野へ資源を回す余地を生む。この方針は財政上の柔軟性を高め、国家の優先課題を幅広く健全に差配することを可能にする。［予算+1］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C700000559",
+  "name_in_database": "Option_FormativeYearsAnton_EasyLife",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "易しい道［資源に余裕］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C70000055F",
+  "name_in_database": "Option_FormativeYearsAnton_HardLife",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "険しい道［資源が逼迫］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C700000553",
+  "name_in_database": "Option_FormativeYearsAnton_NormalLife",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "普通の道"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C700000542",
+  "name_in_database": "Option_FormativeYearsRomus_EasyLife",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "易しい道［資源に余裕］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C700000536",
+  "name_in_database": "Option_FormativeYearsRomus_HardLife",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "困難な道［資源が逼迫］"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C70000053C",
+  "name_in_database": "Option_FormativeYearsRomus_NormalLife",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "普通の道"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C70000035B",
+  "name_in_database": "Option_Kidnapping_Comply",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "従う"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C700000367",
+  "name_in_database": "Option_Kidnapping_Fight",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "抗う"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C700000361",
+  "name_in_database": "Option_Kidnapping_TryToRun",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "逃げようとする"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001B8",
+  "name_in_database": "Option_Nationalization_BergiaSteel_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全民間所有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001B8",
+  "name_in_database": "Option_Nationalization_BergiaSteel_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ベルギア製鉄はソードランド最大の製鉄会社である。主にベルギア地方で操業し、鉄鋼建設事業を手がけている。ウォルター・タスクが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001EC",
+  "name_in_database": "Option_Nationalization_BergiaSteel_FullState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全国有化"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001EC",
+  "name_in_database": "Option_Nationalization_BergiaSteel_FullState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ベルギア製鉄はソードランド最大の製鉄会社である。主にベルギア地方で操業し、鉄鋼建設事業を手がけている。ウォルター・タスクが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001F3",
+  "name_in_database": "Option_Nationalization_BergiaSteel_MajorityState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が過半数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001F3",
+  "name_in_database": "Option_Nationalization_BergiaSteel_MajorityState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ベルギア製鉄はソードランド最大の製鉄会社である。主にベルギア地方で操業し、鉄鋼建設事業を手がけている。ウォルター・タスクが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001E5",
+  "name_in_database": "Option_Nationalization_BergiaSteel_MinorityState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が少数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x01000067000001E5",
+  "name_in_database": "Option_Nationalization_BergiaSteel_MinorityState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ベルギア製鉄はソードランド最大の製鉄会社である。主にベルギア地方で操業し、鉄鋼建設事業を手がけている。ウォルター・タスクが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000208",
+  "name_in_database": "Option_Nationalization_HOS_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全民間所有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000208",
+  "name_in_database": "Option_Nationalization_HOS_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "HOSは数百億SRの規模を持つ複合企業である。ソードランド・トゥデイとソードランド放送協会を傘下に収め、報道の分野にも関わっている。マルセル・コロンティが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000216",
+  "name_in_database": "Option_Nationalization_HOS_FullState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全国有化"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000216",
+  "name_in_database": "Option_Nationalization_HOS_FullState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "HOSは数百億SRの規模を持つ複合企業である。ソードランド・トゥデイとソードランド放送協会を傘下に収め、報道の分野にも関わっている。マルセル・コロンティが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000021D",
+  "name_in_database": "Option_Nationalization_HOS_MajorityState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が過半数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000021D",
+  "name_in_database": "Option_Nationalization_HOS_MajorityState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "HOSは数百億SRの規模を持つ複合企業である。ソードランド・トゥデイとソードランド放送協会を傘下に収め、報道の分野にも関わっている。マルセル・コロンティが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000020F",
+  "name_in_database": "Option_Nationalization_HOS_MinorityState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が少数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000020F",
+  "name_in_database": "Option_Nationalization_HOS_MinorityState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "HOSは数百億SRの規模を持つ複合企業である。ソードランド・トゥデイとソードランド放送協会を傘下に収め、報道の分野にも関わっている。マルセル・コロンティが同社の株式の過半数を保有している。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000638",
+  "name_in_database": "Option_OppositionUSP_StayNeutral",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "中立を保つ"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000632",
+  "name_in_database": "Option_OppositionUSP_SupportAlphonso",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "アルフォンソを支持（反対派）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000062C",
+  "name_in_database": "Option_OppositionUSP_SupportSoll",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "ソルを支持（大統領）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000077A",
+  "name_in_database": "Option_PalesRelations_Hostile",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "再統一を主張する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000787",
+  "name_in_database": "Option_PalesRelations_Neutral",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "中立を保つ"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000780",
+  "name_in_database": "Option_PalesRelations_Peaceful",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "和解に応じる"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000015B",
+  "name_in_database": "Option_Privatization_Nedam_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全民営化"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000015B",
+  "name_in_database": "Option_Privatization_Nedam_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ネダム鉱業は東メルコパ全域で最大の国営鉱業会社である。地域の鉱物資源を探査・活用し、付加価値を生み出すことをおもな任務とする。同社が主として採掘するのは石炭・金・ダイヤモンドである。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000154",
+  "name_in_database": "Option_Privatization_Nedam_FullState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全国有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000154",
+  "name_in_database": "Option_Privatization_Nedam_FullState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ネダム鉱業は東メルコパ全域で最大の国営鉱業会社である。地域の鉱物資源を探査・活用し、付加価値を生み出すことをおもな任務とする。同社が主として採掘するのは石炭・金・ダイヤモンドである。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000162",
+  "name_in_database": "Option_Privatization_Nedam_MajorPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が少数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000162",
+  "name_in_database": "Option_Privatization_Nedam_MajorPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ネダム鉱業は東メルコパ全域で最大の国営鉱業会社である。地域の鉱物資源を探査・活用し、付加価値を生み出すことをおもな任務とする。同社が主として採掘するのは石炭・金・ダイヤモンドである。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000169",
+  "name_in_database": "Option_Privatization_Nedam_MinorPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が過半数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000169",
+  "name_in_database": "Option_Privatization_Nedam_MinorPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ネダム鉱業は東メルコパ全域で最大の国営鉱業会社である。地域の鉱物資源を探査・活用し、付加価値を生み出すことをおもな任務とする。同社が主として採掘するのは石炭・金・ダイヤモンドである。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000012D",
+  "name_in_database": "Option_Privatization_SSC_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全民営化"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000670000012D",
+  "name_in_database": "Option_Privatization_SSC_FullPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "SSCはソードランド最大の建設会社である国営企業である。企画・設計、事業開発、機材リース、商取引、施工を主要な事業部門としている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000129",
+  "name_in_database": "Option_Privatization_SSC_FullState",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "完全国有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000129",
+  "name_in_database": "Option_Privatization_SSC_FullState",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "SSCはソードランド最大の建設会社である国営企業である。企画・設計、事業開発、機材リース、商取引、施工を主要な事業部門としている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000131",
+  "name_in_database": "Option_Privatization_SSC_MajorPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が少数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000131",
+  "name_in_database": "Option_Privatization_SSC_MajorPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "SSCはソードランド最大の建設会社である国営企業である。企画・設計、事業開発、機材リース、商取引、施工を主要な事業部門としている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000135",
+  "name_in_database": "Option_Privatization_SSC_MinorPrivate",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国が過半数を保有"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006700000135",
+  "name_in_database": "Option_Privatization_SSC_MinorPrivate",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "SSCはソードランド最大の建設会社である国営企業である。企画・設計、事業開発、機材リース、商取引、施工を主要な事業部門としている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004FE",
+  "name_in_database": "Option_PromisesPanel_Focus_Defence",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "国防"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004FE",
+  "name_in_database": "Option_PromisesPanel_Focus_Defence",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランド軍は、アルフォンソ政権が国防予算を大幅に削減するまで、国内で最も手厚く予算を配分された部門であった。北方でルンブルクが武力を誇示する動きを強め、超大国がこの地域で存在感を増しつつある今、ソードランド軍の抑止力はかつてなく重みを持つ。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004F2",
+  "name_in_database": "Option_PromisesPanel_Focus_Education",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "教育"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004F2",
+  "name_in_database": "Option_PromisesPanel_Focus_Education",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "かつて高く評価されたこの国の公教育制度は、この十年で大きく後退した。新設校の不足、教員一人あたりの生徒数の多さ、教員給与の低さ、さらには一部地域における教室設備の不足が、公教育の格差を著しく広げている。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004EE",
+  "name_in_database": "Option_PromisesPanel_Focus_Health",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "保健"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004EE",
+  "name_in_database": "Option_PromisesPanel_Focus_Health",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "ソードランドの医療制度と医療の質は、行政の非効率、需要の増大、そして都市部と地方の病院のあいだで広がる質の格差によって停滞している。妊産婦死亡や疫病の流行といった問題を抱え、平均寿命は大きく低下した。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004F6",
+  "name_in_database": "Option_PromisesPanel_Focus_Law&Enforcement",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "司法・治安"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100005D000004F6",
+  "name_in_database": "Option_PromisesPanel_Focus_Law&Enforcement",
+  "path": "CarouselChoiceOptionProperties.Description",
+  "ja": "各青年組織のあいだで近ごろ頂点に達した政治的緊張と、社会の諸階層にかかる経済的圧力が、司法と治安の制度が抱える問題を深めている。警察は増加する犯罪に追いつくための助けを必要としている。同時に、法廷の裁判官たちは膨れ上がる一方の未処理案件を抱え込んでいる。"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006AE",
+  "name_in_database": "Option_ReclamationWarProtests_AgainstBloodshed",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "流血に反対する立場をとる"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006A2",
+  "name_in_database": "Option_ReclamationWarProtests_CrackDown",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "裏切り者を弾圧する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006A8",
+  "name_in_database": "Option_ReclamationWarProtests_StayNeutral",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "中立を保つ"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000796",
+  "name_in_database": "Option_RelationshipFather_Close",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "父と親しい関係"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000007A2",
+  "name_in_database": "Option_RelationshipFather_Fallout",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "父との不和"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C719",
+  "name_in_database": "Option_RelationshipToPabel_Friends",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "友人"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C70F",
+  "name_in_database": "Option_RelationshipToPabel_Ignore",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "関わらない"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C714",
+  "name_in_database": "Option_RelationshipToPabel_Superior",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "上官"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000073A",
+  "name_in_database": "Option_Religious",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "信仰に安らぎを見いだす"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000734",
+  "name_in_database": "Option_Religious_Not",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "信仰を持たない"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006E6",
+  "name_in_database": "Option_RoyalFamily_DutiesOverLove",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "愛より務めを"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006E0",
+  "name_in_database": "Option_RoyalFamily_FamilyMan",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "家庭を大切にする"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C5000006DA",
+  "name_in_database": "Option_RoyalFamily_WorkAndAffairs",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "仕事漬けと不貞"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C700",
+  "name_in_database": "Option_SummersInRizia_Brenas",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "ブレナス"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C6B9",
+  "name_in_database": "Option_SummersInRizia_PorteDrazon",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "ポルテ・ドラゾン"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C6FB",
+  "name_in_database": "Option_SummersInRizia_Zille",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "ジル"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000654",
+  "name_in_database": "Option_TakePower_AdviseStepDown",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "アルフォンソに退陣を促す"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000648",
+  "name_in_database": "Option_TakePower_BlameAlphonsoPublicly",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "テレビで公然とアルフォンソを非難する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000064E",
+  "name_in_database": "Option_TakePower_BribeAlphonsosCircle",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "アルフォンソの側近を買収する"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C750",
+  "name_in_database": "Option_University_Economics",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "経済学（ラハベン商科大学）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C755",
+  "name_in_database": "Option_University_History",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "歴史学（デイル文化大学）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x0100006A0001C75B",
+  "name_in_database": "Option_University_Law",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "法学（ホルソード国立大学）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000610",
+  "name_in_database": "Option_YouthOrganization_Neutral",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "政治的に中立"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C50000061C",
+  "name_in_database": "Option_YouthOrganization_RedYouth",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "赤旗青年団（社会主義）"
+ },
+ {
+  "type": "CarouselChoiceOptionData",
+  "item_id": "0x010000C500000616",
+  "name_in_database": "Option_YouthOrganization_YoungSords",
+  "path": "CarouselChoiceOptionProperties.Title",
+  "ja": "ソード青年団（民族主義）"
+ }
+]

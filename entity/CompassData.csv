@@ -1,0 +1,3 @@
+﻿type,item_id,name_in_database,path,ja
+CompassData,0x010000650000CA4C,Rizia_Compass,CompassProperties.Title,Rizia_Compass_Title
+CompassData,0x0100006A00006A22,Sordland_Compass,CompassProperties.Title,Sordland_Compass_Title

@@ -1,0 +1,100 @@
+[
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A00000E61",
+  "name_in_database": "WarFragment_1_1",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "作戦: 黄金の盾 ― 第一段階"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A00000E61",
+  "name_in_database": "WarFragment_1_1",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014AC",
+  "name_in_database": "WarFragment_1_2",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "作戦: 黄金の盾 ― 第二段階"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014AC",
+  "name_in_database": "WarFragment_1_2",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014B5",
+  "name_in_database": "WarFragment_1_3",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "作戦: 黄金の盾 ― 第三段階"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014B5",
+  "name_in_database": "WarFragment_1_3",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014BE",
+  "name_in_database": "WarFragment_2_1",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "作戦: 完全なる静謐 ― 第一段階"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014BE",
+  "name_in_database": "WarFragment_2_1",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014C7",
+  "name_in_database": "WarFragment_2_2",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "作戦: 完全なる静謐 ― 第二段階"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014C7",
+  "name_in_database": "WarFragment_2_2",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014D0",
+  "name_in_database": "WarFragment_2_3",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "作戦: 完全なる静謐 ― 第三段階"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A000014D0",
+  "name_in_database": "WarFragment_2_3",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A0000A550",
+  "name_in_database": "WarFragment_Tutorial",
+  "path": "WarFragmentProperties.HubWarFragmentTitle",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "WarFragmentData",
+  "item_id": "0x0100009A0000A550",
+  "name_in_database": "WarFragment_Tutorial",
+  "path": "WarFragmentProperties.HubWarFragmentSubtitle",
+  "ja": "作戦チュートリアル"
+ }
+]

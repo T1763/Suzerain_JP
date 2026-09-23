@@ -1,0 +1,191 @@
+[
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008EEB",
+  "name_in_database": "CodexTopic_Characters_Assembly",
+  "path": "CodexTopicProperties.Title",
+  "ja": "議会"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008EEF",
+  "name_in_database": "CodexTopic_Characters_Business",
+  "path": "CodexTopicProperties.Title",
+  "ja": "経済界"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008EF3",
+  "name_in_database": "CodexTopic_Characters_Cabinet",
+  "path": "CodexTopicProperties.Title",
+  "ja": "内閣"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00009540",
+  "name_in_database": "CodexTopic_Characters_Council",
+  "path": "CodexTopicProperties.Title",
+  "ja": "評議会"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F03",
+  "name_in_database": "CodexTopic_Characters_Family",
+  "path": "CodexTopicProperties.Title",
+  "ja": "家族"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F07",
+  "name_in_database": "CodexTopic_Characters_ForeignLeaders",
+  "path": "CodexTopicProperties.Title",
+  "ja": "外国首脳"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008EFF",
+  "name_in_database": "CodexTopic_Characters_FormerPresidents",
+  "path": "CodexTopicProperties.Title",
+  "ja": "歴代大統領"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F0B",
+  "name_in_database": "CodexTopic_Characters_Others",
+  "path": "CodexTopicProperties.Title",
+  "ja": "その他"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F0F",
+  "name_in_database": "CodexTopic_Characters_PartyLeaders",
+  "path": "CodexTopicProperties.Title",
+  "ja": "党首"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008EF7",
+  "name_in_database": "CodexTopic_Characters_StateFigures",
+  "path": "CodexTopicProperties.Title",
+  "ja": "政府要人"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008EFB",
+  "name_in_database": "CodexTopic_Characters_SupremeCourt",
+  "path": "CodexTopicProperties.Title",
+  "ja": "最高裁判所"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F13",
+  "name_in_database": "CodexTopic_History_Ideologies",
+  "path": "CodexTopicProperties.Title",
+  "ja": "思想"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F17",
+  "name_in_database": "CodexTopic_History_ImportantEvents",
+  "path": "CodexTopicProperties.Title",
+  "ja": "重要な出来事"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x010000650000BB98",
+  "name_in_database": "CodexTopic_History_MiscHistory",
+  "path": "CodexTopicProperties.Title",
+  "ja": "その他の歴史"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F1B",
+  "name_in_database": "CodexTopic_History_Religion",
+  "path": "CodexTopicProperties.Title",
+  "ja": "宗教"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F1F",
+  "name_in_database": "CodexTopic_History_Timeline",
+  "path": "CodexTopicProperties.Title",
+  "ja": "年表"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F23",
+  "name_in_database": "CodexTopic_Locations_Cities",
+  "path": "CodexTopicProperties.Title",
+  "ja": "都市"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F27",
+  "name_in_database": "CodexTopic_Locations_Countries",
+  "path": "CodexTopicProperties.Title",
+  "ja": "国家"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F2B",
+  "name_in_database": "CodexTopic_Locations_Landmarks",
+  "path": "CodexTopicProperties.Title",
+  "ja": "名所"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F2F",
+  "name_in_database": "CodexTopic_Locations_Regions",
+  "path": "CodexTopicProperties.Title",
+  "ja": "地方"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F33",
+  "name_in_database": "CodexTopic_Organisations_Corporations",
+  "path": "CodexTopicProperties.Title",
+  "ja": "企業"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F37",
+  "name_in_database": "CodexTopic_Organisations_Factions",
+  "path": "CodexTopicProperties.Title",
+  "ja": "派閥"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F3B",
+  "name_in_database": "CodexTopic_Organisations_Governmental",
+  "path": "CodexTopicProperties.Title",
+  "ja": "政府機関"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F3F",
+  "name_in_database": "CodexTopic_Organisations_InterGovernmental",
+  "path": "CodexTopicProperties.Title",
+  "ja": "国際機関"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F43",
+  "name_in_database": "CodexTopic_Organisations_MiscOrganisations",
+  "path": "CodexTopicProperties.Title",
+  "ja": "その他の組織"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F47",
+  "name_in_database": "CodexTopic_Organisations_Political",
+  "path": "CodexTopicProperties.Title",
+  "ja": "政治"
+ },
+ {
+  "type": "CodexTopicData",
+  "item_id": "0x0100006A00008F4B",
+  "name_in_database": "CodexTopic_Organisations_PoliticalParties",
+  "path": "CodexTopicProperties.Title",
+  "ja": "政党"
+ }
+]

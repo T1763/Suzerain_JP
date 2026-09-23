@@ -1,0 +1,730 @@
+[
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA2",
+  "name_in_database": "Turn01_Bill_CampaignFinance",
+  "path": "BillProperties.Title",
+  "ja": "選挙運動資金法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA2",
+  "name_in_database": "Turn01_Bill_CampaignFinance",
+  "path": "BillProperties.HubTitle",
+  "ja": "選挙資金法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA2",
+  "name_in_database": "Turn01_Bill_CampaignFinance",
+  "path": "BillProperties.Description",
+  "ja": "本法案第1節は、政党への公的資金配分の方法に重大な変更を定める。新たな措置は、総選挙で獲得した得票数に基づく従来の制度を、議会において政党が確保した議席の比率に依拠する制度へと置き換えるものである。\n\n第2節は、政党への年間資金配分を議員1人あたり50万レンと定める。この転換により、公的資金による支援は、立法府における各党の代表としての影響力により近く対応するようになる。\n\n第3節は、これらの改正がもたらす帰結であり、統一ソードランド党の選挙予算を大幅に増加させ、議会に議席を持つ他党にも小幅な増額をもたらすことになる。この資金配分の再編は、議会における各党の勢力をより比例的に反映させるものである。\n\n第4節は、この再配分の重要な帰結を明らかにする。得票率10パーセントの足切りに達しない政党は、公的資金を事実上打ち切られることになる。この措置により、公的資源は議会で相当の議席を持つ政党に集中する。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA2",
+  "name_in_database": "Turn01_Bill_CampaignFinance",
+  "path": "BillProperties.HubDescription",
+  "ja": "CFB法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012C3",
+  "name_in_database": "Turn02_Bill_TourismCulture",
+  "path": "BillProperties.Title",
+  "ja": "観光・文化保護法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012C3",
+  "name_in_database": "Turn02_Bill_TourismCulture",
+  "path": "BillProperties.HubTitle",
+  "ja": "観光・文化保護法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012C3",
+  "name_in_database": "Turn02_Bill_TourismCulture",
+  "path": "BillProperties.Description",
+  "ja": "ソードランド観光・文化保護法は、ボリン、リベリー、ラハベン、アンリカ、ベンフィの文化的魅力と観光としての可能性を高めることを目的とする。大国民議会は、ソードランドを世界的な観光地として確立し、不況の影響を和らげるための総力を挙げた取り組みを呼びかける。\n\n第1節は、これらの都市の文化的地位の向上に重点を置き、郷土の料理、酒、音楽、舞踊、建築、史跡を他にない強みと位置づける。この文化観光の育成は、経済を活気づける起爆剤とみなされる。\n\n第2節は、ラハベンとアンリカの主要な史跡の修復と保存を義務づける。あわせて、訪問者の体験を豊かにし、地域社会に安定した収入をもたらすため、ベンフィの観光基盤の全面的な改修を提案する。\n\n第2節第1項はさらに、観光成長の牽引役となりうるものとして、リベリーのアンテラ洞窟とボリンのぶどう園の保全と整備に取り組むことを定める。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012C3",
+  "name_in_database": "Turn02_Bill_TourismCulture",
+  "path": "BillProperties.HubDescription",
+  "ja": "TCPA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA6",
+  "name_in_database": "Turn03_Bill_GreenGruniDev",
+  "path": "BillProperties.Title",
+  "ja": "グルニ再生・生態経済育成"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA6",
+  "name_in_database": "Turn03_Bill_GreenGruniDev",
+  "path": "BillProperties.HubTitle",
+  "ja": "グルニ再生・生態経済育成法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA6",
+  "name_in_database": "Turn03_Bill_GreenGruniDev",
+  "path": "BillProperties.Description",
+  "ja": "G.R.E.E.N. は、グルニにおける産業のあり方をより持続可能なものへ導くことを目的として、議会より提案された。\n\n本法第1節は、とりわけグルニ地方において、産業公害と廃棄物処理に対するより厳しい規制を課すものである。新基準に従わない事業者は多額の罰金を科されうるものとし、その収入は環境回復事業へ再び投じられる。\n\n第2節は、一定期間にわたり環境負荷の大幅な低減を示した事業者に対し、税の軽減を与えることを提案する。環境に配慮した事業活動のために、小規模な投資基金が設けられる。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEA6",
+  "name_in_database": "Turn03_Bill_GreenGruniDev",
+  "path": "BillProperties.HubDescription",
+  "ja": "GREEN法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500001299",
+  "name_in_database": "Turn04_Bill_WorkersRights",
+  "path": "BillProperties.Title",
+  "ja": "労働者権利法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500001299",
+  "name_in_database": "Turn04_Bill_WorkersRights",
+  "path": "BillProperties.HubTitle",
+  "ja": "労働者権利法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500001299",
+  "name_in_database": "Turn04_Bill_WorkersRights",
+  "path": "BillProperties.Description",
+  "ja": "本法案第1節は、時給2.5ソードランド・レンの最低賃金を定めることで、公正な報酬の土台を築く。これは公正かつ公平な賃金の基準として機能し、ソードランドのいかなる労働者もこれを下回る報酬を受けないことを保障する。\n\n第2節は過重労働の問題に対処し、週60時間を労働時間の上限と定める。この規定は労働者の搾取を防ぎ、ソードランドの労働力の健康を守ることを目的とする。\n\n第3節は、時間外賃金の倍額支給という考え方を導入する。週40時間を超えて行われた労働はすべて、通常の時給の2倍で支払われるものと定める。これは公正な労働慣行を促し、働き手がその延長した労力に見合う報酬を確実に受け取れるようにする。\n\n第4節は、労働者の安全と人間らしい労働条件に重点を置く。使用者は、労働災害から労働者を守り、尊厳ある安全な職場環境を確保するために必要なあらゆる措置を講じなければならないと義務づける。これによりソードランド各地の職場に、敬意と配慮の文化が広がる。\n\n第5節は、これらの保護を出稼ぎ労働者や在留資格のない労働者にも及ぼし、ソードランド市民と同等の権利を与える。この規則に従わない使用者は政府から多額の罰金を科され、違反を重ねた場合は法的措置を招く。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500001299",
+  "name_in_database": "Turn04_Bill_WorkersRights",
+  "path": "BillProperties.HubDescription",
+  "ja": "WRA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAA",
+  "name_in_database": "Turn05_Bill_ReligiousHarmony",
+  "path": "BillProperties.Title",
+  "ja": "宗教調和法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAA",
+  "name_in_database": "Turn05_Bill_ReligiousHarmony",
+  "path": "BillProperties.HubTitle",
+  "ja": "宗教調和法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAA",
+  "name_in_database": "Turn05_Bill_ReligiousHarmony",
+  "path": "BillProperties.Description",
+  "ja": "宗教の調和と統一を進めるべく、大国民議会は宗教調和法案（R.H.B.）を提出し、ソードランド全土の宗務に関する規定を定める。\n\nR.H.B. 第1節は、デイル聖域における降臨祭の式典で行われるすべての説教を、今後ソードランド語で行うことを義務づける。この措置は、信徒の間に包容と共通の理解を育むことを目的とする。\n\nR.H.B. 第2節は、ソードランド各地のその他の聖所における説教の言語を規制する。ソードランド大司祭の明示的な承認を得た場合を除き、説教にブルディア語を用いることを禁ずる。この措置は、国内の宗教活動に一貫性と統一をもたらす。\n\nR.H.B. 第3節は、国家公認の地位を求める聖職者に新たな規定を定める。給与と年金の資格を得るには、すべての志願者がソードランド人の血統を有することを要件とする。この基準により、国の宗教指導者はソードランドの文化的遺産とより深く結びつくことになる。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAA",
+  "name_in_database": "Turn05_Bill_ReligiousHarmony",
+  "path": "BillProperties.HubDescription",
+  "ja": "RHB法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500002A2B",
+  "name_in_database": "Turn06_Bill_CentralBankReinforcement",
+  "path": "BillProperties.Title",
+  "ja": "中央銀行強化法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500002A2B",
+  "name_in_database": "Turn06_Bill_CentralBankReinforcement",
+  "path": "BillProperties.HubTitle",
+  "ja": "中央銀行強化法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500002A2B",
+  "name_in_database": "Turn06_Bill_CentralBankReinforcement",
+  "path": "BillProperties.Description",
+  "ja": "エディット・アグノクと大国民議会が主導する中央銀行強化法は、ソードランド通貨の強さと安定を高め、経済全体を下支えすることを意図する。大国民議会は以下の措置を提唱する。\n\n第1節は、外貨準備の積み増しを義務づける。外貨、とりわけソードランドの主要な貿易相手国の通貨を購入することで、中央銀行は自国通貨の価値をより強く制御できるようになる。\n\n第2節は、慎重な財政政策の採用を定める。国債を減らし財政赤字を抑えることで、我が国はより安定した経済主体として自らを示し、外国投資を呼び込み、信用格付けを高めることができる。それは翻って、必要な場合により低い金利で借り入れることを可能にする。\n\n第3節は、輸出の見込みが大きい産業への法的・情報的支援の拡充を提案する。ゲルソードで芽生えつつある電子産業、ボリンのワイン生産、ラハベンの医薬品製造などがこれにあたる。輸出が増えれば国際市場における自国通貨の需要が高まり、その価値は強まる。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100006500002A2B",
+  "name_in_database": "Turn06_Bill_CentralBankReinforcement",
+  "path": "BillProperties.HubDescription",
+  "ja": "CBR法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012B7",
+  "name_in_database": "Turn06_Bill_EnergyInflation",
+  "path": "BillProperties.Title",
+  "ja": "エネルギーインフレ抑制法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012B7",
+  "name_in_database": "Turn06_Bill_EnergyInflation",
+  "path": "BillProperties.HubTitle",
+  "ja": "エネルギーインフレ抑制法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012B7",
+  "name_in_database": "Turn06_Bill_EnergyInflation",
+  "path": "BillProperties.Description",
+  "ja": "エネルギーインフレ抑制法は、外国勢力が主要エネルギー企業を操作したことによる近時のエネルギー価格の高騰に対処することを目的とする。大国民議会は以下の対抗措置を提案する。\n\n第1節は、ソードランド市民のエネルギー費用が極端に跳ね上がることを防ぐため、ガス価格に一時的な上限を設ける。この措置は、エネルギー市場に過度な衝撃を与えることなく、消費者に即座の救済をもたらす。\n\n第2節は、安定した妥当な価格のエネルギー供給を得るため、エネルギー資源に富む国々との二国間協定の交渉を求める。この方策により、ソードランドは価格操作の手口から守られ、より安定したエネルギー市場が確保される。\n\n第3節は、国内のエネルギー生産能力の戦略的な拡張と近代化を定める。自国の石炭・天然ガス施設に投資することで、外国のエネルギー供給への依存を減らし、外部からの価格衝撃から経済を守ることができる。この取り組みはまた、雇用を生み、国内経済の成長を促す。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x01000065000012B7",
+  "name_in_database": "Turn06_Bill_EnergyInflation",
+  "path": "BillProperties.HubDescription",
+  "ja": "EIRA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAE",
+  "name_in_database": "Turn07_Bill_LanguageBill",
+  "path": "BillProperties.Title",
+  "ja": "教育言語統一法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAE",
+  "name_in_database": "Turn07_Bill_LanguageBill",
+  "path": "BillProperties.HubTitle",
+  "ja": "教育言語統一法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAE",
+  "name_in_database": "Turn07_Bill_LanguageBill",
+  "path": "BillProperties.Description",
+  "ja": "大国民議会は、国民の統一を強め、ソードランド全土で一貫した包括的な学びを進めるため、教育言語統一法（U.E.L.A.）を提出する。\n\nU.E.L.A. 第1節は、外国語教育の場合を除き、ソードランド国内のすべての教育機関が国の公用語で教育を行うことを義務づける。ソードランド語以外の言語で課程を提供するには、教育省の明示的な承認を得なければならない。これに従わないと認められた大学、専門学校、その他の教育機関は、必要な承認を申請して取得するまで、一時的に運営を停止される。\n\nU.E.L.A. 第2節は、本法の執行手続を定める。これらの指針に違反したと認められた学校は処分を受けうるものとし、その内容には助成の削減または打ち切りが含まれる。重大な場合、または違反を重ねた場合には、全面的な閉鎖が強制されうる。\n\nこの執行の仕組みは統一言語政策を確かなものとし、国全体で一体となった教育を保障する。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEAE",
+  "name_in_database": "Turn07_Bill_LanguageBill",
+  "path": "BillProperties.HubDescription",
+  "ja": "UELA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB2",
+  "name_in_database": "Turn08_Bill_DisabilityBenefit",
+  "path": "BillProperties.Title",
+  "ja": "平等能力法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB2",
+  "name_in_database": "Turn08_Bill_DisabilityBenefit",
+  "path": "BillProperties.HubTitle",
+  "ja": "平等能力法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB2",
+  "name_in_database": "Turn08_Bill_DisabilityBenefit",
+  "path": "BillProperties.Description",
+  "ja": "社会保障をすべての市民へ広げる必要を認め、大国民議会は平等能力法案（E.A.B.）を可決した。\n\nE.A.B. 第1節は、1933年の退役軍人および国家公務員を対象とする障害補償給付制度の改正を提案する。この改正は第3項を拡張し、国家に雇用されていないすべての市民に適用される所得補償給付を含めるものである。\n\n新たに拡張されたこの制度の下では、重い病を得た、あるいは障害を負って働く能力を失った被用者は、国から安定した収入を支給される。この収入は月給の50パーセントと定められ、必要とされるときに一定の生活の安定を保障する。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB2",
+  "name_in_database": "Turn08_Bill_DisabilityBenefit",
+  "path": "BillProperties.HubDescription",
+  "ja": "EABA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBA",
+  "name_in_database": "Turn08_Bill_HarsherSecurity",
+  "path": "BillProperties.Title",
+  "ja": "治安法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBA",
+  "name_in_database": "Turn08_Bill_HarsherSecurity",
+  "path": "BillProperties.HubTitle",
+  "ja": "治安法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBA",
+  "name_in_database": "Turn08_Bill_HarsherSecurity",
+  "path": "BillProperties.Description",
+  "ja": "続く社会不安により治安の必要が高まったことを受け、大国民議会は公共の安全を守る措置を固めるべく治安法（S.A.）を提出する。\n\nS.A. 第1節は、法と秩序を維持するために必要と認めた場合、実力を行使する裁量を治安部隊に与える。この規定は、公共の安全が脅かされる状況で迅速かつ断固たる対応を可能にするためのものである。\n\nS.A. 第2節は、令状を要さずに嫌疑に基づく逮捕と押収を行うことを認める。この措置は、潜在的な脅威に対する治安当局の対応を速め、全体の安全を高めることを狙う。\n\nS.A. 第3節は、国家の安全を保ち市民一般を守るために不可欠と認められる場合、治安部隊が通常の法的限界を超えて権限を行使することを認める。この条項は、高まる不安のなかで国家の安全を守り公共の安全を維持するという決意を強めるものである。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBA",
+  "name_in_database": "Turn08_Bill_HarsherSecurity",
+  "path": "BillProperties.HubDescription",
+  "ja": "SA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EE8",
+  "name_in_database": "Turn08_Bill_SpecialZone_Autonomy",
+  "path": "BillProperties.Title",
+  "ja": "ベルギア自治・地方統治法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EE8",
+  "name_in_database": "Turn08_Bill_SpecialZone_Autonomy",
+  "path": "BillProperties.HubTitle",
+  "ja": "ベルギア自治・地方統治法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EE8",
+  "name_in_database": "Turn08_Bill_SpecialZone_Autonomy",
+  "path": "BillProperties.Description",
+  "ja": "ベルギア自治・地方統治法、通称 BALGA は、ベルギアにおける自治統治の枠組みを定め、地方の自治と地元代表の強化を進めるものである。大国民議会は以下の措置を可決する。\n\n第1節は、地方知事の公選を認める。この措置により、ベルギアの人々は地域の事柄について直接の代表と決定権を持つことになる。\n\n第2節は、現行の特別区法を、地域の利益を尊重し促す民主的な制度へ置き換えることを求める。この措置はベルギア地方議会の設置によって地元代表の原則を確かなものとし、同地方に然るべき自治を与える。\n\n第3節は、地方自治と民主的代表の象徴として『ベルギア半自治地方』を設けることを明記し、地域に根ざした統治の新たな時代を開く。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EE8",
+  "name_in_database": "Turn08_Bill_SpecialZone_Autonomy",
+  "path": "BillProperties.HubDescription",
+  "ja": "BALGA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EDD",
+  "name_in_database": "Turn08_Bill_SpecialZone_Centralization",
+  "path": "BillProperties.Title",
+  "ja": "ベルギア標準化・統合措置"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EDD",
+  "name_in_database": "Turn08_Bill_SpecialZone_Centralization",
+  "path": "BillProperties.HubTitle",
+  "ja": "ベルギア標準化・統合措置"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EDD",
+  "name_in_database": "Turn08_Bill_SpecialZone_Centralization",
+  "path": "BillProperties.Description",
+  "ja": "ベルギア標準化・統合措置、通称 BSUM は、ベルギアを国の統治へ完全に組み入れる道筋を示し、統治の一様さと国民的統一の意識の強化を掲げるものである。大国民議会は以下の手順を可決する。\n\n第1節は、知事職の廃止を支持し、各都市における市長選挙への移行を定める。この変更はベルギアの地方統治を国内の他地域とそろえ、統一と国家統合の意識を育む。\n\n第2節は、特別区の全面的な取り消し、知事職の廃止、地元治安部隊の解散を求める。これらの措置により、ベルギアはついてソードランドの対等な一部となることができる。\n\n第3節は、現行の半独立の治安機構を解体し、国の標準的な法と政策をベルギア全域で施行することを進める。同地方の治安は今後、内務省の完全な統制下に置かれ、責任の所在を欠いた暴力は抑えられる。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100007400002EDD",
+  "name_in_database": "Turn08_Bill_SpecialZone_Centralization",
+  "path": "BillProperties.HubDescription",
+  "ja": "BSUM法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB6",
+  "name_in_database": "Turn08_Bill_TobaccoTax",
+  "path": "BillProperties.Title",
+  "ja": "減煙法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB6",
+  "name_in_database": "Turn08_Bill_TobaccoTax",
+  "path": "BillProperties.HubTitle",
+  "ja": "減煙法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB6",
+  "name_in_database": "Turn08_Bill_TobaccoTax",
+  "path": "BillProperties.Description",
+  "ja": "議会は、税収を増やし、民衆の過度な喫煙を減らすため、1944年税法案の改正を可決する。\n\nすべてのたばこ包装に10パーセントの税を課していた44年税法案第1節は、国内で販売されるすべてのたばこ製品について30パーセントへ引き上げられる。\n\n第2節は、製品が他国への輸出に向けられる場合に全額免税とすることで、国内産業を保護する。<b>[政府予算 +1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEB6",
+  "name_in_database": "Turn08_Bill_TobaccoTax",
+  "path": "BillProperties.HubDescription",
+  "ja": "LSBA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED6",
+  "name_in_database": "Turn09_Bill_AlcoholTax",
+  "path": "BillProperties.Title",
+  "ja": "酒税法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED6",
+  "name_in_database": "Turn09_Bill_AlcoholTax",
+  "path": "BillProperties.HubTitle",
+  "ja": "酒税法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED6",
+  "name_in_database": "Turn09_Bill_AlcoholTax",
+  "path": "BillProperties.Description",
+  "ja": "大国民議会は、過度な飲酒を抑え税収を高める二重の措置として、酒税法（A.T.A.）を提出する。\n\nA.T.A. 第1節は、国内で販売されるすべての酒類に20パーセントの税を課すことを義務づける。この措置は、酒類の価格を上げることで過度な飲酒への歯止めとなるだけでなく、政府収入の安定した財源をもたらす。\n\nA.T.A. 第2節は、輸出に向けられる国産酒類を前節の課税から除外することで、国内産業を後押しする。この規定は、国内の飲酒量を減らすという狙いを保ちながら、国内生産者の国際市場での競争力を高めようとするものである。\n\nA.T.A. 第3節は、酒類関連品目に現在なんら貿易規制を課していない国から輸入される外国産酒類に、25パーセントの輸入税を課す。この政策は国内生産者の条件を対等にし、税収全体を増やすことを目的とする。<b>[政府予算 +1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED6",
+  "name_in_database": "Turn09_Bill_AlcoholTax",
+  "path": "BillProperties.HubDescription",
+  "ja": "ATA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC6",
+  "name_in_database": "Turn09_Bill_BanProstitution",
+  "path": "BillProperties.Title",
+  "ja": "人間の尊厳法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC6",
+  "name_in_database": "Turn09_Bill_BanProstitution",
+  "path": "BillProperties.HubTitle",
+  "ja": "人間の尊厳法案"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC6",
+  "name_in_database": "Turn09_Bill_BanProstitution",
+  "path": "BillProperties.Description",
+  "ja": "人間の尊厳法案（H.D.B.）は、1923年法律行為法の意図せぬ帰結に対処するため、議会に提出された。\n\nH.D.B. 第1節は、1923年法第3節を改める。同節はこれまで、未登録の事業者やその他の主体（個人を含む）が関わる取引について、所定の書類を金融当局に提出すれば適法とすることを認めていた。H.D.B. は、それらの取引が公序良俗に反する行為に関わる場合、その適法性を明確に無効とする。\n\n第2節は、1923年法が意図せず生んだ抜け穴に対処する。その抜け穴は、売春が規制されないまま続くことを許してきた。H.D.B. の本節は、登録された主体の内であるか未登録の主体の内であるかを問わず、売春を違法な行為であると明確に宣言し、社会の品位と道徳の水準を守るという我々の決意を強めるものである。\n\n第3節は、本法案の規定に違反した場合の罰則を定める。売春を処罰の対象となる違法行為と位置づけ、行為の性質と頻度に応じて、罰金、拘禁、またはその双方を科す。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC6",
+  "name_in_database": "Turn09_Bill_BanProstitution",
+  "path": "BillProperties.HubDescription",
+  "ja": "HDBA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED2",
+  "name_in_database": "Turn09_Bill_BludishCommission",
+  "path": "BillProperties.Title",
+  "ja": "少数者権利法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED2",
+  "name_in_database": "Turn09_Bill_BludishCommission",
+  "path": "BillProperties.HubTitle",
+  "ja": "少数者権利法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED2",
+  "name_in_database": "Turn09_Bill_BludishCommission",
+  "path": "BillProperties.Description",
+  "ja": "大国民議会は、包容と平等な権利が極めて重要であることを認め、ソードランドに暮らすすべての少数者の権利を守り擁護するため、少数者権利法（M.R.A.）を提出する。\n\nM.R.A. 第1節は、少数者権利委員会の設置に着手する。この機関は、ソードランドのすべての少数者集団の利益と権利を擁護し、公正な代表を確保し、あらゆる形の差別や偏見から守る任を負う。\n\nM.R.A. 第2節は、ブルディア人共同体の政治的代表に対処する。ブルディア自由党および他のブルディア系政治団体に対する現行の禁止を解く。この規定により、ブルディア人共同体は他のすべての共同体と同じく、政治的に結社しソードランドの民主的な営みに加わる自由を得る。\n\nM.R.A. 第3節は、過去の分離主義活動との和解への道筋を示す。分離主義的な行為により収監されていたブルディア人の囚人に恩赦を与える。赦しと統合に向けたこの一歩は、前へ進み、ソードランドのすべての市民の間に和合を育むことの大切さを認めるものである。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CED2",
+  "name_in_database": "Turn09_Bill_BludishCommission",
+  "path": "BillProperties.HubDescription",
+  "ja": "MNA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECA",
+  "name_in_database": "Turn09_Bill_ChildBenefit",
+  "path": "BillProperties.Title",
+  "ja": "未来の子ども法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECA",
+  "name_in_database": "Turn09_Bill_ChildBenefit",
+  "path": "BillProperties.HubTitle",
+  "ja": "未来の子ども法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECA",
+  "name_in_database": "Turn09_Bill_ChildBenefit",
+  "path": "BillProperties.Description",
+  "ja": "社会の進歩と向上を進める取り組みの延長として、議会は未来の子ども法（C.F.A.）を提出する。本法は、子どもの福祉にとりわけ目を向けながら、困窮する家庭に実のある支援を届けることに重点を置く。\n\nC.F.A. 第1節は、中所得層にも高所得層にも属さない家庭への直接的な資金支援の仕組みを定める。国はこれらの家庭の子ども1人につき定額を支給し、切実に必要とされる経済的な助けを与え、家計の事情によって子どもの福祉が損なわれないようにする。\n\nC.F.A. 第2節は、失業家庭の子どもを対象とする国の追加支援を開く。子ども一人ひとりの教育費と、必要が生じた場合の特別な医療費を賄う。この先を見越した取り組みは、最も弱い立場にある人々のための安全網を築き、家庭の就労状況にかかわらずすべての子どもが教育と医療を受けられるようにすることを目的とする。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECA",
+  "name_in_database": "Turn09_Bill_ChildBenefit",
+  "path": "BillProperties.HubDescription",
+  "ja": "CFA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDE",
+  "name_in_database": "Turn09_Bill_FreeTransportation",
+  "path": "BillProperties.Title",
+  "ja": "1957年市民移動法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDE",
+  "name_in_database": "Turn09_Bill_FreeTransportation",
+  "path": "BillProperties.HubTitle",
+  "ja": "1957年市民移動法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDE",
+  "name_in_database": "Turn09_Bill_FreeTransportation",
+  "path": "BillProperties.Description",
+  "ja": "大国民議会は、移動の自由を広げ経済的な力を高める必要を認め、1957年市民移動法（57年 C.M.A.）を提出する。本法は、地方間の商業を活気づけ、低所得層の負担を和らげ、ソードランド全土のつながりをより強めることを目的とする。\n\n57年 C.M.A. 第1節は、商業航空機のみを唯一の例外として、ソードランド国内のあらゆる形態の公共交通に助成するための国費を充てる。この広く及ぶ措置は、バス、路面電車、鉄道、フェリーを含む多様な公共サービスに適用される。本法により、すべてのソードランド市民がこれらのサービスを無償で利用できるようになり、移動の自由が広がり、社会の包容が高まり、公共交通に大きく頼る人々の経済的な負担が軽くなる。\n\n57年 C.M.A. 第2節は、豪華な一等の交通手段を対象外と定める。その利用層と高額な費用に鑑み、これらは本法の助成の傘には入らない。この除外により国の資源は賢明に用いられ、贅沢な体験を助成するのではなく、より広く社会に利益をもたらすことに重点が置かれる。<b>[政府予算 -3]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDE",
+  "name_in_database": "Turn09_Bill_FreeTransportation",
+  "path": "BillProperties.HubDescription",
+  "ja": "CMA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECE",
+  "name_in_database": "Turn09_Bill_LighterSecurity",
+  "path": "BillProperties.Title",
+  "ja": "自由法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECE",
+  "name_in_database": "Turn09_Bill_LighterSecurity",
+  "path": "BillProperties.HubTitle",
+  "ja": "自由法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECE",
+  "name_in_database": "Turn09_Bill_LighterSecurity",
+  "path": "BillProperties.Description",
+  "ja": "ソードランドに平穏と安全が行き渡っていることを踏まえ、大国民議会は自由法を提出する。この立法は、現在の落ち着いた情勢によりよく見合うよう、治安法制を見直すことを目的とする。\n\n自由法第1節は、裁判によらない48時間の拘束に関する規定を完全に廃止する。これにより、いかなる形の拘束に先立っても正当な裁判を受ける権利がすべての者に保障され、市民の基本的権利が守られ、司法の原則が貫かれる。\n\n自由法第2節は、捜索令状の発付手続を改める。本節により、私有財産の捜査のための令状を発付する権限は、管区警察署長から当該地域の裁判官へ移される。この措置は、司法の費用が増えうるとしても、司法による監督を強めるものである。\n\n自由法第3節は、職務質問と身体検査の慣行を明確に取りやめる。この措置は市民の個人的な自由と権利を守り、私生活への不当な立ち入りと偏見の生じる余地を最小限に抑えるために講じられる。\n\n自由法第4節は、治安当局による実力の行使を、あくまで最後の手段に限るべきことを定める。この規定は平穏で公正な社会への決意を強め、治安当局の行為が均衡を保ち必要な範囲にとどまることを確かなものとする。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CECE",
+  "name_in_database": "Turn09_Bill_LighterSecurity",
+  "path": "BillProperties.HubDescription",
+  "ja": "FA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDA",
+  "name_in_database": "Turn09_Bill_LuxuryTax",
+  "path": "BillProperties.Title",
+  "ja": "公正奢侈税法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDA",
+  "name_in_database": "Turn09_Bill_LuxuryTax",
+  "path": "BillProperties.HubTitle",
+  "ja": "公正奢侈税法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDA",
+  "name_in_database": "Turn09_Bill_LuxuryTax",
+  "path": "BillProperties.Description",
+  "ja": "税制の公平さを高め税収を増やすべく、大国民議会は公正奢侈税法（F.L.T.A.）を提出する。本法は、1949年税法典第6節の改正を提案する。\n\nF.L.T.A. 第1節は、経済省が分類する奢侈品に15パーセントの税率を定める。本法における奢侈品には、宝飾品、毛皮、スポーツカー、ヨット、自家用機などが含まれるが、これらに限られない。この課税の実施により、そうした品を購入する資力を持つ者が、その資力に応じて国の歳入に寄与することになる。\n\nF.L.T.A. 第2節は、購入、売却、財産の移転、とりわけ相続の場合に適用される10パーセントの財産税を定める。この措置は税制の公平を進め、大きな富の移転が国の歳入に相応に寄与するようにするとともに、相続による大規模な富の蓄積を抑えようとするものである。<b>[政府予算 +2]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEDA",
+  "name_in_database": "Turn09_Bill_LuxuryTax",
+  "path": "BillProperties.HubDescription",
+  "ja": "FLTA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC2",
+  "name_in_database": "Turn09_Bill_StrongWomensRights",
+  "path": "BillProperties.Title",
+  "ja": "女性解放法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC2",
+  "name_in_database": "Turn09_Bill_StrongWomensRights",
+  "path": "BillProperties.HubTitle",
+  "ja": "女性解放法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC2",
+  "name_in_database": "Turn09_Bill_StrongWomensRights",
+  "path": "BillProperties.Description",
+  "ja": "女性地位委員会と協力し、大国民議会は、ソードランド全土で男女の平等と女性の権利を進めることを目的として、女性解放法（W.L.A.）を提出する。\n\nW.L.A. 第1節は、女性に対する家庭内暴力に断固たる措置を講じる。そうした行為を明確に犯罪と定め、女性の権利を守る法的枠組みを強める。\n\nW.L.A. 第1節Aは、家庭内虐待の被害者に対する国の保護制度を設ける。これには相談、一時的な避難先の手配、法的支援が含まれ、被害を受けた女性のための包括的な安全網を確保する。\n\nW.L.A. 第2節は、賃金格差の問題に対処する。女性への同一賃金を義務づけ、この移行を支えるため、生じた費用差を埋め合わせる助成を事業者に与える。さらに、賃金の均等を確保するため、すべての女性公務員の給与の調整を義務づける。\n\nW.L.A. 第3節は、平等を育むうえでの教育の重要性を強調する。教育制度が男女双方に等しい扱いを与えなければならないことを義務づけ、幼いころから公正と相互の敬意ある環境を支える。\n\nW.L.A. 第4節は、働く母親への支援に大きく踏み出す。国が費用を負担する産休を導入し、国の助成による保育所を設け、母親が仕事と家庭の責任を両立させるために必要な支えを受けられるようにする。<b>[政府予算 -2]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEC2",
+  "name_in_database": "Turn09_Bill_StrongWomensRights",
+  "path": "BillProperties.HubDescription",
+  "ja": "WLA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBE",
+  "name_in_database": "Turn09_Bill_WomensRights",
+  "path": "BillProperties.Title",
+  "ja": "女性保護法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBE",
+  "name_in_database": "Turn09_Bill_WomensRights",
+  "path": "BillProperties.HubTitle",
+  "ja": "女性保護法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBE",
+  "name_in_database": "Turn09_Bill_WomensRights",
+  "path": "BillProperties.Description",
+  "ja": "女性地位委員会と協力し、家庭内暴力の高い発生率という差し迫った問題を認め、大国民議会はこの容認しがたい状況に対処するため女性保護法（P.W.A.）を提出する。\n\nP.W.A. 第1節は、女性に対する家庭内暴力を例外なく犯罪と定める。この重要な一歩は、そうした忌まわしい行為に対する国の姿勢を強め、すべての女性の権利と尊厳を守るという国の決意を確かなものとする。\n\nP.W.A. 第1節Aは、被害者の安全に先んじて手を打つ。家庭内虐待を受けた女性のために設けられた確かな証人保護制度を定める。この制度は、加害者に対する法的手続に加わる女性に必要な保護と支えを与え、その安全と健やかさを守る助けとなる。<b>[政府予算 -1]</b>"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000460001CEBE",
+  "name_in_database": "Turn09_Bill_WomensRights",
+  "path": "BillProperties.HubDescription",
+  "ja": "PWA法案が大国民議会で可決された。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100009E0000B1F4",
+  "name_in_database": "Turn10_Bill_PeaceWithPales",
+  "path": "BillProperties.Title",
+  "ja": "パレスとの講和"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100009E0000B1F4",
+  "name_in_database": "Turn10_Bill_PeaceWithPales",
+  "path": "BillProperties.HubTitle",
+  "ja": "パレスとの講和"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100009E0000B1F4",
+  "name_in_database": "Turn10_Bill_PeaceWithPales",
+  "path": "BillProperties.Description",
+  "ja": "代議院は、1958年リジア基本法憲章に従い、最初の行為としてパレス侵攻の停止を命じることを発表した。\n\nこの命令により、リジア軍はただちに全占領地から撤退し、パレス人の人質はすべて解放され、最終的な条約の署名に向けた外交協議が首相とラインハルト公との間で設けられる。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100009E0000B1F4",
+  "name_in_database": "Turn10_Bill_PeaceWithPales",
+  "path": "BillProperties.HubDescription",
+  "ja": "代議院が停戦を承認"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079537",
+  "name_in_database": "Turn10_Bill_RemoveDeathPenalty",
+  "path": "BillProperties.Title",
+  "ja": "生命権法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079537",
+  "name_in_database": "Turn10_Bill_RemoveDeathPenalty",
+  "path": "BillProperties.HubTitle",
+  "ja": "生命権法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079537",
+  "name_in_database": "Turn10_Bill_RemoveDeathPenalty",
+  "path": "BillProperties.Description",
+  "ja": "代議院は、1958年リジア基本法憲章に従い、リジア王国全土で死刑を廃止する画期的な法を可決した。\n\nこの新たな法により、死刑はすべての罪について廃止され、執行を待つすべての刑は、司法審査の定めるところにより終身刑またはより軽い刑へ減刑される。\n\nさらに国家は、人道にかなう司法を受ける権利を認め、リジア法の下でいかなる者も死刑に処されないことを保障する。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079537",
+  "name_in_database": "Turn10_Bill_RemoveDeathPenalty",
+  "path": "BillProperties.HubDescription",
+  "ja": "代議院が死刑の廃止を承認"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079547",
+  "name_in_database": "Turn10_ReverseRRGNationalization",
+  "path": "BillProperties.Title",
+  "ja": "金主権・経済再建法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079547",
+  "name_in_database": "Turn10_ReverseRRGNationalization",
+  "path": "BillProperties.HubTitle",
+  "ja": "金主権・経済再建法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079547",
+  "name_in_database": "Turn10_ReverseRRGNationalization",
+  "path": "BillProperties.Description",
+  "ja": "代議院は、1958年リジア基本法憲章に従い、リジア王室金鉱の国有化を撤回し、収監されていた同社の最高経営責任者ルッセロ・モントーロの自由と名誉を回復する法を可決した。\n\nこの新たな法により、RRG の国家保有比率は45パーセントに戻り、モントーロ氏は同社の長として旧職に復し、今後数年の安定した金収入が確かなものとなる。\n\n恩赦と引き換えに、モントーロ氏は RRG の収入のより大きな割合を社会福祉の事業に充てることに同意する。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x0100005200079547",
+  "name_in_database": "Turn10_ReverseRRGNationalization",
+  "path": "BillProperties.HubDescription",
+  "ja": "代議院がラスティ・モントーロの恩赦を承認"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000C800002AC9",
+  "name_in_database": "Turn10_RRGNationalization",
+  "path": "BillProperties.Title",
+  "ja": "資源回収・再分配法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000C800002AC9",
+  "name_in_database": "Turn10_RRGNationalization",
+  "path": "BillProperties.HubTitle",
+  "ja": "資源回収・再分配法"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000C800002AC9",
+  "name_in_database": "Turn10_RRGNationalization",
+  "path": "BillProperties.Description",
+  "ja": "代議院は、1958年リジア基本法憲章に従い、リジア王室金鉱の強制的な接収と完全な国有化に合意した。\n\nこの法により、ルッセロ・モントーロは最高経営責任者の職を強制的に解かれ、国家は同社と、リジア国内に所在するその資産の全所有権を取得する。今後の利益はリジア国民に再分配される。"
+ },
+ {
+  "type": "BillData",
+  "item_id": "0x010000C800002AC9",
+  "name_in_database": "Turn10_RRGNationalization",
+  "path": "BillProperties.HubDescription",
+  "ja": "代議院がRRGの強制国有化を承認"
+ }
+]

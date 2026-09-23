@@ -1,0 +1,576 @@
+[
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100009A0000BC90",
+  "name_in_database": "Page_ArrestedPeople",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "捕らえられた罪人"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100009A0000BC90",
+  "name_in_database": "Page_ArrestedPeople",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "以下の罪人はポルテ・ドラゾン城塞に拘留され、あなたの裁断を待っている。誰を処刑すべきか。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013B92",
+  "name_in_database": "Page_DictatorConstitution_Section1",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第1節：大統領の拒否権"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013B92",
+  "name_in_database": "Page_DictatorConstitution_Section1",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第77条および第82条によれば、大統領は法案に文書を添えて議会へ差し戻すことで拒否権を行使できる。両条には拒否権を覆す方法についての定めがない。その結果、大統領はソードランド大議会の特別多数をもってしても覆せない「絶対的」な拒否権を握っている。\n\n大国民議会に特別多数で拒否権を覆す権利を与えることで、拒否権に制限を設けることができる。あるいは、大統領が法案を処理すべき期限を定めずにおくことで抜け道を作り、絶対的な握りつぶしの権限を残すこともできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BA8",
+  "name_in_database": "Page_DictatorConstitution_Section2",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第2節：憲法改正の手続き"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BA8",
+  "name_in_database": "Page_DictatorConstitution_Section2",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法第5条によれば、150名以上の署名を得た改正案は大国民議会に提出することができる。改正には大国民議会における三分の二以上の賛成と、最高裁判所における単純過半数の賛成を要する。その結果、選挙で選ばれた立法府に属さない最高裁判所が議決権を持ち、改正手続きにおいて絶大な力を握っている。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BB7",
+  "name_in_database": "Page_DictatorConstitution_Section3",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第3節：大統領の弾劾"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BB7",
+  "name_in_database": "Page_DictatorConstitution_Section3",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第17条によれば、ソードランド大統領は、大逆罪または憲法違反の場合を除き、大統領としての職務の遂行にあたって行った行為について責任を負わない。これらの場合には、最高裁判所が合同法廷において構成員の絶対多数をもって大統領を弾劾することができる。 \n\nしたがって弾劾の手続きには最高裁判所のみが関与し、同裁判所は行政府に対して大きな力を持つことになる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BDB",
+  "name_in_database": "Page_DictatorConstitution_Section4",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第4節：閣僚の任命"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BDB",
+  "name_in_database": "Page_DictatorConstitution_Section4",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法によれば、大統領は議会で選出された議員のなかから閣僚会議の閣僚を任命する。\n\n「大統領は閣僚を指名することができ、その任命には大国民議会の信任投票を要する」という一文を加えて信任投票を導入することもできるし、「大国民議会は閣僚の名簿を指名することができ、大統領はそこから任命することができる」として議会の関与をより強めることもできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BF8",
+  "name_in_database": "Page_DictatorConstitution_Section5",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第5節：議席獲得ライン"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013BF8",
+  "name_in_database": "Page_DictatorConstitution_Section5",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第50条によれば、政党が大国民議会で議席を得るには全国総得票の10%以上を要する。このラインを越えた政党の得票は比例して再配分されるため、現在首位にあるUSPが最大の恩恵を受けることになる。\n\nラインを下げれば、次の選挙でブルディア労働者党やソードランド共産党が議席を得るかもしれない。一方でラインを上げれば、国民戦線党がラインを下回る恐れがある。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C15",
+  "name_in_database": "Page_DictatorConstitution_Section6",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第6節：大統領令"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C15",
+  "name_in_database": "Page_DictatorConstitution_Section6",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第18条および第51条によれば、大統領は政治・社会・経済の事項について法律と同一の効力を持つ命令を発することができる。ただしそれは憲法に反してはならず、司法審査の対象となる。したがって大統領は、多くの事項について大国民議会を経ずに命令を発することができる。もっとも議会は、同じ事項について法律を可決して大統領令を覆すことができる。 \n\n命令を発するには議会の授権法を要するものとして議会を手続きに関与させることもできるし、逆に大統領令に法律に優先する効力を与え、司法審査の対象外とすることで強化することもできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C32",
+  "name_in_database": "Page_DictatorConstitution_Section7",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第7節：任期の制限"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C32",
+  "name_in_database": "Page_DictatorConstitution_Section7",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法によれば、大統領は4年の任期で選出される。しかし任期の制限については何ら定めがなく、一個人が無制限に立候補し、当選し、大統領を務めることが可能になっている。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C48",
+  "name_in_database": "Page_DictatorConstitution_Section8",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第8節：判事の免責"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C48",
+  "name_in_database": "Page_DictatorConstitution_Section8",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法は最高裁判事に法の前の絶対的免責を与え、弾劾の手続きを何ら定めていない。そのため判事は他の統治機構が手を触れられない存在となっている。\n\n違憲な行為という法的理由に基づいて判事の弾劾を発議する権利を大国民議会に与え、弾劾の手続きを定めることもできる。あるいは判事を更迭する権利を大統領に与え、裁判所を完全にその統制下に置くこともできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C5E",
+  "name_in_database": "Page_DictatorConstitution_Section9",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第9節：タルキン・ソルの「名誉議員」としての権利"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013C5E",
+  "name_in_database": "Page_DictatorConstitution_Section9",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法第99条は「名誉議員」の称号と、その者が行使しうる権利を定めている。名誉議員は絶対的免責を有し、大国民議会の終身議員とみなされる。国家の大統領警護隊から提供される専属の警護班を自ら統率する権限を与えられる。また、国家が無償で用意する特別な私邸に住む資格も持つ。 \n\nこの称号を有する者は、タルキン・ソルただ一人である。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100006700000013",
+  "name_in_database": "Page_EmergencyPanel_Section1",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第1節：内部の脅威"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100006700000013",
+  "name_in_database": "Page_EmergencyPanel_Section1",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法第57条および第58条に従い、国家は以下の団体を、ソードランド共和国とその市民の公共の安全にとって存亡に関わる脅威であると認め、非合法化し、国家安全保障上の脅威と宣言する。 \n\n以下の対象はテロリストと宣言され、警察はその構成員および過去にこれを支援した者に対して捜査の手を向ける。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100006700000038",
+  "name_in_database": "Page_EmergencyPanel_Section2",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第2節：治安"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100006700000038",
+  "name_in_database": "Page_EmergencyPanel_Section2",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法第58条に基づき、国家安全保障上の脅威から国を守るため、以下を命じる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100006700000055",
+  "name_in_database": "Page_EmergencyPanel_Section3",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第3節：外部の脅威"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100006700000055",
+  "name_in_database": "Page_EmergencyPanel_Section3",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "侵略的な政治行動、内政への干渉、およびソードランド共和国の主権の軽視を理由として、国家は以下の国々との外交関係を全面的に断絶し、禁輸措置をとり、その国民の入国を拒否することを宣言する。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100009A0000BE9D",
+  "name_in_database": "Page_ExecutionMethod",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "方法"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100009A0000BE9D",
+  "name_in_database": "Page_ExecutionMethod",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "処刑の方法はどうするか。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100008E00002CFC",
+  "name_in_database": "Page_FocusPanel_EconomicStrategy",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "経済戦略"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100008E00002CFC",
+  "name_in_database": "Page_FocusPanel_EconomicStrategy",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "資源経済の強化に重点を置くなら、天然資源を活かし、長期のエネルギー契約を守ることになる。他方、資源依存を脱して経済を多角化する道は、均衡のとれた財政をめざし、過度な依存の危うさを和らげる。両者を織り交ぜる方策は、より大きな柔軟性をもたらす。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100008E00002CA2",
+  "name_in_database": "Page_FocusPanel_ForeignStrategy",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "外交戦略"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100008E00002CA2",
+  "name_in_database": "Page_FocusPanel_ForeignStrategy",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "王国は新たな外交上の選択に直面している。介入主義は積極的な軍事関与を促し、宥和はヴェーレンおよびルンブルク王室との結びつきを強めることをめざす。あるいは第三の道を選び、デルディア・パレス・モレラと地域同盟を結んで大国との関わりを避けることもできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100008E00002CBF",
+  "name_in_database": "Page_FocusPanel_GovernmentIntention",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "統治機構の方針"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100008E00002CBF",
+  "name_in_database": "Page_FocusPanel_GovernmentIntention",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "絶対主義を選べばトラス家における君主制の伝統は揺るぎないものとなる。一方、改革はサゾン家とリジア人民党の意向に沿うもので、より広い市民参加と資源の再分配へ舵を切る合図となる。対して現状維持は、いまの権力の均衡と州の自治を保つ。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520002787D",
+  "name_in_database": "Page_MorellaNationalization_Concessions",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "国有化にあたってリジアが行う譲歩"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520002787D",
+  "name_in_database": "Page_MorellaNationalization_Concessions",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "国有化されたメフティエム国際貿易区において40パーセントの持ち分を取得することを認められる見返りに、リジアは以下に同意する。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520002682B",
+  "name_in_database": "Page_MorellaNationalization_Demands",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "国有化にあたってリジアが求める要求"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520002682B",
+  "name_in_database": "Page_MorellaNationalization_Demands",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "メフティエム国際貿易区の国有化に関するモレラの提案を承認する条件として、リジアはモレラに以下の要求を満たすよう求める。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x01000052000278AA",
+  "name_in_database": "Page_MorellaRenegotiationConcessions_BuyLespia",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "再交渉にあたってリジアが行う譲歩"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x01000052000278AA",
+  "name_in_database": "Page_MorellaRenegotiationConcessions_BuyLespia",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "再交渉後のメフティエム国際貿易区においてレスピアの持ち分を引き受ける見返りに、リジアは以下に同意する。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x01000052000278B4",
+  "name_in_database": "Page_MorellaRenegotiationConcessions_NoLespia",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "再交渉にあたってリジアが行う譲歩"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x01000052000278B4",
+  "name_in_database": "Page_MorellaRenegotiationConcessions_NoLespia",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "再交渉後のメフティエム国際貿易区からレスピアの持ち分が除かれる見返りに、リジアは以下に同意する。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x01000052000278BE",
+  "name_in_database": "Page_MorellaRenegotiationConcessions_SameShares",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "再交渉にあたってリジアが行う譲歩"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x01000052000278BE",
+  "name_in_database": "Page_MorellaRenegotiationConcessions_SameShares",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "メフティエム国際貿易区に関する新協定の一環として、リジアは以下に同意する。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005200027872",
+  "name_in_database": "Page_MorellaRenegotiation_Demands",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "再交渉にあたってリジアが求める要求"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005200027872",
+  "name_in_database": "Page_MorellaRenegotiation_Demands",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "メフティエム国際貿易区の新協定において自らの持ち分の一部をモレラへ移転する条件として、リジアはモレラに以下の要求を満たすよう求める。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005D000004CE",
+  "name_in_database": "Page_PromisesPanel_Diplomacy",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "外交上の立ち位置"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005D000004CE",
+  "name_in_database": "Page_PromisesPanel_Diplomacy",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "西の資本主義国アルカシア、北の君主国ルンブルク、東の共産主義国コンタナ連邦――この三者の世界規模の角逐は激しさを増している。ソードランドはいずれかと手を結ぶことも、中立へ傾くこともできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005D000004C2",
+  "name_in_database": "Page_PromisesPanel_Economy",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "経済の針路"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005D000004C2",
+  "name_in_database": "Page_PromisesPanel_Economy",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "近年の市場改革と不況を経て、この国は二つの異なる経済体制のあいだで立ち往生し、決断を欠いたまま混乱に陥っている。国民は針路を示すことを求めている。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005D000004DE",
+  "name_in_database": "Page_PromisesPanel_Immigration",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "移民政策"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005D000004DE",
+  "name_in_database": "Page_PromisesPanel_Immigration",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "この五年、エヴァルト・アルフォンソ前大統領が定めた緩やかな移民法により、ブルディア人・ヴェゼク人・アグノリア人の移民がソードランドに押し寄せた。その結果生じた緊張が、政治的な解決を求める声を呼んでいる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100009A0000BE5E",
+  "name_in_database": "Page_Publicity",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "公開の範囲"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100009A0000BE5E",
+  "name_in_database": "Page_Publicity",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "執り行われる処刑には、誰を立ち会わせるべきか。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A22",
+  "name_in_database": "Page_ReformistConstitution_Section1",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第1節：大統領の拒否権"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A22",
+  "name_in_database": "Page_ReformistConstitution_Section1",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第77条および第82条によれば、大統領は法案に文書を添えて議会へ差し戻すことで拒否権を行使できる。両条には拒否権を覆す方法についての定めがない。 \n\nその結果、大統領はソードランド大議会の特別多数をもってしても覆せない「絶対的」な拒否権を握っている。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A4F",
+  "name_in_database": "Page_ReformistConstitution_Section2",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第2節：憲法改正の手続き"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A4F",
+  "name_in_database": "Page_ReformistConstitution_Section2",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法第5条によれば、150名以上の署名を得た改正案は大国民議会に提出することができる。改正には大国民議会における三分の二以上の賛成と、最高裁判所における単純過半数の賛成を要する。その結果、選挙で選ばれた立法府に属さない最高裁判所が議決権を持ち、改正手続きにおいて絶大な力を握っている。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A65",
+  "name_in_database": "Page_ReformistConstitution_Section3",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第3節：大統領の弾劾"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A65",
+  "name_in_database": "Page_ReformistConstitution_Section3",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第17条によれば、ソードランド大統領は、大逆罪または憲法違反の場合を除き、大統領としての職務の遂行にあたって行った行為について責任を負わない。これらの場合には、最高裁判所が合同法廷において構成員の絶対多数をもって大統領を弾劾することができる。 \n\nしたがって弾劾の手続きには最高裁判所のみが関与し、同裁判所は行政府に対して大きな力を持つことになる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A89",
+  "name_in_database": "Page_ReformistConstitution_Section4",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第4節：閣僚の任命"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013A89",
+  "name_in_database": "Page_ReformistConstitution_Section4",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法によれば、大統領は議会で選出された議員のなかから閣僚会議の閣僚を任命する。\n\n「大統領は閣僚を指名することができ、その任命には大国民議会の信任投票を要する」という一文を加えて信任投票を導入することもできるし、「大国民議会は閣僚の名簿を指名することができ、大統領はそこから任命することができる」として議会の関与をより強めることもできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013AB0",
+  "name_in_database": "Page_ReformistConstitution_Section5",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第5節：議席獲得ライン"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013AB0",
+  "name_in_database": "Page_ReformistConstitution_Section5",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第50条によれば、政党が大国民議会で議席を得るには全国総得票の10%以上を要する。このラインを越えた政党の得票は比例して再配分されるため、現在首位にあるUSPが最大の恩恵を受けることになる。\n\nラインを下げれば、次の選挙でブルディア労働者党やソードランド共産党が議席を得るかもしれない。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013AD3",
+  "name_in_database": "Page_ReformistConstitution_Section6",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第6節：大統領令"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013AD3",
+  "name_in_database": "Page_ReformistConstitution_Section6",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "第18条および第51条によれば、大統領は政治・社会・経済の事項について法律と同一の効力を持つ命令を発することができる。ただしそれは憲法に反してはならず、司法審査の対象となる。 \n\nしたがって大統領は、多くの事項について大国民議会を経ずに命令を発することができる。もっとも議会は、同じ事項について法律を可決して大統領令を覆すことができる。命令を発するには議会の授権法を要するものとして議会を手続きに関与させることも、大統領令を完全に廃して議会を唯一の立法機関とすることもできる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013AF3",
+  "name_in_database": "Page_ReformistConstitution_Section7",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第7節：任期の制限"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013AF3",
+  "name_in_database": "Page_ReformistConstitution_Section7",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法によれば、大統領は4年の任期で選出される。しかし任期の制限については何ら定めがなく、一個人が無制限に立候補し、当選し、大統領を務めることが可能になっている。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013B11",
+  "name_in_database": "Page_ReformistConstitution_Section8",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第8節：判事の免責"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013B11",
+  "name_in_database": "Page_ReformistConstitution_Section8",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法は最高裁判事に法の前の絶対的免責を与え、弾劾の手続きを何ら定めていない。そのため判事は他の統治機構が手を触れられない存在となっている。\n\n違憲な行為という法的理由に基づいて判事の弾劾を発議する権利を大国民議会に与え、弾劾の手続きを定めることができる。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013B29",
+  "name_in_database": "Page_ReformistConstitution_Section9",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "第9節：タルキン・ソルの「名誉議員」としての権利"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x0100005100013B29",
+  "name_in_database": "Page_ReformistConstitution_Section9",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "憲法第99条は「名誉議員」の称号と、その者が行使しうる権利を定めている。名誉議員は絶対的免責を有し、大国民議会の終身議員とみなされる。国家の大統領警護隊から提供される専属の警護班を自ら統率する権限を与えられる。また、国家が無償で用意する特別な私邸に住む資格も持つ。 \n\nこの称号を有する者は、タルキン・ソルただ一人である。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5AE",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section1",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "ヴェーレンからの輸入"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5AE",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section1",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "新たな通商協定のもとでリジアへ輸入するヴェゼクの産品を選んでください。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5B2",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section2",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "ヴェーレンへの輸出"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5B2",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section2",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "新たな通商協定のもとでヴェーレンへ輸出するリジアの産品を選んでください。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000640000C5F1",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section3",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "対反乱作戦への支援［公約］"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000640000C5F1",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section3",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "ヴェーレンは、ブルディア自由戦線に対する将来の支援をリジアが約束するよう求めている。具体的には、BFFの反乱分子が南へ逃れる余地をなくすため、クレレック海峡に艦船を派遣することである。"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5BA",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section4",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "テロ対策のための国境管理"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5BA",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section4",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "ヴェーレンは、ブルディア自由戦線の構成員がリジア国境を越えるのを防ぐ新たな措置を提案している。デルディアの旅券保持者およびブルディアの身分証明書を持つ者について、我が国の国境警備隊が入国を禁じるよう求めるものである。［国境警備隊を拡充していれば負担なし］"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5B6",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section5",
+  "path": "MultipleChoicePageProperties.Title",
+  "ja": "リジア国内のヴェゼク人の権利［即時］"
+ },
+ {
+  "type": "MultipleChoicePageData",
+  "item_id": "0x010000520001C5B6",
+  "name_in_database": "Page_WehlenNegotiationPromises_Section5",
+  "path": "MultipleChoicePageProperties.Subtitle",
+  "ja": "リジアに暮らすヴェゼク系市民の地位を決めてください。ヴェーレンは、自国民に対して完全な移動の自由と、労働・財産の所有・社会サービスの利用を含む完全な権利を認めるよう求めている。"
+ }
+]

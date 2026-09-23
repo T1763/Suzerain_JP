@@ -1,0 +1,16 @@
+[
+ {
+  "type": "FactionsPageData",
+  "item_id": "0x0100005800009EE5",
+  "name_in_database": "Page_Factions",
+  "path": "FactionsPageProperties.Name",
+  "ja": "派閥"
+ },
+ {
+  "type": "FactionsPageData",
+  "item_id": "0x0100008E00002AE5",
+  "name_in_database": "Page_RoyalHouses",
+  "path": "FactionsPageProperties.Name",
+  "ja": "貴族諸家"
+ }
+]

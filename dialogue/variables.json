@@ -1,0 +1,1451 @@
+[
+ {
+  "variable": "BaseGameText.AlphonsoToPlayer",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "大統領"
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "リジア王国、ヴェンドネサム連合"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "パレス、デルディア、ヴェーレン、モレラ"
+ },
+ {
+  "variable": "RiziaDLCText.KingsSon",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "ロムス2世"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "ベアトリス・リヴィングストン女王の妹。あなたの妻。"
+ },
+ {
+  "variable": "RiziaDLCText.LucitaTitle",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "軍事保安評議官"
+ },
+ {
+  "variable": "RiziaDLCText.LucitaToPlayer",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "陛下"
+ },
+ {
+  "variable": "RiziaDLCText.ManusToPlayer",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "陛下"
+ },
+ {
+  "variable": "RiziaDLCText.NewPalesHoliday",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "パレス回復記念日"
+ },
+ {
+  "variable": "RiziaDLCText.PabelToPlayer",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "陛下"
+ },
+ {
+  "variable": "RiziaDLCText.RoyalJet",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "ロイヤル・リジア・ワン"
+ },
+ {
+  "variable": "RiziaDLCText.RustyArrestReason",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "国家反逆罪"
+ },
+ {
+  "variable": "RiziaDLCText.RustyFate",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "逮捕"
+ },
+ {
+  "variable": "RiziaDLCText.SaltanaToPlayer",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "トラスさん"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyName",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "神の王国"
+ },
+ {
+  "variable": "RiziaDLCText.VinaLastName",
+  "where": "initial",
+  "conversation_id": "",
+  "entry_id": "",
+  "script": "",
+  "op": "=",
+  "ja": "トラス"
+ },
+ {
+  "variable": "BaseGameText.AlphonsoToPlayer",
+  "where": "0x010000520001C179",
+  "conversation_id": 46,
+  "entry_id": 367,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アントン"
+ },
+ {
+  "variable": "RiziaDLCText.PabelToPlayer",
+  "where": "0x010000520001873F",
+  "conversation_id": 287,
+  "entry_id": 300,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス"
+ },
+ {
+  "variable": "RiziaDLCText.GoldenGuardUpdate",
+  "where": "0x01000052000692A8",
+  "conversation_id": 304,
+  "entry_id": 504,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス・トラス王の治世下で、近衛兵は師団規模に拡大され、任務も広げられた。"
+ },
+ {
+  "variable": "RiziaDLCText.ManusToPlayer",
+  "where": "0x010000520002E2B0",
+  "conversation_id": 320,
+  "entry_id": 921,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス"
+ },
+ {
+  "variable": "RiziaDLCText.SaltanaToPlayer",
+  "where": "0x0100005200022284",
+  "conversation_id": 321,
+  "entry_id": 40,
+  "script": "userScript",
+  "op": "=",
+  "ja": "陛下"
+ },
+ {
+  "variable": "RiziaDLCText.LucitaTitle",
+  "where": "0x0100005200068070",
+  "conversation_id": 330,
+  "entry_id": 168,
+  "script": "userScript",
+  "op": "=",
+  "ja": "王妃にして軍事保安評議官"
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "0x010000520005CA51",
+  "conversation_id": 331,
+  "entry_id": 487,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア・パレス連合王国"
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "0x010000520005CA56",
+  "conversation_id": 331,
+  "entry_id": 488,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア・パレス連合王国、ヴェンドネサム連合"
+ },
+ {
+  "variable": "RiziaDLCText.LucitaToPlayer",
+  "where": "0x0100005200068096",
+  "conversation_id": 346,
+  "entry_id": 564,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス"
+ },
+ {
+  "variable": "RiziaDLCText.KingsSon",
+  "where": "0x010000520005362D",
+  "conversation_id": 349,
+  "entry_id": 328,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アルドス"
+ },
+ {
+  "variable": "RiziaDLCText.KingsSon",
+  "where": "0x0100005200053632",
+  "conversation_id": 349,
+  "entry_id": 329,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴァレロ2世"
+ },
+ {
+  "variable": "RiziaDLCText.KingsSon",
+  "where": "0x0100005200053637",
+  "conversation_id": 349,
+  "entry_id": 330,
+  "script": "userScript",
+  "op": "=",
+  "ja": "タデウス2世"
+ },
+ {
+  "variable": "RiziaDLCText.KingsSon",
+  "where": "0x010000520005363C",
+  "conversation_id": 349,
+  "entry_id": 331,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス2世"
+ },
+ {
+  "variable": "RiziaDLCText.News_RD_IncreasedLevies_PalesWar",
+  "where": "0x010000BE00000D6A",
+  "conversation_id": 357,
+  "entry_id": 538,
+  "script": "userScript",
+  "op": "=",
+  "ja": "これによる兵員の大幅な増強は、パレス解放の戦いで我々に優位をもたらすに違いない。"
+ },
+ {
+  "variable": "RiziaDLCText.WinningFootballTeam",
+  "where": "0x010000520005FEE8",
+  "conversation_id": 376,
+  "entry_id": 1038,
+  "script": "userScript",
+  "op": "=",
+  "ja": "FCポルテ・ドラゾン"
+ },
+ {
+  "variable": "RiziaDLCText.WinningFootballTeam",
+  "where": "0x010000520005FEEE",
+  "conversation_id": 376,
+  "entry_id": 1039,
+  "script": "userScript",
+  "op": "=",
+  "ja": "レアル・モンタクラル"
+ },
+ {
+  "variable": "RiziaDLCText.WinningFootballTeam",
+  "where": "0x010000520005FF1F",
+  "conversation_id": 376,
+  "entry_id": 1050,
+  "script": "userScript",
+  "op": "=",
+  "ja": "レアル・モンタクラル"
+ },
+ {
+  "variable": "RiziaDLCText.WinningFootballTeam",
+  "where": "0x010000520005FF3A",
+  "conversation_id": 376,
+  "entry_id": 1060,
+  "script": "userScript",
+  "op": "=",
+  "ja": "FCポルテ・ドラゾン"
+ },
+ {
+  "variable": "RiziaDLCText.WinningFootballTeam",
+  "where": "0x010000BE0000520C",
+  "conversation_id": 376,
+  "entry_id": 1147,
+  "script": "userScript",
+  "op": "=",
+  "ja": "引き分けた両チーム"
+ },
+ {
+  "variable": "RiziaDLCText.SaltanaToPlayer",
+  "where": "0x0100005200072B65",
+  "conversation_id": 401,
+  "entry_id": 36,
+  "script": "conditionsString",
+  "op": "==",
+  "ja": "陛下"
+ },
+ {
+  "variable": "RiziaDLCText.SaltanaToPlayer",
+  "where": "0x0100005200072B65",
+  "conversation_id": 401,
+  "entry_id": 37,
+  "script": "conditionsString",
+  "op": "==",
+  "ja": "陛下"
+ },
+ {
+  "variable": "RiziaDLCText.RustyFate",
+  "where": "0x01000052000655B4",
+  "conversation_id": 416,
+  "entry_id": 705,
+  "script": "userScript",
+  "op": "=",
+  "ja": "退任"
+ },
+ {
+  "variable": "RiziaDLCText.VinaLastName",
+  "where": "0x010000C600000213",
+  "conversation_id": 417,
+  "entry_id": 1602,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ラインハルト"
+ },
+ {
+  "variable": "RiziaDLCText.VinaLastName",
+  "where": "0x010000520007C9E2",
+  "conversation_id": 417,
+  "entry_id": 1611,
+  "script": "userScript",
+  "op": "=",
+  "ja": "サゾン"
+ },
+ {
+  "variable": "RiziaDLCText.AdarfoPosition",
+  "where": "0x01000052000658C0",
+  "conversation_id": 419,
+  "entry_id": 835,
+  "script": "userScript",
+  "op": "=",
+  "ja": "1955年末、マヌス・サゾンに代わって代議院議長となった。"
+ },
+ {
+  "variable": "RiziaDLCText.AdarfoPosition",
+  "where": "0x01000052000658C5",
+  "conversation_id": 419,
+  "entry_id": 836,
+  "script": "userScript",
+  "op": "=",
+  "ja": "1955年末、マヌス・サゾンに代わって野党党首となった。"
+ },
+ {
+  "variable": "RiziaDLCText.AdarfoPosition",
+  "where": "0x01000052000658D5",
+  "conversation_id": 419,
+  "entry_id": 843,
+  "script": "userScript",
+  "op": "=",
+  "ja": "1955年末、大規模な騒乱を受けて、党は彼をマヌス・サゾンに代わる代議院議長に選んだ。"
+ },
+ {
+  "variable": "RiziaDLCText.AdarfoPosition",
+  "where": "0x01000052000658D9",
+  "conversation_id": 419,
+  "entry_id": 844,
+  "script": "userScript",
+  "op": "=",
+  "ja": "1955年末、大規模な騒乱を受けて、党は彼をマヌス・サゾンに代わる野党党首に選んだ。"
+ },
+ {
+  "variable": "RiziaDLCText.ExiledTogether",
+  "where": "0x0100009E0000DC42",
+  "conversation_id": 426,
+  "entry_id": 146,
+  "script": "userScript",
+  "op": "=",
+  "ja": "エステラ"
+ },
+ {
+  "variable": "RiziaDLCText.ExiledTogether",
+  "where": "0x0100009E0000DE01",
+  "conversation_id": 426,
+  "entry_id": 184,
+  "script": "userScript",
+  "op": "=",
+  "ja": "エステラ"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C03D",
+  "conversation_id": 426,
+  "entry_id": 625,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C042",
+  "conversation_id": 426,
+  "entry_id": 626,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C047",
+  "conversation_id": 426,
+  "entry_id": 627,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C04C",
+  "conversation_id": 426,
+  "entry_id": 628,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000C800002976",
+  "conversation_id": 428,
+  "entry_id": 331,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x0100005200078929",
+  "conversation_id": 428,
+  "entry_id": 387,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C02E",
+  "conversation_id": 430,
+  "entry_id": 505,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C033",
+  "conversation_id": 430,
+  "entry_id": 506,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x010000520005C038",
+  "conversation_id": 430,
+  "entry_id": 507,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x0100005200079CD4",
+  "conversation_id": 430,
+  "entry_id": 659,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x0100005200079CF3",
+  "conversation_id": 430,
+  "entry_id": 670,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.LenaTooltip",
+  "where": "0x0100005200079CF9",
+  "conversation_id": 430,
+  "entry_id": 671,
+  "script": "userScript",
+  "op": "=",
+  "ja": "あなたの孫娘。"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E32A",
+  "conversation_id": 431,
+  "entry_id": 180,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E32F",
+  "conversation_id": 431,
+  "entry_id": 181,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家とトラス家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E334",
+  "conversation_id": 431,
+  "entry_id": 182,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家とサゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E340",
+  "conversation_id": 431,
+  "entry_id": 186,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家とサゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E345",
+  "conversation_id": 431,
+  "entry_id": 187,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E34A",
+  "conversation_id": 431,
+  "entry_id": 188,
+  "script": "userScript",
+  "op": "=",
+  "ja": "サゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E34F",
+  "conversation_id": 431,
+  "entry_id": 195,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家・サゾン家・トラス家"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E3BA",
+  "conversation_id": 431,
+  "entry_id": 207,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アダルフォと革命派"
+ },
+ {
+  "variable": "RiziaDLCText.CoupLeader",
+  "where": "0x0100009E0000E450",
+  "conversation_id": 431,
+  "entry_id": 217,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ウーゴ"
+ },
+ {
+  "variable": "RiziaDLCText.CoupLeader",
+  "where": "0x0100009E0000E455",
+  "conversation_id": 431,
+  "entry_id": 218,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ルシータ"
+ },
+ {
+  "variable": "RiziaDLCText.CoupLeader",
+  "where": "0x0100009E0000E45A",
+  "conversation_id": 431,
+  "entry_id": 219,
+  "script": "userScript",
+  "op": "=",
+  "ja": "タデウス"
+ },
+ {
+  "variable": "RiziaDLCText.CoupLeader",
+  "where": "0x0100009E0000E45F",
+  "conversation_id": 431,
+  "entry_id": 220,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アンジェリカ"
+ },
+ {
+  "variable": "RiziaDLCText.WarEnemies",
+  "where": "0x0100009E0000E3BF",
+  "conversation_id": 431,
+  "entry_id": 221,
+  "script": "userScript",
+  "op": "=",
+  "ja": "革命派"
+ },
+ {
+  "variable": "RiziaDLCText.CoupLeader",
+  "where": "0x0100009E0000E44B",
+  "conversation_id": 431,
+  "entry_id": 223,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リコ"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B0FE",
+  "conversation_id": 431,
+  "entry_id": 339,
+  "script": "userScript",
+  "op": "=",
+  "ja": "三つの貴族家すべてや"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B109",
+  "conversation_id": 431,
+  "entry_id": 343,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家・トラス家や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B10D",
+  "conversation_id": 431,
+  "entry_id": 344,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家・サゾン家や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B11F",
+  "conversation_id": 431,
+  "entry_id": 351,
+  "script": "userScript",
+  "op": "=",
+  "ja": "サゾン家や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B12A",
+  "conversation_id": 431,
+  "entry_id": 355,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B135",
+  "conversation_id": 431,
+  "entry_id": 359,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家・サゾン家や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B13A",
+  "conversation_id": 431,
+  "entry_id": 360,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B151",
+  "conversation_id": 431,
+  "entry_id": 368,
+  "script": "userScript",
+  "op": "=",
+  "ja": "正規軍や"
+ },
+ {
+  "variable": "RiziaDLCText.WarAllies",
+  "where": "0x010000520007B168",
+  "conversation_id": 431,
+  "entry_id": 374,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ごく"
+ },
+ {
+  "variable": "RiziaDLCText.PalesWarAlly",
+  "where": "0x010000520007B176",
+  "conversation_id": 431,
+  "entry_id": 378,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アクセルとヴィナはパレスから兵と激励を送ってくれた。"
+ },
+ {
+  "variable": "RiziaDLCText.ZilleWarAlly",
+  "where": "0x010000520007B181",
+  "conversation_id": 431,
+  "entry_id": 382,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジルの人々もあなたと共に戦った。"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE00006942",
+  "conversation_id": 431,
+  "entry_id": 469,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴルヘック教徒、ダストヌリティ信徒、ゴルコンド主義者"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE00006947",
+  "conversation_id": 431,
+  "entry_id": 470,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴルヘック教徒とダストヌリティ信徒"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE0000694D",
+  "conversation_id": 431,
+  "entry_id": 471,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ゴルコンド主義者を含むヴルヘック教徒"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE00006952",
+  "conversation_id": 431,
+  "entry_id": 472,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴルヘック教徒"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE00006965",
+  "conversation_id": 431,
+  "entry_id": 479,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ダストヌリティ信徒とゴルコンド主義者"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE0000696A",
+  "conversation_id": 431,
+  "entry_id": 480,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ダストヌリティ信徒"
+ },
+ {
+  "variable": "RiziaDLCText.CivilWar_ReligiousAllies",
+  "where": "0x010000BE00006975",
+  "conversation_id": 431,
+  "entry_id": 484,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ゴルコンド主義者"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x0100006A0001A57C",
+  "conversation_id": 432,
+  "entry_id": 111,
+  "script": "userScript",
+  "op": "=",
+  "ja": "GRACE"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x0100006A0001A581",
+  "conversation_id": 432,
+  "entry_id": 112,
+  "script": "userScript",
+  "op": "=",
+  "ja": "インテルメルコプム"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x0100006A0001A5A3",
+  "conversation_id": 432,
+  "entry_id": 116,
+  "script": "userScript",
+  "op": "=",
+  "ja": "国際連盟とインテルメルコプム"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x0100006A0001A5AE",
+  "conversation_id": 432,
+  "entry_id": 120,
+  "script": "userScript",
+  "op": "=",
+  "ja": "国際連盟とGRACE"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x0100006A0001A5B8",
+  "conversation_id": 432,
+  "entry_id": 121,
+  "script": "userScript",
+  "op": "=",
+  "ja": "国際連盟"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x010000BE00006076",
+  "conversation_id": 432,
+  "entry_id": 655,
+  "script": "userScript",
+  "op": "=",
+  "ja": "各国"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x010000BE00006181",
+  "conversation_id": 432,
+  "entry_id": 707,
+  "script": "userScript",
+  "op": "=",
+  "ja": "国際連盟とアルカシア条約機構"
+ },
+ {
+  "variable": "RiziaDLCText.JubileeDelegation",
+  "where": "0x010000BE0000618C",
+  "conversation_id": 432,
+  "entry_id": 711,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アルカシア条約機構"
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "0x010000520005BFD8",
+  "conversation_id": 433,
+  "entry_id": 726,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴェンドネサム連合"
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "0x010000520005BFDD",
+  "conversation_id": 433,
+  "entry_id": 727,
+  "script": "userScript",
+  "op": "=",
+  "ja": ""
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "0x010000520005C017",
+  "conversation_id": 433,
+  "entry_id": 735,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア王国、パレス大公国"
+ },
+ {
+  "variable": "RiziaDLCText.GRACECountries",
+  "where": "0x010000520005C01C",
+  "conversation_id": 433,
+  "entry_id": 736,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア王国、パレス大公国、ヴェンドネサム連合"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053B61",
+  "conversation_id": 439,
+  "entry_id": 805,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレスとヴェーレン"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053B66",
+  "conversation_id": 439,
+  "entry_id": 806,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレスとデルディア"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053B71",
+  "conversation_id": 439,
+  "entry_id": 810,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレスとモレラ"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053B88",
+  "conversation_id": 439,
+  "entry_id": 817,
+  "script": "userScript",
+  "op": "=",
+  "ja": "デルディアとヴェーレン"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053B8D",
+  "conversation_id": 439,
+  "entry_id": 818,
+  "script": "userScript",
+  "op": "=",
+  "ja": "デルディアとモレラ"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053B92",
+  "conversation_id": 439,
+  "entry_id": 819,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴェーレンとモレラ"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053BBA",
+  "conversation_id": 439,
+  "entry_id": 833,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレス、ヴェーレン、デルディア"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053BBF",
+  "conversation_id": 439,
+  "entry_id": 834,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレス、ヴェーレン、モレラ"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053BC4",
+  "conversation_id": 439,
+  "entry_id": 835,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレス、モレラ、デルディア"
+ },
+ {
+  "variable": "RiziaDLCText.IntermerkopumCountries",
+  "where": "0x0100005200053BCF",
+  "conversation_id": 439,
+  "entry_id": 836,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ヴェーレン、モレラ、デルディア"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E720",
+  "conversation_id": 441,
+  "entry_id": 273,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ゴルコンド主義聖護領"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E724",
+  "conversation_id": 441,
+  "entry_id": 274,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジル・ヴルヘック共和国"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E728",
+  "conversation_id": 441,
+  "entry_id": 275,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジル・ブルディア共和国"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E72C",
+  "conversation_id": 441,
+  "entry_id": 276,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジル解放戦線"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E69A",
+  "conversation_id": 448,
+  "entry_id": 317,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ゴルコンド主義聖護領"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E69F",
+  "conversation_id": 448,
+  "entry_id": 318,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジル・ヴルヘック共和国"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E6A3",
+  "conversation_id": 448,
+  "entry_id": 319,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジル・ブルディア共和国"
+ },
+ {
+  "variable": "RiziaDLCText.IndependentZille",
+  "where": "0x0100009A0000E6A7",
+  "conversation_id": 448,
+  "entry_id": 320,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ジル解放戦線"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_RH",
+  "where": "0x010000C300001C83",
+  "conversation_id": 449,
+  "entry_id": 1219,
+  "script": "userScript",
+  "op": "=",
+  "ja": "この打撃にもかかわらず、国王陛下は、パイプラインの機能回復に向けて特別対策班を動員し、すでに修理を進めていると国民に請け合った。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_RH",
+  "where": "0x010000C300001C88",
+  "conversation_id": 449,
+  "entry_id": 1220,
+  "script": "userScript",
+  "op": "=",
+  "ja": "この打撃にもかかわらず、国王陛下は、パイプラインの機能回復に向けて特別対策班を動員し、すでに修理を進めていると国民に請け合った。また国王はルンブルク王国に協力を求め、同国は修理費の負担を快く申し出た。両国の絆はさらに強まった。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_RH",
+  "where": "0x010000C300001C8D",
+  "conversation_id": 449,
+  "entry_id": 1221,
+  "script": "userScript",
+  "op": "=",
+  "ja": "この打撃にもかかわらず、国王陛下は、パイプラインの機能回復に向けて特別対策班を動員し、すでに修理を進めていると国民に請け合った。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_RH",
+  "where": "0x010000C300001C92",
+  "conversation_id": 449,
+  "entry_id": 1222,
+  "script": "userScript",
+  "op": "=",
+  "ja": "この打撃にもかかわらず、国王陛下は、パイプラインの機能回復に向けて特別対策班を動員し、すでに修理を進めていると国民に請け合った。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_V",
+  "where": "0x010000C300016B7B",
+  "conversation_id": 449,
+  "entry_id": 1708,
+  "script": "userScript",
+  "op": "=",
+  "ja": "迅速な修理の約束が出てきたのは、災害が起きてからのことであり、対応に動員されたのはいわゆる「特別対策班」である。注目すべきは修理費をルンブルク王国が負担する点で、国王が見返りにどんな譲歩を約束したのか、外国勢力がリジアの内政に及ぼす影響力が強まっているのではないかと疑問の声が上がっている。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_V",
+  "where": "0x010000C300016B80",
+  "conversation_id": 449,
+  "entry_id": 1709,
+  "script": "userScript",
+  "op": "=",
+  "ja": "迅速な修理の約束が出てきたのは、災害が起きてからのことであり、対応に動員されたのはいわゆる「特別対策班」である。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_RH",
+  "where": "0x010000520007C7C4",
+  "conversation_id": 449,
+  "entry_id": 1710,
+  "script": "userScript",
+  "op": "=",
+  "ja": "国王陛下は、予算が許しだい修理に着手すると約束している。"
+ },
+ {
+  "variable": "RiziaDLCText.PipelineOutcome_V",
+  "where": "0x010000520007C7C4",
+  "conversation_id": 449,
+  "entry_id": 1710,
+  "script": "userScript",
+  "op": "=",
+  "ja": "しかも、損傷を修理する計画は何も発表されていない。"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyFashion",
+  "where": "0x0100009A0000F0E3",
+  "conversation_id": 457,
+  "entry_id": 51,
+  "script": "userScript",
+  "op": "=",
+  "ja": "輝く甲冑"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyFashion",
+  "where": "0x0100009A0000F0E7",
+  "conversation_id": 457,
+  "entry_id": 52,
+  "script": "userScript",
+  "op": "=",
+  "ja": "体にぴったりした軍服"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyFashion",
+  "where": "0x0100009A0000F0EB",
+  "conversation_id": 457,
+  "entry_id": 53,
+  "script": "userScript",
+  "op": "=",
+  "ja": "裾の長い流れるようなローブ"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyFashion",
+  "where": "0x0100009A0000F0EF",
+  "conversation_id": 457,
+  "entry_id": 54,
+  "script": "userScript",
+  "op": "=",
+  "ja": "非の打ちどころなく仕立てられたスーツ"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyName",
+  "where": "0x0100009A0000F67D",
+  "conversation_id": 457,
+  "entry_id": 234,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア・ヴルヘック王国"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyName",
+  "where": "0x0100009A0000F682",
+  "conversation_id": 457,
+  "entry_id": 235,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア神聖主権国"
+ },
+ {
+  "variable": "RiziaDLCText.TheocracyName",
+  "where": "0x0100009A0000F687",
+  "conversation_id": 457,
+  "entry_id": 236,
+  "script": "userScript",
+  "op": "=",
+  "ja": "リジア聖神権国"
+ },
+ {
+  "variable": "RiziaDLCText.PrimeMinister",
+  "where": "0x0100009E00009B1F",
+  "conversation_id": 545,
+  "entry_id": 163,
+  "script": "userScript",
+  "op": "=",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "variable": "RiziaDLCText.PrimeMinister",
+  "where": "0x0100009E00009B25",
+  "conversation_id": 545,
+  "entry_id": 164,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ダリア・デ・ラーヴァ"
+ },
+ {
+  "variable": "RiziaDLCText.PrimeMinister",
+  "where": "0x010000B800012032",
+  "conversation_id": 545,
+  "entry_id": 241,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アダルフォ・ソテラート"
+ },
+ {
+  "variable": "RiziaDLCText.News_Gossip_Birthday_KingsPartner",
+  "where": "0x010000BE00000C54",
+  "conversation_id": 554,
+  "entry_id": 453,
+  "script": "userScript",
+  "op": "=",
+  "ja": "と、子宝に恵まれた最愛の王妃ルシータ"
+ },
+ {
+  "variable": "RiziaDLCText.News_Gossip_Birthday_KingsPartner",
+  "where": "0x010000BE00000C5B",
+  "conversation_id": 554,
+  "entry_id": 454,
+  "script": "userScript",
+  "op": "=",
+  "ja": "と、新たに明らかになった愛人パベル・アドリア"
+ },
+ {
+  "variable": "RiziaDLCText.News_Gossip_Birthday_Protesters",
+  "where": "0x010000BE00000C6E",
+  "conversation_id": 554,
+  "entry_id": 461,
+  "script": "userScript",
+  "op": "=",
+  "ja": "外に集まった興ざめな群衆でさえ、この夜の催しに水を差すことはできなかった。"
+ },
+ {
+  "variable": "RiziaDLCText.News_RH_Birthday_War",
+  "where": "0x010000BE00000CA0",
+  "conversation_id": 554,
+  "entry_id": 469,
+  "script": "userScript",
+  "op": "=",
+  "ja": "タデウス・アザロ将軍でさえ、パレスの戦線から束の間の休息を取って出席した。"
+ },
+ {
+  "variable": "RiziaDLCText.News_RH_Birthday_Protesters",
+  "where": "0x010000BE00000CAC",
+  "conversation_id": 554,
+  "entry_id": 473,
+  "script": "userScript",
+  "op": "=",
+  "ja": "国王陛下を引きずり下ろそうとする恩知らずの反逆者どもに対しても、王家が揺るがずにあらんことを。"
+ },
+ {
+  "variable": "RiziaDLCText.News_Turn10_Birthday_RemovedTaxes",
+  "where": "0x010000BE00000D08",
+  "conversation_id": 554,
+  "entry_id": 489,
+  "script": "userScript",
+  "op": "=",
+  "ja": "地主の所有地と相続財産"
+ },
+ {
+  "variable": "RiziaDLCText.News_Turn10_Birthday_RemovedTaxes",
+  "where": "0x010000BE00000D0D",
+  "conversation_id": 554,
+  "entry_id": 490,
+  "script": "userScript",
+  "op": "=",
+  "ja": "地主の所有地"
+ },
+ {
+  "variable": "RiziaDLCText.News_Turn10_Birthday_RemovedTaxes",
+  "where": "0x010000BE00000D12",
+  "conversation_id": 554,
+  "entry_id": 491,
+  "script": "userScript",
+  "op": "=",
+  "ja": "相続財産"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C4000001DC",
+  "conversation_id": 559,
+  "entry_id": 626,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家・アザロ家・サゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C4000001E1",
+  "conversation_id": 559,
+  "entry_id": 627,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家とアザロ家"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C4000001E6",
+  "conversation_id": 559,
+  "entry_id": 628,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C4000001EB",
+  "conversation_id": 559,
+  "entry_id": 629,
+  "script": "userScript",
+  "op": "=",
+  "ja": "サゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C4000001FC",
+  "conversation_id": 559,
+  "entry_id": 636,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家とサゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C400000201",
+  "conversation_id": 559,
+  "entry_id": 637,
+  "script": "userScript",
+  "op": "=",
+  "ja": "トラス家"
+ },
+ {
+  "variable": "RiziaDLCText.BirthdayGathering_StrikeTarget",
+  "where": "0x010000C40000020B",
+  "conversation_id": 559,
+  "entry_id": 641,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アザロ家とサゾン家"
+ },
+ {
+  "variable": "RiziaDLCText.NewPalesHoliday",
+  "where": "0x010000BE000068C2",
+  "conversation_id": 577,
+  "entry_id": 950,
+  "script": "userScript",
+  "op": "=",
+  "ja": "パレス再統一記念日"
+ },
+ {
+  "variable": "RiziaDLCText.RustyArrestReason",
+  "where": "0x01000052000655D9",
+  "conversation_id": 591,
+  "entry_id": 367,
+  "script": "userScript",
+  "op": "=",
+  "ja": "戦時下のリジア王室金鉱の一斉接収"
+ },
+ {
+  "variable": "RiziaDLCText.RustyFate",
+  "where": "0x01000052000655F2",
+  "conversation_id": 591,
+  "entry_id": 372,
+  "script": "userScript",
+  "op": "=",
+  "ja": "退任"
+ },
+ {
+  "variable": "RiziaDLCText.GoldenGuardUpdate",
+  "where": "0x01000052000692AE",
+  "conversation_id": 592,
+  "entry_id": 709,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス・トラス王の治世下で、近衛兵は師団規模に拡大され、任務も広げられた。のちに特別な宗教部隊「ヴルヘックの守護者」が加えられた。"
+ },
+ {
+  "variable": "RiziaDLCText.GoldenGuardUpdate",
+  "where": "0x01000052000692BF",
+  "conversation_id": 592,
+  "entry_id": 713,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ロムス・トラス王の治世下で、近衛兵には新たな宗教部隊「ヴルヘックの守護者」が加わった。"
+ },
+ {
+  "variable": "RiziaDLCText.EpiloguePM",
+  "where": "0x010000C800003ACB",
+  "conversation_id": 597,
+  "entry_id": 86,
+  "script": "userScript",
+  "op": "=",
+  "ja": "ダリア"
+ },
+ {
+  "variable": "RiziaDLCText.EpiloguePM",
+  "where": "0x010000C800003AD9",
+  "conversation_id": 597,
+  "entry_id": 90,
+  "script": "userScript",
+  "op": "=",
+  "ja": "アダルフォ"
+ },
+ {
+  "variable": "RiziaDLCText.EpiloguePM",
+  "where": "0x010000C800003ADE",
+  "conversation_id": 597,
+  "entry_id": 91,
+  "script": "userScript",
+  "op": "=",
+  "ja": "マヌス"
+ }
+]

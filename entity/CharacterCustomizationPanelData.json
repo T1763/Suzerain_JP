@@ -1,0 +1,58 @@
+[
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x01000046000222CD",
+  "name_in_database": "CharacterCustomization_AntonRayne",
+  "path": "CharacterCustomizationPanelProperties.PanelTitle",
+  "ja": "容姿の設定"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x01000046000222CD",
+  "name_in_database": "CharacterCustomization_AntonRayne",
+  "path": "CharacterCustomizationPanelProperties.CharacterName",
+  "ja": "アントン・レイン"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x01000046000222CD",
+  "name_in_database": "CharacterCustomization_AntonRayne",
+  "path": "CharacterCustomizationPanelProperties.PanelSubtitle",
+  "ja": "アントン・レイン大統領の容姿を選んでください。決定した外見は物語を通じて固定され、後から変更することはできません。"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x01000046000222CD",
+  "name_in_database": "CharacterCustomization_AntonRayne",
+  "path": "CharacterCustomizationPanelProperties.CharacterTitle",
+  "ja": "ソードランド第4代大統領"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x0100005B00000036",
+  "name_in_database": "CharacterCustomization_RomusToras",
+  "path": "CharacterCustomizationPanelProperties.PanelTitle",
+  "ja": "容姿の設定"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x0100005B00000036",
+  "name_in_database": "CharacterCustomization_RomusToras",
+  "path": "CharacterCustomizationPanelProperties.CharacterName",
+  "ja": "ロムス・トラス"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x0100005B00000036",
+  "name_in_database": "CharacterCustomization_RomusToras",
+  "path": "CharacterCustomizationPanelProperties.PanelSubtitle",
+  "ja": "ロムス・トラス王の容姿を選んでください。決定した外見は物語を通じて固定され、後から変更することはできません。"
+ },
+ {
+  "type": "CharacterCustomizationPanelData",
+  "item_id": "0x0100005B00000036",
+  "name_in_database": "CharacterCustomization_RomusToras",
+  "path": "CharacterCustomizationPanelProperties.CharacterTitle",
+  "ja": "リジア第15代君主"
+ }
+]

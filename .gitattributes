@@ -1,0 +1,2 @@
+# keep files byte-for-byte (CSV uses CRLF, JSON uses LF)
+* -text

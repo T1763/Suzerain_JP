@@ -1,0 +1,1382 @@
+[
+ {
+  "key": "Profile Name",
+  "scene": "sordland, rizia",
+  "ja": "プロフィール名"
+ },
+ {
+  "key": "Continue with Google",
+  "scene": "sordland, rizia",
+  "ja": "Google で続ける"
+ },
+ {
+  "key": "Tickets",
+  "scene": "sordland, rizia",
+  "ja": "チケット"
+ },
+ {
+  "key": "Enter game name...",
+  "scene": "sordland, rizia",
+  "ja": "セーブ名を入力..."
+ },
+ {
+  "key": "Select",
+  "scene": "sordland, rizia",
+  "ja": "選択"
+ },
+ {
+  "key": "Settings",
+  "scene": "sordland, rizia",
+  "ja": "設定"
+ },
+ {
+  "key": "Zoom Out",
+  "scene": "sordland, rizia",
+  "ja": "ズームアウト"
+ },
+ {
+  "key": "Cancel",
+  "scene": "sordland, rizia",
+  "ja": "キャンセル"
+ },
+ {
+  "key": "Language (Q)",
+  "scene": "sordland, rizia",
+  "ja": "言語 (Q)"
+ },
+ {
+  "key": "password",
+  "scene": "sordland, rizia",
+  "ja": "パスワード"
+ },
+ {
+  "key": "Watch Ads",
+  "scene": "sordland, rizia",
+  "ja": "広告を見る"
+ },
+ {
+  "key": "CHOOSE A POLITICAL AFFILIATION",
+  "scene": "sordland, rizia",
+  "ja": "政治的立場を選ぶ"
+ },
+ {
+  "key": "Torpor Account Login",
+  "scene": "sordland, rizia",
+  "ja": "Torpor アカウントにログイン"
+ },
+ {
+  "key": "Bundles",
+  "scene": "sordland, rizia",
+  "ja": "セット"
+ },
+ {
+  "key": "SSAO",
+  "scene": "sordland, rizia",
+  "ja": "SSAO"
+ },
+ {
+  "key": "AFFILIATION:",
+  "scene": "sordland, rizia",
+  "ja": "立場："
+ },
+ {
+  "key": "<size=19>(Press)</size> Hyperlinks",
+  "scene": "sordland, rizia",
+  "ja": "<size=19>(押す)</size> リンク"
+ },
+ {
+  "key": "Torpor Account",
+  "scene": "sordland, rizia",
+  "ja": "Torpor アカウント"
+ },
+ {
+  "key": "Use Story Points to start or continue playing a story. \r\n\r\nEarn more by watching ads, leveling up, and completing in-game actions.",
+  "scene": "sordland, rizia",
+  "ja": "ストーリーポイントを使って、物語を始めたり続けたりできます。\r\n\r\n広告の視聴、レベルアップ、ゲーム内の行動の達成で増やせます。"
+ },
+ {
+  "key": "Country",
+  "scene": "sordland, rizia",
+  "ja": "国"
+ },
+ {
+  "key": "MAIN MENU",
+  "scene": "sordland, rizia",
+  "ja": "メインメニュー"
+ },
+ {
+  "key": "Gift Codes",
+  "scene": "sordland, rizia",
+  "ja": "ギフトコード"
+ },
+ {
+  "key": "Back",
+  "scene": "sordland, rizia",
+  "ja": "戻る"
+ },
+ {
+  "key": "Suzerain Completed",
+  "scene": "sordland, rizia",
+  "ja": "Suzerain クリア済み"
+ },
+ {
+  "key": "Confirm",
+  "scene": "sordland, rizia",
+  "ja": "決定"
+ },
+ {
+  "key": "Delete",
+  "scene": "sordland, rizia",
+  "ja": "削除"
+ },
+ {
+  "key": "Previous Token/Panel",
+  "scene": "sordland, rizia",
+  "ja": "前の駒／パネル"
+ },
+ {
+  "key": "INFLUENCE",
+  "scene": "sordland, rizia",
+  "ja": "影響力"
+ },
+ {
+  "key": "Login",
+  "scene": "sordland, rizia",
+  "ja": "ログイン"
+ },
+ {
+  "key": "Congratulations. You've unlocked the daily reward for today.\n\n\nKeep up the good work.",
+  "scene": "sordland, rizia",
+  "ja": "おめでとうございます。本日のデイリー報酬を獲得しました。\n\n\nこの調子で続けましょう。"
+ },
+ {
+  "key": "Story Packs",
+  "scene": "sordland, rizia",
+  "ja": "ストーリーパック"
+ },
+ {
+  "key": "To receive your gift, enter your code below.",
+  "scene": "sordland, rizia",
+  "ja": "ギフトを受け取るには、下にコードを入力してください。"
+ },
+ {
+  "key": "Data Collection\n\nThis game collects gameplay data through Torpor Games' analytics service, A/B testing and service providers. The information gathered will aid us in enhancing game balance for a better game experience. For further information see the Torpor Games Privacy Policy.",
+  "scene": "sordland, rizia",
+  "ja": "データの収集\n\nこのゲームは、Torpor Games の分析サービス・A/Bテスト・サービス提供者を通じてプレイデータを収集します。収集した情報は、より良いゲーム体験のためにゲームバランスを改善するのに役立てます。詳しくは Torpor Games のプライバシーポリシーをご覧ください。"
+ },
+ {
+  "key": "OR",
+  "scene": "sordland, rizia",
+  "ja": "または"
+ },
+ {
+  "key": "Prologue Choices",
+  "scene": "sordland, rizia",
+  "ja": "プロローグの選択"
+ },
+ {
+  "key": "Minimize/Unminimize/\nOpen Profile Page",
+  "scene": "sordland, rizia",
+  "ja": "最小化／元に戻す／\nプロフィールを開く"
+ },
+ {
+  "key": "Ad Privacy Options",
+  "scene": "sordland, rizia",
+  "ja": "広告のプライバシー設定"
+ },
+ {
+  "key": "Delete Personal Data",
+  "scene": "sordland, rizia",
+  "ja": "個人データを削除"
+ },
+ {
+  "key": "New Game",
+  "scene": "sordland, rizia",
+  "ja": "ニューゲーム"
+ },
+ {
+  "key": "Achievements",
+  "scene": "sordland, rizia",
+  "ja": "実績"
+ },
+ {
+  "key": "Post-processing",
+  "scene": "sordland, rizia",
+  "ja": "ポストプロセス"
+ },
+ {
+  "key": "Load",
+  "scene": "sordland, rizia",
+  "ja": "ロード"
+ },
+ {
+  "key": "Welcome to Suzerain",
+  "scene": "sordland, rizia",
+  "ja": "Suzerain へようこそ"
+ },
+ {
+  "key": "email",
+  "scene": "sordland, rizia",
+  "ja": "メールアドレス"
+ },
+ {
+  "key": "Password",
+  "scene": "sordland, rizia",
+  "ja": "パスワード"
+ },
+ {
+  "key": "Store",
+  "scene": "sordland, rizia",
+  "ja": "ストア"
+ },
+ {
+  "key": "Analytics Consent",
+  "scene": "sordland, rizia",
+  "ja": "分析への同意"
+ },
+ {
+  "key": "Daily Rewards",
+  "scene": "sordland, rizia",
+  "ja": "デイリー報酬"
+ },
+ {
+  "key": "Account Settings",
+  "scene": "sordland, rizia",
+  "ja": "アカウント設定"
+ },
+ {
+  "key": "Torpor Mode",
+  "scene": "sordland, rizia",
+  "ja": "トーパーモード"
+ },
+ {
+  "key": "No Internet Connection",
+  "scene": "sordland, rizia",
+  "ja": "インターネットに接続されていません"
+ },
+ {
+  "key": "\"Suzerain\" is a work of fiction and any resemblance to actual persons, living or dead, or actual events is purely coincidental. While the game may illustrate various perspectives on political subjects, these depictions are purely for artistic exploration and do not indicate an endorsement or promotion of these viewpoints by the creators. \n\nThis game employs mature themes including instances of violence, death and suicide as part of its narrative.",
+  "scene": "sordland, rizia",
+  "ja": "『Suzerain』はフィクションであり、実在の人物（存命・故人を問わず）や実際の出来事との類似はすべて偶然です。本作は政治的な主題についてさまざまな視点を描いていますが、それらは純粋に芸術的な探求のためのものであり、制作者がそうした見解を支持・推奨していることを示すものではありません。 \n\n本作は物語の一部として、暴力・死・自殺の描写を含む成人向けの主題を扱っています。"
+ },
+ {
+  "key": "Saved on a different version.",
+  "scene": "sordland, rizia",
+  "ja": "別のバージョンで保存されています。"
+ },
+ {
+  "key": "Zoom In",
+  "scene": "sordland, rizia",
+  "ja": "ズームイン"
+ },
+ {
+  "key": "Credits",
+  "scene": "sordland, rizia",
+  "ja": "クレジット"
+ },
+ {
+  "key": "Re-Enter Password",
+  "scene": "sordland, rizia",
+  "ja": "パスワードを再入力"
+ },
+ {
+  "key": "This mode disables manual saving and enables achievements. You can only turn it off after completing the story once.",
+  "scene": "sordland, rizia",
+  "ja": "このモードでは手動セーブができなくなり、実績が有効になります。物語を一度クリアするまでオフにできません。"
+ },
+ {
+  "key": "Sign up with Google",
+  "scene": "sordland, rizia",
+  "ja": "Google で登録"
+ },
+ {
+  "key": "Torpor Games Privacy Policy",
+  "scene": "sordland, rizia",
+  "ja": "Torpor Games プライバシーポリシー"
+ },
+ {
+  "key": "E-Mail Address",
+  "scene": "sordland, rizia",
+  "ja": "メールアドレス"
+ },
+ {
+  "key": "CONTINUE",
+  "scene": "sordland, rizia",
+  "ja": "続きから"
+ },
+ {
+  "key": "Link Account",
+  "scene": "sordland, rizia",
+  "ja": "アカウントを連携"
+ },
+ {
+  "key": "Loading...",
+  "scene": "sordland, rizia",
+  "ja": "読み込み中..."
+ },
+ {
+  "key": "Next Token/Panel",
+  "scene": "sordland, rizia",
+  "ja": "次の駒／パネル"
+ },
+ {
+  "key": "Forgot Password?",
+  "scene": "sordland, rizia",
+  "ja": "パスワードをお忘れですか？"
+ },
+ {
+  "key": "Delete Torpor Account",
+  "scene": "sordland, rizia",
+  "ja": "Torpor アカウントを削除"
+ },
+ {
+  "key": "CAP REACHED",
+  "scene": "sordland, rizia",
+  "ja": "上限に達しました"
+ },
+ {
+  "key": "Font Size",
+  "scene": "sordland, rizia",
+  "ja": "文字の大きさ"
+ },
+ {
+  "key": "Skip Prologue",
+  "scene": "sordland, rizia",
+  "ja": "プロローグを飛ばす"
+ },
+ {
+  "key": "Font",
+  "scene": "sordland, rizia",
+  "ja": "フォント"
+ },
+ {
+  "key": "By using this service you agree to the Torpor Games\n<link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>Terms of Service</color></u></link> and <link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>Privacy Policy</color></u></link>",
+  "scene": "sordland, rizia",
+  "ja": "このサービスを利用すると、Torpor Games の\n<link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>利用規約</color></u></link>と<link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>プライバシーポリシー</color></u></link>に同意したものとみなされます"
+ },
+ {
+  "key": "EXPERIENCE",
+  "scene": "sordland, rizia",
+  "ja": "経験値"
+ },
+ {
+  "key": "Level up by earning XP to unlock rewards and story points. \r\n\r\nGain XP through completing actions and achievements in the game.",
+  "scene": "sordland, rizia",
+  "ja": "経験値を稼いでレベルを上げると、報酬とストーリーポイントが手に入ります。 \r\n\r\n経験値はゲーム内の行動や実績を達成すると得られます。"
+ },
+ {
+  "key": "By using this service you agree to the Torpor Games\n<link=\"https://www.torporgames.com/terms-of-service\"><color=#D9D6D6><u>Terms of Service</color></u></link> and <link=\"https://www.torporgames.com/privacy-policy\"><color=#D9D6D6><u>Privacy Policy</color></u></link>",
+  "scene": "sordland, rizia",
+  "ja": "このサービスを利用すると、Torpor Games の\n<link=\"https://www.torporgames.com/terms-of-service\"><color=#D9D6D6><u>利用規約</color></u></link>と<link=\"https://www.torporgames.com/privacy-policy\"><color=#D9D6D6><u>プライバシーポリシー</color></u></link>に同意したものとみなされます"
+ },
+ {
+  "key": "PURCHASE",
+  "scene": "sordland, rizia",
+  "ja": "購入"
+ },
+ {
+  "key": "Load Archetype",
+  "scene": "sordland, rizia",
+  "ja": "人物像を読み込む"
+ },
+ {
+  "key": "Window Mode",
+  "scene": "sordland, rizia",
+  "ja": "画面モード"
+ },
+ {
+  "key": "Secondary Language (E)",
+  "scene": "sordland, rizia",
+  "ja": "第二言語 (E)"
+ },
+ {
+  "key": "Link Account with Email",
+  "scene": "sordland, rizia",
+  "ja": "メールアドレスでアカウントを連携"
+ },
+ {
+  "key": "Reset Password",
+  "scene": "sordland, rizia",
+  "ja": "パスワードを再設定"
+ },
+ {
+  "key": "Language",
+  "scene": "sordland, rizia",
+  "ja": "言語"
+ },
+ {
+  "key": "New",
+  "scene": "sordland, rizia",
+  "ja": "新着"
+ },
+ {
+  "key": "Leader",
+  "scene": "sordland, rizia",
+  "ja": "指導者"
+ },
+ {
+  "key": "Log Out",
+  "scene": "sordland, rizia",
+  "ja": "ログアウト"
+ },
+ {
+  "key": "SFX Volume",
+  "scene": "sordland, rizia",
+  "ja": "効果音の音量"
+ },
+ {
+  "key": "new email address",
+  "scene": "sordland, rizia",
+  "ja": "新しいメールアドレス"
+ },
+ {
+  "key": "code",
+  "scene": "sordland, rizia",
+  "ja": "コード"
+ },
+ {
+  "key": "Lighting",
+  "scene": "sordland, rizia",
+  "ja": "ライティング"
+ },
+ {
+  "key": "Reward:",
+  "scene": "sordland, rizia",
+  "ja": "報酬："
+ },
+ {
+  "key": "Rizia Completed",
+  "scene": "sordland, rizia",
+  "ja": "リジア クリア済み"
+ },
+ {
+  "key": "Back to Login",
+  "scene": "sordland, rizia",
+  "ja": "ログインに戻る"
+ },
+ {
+  "key": "STORY POINTS",
+  "scene": "sordland, rizia",
+  "ja": "ストーリーポイント"
+ },
+ {
+  "key": "Music Volume",
+  "scene": "sordland, rizia",
+  "ja": "音楽の音量"
+ },
+ {
+  "key": "Options",
+  "scene": "sordland, rizia",
+  "ja": "設定"
+ },
+ {
+  "key": "Incorrect email or password.",
+  "scene": "sordland, rizia",
+  "ja": "メールアドレスまたはパスワードが違います。"
+ },
+ {
+  "key": "Continue with Apple",
+  "scene": "sordland, rizia",
+  "ja": "Apple で続ける"
+ },
+ {
+  "key": "Loading ad…\r",
+  "scene": "sordland, rizia",
+  "ja": "広告を読み込み中…\r"
+ },
+ {
+  "key": "Story Selection",
+  "scene": "sordland, rizia",
+  "ja": "物語の選択"
+ },
+ {
+  "key": "SELECT",
+  "scene": "sordland, rizia",
+  "ja": "選択"
+ },
+ {
+  "key": "LOAD",
+  "scene": "sordland, rizia",
+  "ja": "ロード"
+ },
+ {
+  "key": "Overview",
+  "scene": "sordland, rizia",
+  "ja": "概要"
+ },
+ {
+  "key": "Experience",
+  "scene": "sordland, rizia",
+  "ja": "経験値"
+ },
+ {
+  "key": "Set Password",
+  "scene": "sordland, rizia",
+  "ja": "パスワードを設定"
+ },
+ {
+  "key": "Restore Defaults",
+  "scene": "sordland, rizia",
+  "ja": "初期設定に戻す"
+ },
+ {
+  "key": "Graphics",
+  "scene": "sordland, rizia",
+  "ja": "グラフィック"
+ },
+ {
+  "key": "Load Save",
+  "scene": "sordland, rizia",
+  "ja": "セーブをロード"
+ },
+ {
+  "key": "profile name",
+  "scene": "sordland, rizia",
+  "ja": "プロフィール名"
+ },
+ {
+  "key": "Delete Analytics Data",
+  "scene": "sordland, rizia",
+  "ja": "分析データを削除"
+ },
+ {
+  "key": "Error",
+  "scene": "sordland, rizia",
+  "ja": "エラー"
+ },
+ {
+  "key": "Shadows",
+  "scene": "sordland, rizia",
+  "ja": "影"
+ },
+ {
+  "key": "New Version Available!",
+  "scene": "sordland, rizia",
+  "ja": "新しいバージョンがあります！"
+ },
+ {
+  "key": "Map Movement/Scroll",
+  "scene": "sordland, rizia",
+  "ja": "マップの移動／スクロール"
+ },
+ {
+  "key": "Exit",
+  "scene": "sordland, rizia",
+  "ja": "終了"
+ },
+ {
+  "key": "New Game Name",
+  "scene": "sordland, rizia",
+  "ja": "新しいセーブの名前"
+ },
+ {
+  "key": "SAVING...",
+  "scene": "sordland, rizia",
+  "ja": "保存中..."
+ },
+ {
+  "key": "Reconnect",
+  "scene": "sordland, rizia",
+  "ja": "再接続"
+ },
+ {
+  "key": "Create Account",
+  "scene": "sordland, rizia",
+  "ja": "アカウントを作成"
+ },
+ {
+  "key": "Watch ads to earn Story Points. Use them to advance in the story.",
+  "scene": "sordland, rizia",
+  "ja": "広告を見てストーリーポイントを獲得し、物語を進めるのに使えます。"
+ },
+ {
+  "key": "V Sync",
+  "scene": "sordland, rizia",
+  "ja": "垂直同期"
+ },
+ {
+  "key": "ROTATE",
+  "scene": "sordland, rizia",
+  "ja": "回転"
+ },
+ {
+  "key": "Profile Details",
+  "scene": "sordland, rizia",
+  "ja": "プロフィールの詳細"
+ },
+ {
+  "key": "CHOOSE A PROFILE PICTURE",
+  "scene": "sordland, rizia",
+  "ja": "プロフィール画像を選ぶ"
+ },
+ {
+  "key": "Profile",
+  "scene": "sordland, rizia",
+  "ja": "プロフィール"
+ },
+ {
+  "key": "Torpor Mode Disabled",
+  "scene": "sordland, rizia",
+  "ja": "トーパーモード オフ"
+ },
+ {
+  "key": "Are you sure you want to delete Torpor Games Account?\nYou will lose your game backups and any associated data.",
+  "scene": "sordland, rizia",
+  "ja": "Torpor Games アカウントを削除してよろしいですか？\nゲームのバックアップと関連するデータはすべて失われます。"
+ },
+ {
+  "key": "You must complete the Main Story once to disable Torpor Mode.",
+  "scene": "sordland, rizia",
+  "ja": "トーパーモードをオフにするには、本編を一度クリアする必要があります。"
+ },
+ {
+  "key": "You are currently playing as a guest.\nLogin to use your Suzerain profile across devices.",
+  "scene": "sordland, rizia",
+  "ja": "現在ゲストとしてプレイしています。\nログインすると、Suzerain のプロフィールを複数の端末で使えます。"
+ },
+ {
+  "key": "ACHIEVEMENTS:",
+  "scene": "sordland, rizia",
+  "ja": "実績："
+ },
+ {
+  "key": "Sync Achievements",
+  "scene": "sordland, rizia",
+  "ja": "実績を同期"
+ },
+ {
+  "key": "Done",
+  "scene": "sordland, rizia",
+  "ja": "完了"
+ },
+ {
+  "key": "Textures",
+  "scene": "sordland, rizia",
+  "ja": "テクスチャ"
+ },
+ {
+  "key": "Import from existing completed save",
+  "scene": "sordland, rizia",
+  "ja": "クリア済みのセーブから読み込む"
+ },
+ {
+  "key": "Accept",
+  "scene": "sordland, rizia",
+  "ja": "同意する"
+ },
+ {
+  "key": "Target FPS",
+  "scene": "sordland, rizia",
+  "ja": "目標FPS"
+ },
+ {
+  "key": "Rizia",
+  "scene": "sordland, rizia",
+  "ja": "リジア"
+ },
+ {
+  "key": "Decline",
+  "scene": "sordland, rizia",
+  "ja": "同意しない"
+ },
+ {
+  "key": "Choose Your Own",
+  "scene": "sordland, rizia",
+  "ja": "自分で選ぶ"
+ },
+ {
+  "key": "Edit Username",
+  "scene": "sordland, rizia",
+  "ja": "ユーザー名を編集"
+ },
+ {
+  "key": "Sign up with Apple",
+  "scene": "sordland, rizia",
+  "ja": "Apple で登録"
+ },
+ {
+  "key": "To access this page, please reconnect to the internet.",
+  "scene": "sordland, rizia",
+  "ja": "このページを開くには、インターネットに再接続してください。"
+ },
+ {
+  "key": "RECENT ACTIVITY",
+  "scene": "sordland, rizia",
+  "ja": "最近の活動"
+ },
+ {
+  "key": "Map Switch/Open Login Page",
+  "scene": "sordland, rizia",
+  "ja": "マップ切り替え／ログインページを開く"
+ },
+ {
+  "key": "Collections",
+  "scene": "sordland, rizia",
+  "ja": "コレクション"
+ },
+ {
+  "key": "Warning",
+  "scene": "sordland, rizia",
+  "ja": "警告"
+ },
+ {
+  "key": "Saved on a different version",
+  "scene": "sordland, rizia",
+  "ja": "別のバージョンで保存されています"
+ },
+ {
+  "key": "START STORY",
+  "scene": "sordland, rizia",
+  "ja": "物語を始める"
+ },
+ {
+  "key": "UI Scaling\n",
+  "scene": "sordland, rizia",
+  "ja": "UIの拡大率\n"
+ },
+ {
+  "key": "Render Scale",
+  "scene": "sordland, rizia",
+  "ja": "レンダースケール"
+ },
+ {
+  "key": "Receive news and updates from Torpor Games",
+  "scene": "sordland, rizia",
+  "ja": "Torpor Games からのお知らせと更新情報を受け取る"
+ },
+ {
+  "key": "BACK",
+  "scene": "sordland, rizia",
+  "ja": "戻る"
+ },
+ {
+  "key": "Apply",
+  "scene": "sordland, rizia",
+  "ja": "適用"
+ },
+ {
+  "key": "If the email is found, you will receive an email shortly.",
+  "scene": "sordland, rizia",
+  "ja": "メールアドレスが登録されていれば、まもなくメールが届きます。"
+ },
+ {
+  "key": "Anti-Aliasing",
+  "scene": "sordland, rizia",
+  "ja": "アンチエイリアス"
+ },
+ {
+  "key": "Restore Purchases",
+  "scene": "sordland, rizia",
+  "ja": "購入を復元"
+ },
+ {
+  "key": "Choose the main character archetype for the parallel story. This will influence the story you are starting.",
+  "scene": "sordland, rizia",
+  "ja": "パラレルストーリーの主人公の人物像を選んでください。これから始める物語に影響します。"
+ },
+ {
+  "key": "Edit Email",
+  "scene": "sordland, rizia",
+  "ja": "メールアドレスを編集"
+ },
+ {
+  "key": "Latest News",
+  "scene": "sordland, rizia",
+  "ja": "最新情報"
+ },
+ {
+  "key": "Typewriter",
+  "scene": "sordland, rizia",
+  "ja": "タイプライター表示"
+ },
+ {
+  "key": "Story Points",
+  "scene": "sordland, rizia",
+  "ja": "ストーリーポイント"
+ },
+ {
+  "key": "Torpor Mode Enabled",
+  "scene": "sordland, rizia",
+  "ja": "トーパーモード オン"
+ },
+ {
+  "key": "Sordland",
+  "scene": "sordland, rizia",
+  "ja": "ソードランド"
+ },
+ {
+  "key": "Master Volume",
+  "scene": "sordland, rizia",
+  "ja": "全体の音量"
+ },
+ {
+  "key": "Info",
+  "scene": "sordland, rizia",
+  "ja": "情報"
+ },
+ {
+  "key": "END",
+  "scene": "sordland, rizia",
+  "ja": "終了"
+ },
+ {
+  "key": "Skip Read Dialogue Text",
+  "scene": "sordland, rizia",
+  "ja": "既読の会話を飛ばす"
+ },
+ {
+  "key": "Warn",
+  "scene": "sordland, rizia",
+  "ja": "警告"
+ },
+ {
+  "key": "You have previously signed in with ...",
+  "scene": "sordland, rizia",
+  "ja": "以前は次の方法でログインしていました…"
+ },
+ {
+  "key": "New E-Mail Address",
+  "scene": "sordland, rizia",
+  "ja": "新しいメールアドレス"
+ },
+ {
+  "key": "Click to Login",
+  "scene": "sordland, rizia",
+  "ja": "クリックしてログイン"
+ },
+ {
+  "key": "Resolution",
+  "scene": "sordland, rizia",
+  "ja": "解像度"
+ },
+ {
+  "key": "Connections",
+  "scene": "sordland, rizia",
+  "ja": "関係者"
+ },
+ {
+  "key": "Air Strike",
+  "scene": "sordland, rizia",
+  "ja": "空爆"
+ },
+ {
+  "key": "Fortify",
+  "scene": "sordland, rizia",
+  "ja": "陣地構築"
+ },
+ {
+  "key": "Finish",
+  "scene": "sordland, rizia",
+  "ja": "完了"
+ },
+ {
+  "key": "Organization",
+  "scene": "sordland, rizia",
+  "ja": "組織"
+ },
+ {
+  "key": "Defence",
+  "scene": "sordland, rizia",
+  "ja": "国防"
+ },
+ {
+  "key": "MENU",
+  "scene": "sordland, rizia",
+  "ja": "メニュー"
+ },
+ {
+  "key": "Naval Invasion",
+  "scene": "sordland, rizia",
+  "ja": "上陸作戦"
+ },
+ {
+  "key": "Units",
+  "scene": "sordland, rizia",
+  "ja": "部隊"
+ },
+ {
+  "key": "Open Demographics",
+  "scene": "sordland, rizia",
+  "ja": "人口構成を開く"
+ },
+ {
+  "key": "History",
+  "scene": "sordland, rizia",
+  "ja": "歴史"
+ },
+ {
+  "key": "Toggle whether unit stats should be displayed or not",
+  "scene": "sordland, rizia",
+  "ja": "部隊の能力値を表示するかを切り替える"
+ },
+ {
+  "key": "Economy",
+  "scene": "sordland, rizia",
+  "ja": "経済"
+ },
+ {
+  "key": "STABILITY",
+  "scene": "sordland, rizia",
+  "ja": "安定度"
+ },
+ {
+  "key": "POLICIES",
+  "scene": "sordland, rizia",
+  "ja": "政策"
+ },
+ {
+  "key": "Codex",
+  "scene": "sordland, rizia",
+  "ja": "索引"
+ },
+ {
+  "key": "Diplomacy",
+  "scene": "sordland, rizia",
+  "ja": "外交"
+ },
+ {
+  "key": "Military",
+  "scene": "sordland, rizia",
+  "ja": "軍事"
+ },
+ {
+  "key": "Low",
+  "scene": "sordland, rizia",
+  "ja": "低"
+ },
+ {
+  "key": "Action Points",
+  "scene": "sordland, rizia",
+  "ja": "行動ポイント"
+ },
+ {
+  "key": "Journal",
+  "scene": "sordland, rizia",
+  "ja": "日誌"
+ },
+ {
+  "key": "Submarines",
+  "scene": "sordland, rizia",
+  "ja": "潜水艦"
+ },
+ {
+  "key": "Sign",
+  "scene": "sordland, rizia",
+  "ja": "署名"
+ },
+ {
+  "key": "SITUATIONS",
+  "scene": "sordland, rizia",
+  "ja": "情勢"
+ },
+ {
+  "key": "Feel free to take notes here to help you remember important points throughout the story...\n",
+  "scene": "sordland, rizia",
+  "ja": "物語の大事な点を覚えておくために、ここに自由にメモを取ってください…\n"
+ },
+ {
+  "key": "High",
+  "scene": "sordland, rizia",
+  "ja": "高"
+ },
+ {
+  "key": "Current",
+  "scene": "sordland, rizia",
+  "ja": "現在"
+ },
+ {
+  "key": "Organisations",
+  "scene": "sordland, rizia",
+  "ja": "組織"
+ },
+ {
+  "key": "Load Last Checkpoint",
+  "scene": "sordland, rizia",
+  "ja": "最後のチェックポイントをロード"
+ },
+ {
+  "key": "Open City Information",
+  "scene": "sordland, rizia",
+  "ja": "都市の情報を開く"
+ },
+ {
+  "key": "Trade",
+  "scene": "sordland, rizia",
+  "ja": "貿易"
+ },
+ {
+  "key": "Reinforcements",
+  "scene": "sordland, rizia",
+  "ja": "増援"
+ },
+ {
+  "key": "No tooltips available.",
+  "scene": "sordland, rizia",
+  "ja": "ツールチップはありません。"
+ },
+ {
+  "key": "Invade a shore tile with a marine",
+  "scene": "sordland, rizia",
+  "ja": "海兵隊で沿岸のマスに上陸する"
+ },
+ {
+  "key": "Back to Codex",
+  "scene": "sordland, rizia",
+  "ja": "索引に戻る"
+ },
+ {
+  "key": "Currently Active:",
+  "scene": "sordland, rizia",
+  "ja": "現在有効："
+ },
+ {
+  "key": "Decisions",
+  "scene": "sordland, rizia",
+  "ja": "決定"
+ },
+ {
+  "key": "There is already an active scene.",
+  "scene": "sordland, rizia",
+  "ja": "すでに有効な場面があります。"
+ },
+ {
+  "key": "Restart",
+  "scene": "sordland, rizia",
+  "ja": "やり直す"
+ },
+ {
+  "key": "Tanks",
+  "scene": "sordland, rizia",
+  "ja": "戦車"
+ },
+ {
+  "key": "There are no news available yet...",
+  "scene": "sordland, rizia",
+  "ja": "まだニュースはありません…"
+ },
+ {
+  "key": "Support",
+  "scene": "sordland, rizia",
+  "ja": "支援"
+ },
+ {
+  "key": "Deploying",
+  "scene": "sordland, rizia",
+  "ja": "配備中"
+ },
+ {
+  "key": "Continue",
+  "scene": "sordland, rizia",
+  "ja": "続ける"
+ },
+ {
+  "key": "Country Overview",
+  "scene": "sordland, rizia",
+  "ja": "国の概要"
+ },
+ {
+  "key": "Reset Showcase",
+  "scene": "sordland, rizia",
+  "ja": "表示をリセット"
+ },
+ {
+  "key": "Locations",
+  "scene": "sordland, rizia",
+  "ja": "場所"
+ },
+ {
+  "key": "Next",
+  "scene": "sordland, rizia",
+  "ja": "次へ"
+ },
+ {
+  "key": "STATUS",
+  "scene": "sordland, rizia",
+  "ja": "状態"
+ },
+ {
+  "key": "Tutorial",
+  "scene": "sordland, rizia",
+  "ja": "チュートリアル"
+ },
+ {
+  "key": "Construction",
+  "scene": "sordland, rizia",
+  "ja": "建設"
+ },
+ {
+  "key": "Equipment",
+  "scene": "sordland, rizia",
+  "ja": "装備"
+ },
+ {
+  "key": "CHANGES OVER TIME",
+  "scene": "sordland, rizia",
+  "ja": "推移"
+ },
+ {
+  "key": "Notes:",
+  "scene": "sordland, rizia",
+  "ja": "メモ："
+ },
+ {
+  "key": "Toggle Unit Stats",
+  "scene": "sordland, rizia",
+  "ja": "部隊の能力値の表示"
+ },
+ {
+  "key": "Go to Location",
+  "scene": "sordland, rizia",
+  "ja": "その場所へ移動"
+ },
+ {
+  "key": "Train",
+  "scene": "sordland, rizia",
+  "ja": "訓練"
+ },
+ {
+  "key": "Notepad",
+  "scene": "sordland, rizia",
+  "ja": "メモ帳"
+ },
+ {
+  "key": "Fighter Planes",
+  "scene": "sordland, rizia",
+  "ja": "戦闘機"
+ },
+ {
+  "key": "News",
+  "scene": "sordland, rizia",
+  "ja": "新聞"
+ },
+ {
+  "key": "Select a Tile",
+  "scene": "sordland, rizia",
+  "ja": "マスを選択"
+ },
+ {
+  "key": "Order",
+  "scene": "sordland, rizia",
+  "ja": "命令"
+ },
+ {
+  "key": "Welfare",
+  "scene": "sordland, rizia",
+  "ja": "福祉"
+ },
+ {
+  "key": "Bomber Planes",
+  "scene": "sordland, rizia",
+  "ja": "爆撃機"
+ },
+ {
+  "key": "Ads",
+  "scene": "sordland, rizia",
+  "ja": "広告"
+ },
+ {
+  "key": "Cancel Training",
+  "scene": "sordland, rizia",
+  "ja": "訓練を取り消す"
+ },
+ {
+  "key": "DEPLOYED",
+  "scene": "sordland, rizia",
+  "ja": "配備済み"
+ },
+ {
+  "key": "Open Codex Entry",
+  "scene": "sordland, rizia",
+  "ja": "索引の項目を開く"
+ },
+ {
+  "key": "Enter save file name...",
+  "scene": "sordland, rizia",
+  "ja": "セーブ名を入力..."
+ },
+ {
+  "key": "Type here to search...",
+  "scene": "sordland, rizia",
+  "ja": "ここに入力して検索..."
+ },
+ {
+  "key": "Main Menu",
+  "scene": "sordland, rizia",
+  "ja": "メインメニュー"
+ },
+ {
+  "key": "Clear\n",
+  "scene": "sordland, rizia",
+  "ja": "消去\n"
+ },
+ {
+  "key": "Hyperlinks",
+  "scene": "sordland, rizia",
+  "ja": "リンク"
+ },
+ {
+  "key": "Select to Deploy",
+  "scene": "sordland, rizia",
+  "ja": "選んで配備"
+ },
+ {
+  "key": "In Training",
+  "scene": "sordland, rizia",
+  "ja": "訓練中"
+ },
+ {
+  "key": "Codex Entry",
+  "scene": "sordland, rizia",
+  "ja": "索引の項目"
+ },
+ {
+  "key": "Religion",
+  "scene": "sordland, rizia",
+  "ja": "宗教"
+ },
+ {
+  "key": "Past Reports",
+  "scene": "sordland, rizia",
+  "ja": "過去の報告"
+ },
+ {
+  "key": "Previous Entry",
+  "scene": "sordland, rizia",
+  "ja": "前の項目"
+ },
+ {
+  "key": "Save",
+  "scene": "sordland, rizia",
+  "ja": "セーブ"
+ },
+ {
+  "key": "Manpower",
+  "scene": "sordland, rizia",
+  "ja": "兵員"
+ },
+ {
+  "key": "Air drop a paratrooper",
+  "scene": "sordland, rizia",
+  "ja": "空挺兵を降下させる"
+ },
+ {
+  "key": "Menu",
+  "scene": "sordland, rizia",
+  "ja": "メニュー"
+ },
+ {
+  "key": "Reset Deployment",
+  "scene": "sordland, rizia",
+  "ja": "配備をやり直す"
+ },
+ {
+  "key": "Air Support",
+  "scene": "sordland, rizia",
+  "ja": "航空支援"
+ },
+ {
+  "key": "Law",
+  "scene": "sordland, rizia",
+  "ja": "法"
+ },
+ {
+  "key": "AVAILABLE",
+  "scene": "sordland, rizia",
+  "ja": "利用可能"
+ },
+ {
+  "key": "Ethnicity",
+  "scene": "sordland, rizia",
+  "ja": "民族"
+ },
+ {
+  "key": "Demographics",
+  "scene": "sordland, rizia",
+  "ja": "人口構成"
+ },
+ {
+  "key": "Continue...",
+  "scene": "sordland, rizia",
+  "ja": "続ける…"
+ },
+ {
+  "key": "Characters",
+  "scene": "sordland, rizia",
+  "ja": "人物"
+ },
+ {
+  "key": "NOTABLE MEMBERS",
+  "scene": "sordland, rizia",
+  "ja": "主な構成員"
+ },
+ {
+  "key": "Attack",
+  "scene": "sordland, rizia",
+  "ja": "攻撃"
+ },
+ {
+  "key": "No decrees currently available in this category",
+  "scene": "sordland, rizia",
+  "ja": "この分類で出せる法令は今はありません"
+ },
+ {
+  "key": "Trucks",
+  "scene": "sordland, rizia",
+  "ja": "輸送車"
+ },
+ {
+  "key": "Return",
+  "scene": "sordland, rizia",
+  "ja": "戻る"
+ },
+ {
+  "key": "Paratrooper",
+  "scene": "sordland, rizia",
+  "ja": "空挺兵"
+ },
+ {
+  "key": "Next Entry",
+  "scene": "sordland, rizia",
+  "ja": "次の項目"
+ },
+ {
+  "key": "Enemy Turn",
+  "scene": "sordland, rizia",
+  "ja": "敵のターン"
+ },
+ {
+  "key": "Randomize",
+  "scene": "sordland, rizia",
+  "ja": "ランダム"
+ },
+ {
+  "key": "Links",
+  "scene": "sordland, rizia",
+  "ja": "リンク"
+ },
+ {
+  "key": "None available.",
+  "scene": "sordland, rizia",
+  "ja": "ありません。"
+ },
+ {
+  "key": "Deselect current unit",
+  "scene": "sordland, rizia",
+  "ja": "選択中の部隊を解除"
+ },
+ {
+  "key": "Deploy additional units",
+  "scene": "sordland, rizia",
+  "ja": "部隊を追加で配備"
+ },
+ {
+  "key": "Battle Ships",
+  "scene": "sordland, rizia",
+  "ja": "戦艦"
+ },
+ {
+  "key": "ENACTED",
+  "scene": "sordland, rizia",
+  "ja": "施行済み"
+ }
+]

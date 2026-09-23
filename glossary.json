@@ -1,0 +1,3800 @@
+[
+ {
+  "en": "Adarfo Sotelato",
+  "ja": "アダルフォ・ソテラート",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Adria",
+  "ja": "アドリア",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Agnland",
+  "ja": "アグンランド",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Agno-Sordish",
+  "ja": "アグノ・ソードランド人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Agnoc",
+  "ja": "アグノク",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Agnolia",
+  "ja": "アグノリア",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Agnolian",
+  "ja": "アグノリア人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Albin Clavin",
+  "ja": "アルビン・クラヴィン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alfred Kcirbuk",
+  "ja": "アルフレッド・クリブーク",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alliance of Nations",
+  "ja": "国際連盟",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alma Saltana",
+  "ja": "アルマ・サルタナ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alphonso",
+  "ja": "アルフォンソ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alphonso Foundation",
+  "ja": "アルフォンソ財団",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alphonsonomics",
+  "ja": "アルフォンソノミクス",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Alvarez",
+  "ja": "アルバレス",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Angelica Sazon",
+  "ja": "アンジェリカ・サゾン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Anrakan",
+  "ja": "アンラカン",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Anrica",
+  "ja": "アンリカ",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Antel",
+  "ja": "アンテル",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Antel Rock Prison",
+  "ja": "アンテル・ロック刑務所",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Anti-Corruption Police",
+  "ja": "汚職捜査局",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Anti-Planetary Society",
+  "ja": "反惑星協会",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Anton Rayne",
+  "ja": "アントン・レイン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Anton Rayne (R)",
+  "ja": "アントン・レイン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Arcasia",
+  "ja": "アルカシア",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Arcasian",
+  "ja": "アルカシア人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Arcasian Capitalism",
+  "ja": "アルカシア型資本主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Arcasian Treaty Organization",
+  "ja": "アルカシア条約機構",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Archpriest",
+  "ja": "大司祭",
+  "category": "役職・肩書",
+  "tier": "tier1"
+ },
+ {
+  "en": "Archsanctuary of Benievon",
+  "ja": "ベニエヴォン聖域",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Archsanctuary of Dastnurity",
+  "ja": "ダストヌリティ聖域",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Archsanctuary of Plavo",
+  "ja": "プラヴォ聖域",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Argno",
+  "ja": "アルグノ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ariana Toras",
+  "ja": "アリアナ・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ariana Toras Association",
+  "ja": "アリアナ・トラス協会",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Arnold Dalton",
+  "ja": "アーノルド・ダルトン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Artor S. Wisci",
+  "ja": "アルトル・S・ウィスキ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Arvory",
+  "ja": "アルヴォリー",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Aureus Offshore Gas Field",
+  "ja": "アウレウス沖ガス田",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Autonomous Zone of Bergia",
+  "ja": "ベルギア自治区",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Aven",
+  "ja": "アヴェン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Axel Reinhart",
+  "ja": "アクセル・ラインハルト",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Azaro",
+  "ja": "アザロ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Azmal",
+  "ja": "アズマル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Baronies of Soradis",
+  "ja": "ソラディス男爵領",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Basilisk of Baal",
+  "ja": "バールのバジリスク",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Beatrice Livingston",
+  "ja": "ベアトリス・リヴィングストン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Beatrice Livingston (R)",
+  "ja": "ベアトリス・リヴィングストン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Benfi",
+  "ja": "ベンフィ",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Benievon",
+  "ja": "ベニエヴォン",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Beniwoll",
+  "ja": "ベニウォル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bergia",
+  "ja": "ベルギア",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bergia Steel",
+  "ja": "ベルギア製鉄",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bernard Circas",
+  "ja": "ベルナルド・シルカス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bludia",
+  "ja": "ブルディア",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bludish",
+  "ja": "ブルディア人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bludish Freedom Front",
+  "ja": "ブルディア自由戦線",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bludish Freedom Party",
+  "ja": "ブルディア自由党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Borin",
+  "ja": "ボリン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Brenas Province",
+  "ja": "ブレナス州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bronaz",
+  "ja": "ブロナズ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Bruno",
+  "ja": "ブルーノ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Camp Strongarm",
+  "ja": "ストロングアーム基地",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Cardesse-Montaklar Province",
+  "ja": "カルデス＝モンタクラル州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Carlos Robles Azaro",
+  "ja": "カルロス・ロブレス・アザロ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Castellanus",
+  "ja": "カステラヌス",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Central Bank of Sordland",
+  "ja": "ソードランド中央銀行",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Cerberus International",
+  "ja": "ケルベロス・インターナショナル",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Chief Justice",
+  "ja": "最高裁長官",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Chief of Staff",
+  "ja": "首席補佐官",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ciara Walda",
+  "ja": "キアラ・ワルダ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Circas",
+  "ja": "シルカス",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "City State of Iza",
+  "ja": "イザ都市国家",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Clavin",
+  "ja": "クラヴィン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Communist Party of Sordland",
+  "ja": "ソードランド共産党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Confederacy of Yarktralis",
+  "ja": "ヤークトラリス連合",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Conriat",
+  "ja": "コンリアト",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Contana",
+  "ja": "コンタナ",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Contanan",
+  "ja": "コンタナ人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Contanan Security Pact",
+  "ja": "コンタナ条約機構",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Crimsrad",
+  "ja": "クリムスラード",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Curtan Leste",
+  "ja": "クルタン・レステ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Dalton",
+  "ja": "ダルトン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Daria de Rava",
+  "ja": "ダリア・デ・ラーヴァ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Dastnurity",
+  "ja": "ダストヌリティ派",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Datefort",
+  "ja": "デイトフォート",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Deana",
+  "ja": "ディアナ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Deana Rayne",
+  "ja": "ディアナ・レイン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Deivid Wisci",
+  "ja": "デイヴィド・ウィスキ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Deivid Wisci (R)",
+  "ja": "デイヴィド・ウィスキ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Democratic Republic of Valgsland",
+  "ja": "ヴァルグスランド民主共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Democratic Zanza",
+  "ja": "民主ザンザ",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Denis Stahler",
+  "ja": "デニス・シュターラー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Derdia",
+  "ja": "デルディア",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Deyr",
+  "ja": "デイル",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Didier Meye",
+  "ja": "ディディエ・メイエ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Drazon Citadel",
+  "ja": "ドラゾン城塞",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Duke of Pales",
+  "ja": "パレス大公",
+  "category": "役職・肩書",
+  "tier": "tier1"
+ },
+ {
+  "en": "Dwight Walker",
+  "ja": "ドワイト・ウォーカー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Dwight Walker (R)",
+  "ja": "ドワイト・ウォーカー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Economic Resource Extraction Area",
+  "ja": "経済資源採掘区域",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Economic and Cultural Organization",
+  "ja": "経済文化機構",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Edith Agnoc",
+  "ja": "エディット・アグノク",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Edmonds",
+  "ja": "エドモンズ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ejall",
+  "ja": "エジャル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Elena",
+  "ja": "エレナ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Elena Werner",
+  "ja": "エレナ・ヴェルナー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Emmerich Hegel",
+  "ja": "エメリッヒ・ヘーゲル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Emmerich Hegel (R)",
+  "ja": "エメリッヒ・ヘーゲル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ephraim Nines",
+  "ja": "エフライム・ナインズ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ephraim Nines (R)",
+  "ja": "エフライム・ナインズ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Erdmarg",
+  "ja": "エルドマルグ",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Erlory",
+  "ja": "エルローリー",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Erzaren",
+  "ja": "エルザレン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Esquibel",
+  "ja": "エスキベル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Estela Toras",
+  "ja": "エステラ・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Estord",
+  "ja": "エストード",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Evelyn Vectern",
+  "ja": "エヴェリン・ベクターン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ewald Alphonso",
+  "ja": "エヴァルト・アルフォンソ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ewald Alphonso (R)",
+  "ja": "エヴァルト・アルフォンソ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "F.S.R. of United Contana",
+  "ja": "コンタナ社会主義共和国連邦",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "FC Anrica",
+  "ja": "FCアンリカ",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "FC Gelsord",
+  "ja": "FCゲルソード",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "FC Porte Drazon",
+  "ja": "FCポルテ・ドラゾン",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Federation of Anrakan Isles",
+  "ja": "アンラカン諸島連邦",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Fetih Ejall",
+  "ja": "フェティ・エジャル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "First Lady of Sordland",
+  "ja": "ソードランド大統領夫人",
+  "category": "役職・肩書",
+  "tier": "tier1"
+ },
+ {
+  "en": "Folce Dator",
+  "ja": "フォルチェ・ダトール",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Former Vice President",
+  "ja": "元副大統領",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Fort Ales",
+  "ja": "アレス要塞",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Franc",
+  "ja": "フランク",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Franc Rayne",
+  "ja": "フランク・レイン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Frens Ricter",
+  "ja": "フレンス・リクター",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Galade",
+  "ja": "ガラド",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Galmland",
+  "ja": "ガルムランド",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Garaci",
+  "ja": "ガラチ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gasom",
+  "ja": "ガソム",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gelsland",
+  "ja": "ゲルスランド",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gelsord",
+  "ja": "ゲルソード",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gendarmerie",
+  "ja": "国家憲兵隊",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Geopolitico",
+  "ja": "『ジオポリティコ』",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gloria Tory",
+  "ja": "グロリア・トーリー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Golcondism",
+  "ja": "ゴルコンド主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Golden Guard",
+  "ja": "近衛兵",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gordion",
+  "ja": "ゴルディオン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Graf",
+  "ja": "グラーフ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Grand Duchy of Pales",
+  "ja": "パレス大公国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Grand National Assembly",
+  "ja": "大国民議会",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Grand Vizier",
+  "ja": "宰相",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Grand Wiseman",
+  "ja": "大賢者",
+  "category": "役職・肩書",
+  "tier": "tier1"
+ },
+ {
+  "en": "Greater Holsord",
+  "ja": "大ホルソード",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Grecer",
+  "ja": "グレツェル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Greiser",
+  "ja": "グライザー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Grey Strait",
+  "ja": "グレイ海峡",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gruni",
+  "ja": "グルニ",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gulf of Conriat",
+  "ja": "コンリアト湾",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gulf of Nal",
+  "ja": "ナル湾",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gulf of Nargis",
+  "ja": "ナルギス湾",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gulf of Rika",
+  "ja": "リカ湾",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gus Manger",
+  "ja": "ガス・マンガー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gus Manger (R)",
+  "ja": "ガス・マンガー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Gustaf Souter",
+  "ja": "グスタフ・サウター",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Havas",
+  "ja": "ハヴァス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Hawker",
+  "ja": "ホーカー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Hegel",
+  "ja": "ヘーゲル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Heljiland",
+  "ja": "ヘルジランド",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Heljiport",
+  "ja": "ヘルジポート",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Heron Garaci",
+  "ja": "ヘロン・ガラチ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Hill of Pride",
+  "ja": "誇りの丘",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Holl",
+  "ja": "ホル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Holsord",
+  "ja": "ホルソード",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Holsord State University",
+  "ja": "ホルソード国立大学",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Holstron",
+  "ja": "ホルストロン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Holy Federation of Free Cities",
+  "ja": "自由都市神聖連邦",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Horten",
+  "ja": "ホルテン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "House Azaro",
+  "ja": "アザロ家",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "House Sazon",
+  "ja": "サゾン家",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "House Toras",
+  "ja": "トラス家",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "House of Delegates",
+  "ja": "代議院",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Hubertus Toras",
+  "ja": "フベルトゥス・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Hugo Toras",
+  "ja": "ウーゴ・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Immediatism",
+  "ja": "即時主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Independent Zille",
+  "ja": "独立ジル",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Intermerkopum",
+  "ja": "インテルメルコプム",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Intermerkopum Alliance",
+  "ja": "インテルメルコプム同盟",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "International Trade Zone",
+  "ja": "国際商業区",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Iosef Lancea",
+  "ja": "ヨセフ・ランチェア",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Isabel Edmonds",
+  "ja": "イザベル・エドモンズ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Iza",
+  "ja": "イザ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Jales",
+  "ja": "ジャレス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Jen",
+  "ja": "ジェン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Jorga Azmal",
+  "ja": "ヨルガ・アズマル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Karl Greiser",
+  "ja": "カール・グライザー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Karlos Marcia",
+  "ja": "カルロス・マルシア",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Katarina Horten",
+  "ja": "カタリナ・ホルテン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kesaro Kibener",
+  "ja": "ケサロ・キベナー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kibener",
+  "ja": "キベナー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kilsaren",
+  "ja": "キルサレン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kingdom of Erdmarg",
+  "ja": "エルドマルグ王国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kingdom of Rizia",
+  "ja": "リジア王国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kingdom of Rumburg",
+  "ja": "ルンブルク王国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kingdom of Sordland",
+  "ja": "ソードランド王国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Konrath Koronti",
+  "ja": "コンラート・コロンティ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Koranelli Cartel",
+  "ja": "コラネッリ・カルテル",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Koronti",
+  "ja": "コロンティ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kruger",
+  "ja": "クルーガー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Kyrute",
+  "ja": "キルート",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Labor Union of Sordland",
+  "ja": "ソードランド労働組合",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lachaven",
+  "ja": "ラハベン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lancea",
+  "ja": "ランチェア",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Laren",
+  "ja": "ラレン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Laurento Esquibel",
+  "ja": "ラウレント・エスキベル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leased Territory",
+  "ja": "租借地",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leiren",
+  "ja": "レイレン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leke",
+  "ja": "レケ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lena Toras",
+  "ja": "レナ・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lenkurg",
+  "ja": "レンクルグ",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leon Malenyev",
+  "ja": "レオン・マレニエフ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leon Malenyev (R)",
+  "ja": "レオン・マレニエフ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leona Sazon",
+  "ja": "レオナ・サゾン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "LesPower",
+  "ja": "レスパワー",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lespia",
+  "ja": "レスピア",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lespian",
+  "ja": "レスピア人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lespian Protectionism",
+  "ja": "レスピア型保護主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Leste",
+  "ja": "レステ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Library of Saint Wruhec",
+  "ja": "聖ヴルヘック図書館",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lileas Graf",
+  "ja": "リリアス・グラーフ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Livia Suno",
+  "ja": "リヴィア・スーノ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Livingston",
+  "ja": "リヴィングストン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lorren",
+  "ja": "ローレン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lotherberg Group",
+  "ja": "ロザーバーグ・グループ",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lucian Galade",
+  "ja": "ルシアン・ガラド",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Lucita Azaro",
+  "ja": "ルシータ・アザロ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Maartin Van Hoorten",
+  "ja": "マールティン・ファン・ホールテン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Maartin Van Hoorten (R)",
+  "ja": "マールティン・ファン・ホールテン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Magnus Cartus",
+  "ja": "マグヌス・カルトゥス団",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Malenyev",
+  "ja": "マレニエフ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Malenyevism",
+  "ja": "マレニエフ主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Manger",
+  "ja": "マンガー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Manoly Suheil",
+  "ja": "マノリー・スハイル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Mansoun Leke",
+  "ja": "マンスン・レケ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Manus Sazon",
+  "ja": "マヌス・サゾン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Marcel Koronti",
+  "ja": "マルセル・コロンティ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Marcel Koronti (R)",
+  "ja": "マルセル・コロンティ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Markanissa",
+  "ja": "マルカニッサ",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Markian Sea",
+  "ja": "マルキア海",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Maroon Palace",
+  "ja": "マルーン宮殿",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Mave Nortus",
+  "ja": "マーヴェ・ノルトゥス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Maximism",
+  "ja": "マキシム主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Meftiem International Trade Zone",
+  "ja": "メフティエム国際貿易区",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Merlotia",
+  "ja": "メルロティア",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Mermi",
+  "ja": "メルミ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Meye",
+  "ja": "メイエ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Mikail Aven",
+  "ja": "ミカイル・アヴェン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Miraclism",
+  "ja": "奇跡主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Monica",
+  "ja": "モニカ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Monica Rayne",
+  "ja": "モニカ・レイン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Monqiz",
+  "ja": "モンキズ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Monqiz Maritime Heritage Complex",
+  "ja": "モンキズ海洋遺産群",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Montaklar",
+  "ja": "モンタクラル",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Montoro",
+  "ja": "モントーロ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Morbel",
+  "ja": "モルベル",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Morella",
+  "ja": "モレラ",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Morgna",
+  "ja": "モルグナ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Morna",
+  "ja": "モルナ",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Mr. President",
+  "ja": "大統領",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nanta",
+  "ja": "ナンタ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Narbel",
+  "ja": "ナルベル",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nargis",
+  "ja": "ナルギス",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "National Business Council",
+  "ja": "国民経済連盟",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "National Front Party",
+  "ja": "国民戦線党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nedam Mining Group",
+  "ja": "ネダム鉱業公社",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nefandes Vulturio",
+  "ja": "ネファンデス・ヴルトゥリオ",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nelvisar",
+  "ja": "ネルヴィサル",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nia Morgna",
+  "ja": "ニア・モルグナ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nibiya",
+  "ja": "ニビヤ",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nines",
+  "ja": "ナインズ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nurist",
+  "ja": "ヌーリスト",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nurist Republic of Derdia",
+  "ja": "デルディア・ヌーリスト共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Nurity",
+  "ja": "ヌーリティ教",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Old Guard",
+  "ja": "守旧派",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Oligarchs",
+  "ja": "財閥",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Orso Hawker",
+  "ja": "オルソ・ホーカー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ovid Grecer",
+  "ja": "オヴィド・グレツェル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Pabel Adria",
+  "ja": "パベル・アドリア",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Palantor Security Solutions",
+  "ja": "パランター・セキュリティ",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Palas Rezna",
+  "ja": "パラス・レズナ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Pales",
+  "ja": "パレス",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Pales Administrative District",
+  "ja": "パレス行政区",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Pales Province",
+  "ja": "パレス州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Paskal Beniwoll",
+  "ja": "パスカル・ベニウォル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Patricio Alvarez",
+  "ja": "パトリシオ・アルバレス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Patricio Alvarez (R)",
+  "ja": "パトリシオ・アルバレス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "People's Freedom and Justice Party",
+  "ja": "人民自由正義党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "People’s Freedom and Justice Party",
+  "ja": "人民自由正義党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Petr Vectern",
+  "ja": "ペトル・ベクターン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Petr Vectern (R)",
+  "ja": "ペトル・ベクターン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Plavo",
+  "ja": "プラヴォ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Porte Drazon",
+  "ja": "ポルテ・ドラゾン",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Porte Drazon Observatory Tower",
+  "ja": "ポルテ・ドラゾン天文塔",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Princess of Rizia",
+  "ja": "リジア王女",
+  "category": "役職・肩書",
+  "tier": "tier1"
+ },
+ {
+  "en": "Prophet Wruhec",
+  "ja": "預言者ヴルヘック",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Province of Brenas",
+  "ja": "ブレナス州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Province of Cardesse-Montaklar",
+  "ja": "カルデス＝モンタクラル州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Province of Rizia Imperii",
+  "ja": "リジア・インペリイ州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Province of Valenqiris",
+  "ja": "ヴァレンキリス州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Qabiz",
+  "ja": "カビズ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Qalus",
+  "ja": "カルス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Qinal",
+  "ja": "キナル",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Queen-Mother of Rizia",
+  "ja": "リジア王太后",
+  "category": "役職・肩書",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rayne",
+  "ja": "レイン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Real Montaklar",
+  "ja": "レアル・モンタクラル",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Red Youth",
+  "ja": "赤旗青年団",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Reformed Nurity",
+  "ja": "ヌーリティ改革派",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Reformist Alliance",
+  "ja": "改革派連合",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Reformists",
+  "ja": "改革派",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Regional Alliance",
+  "ja": "地域同盟",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Reinhart",
+  "ja": "ラインハルト",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Remaz",
+  "ja": "レマズ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Remus Holstron",
+  "ja": "レムス・ホルストロン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Agnolia",
+  "ja": "アグノリア共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Arcasia",
+  "ja": "アルカシア共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Kyrute",
+  "ja": "キルート共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Lespia",
+  "ja": "レスピア共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Morella",
+  "ja": "モレラ共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Qinal",
+  "ja": "キナル共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Sordland",
+  "ja": "ソードランド共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Republic of Wehlen",
+  "ja": "ヴェーレン共和国",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rezenid Paleaccis",
+  "ja": "レゼニド・パレアッキス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ribel",
+  "ja": "リベル",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ribery",
+  "ja": "リベリー",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rico Toras",
+  "ja": "リコ・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ricter",
+  "ja": "リクター",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizia",
+  "ja": "リジア",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizia Imperii Province",
+  "ja": "リジア・インペリイ州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian",
+  "ja": "リジア人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Armed Forces",
+  "ja": "リジア軍",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Intelligence Service",
+  "ja": "リジア情報局",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Monarchism",
+  "ja": "リジア王党派",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian National Coalition",
+  "ja": "リジア国民連合",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Navy",
+  "ja": "リジア海軍",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Oil and Gas",
+  "ja": "リジア石油ガス公社",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian People's Party",
+  "ja": "リジア人民党",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Police Force",
+  "ja": "リジア警察",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Royal Air Force",
+  "ja": "リジア王立空軍",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rizian Royal Gold",
+  "ja": "リジア王室金鉱",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Romus Toras",
+  "ja": "ロムス・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Royal Council",
+  "ja": "王室評議会",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Royal Herald",
+  "ja": "『王室ヘラルド』",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rumburg",
+  "ja": "ルンブルク",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rumburg Emerald Energy",
+  "ja": "ルンブルク・エメラルド・エナジー",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rummo-Sordish",
+  "ja": "ルンブルク・ソードランド",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Russello",
+  "ja": "ルッセロ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Russello Montoro",
+  "ja": "ルッセロ・モントーロ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rusty",
+  "ja": "ラスティ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Rusty Montoro",
+  "ja": "ラスティ・モントーロ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sacker",
+  "ja": "サッカー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sal Ignacius",
+  "ja": "サル・イグナティウス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sallabes",
+  "ja": "サラベス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Saltana",
+  "ja": "サルタナ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sarna",
+  "ja": "サルナ",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sazon",
+  "ja": "サゾン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Secret State Police",
+  "ja": "特別高等警察",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Serge Wolkner",
+  "ja": "セルジュ・ヴォルクナー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sevrio Castellanus",
+  "ja": "セヴリオ・カステラヌス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Skinner Cartel",
+  "ja": "スキナー・カルテル",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Smolak",
+  "ja": "スモラク",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Soll",
+  "ja": "ソル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Soll Dam",
+  "ja": "ソル・ダム",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Solles",
+  "ja": "ソレス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sollism",
+  "ja": "ソル主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Soradis",
+  "ja": "ソラディス",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish",
+  "ja": "ソードランド人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish Armed Forces",
+  "ja": "ソードランド軍",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish Grid Corporation",
+  "ja": "ソードランド電力公社",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish League of Women",
+  "ja": "ソードランド婦人連盟",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish Petroleum",
+  "ja": "ソードランド石油",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish Police Force",
+  "ja": "ソードランド警察",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordish State Corporation",
+  "ja": "ソードランド国営公社",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sordland",
+  "ja": "ソードランド",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sotelato",
+  "ja": "ソテラート",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Souter",
+  "ja": "サウター",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Speaker of the Assembly",
+  "ja": "議長",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Speaker of the House",
+  "ja": "下院議長",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Special Zone of Bergia",
+  "ja": "ベルギア特別区",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Stahler",
+  "ja": "シュターラー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "State Educators Corps",
+  "ja": "国民教育隊",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Su Omina",
+  "ja": "スー・オミナ",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Sudis Sea",
+  "ja": "スーディス海",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Suheil",
+  "ja": "スハイル",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Suno",
+  "ja": "スーノ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Superpower Alliance",
+  "ja": "超大国同盟",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Supreme Court",
+  "ja": "最高裁判所",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Symon Holl",
+  "ja": "シモン・ホル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Taddeus Azaro",
+  "ja": "タデウス・アザロ",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Tarquin Soll",
+  "ja": "タルキン・ソル",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Taurus Holding",
+  "ja": "タウルス・ホールディング",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Terador",
+  "ja": "テラドール",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Territory of Zille",
+  "ja": "ジル領",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Arcasian Treaty Organisation",
+  "ja": "アルカシア条約機構",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Confedaracy of Vendonesam",
+  "ja": "ヴェンドネサム連合",
+  "category": "国名（正式）",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Contanan Security Pact",
+  "ja": "コンタナ条約機構",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Dome Economic Zone Authority",
+  "ja": "ドーム経済特区庁",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Ekonomists",
+  "ja": "エコノミスト誌",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Golden Guard",
+  "ja": "近衛兵",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Guild of Royal Allies",
+  "ja": "王室通商同盟ギルド",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Guild of Royal Allies for Commercial Exchange",
+  "ja": "王室通商同盟ギルド",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Halsecroft-Denwald Family",
+  "ja": "ハルスクロフト＝デンウォルド家",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Heart of Sordland Conglomerate",
+  "ja": "ハート・オブ・ソードランド財閥",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Konstantium Defender",
+  "ja": "『コンスタンティウム・ディフェンダー』",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "The National Front Party",
+  "ja": "国民戦線党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Old Guard",
+  "ja": "守旧派",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Oligarchs",
+  "ja": "財閥",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Organization for Merkopan Economic Development",
+  "ja": "メルコパ経済開発機構",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "The People’s Freedom and Justice Party",
+  "ja": "人民自由正義党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Radical",
+  "ja": "『ラディカル』紙",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Reformists",
+  "ja": "改革派",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "The Surya Family",
+  "ja": "スーリヤ家",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Titus Gordion",
+  "ja": "ティトゥス・ゴルディオン",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Topes",
+  "ja": "トペス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Toras",
+  "ja": "トラス",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Tory",
+  "ja": "トーリー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Totalism",
+  "ja": "全体主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Tranquil Sea",
+  "ja": "静穏海",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Tuomas Sacker",
+  "ja": "トゥオマス・サッカー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Tusk",
+  "ja": "タスク",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Uncle Hugo",
+  "ja": "ウーゴ伯父",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Underhall Construction",
+  "ja": "アンダーホール建設",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "United Sordland Party",
+  "ja": "統一ソードランド党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Uziren",
+  "ja": "ウジレン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valenqir",
+  "ja": "ヴァレンキル",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valenqiris Province",
+  "ja": "ヴァレンキリス州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valgen",
+  "ja": "ヴァルゲン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valgish",
+  "ja": "ヴァルグ人",
+  "category": "国民・形容",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valgsland",
+  "ja": "ヴァルグスランド",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valgslandian Socialism",
+  "ja": "ヴァルグスランド社会主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Valken Kruger",
+  "ja": "ヴァルケン・クルーガー",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Van Hoorten",
+  "ja": "ファン・ホールテン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Vectern",
+  "ja": "ベクターン",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Vendonesam",
+  "ja": "ヴェンドネサム",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ves Sea",
+  "ja": "ヴェス海",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Vesord",
+  "ja": "ヴェソード",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Vice President",
+  "ja": "副大統領",
+  "category": "役職",
+  "tier": "tier1"
+ },
+ {
+  "en": "Vina Toras",
+  "ja": "ヴィナ・トラス",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Voice of Rizia",
+  "ja": "『リジアの声』",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Walda",
+  "ja": "ワルダ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Walker",
+  "ja": "ウォーカー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Walter Tusk",
+  "ja": "ウォルター・タスク",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Watchtower of Human Rights",
+  "ja": "人権監視理事会",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wehlen",
+  "ja": "ヴェーレン",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Werner",
+  "ja": "ヴェルナー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wiktor Smolak",
+  "ja": "ヴィクトル・スモラク",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wiktor Smolak (R)",
+  "ja": "ヴィクトル・スモラク",
+  "category": "人名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wisci",
+  "ja": "ウィスキ",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wizen",
+  "ja": "ウィゼン",
+  "category": "ソードランドの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wolkner",
+  "ja": "ヴォルクナー",
+  "category": "姓",
+  "tier": "tier1"
+ },
+ {
+  "en": "Worker's Party of Bludia",
+  "ja": "ブルディア労働者党",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "World Peace Concord",
+  "ja": "世界平和協定",
+  "category": "国際機関・企業",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wruhec",
+  "ja": "ヴルヘック",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wruhec's Guardians",
+  "ja": "ヴルヘックの守護者",
+  "category": "リジアの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Wruhecism",
+  "ja": "ヴルヘック教",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Yarktralis",
+  "ja": "ヤークトラリス",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Young Sords",
+  "ja": "ソード青年団",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zaerland",
+  "ja": "ザエルランド",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zanza",
+  "ja": "ザンザ",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zaranism",
+  "ja": "ザラン主義",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zaranurity",
+  "ja": "ザラヌリティ",
+  "category": "思想・宗教",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zille",
+  "ja": "ジル",
+  "category": "国名（略称）",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zille Province",
+  "ja": "ジル州",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Ziqes",
+  "ja": "ジケス",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zpana",
+  "ja": "ズパナ",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "Zpana River Canyon",
+  "ja": "ズパナ川渓谷",
+  "category": "リジアの地名",
+  "tier": "tier1"
+ },
+ {
+  "en": "oligarch",
+  "ja": "総帥",
+  "category": "ソードランドの組織",
+  "tier": "tier1"
+ },
+ {
+  "en": "Agriculture & Rural Dev. Minister",
+  "ja": "農業農村開発大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Archpriest of Nurity",
+  "ja": "ヌーリティ大司祭",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Assembly",
+  "ja": "議会",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Boy",
+  "ja": "少年",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Business",
+  "ja": "経済界",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Butler of the King",
+  "ja": "王の執事",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "CEO of HOS",
+  "ja": "HOS総帥",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "CEO of Heart of Sordland",
+  "ja": "ハート・オブ・ソードランド総帥",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "CEO of Rizian Royal Gold",
+  "ja": "リジア王室金鉱総帥",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Cabinet",
+  "ja": "内閣",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Captain of Wruhec's Guardians",
+  "ja": "ヴルヘック守護者隊長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Captain of the Golden Guard",
+  "ja": "近衛兵隊長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Centrists",
+  "ja": "中道派",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chairman of Central Bank",
+  "ja": "中央銀行総裁",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chairman of Gasom & Former President",
+  "ja": "ガソム会長・前大統領",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chairman of United Contana",
+  "ja": "コンタナ議長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chairman of the NBC",
+  "ja": "全国経済評議会議長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chairwoman of the Central Bank",
+  "ja": "中央銀行総裁",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chancellor of Valgsland",
+  "ja": "ヴァルグスランド書記長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chief Strategist",
+  "ja": "首席戦略官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chief of Police",
+  "ja": "警察長官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Chief of the Armed Forces",
+  "ja": "軍総司令官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Cities",
+  "ja": "都市",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Co-Chairman of NBC",
+  "ja": "全国経済評議会共同議長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Corporations",
+  "ja": "企業",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Council",
+  "ja": "評議会",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Councillor of Foreign Affairs",
+  "ja": "外務評議官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Councillor of Treasury",
+  "ja": "財務評議官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Councillor of War and Security",
+  "ja": "軍事保安評議官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Countess of Sallabes",
+  "ja": "サラベス伯爵夫人",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Countries",
+  "ja": "国家",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Daughter of the President",
+  "ja": "大統領令嬢",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Defense Minister",
+  "ja": "国防大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Deputy of the NFP",
+  "ja": "国民戦線党議員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Deputy of the PFJP",
+  "ja": "人民自由正義党議員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Driver and Bodyguard",
+  "ja": "運転手兼護衛",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Duke of Iza, son of Hugo Toras",
+  "ja": "イザ公・ウーゴ・トラスの息子",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Economy Minister",
+  "ja": "経済大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Education Minister",
+  "ja": "教育大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Factions",
+  "ja": "派閥",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Family",
+  "ja": "家族",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Family Head of House Sazon",
+  "ja": "サゾン家当主",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Film Director",
+  "ja": "映画監督",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "First Secretary",
+  "ja": "第一書記",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Foreign Affairs & Trade Minister",
+  "ja": "外務通商大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Foreign Affairs Councilor",
+  "ja": "外務評議官",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Foreign Leaders",
+  "ja": "外国首脳",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Former President",
+  "ja": "前大統領",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Former Presidents",
+  "ja": "歴代大統領",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Founder of the Republic",
+  "ja": "共和国建国者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "General of the Rizian Armed Forces",
+  "ja": "リジア軍将軍",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Girl",
+  "ja": "少女",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Governmental",
+  "ja": "政府機関",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Grand Wiscerer",
+  "ja": "教皇",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Head of House Azaro",
+  "ja": "アザロ家当主",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Head of House Sazon",
+  "ja": "サゾン家当主",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Head of House Toras",
+  "ja": "トラス家当主",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Health Minister",
+  "ja": "保健大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "House Speaker",
+  "ja": "下院議長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Ideologies",
+  "ja": "思想",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Important Events",
+  "ja": "重要事件",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Independent",
+  "ja": "無所属",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Independent MP",
+  "ja": "無所属議員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Independent MP and LUS Leader",
+  "ja": "無所属議員・ソードランド労働組合委員長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Inter-Governmental",
+  "ja": "国際機関",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Interior Minister",
+  "ja": "内務大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Journalist",
+  "ja": "記者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Justice",
+  "ja": "判事",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Justice & Minister of Justice",
+  "ja": "判事・法務大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Justice Minister",
+  "ja": "法務大臣",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Justice of the Supreme Court",
+  "ja": "最高裁判事",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "Landmarks",
+  "ja": "名所",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of NFP",
+  "ja": "国民戦線党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of PFJP",
+  "ja": "人民自由正義党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the Communist Party",
+  "ja": "共産党書記長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the NFP",
+  "ja": "国民戦線党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the PFJP",
+  "ja": "人民自由正義党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the RNC",
+  "ja": "リジア国民連合党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the RPP",
+  "ja": "リジア人民党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the USP Moderate Wing",
+  "ja": "統一ソードランド党穏健派の領袖",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the USP Reformist Wing",
+  "ja": "統一ソードランド党改革派の領袖",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Leader of the WPB",
+  "ja": "ブルディア労働者党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Lotherberg Spokesman",
+  "ja": "ロザーバーグ・グループ報道官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Mayor of Anrica",
+  "ja": "アンリカ市長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Member of the RPP",
+  "ja": "リジア人民党議員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Defense",
+  "ja": "国防大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Development",
+  "ja": "開発大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Economy",
+  "ja": "経済大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Education",
+  "ja": "教育大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Foreign Affairs and Trade",
+  "ja": "外務通商大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Health",
+  "ja": "保健大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Interior",
+  "ja": "内務大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Justice",
+  "ja": "法務大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of Rural Development",
+  "ja": "農村開発大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Minister of the Interior",
+  "ja": "内務大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Misc History",
+  "ja": "その他の歴史",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Misc Organisations",
+  "ja": "その他の組織",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Moderator",
+  "ja": "司会者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Narrator",
+  "ja": "ナレーター",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Opposition Leader",
+  "ja": "野党党首",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Others",
+  "ja": "その他",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "PM of Agnolia",
+  "ja": "アグノリア首相",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Party Leaders",
+  "ja": "党首",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Poet and MP",
+  "ja": "詩人・議員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Policeman",
+  "ja": "警官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Political",
+  "ja": "政治",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Political Parties",
+  "ja": "政党",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "President",
+  "ja": "大統領",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "President of Arcasia",
+  "ja": "アルカシア大統領",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "President of Sordland",
+  "ja": "ソードランド大統領",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "President of Wehlen",
+  "ja": "ヴェーレン大統領",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "President of the Alliance of Nations",
+  "ja": "諸国連盟議長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Prime Minister of Lespia",
+  "ja": "レスピア首相",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Prime Minister of Morella",
+  "ja": "モレラ首相",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Principal",
+  "ja": "校長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Queen of Rumburg",
+  "ja": "ルンブルク女王",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "RPP Politician",
+  "ja": "リジア人民党政治家",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Reformist",
+  "ja": "改革派",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Regions",
+  "ja": "地方",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Religion",
+  "ja": "宗教",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Reporter",
+  "ja": "記者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Royal Dog",
+  "ja": "王室の犬",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "SBC Reporter",
+  "ja": "SBC記者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Second Lady",
+  "ja": "副大統領夫人",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Second-in-Command, Rizian Armed Forces",
+  "ja": "リジア軍副司令官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Security Officer",
+  "ja": "警備員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Service Staff",
+  "ja": "給仕係",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Sitting Duke of Valenqiris",
+  "ja": "ヴァレンキリス現公爵",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Son of the President",
+  "ja": "大統領令息",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Sordish Minister of Foreign Affairs",
+  "ja": "ソードランド外務大臣",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Speaker of GNA and Whip",
+  "ja": "大国民議会議長兼院内幹事",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Speaker of the House of Delegates",
+  "ja": "代議院議長",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Spokesman of the Independents",
+  "ja": "無所属会派報道官",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "State Figures",
+  "ja": "政府要人",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Student",
+  "ja": "学生",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Supreme Wiseman of Derdia",
+  "ja": "デルディア最高賢者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "The Moderator",
+  "ja": "司会者",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Timeline",
+  "ja": "年表",
+  "category": "事典カテゴリ",
+  "tier": "tier2"
+ },
+ {
+  "en": "Treasury and Economy Councilor",
+  "ja": "財務経済評議官",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "USP MP and Whip",
+  "ja": "統一ソードランド党議員・院内幹事",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "USP Member of Assembly",
+  "ja": "統一ソードランド党議員",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Vice President of Sordland",
+  "ja": "ソードランド副大統領",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "Waiter",
+  "ja": "給仕",
+  "category": "役職・肩書",
+  "tier": "tier2"
+ },
+ {
+  "en": "War and Security Councilor",
+  "ja": "軍事保安評議官",
+  "category": "役職",
+  "tier": "tier2"
+ },
+ {
+  "en": "-",
+  "ja": "-",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "ACP",
+  "ja": "ACP",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "HOS",
+  "ja": "HOS",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "KA-74",
+  "ja": "KA-74",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "NFP",
+  "ja": "NFP",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "PFJP",
+  "ja": "PFJP",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "Player",
+  "ja": "Player",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "Player_Italic",
+  "ja": "Player_Italic",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "Player_Romus",
+  "ja": "Player_Romus",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "Player_Romus_Italic",
+  "ja": "Player_Romus_Italic",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "RNC",
+  "ja": "RNC",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "RPP",
+  "ja": "RPP",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "SBC",
+  "ja": "SBC",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "SSC",
+  "ja": "SSC",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "USP",
+  "ja": "USP",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ },
+ {
+  "en": "WPB",
+  "ja": "WPB",
+  "category": "訳さない / do not translate",
+  "tier": "do_not_translate"
+ }
+]

@@ -1,0 +1,3 @@
+﻿type,item_id,name_in_database,path,ja
+GraphPanelData,0x0100006A0001C46A,Graph_EconomicStability,GraphPanelProperties.Title,経済の安定度
+GraphPanelData,0x0100006A0001C46A,Graph_EconomicStability,GraphPanelProperties.Subtitle,下のグラフで経済の安定度の推移を追えます。フィルターを使えば過去のデータも確認できます。

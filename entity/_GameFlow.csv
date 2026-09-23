@@ -1,0 +1,23 @@
+﻿type,item_id,name_in_database,path,ja
+_GameFlow,0xD6FA8EE957B481AD,,Turns[0].TransitionTitle,第一章:<br>レイン大統領
+_GameFlow,0xD6FA8EE957B481AD,,Turns[1].TransitionTitle,数日後…
+_GameFlow,0xD6FA8EE957B481AD,,Turns[2].TransitionTitle,民主主義の試練
+_GameFlow,0xD6FA8EE957B481AD,,Turns[3].TransitionTitle,第二章: 新しきソードランド
+_GameFlow,0xD6FA8EE957B481AD,,Turns[4].TransitionTitle,東メルコパの勢力均衡
+_GameFlow,0xD6FA8EE957B481AD,,Turns[5].TransitionTitle,国富論
+_GameFlow,0xD6FA8EE957B481AD,,Turns[6].TransitionTitle,第三章: 変革の犠牲者
+_GameFlow,0xD6FA8EE957B481AD,,Turns[7].TransitionTitle,露見
+_GameFlow,0xD6FA8EE957B481AD,,Turns[8].TransitionTitle,第四章: 詰み
+_GameFlow,0xD6FA8EE957B481AD,,Turns[9].TransitionTitle,国家の意志
+_GameFlow,0xD6FA8EE957B481AD,,Turns[10].TransitionTitle,しばらくののち…
+_GameFlow,0x1D46D30C34279837,,Turns[0].TransitionTitle,第一章:<br>ロムス王
+_GameFlow,0x1D46D30C34279837,,Turns[1].TransitionTitle,黄金王国
+_GameFlow,0x1D46D30C34279837,,Turns[2].TransitionTitle,綻びゆく絆
+_GameFlow,0x1D46D30C34279837,,Turns[3].TransitionTitle,第二章:<br>海のはざまで
+_GameFlow,0x1D46D30C34279837,,Turns[4].TransitionTitle,自省録
+_GameFlow,0x1D46D30C34279837,,Turns[5].TransitionTitle,黄金の岸辺にて
+_GameFlow,0x1D46D30C34279837,,Turns[6].TransitionTitle,兵法
+_GameFlow,0x1D46D30C34279837,,Turns[7].TransitionTitle,第三章: リヴァイアサン
+_GameFlow,0x1D46D30C34279837,,Turns[8].TransitionTitle,君主論
+_GameFlow,0x1D46D30C34279837,,Turns[9].TransitionTitle,第四章: Sila Orica
+_GameFlow,0x1D46D30C34279837,,Turns[10].TransitionTitle,{RiziaDLCText.FinalChapterTitle}

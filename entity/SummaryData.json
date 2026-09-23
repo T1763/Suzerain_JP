@@ -1,0 +1,16 @@
+[
+ {
+  "type": "SummaryData",
+  "item_id": "0x0100006A000062C8",
+  "name_in_database": "Rizia_Summary",
+  "path": "SummaryProperties.SummaryTitle",
+  "ja": "1950年から1958年にかけて…"
+ },
+ {
+  "type": "SummaryData",
+  "item_id": "0x0100006A000062BE",
+  "name_in_database": "Sordland_Summary",
+  "path": "SummaryProperties.SummaryTitle",
+  "ja": "1954年から1958年にかけて…"
+ }
+]

@@ -1,0 +1,9 @@
+[
+ {
+  "type": "ReusableDecreesPanelData",
+  "item_id": "0x0100006A00004309",
+  "name_in_database": "Royal Decrees Panel",
+  "path": "ReusableDecreesPanelProperties.Title",
+  "ja": "王室勅令"
+ }
+]

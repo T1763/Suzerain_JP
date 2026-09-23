@@ -1,0 +1,695 @@
+[
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x010000580000383F",
+  "name_in_database": "Customization_AntonRayne_Accessories_BlackGlasses",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "黒縁眼鏡"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000541",
+  "name_in_database": "Customization_AntonRayne_Accessories_BrownGlasses",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "茶縁眼鏡"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000548",
+  "name_in_database": "Customization_AntonRayne_Accessories_LespianCigar",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "レスピア葉巻"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x01000046000222E3",
+  "name_in_database": "Customization_AntonRayne_Accessories_None",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "なし"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000054F",
+  "name_in_database": "Customization_AntonRayne_Accessories_ThinGlasses",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "細縁眼鏡"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000556",
+  "name_in_database": "Customization_AntonRayne_Accessories_ValgslandianPipe",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ヴァルグスランド式パイプ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005800003838",
+  "name_in_database": "Customization_AntonRayne_Attire_Default",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "標準"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000568",
+  "name_in_database": "Customization_AntonRayne_Attire_Grand",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "豪奢"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005800003831",
+  "name_in_database": "Customization_AntonRayne_Attire_Malenyevist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "マレニエフ主義者風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000056F",
+  "name_in_database": "Customization_AntonRayne_Attire_MaroonSuit",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "えんじのスーツ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000576",
+  "name_in_database": "Customization_AntonRayne_Attire_SordlandFirst",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ソードランド第一主義"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000057D",
+  "name_in_database": "Customization_AntonRayne_Attire_Tuxedo",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "タキシード"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000584",
+  "name_in_database": "Customization_AntonRayne_Attire_WhiteSuit",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "白のスーツ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000590",
+  "name_in_database": "Customization_AntonRayne_Background_Gold",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "金"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000597",
+  "name_in_database": "Customization_AntonRayne_Background_Green",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "緑"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000059E",
+  "name_in_database": "Customization_AntonRayne_Background_Maroon",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "えんじ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005800003846",
+  "name_in_database": "Customization_AntonRayne_Background_Office",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "執務室"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005A5",
+  "name_in_database": "Customization_AntonRayne_Background_Red",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "赤"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x010000580000384D",
+  "name_in_database": "Customization_AntonRayne_Background_Tan",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "褐色"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005AC",
+  "name_in_database": "Customization_AntonRayne_Background_Turquoise",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "青緑"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005BF",
+  "name_in_database": "Customization_AntonRayne_FacialHair_ChiefStrategist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "首席戦略官"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005C6",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Classy",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "上品"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005D4",
+  "name_in_database": "Customization_AntonRayne_FacialHair_CleanShaven",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "髭なし"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005B8",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Comrade",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "同志風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005800003854",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Default",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "標準"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005CD",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Idealist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "理想主義者"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005DB",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Intellectual",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "知識人"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000605",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Markian",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "マルキア風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000060C",
+  "name_in_database": "Customization_AntonRayne_FacialHair_MarkianNoble",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "マルキア貴族風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x010000580000385B",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Monarchist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "君主主義者"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000061A",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Renan",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "レナン風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000613",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Revolutionary",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "革命家"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005E2",
+  "name_in_database": "Customization_AntonRayne_FacialHair_SordGentleman",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ソードランド紳士"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005E9",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Sordist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ソード主義者"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005F0",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Strategist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "戦略家"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005F7",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Theorist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "理論家"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D000005FE",
+  "name_in_database": "Customization_AntonRayne_FacialHair_Valgslandian",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ヴァルグスランド風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x010000580000382A",
+  "name_in_database": "Customization_AntonRayne_Hair_20s",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "20代"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x01000058000037FC",
+  "name_in_database": "Customization_AntonRayne_Hair_Bald",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "禿頭"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000709",
+  "name_in_database": "Customization_AntonRayne_Hair_Balding",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "薄毛"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000702",
+  "name_in_database": "Customization_AntonRayne_Hair_Default",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "標準"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x01000046000222DC",
+  "name_in_database": "Customization_AntonRayne_Hair_Gentleman",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "紳士"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000725",
+  "name_in_database": "Customization_AntonRayne_Hair_GentlemansHat",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "紳士帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000072C",
+  "name_in_database": "Customization_AntonRayne_Hair_Koronelli",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "コラネッリ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000748",
+  "name_in_database": "Customization_AntonRayne_Hair_Long",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "長髪"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000710",
+  "name_in_database": "Customization_AntonRayne_Hair_MovieStar",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "映画スター風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000717",
+  "name_in_database": "Customization_AntonRayne_Hair_Rebellious",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "反骨"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D00000733",
+  "name_in_database": "Customization_AntonRayne_Hair_SordishFedora",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ソードランド式中折れ帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000071E",
+  "name_in_database": "Customization_AntonRayne_Hair_Stylish",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "洒脱"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005D0000073A",
+  "name_in_database": "Customization_AntonRayne_Hair_WhiteTrilby",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "白のトリルビー帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000D1",
+  "name_in_database": "Customization_RomusToras_Accessories_GoldGlasses",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "金縁眼鏡"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000D8",
+  "name_in_database": "Customization_RomusToras_Accessories_LespianCigar",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "レスピア葉巻"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000C3",
+  "name_in_database": "Customization_RomusToras_Accessories_None",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "なし"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000CA",
+  "name_in_database": "Customization_RomusToras_Accessories_ThinGlasses",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "細縁眼鏡"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000E6",
+  "name_in_database": "Customization_RomusToras_Accessories_ValgslandianPipe",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ヴァルグ式パイプ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001D4",
+  "name_in_database": "Customization_RomusToras_Attire_BrownSuit",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "茶のスーツ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001C6",
+  "name_in_database": "Customization_RomusToras_Attire_CeremonialAttire",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "儀礼服"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001CD",
+  "name_in_database": "Customization_RomusToras_Attire_Default",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "標準"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001DB",
+  "name_in_database": "Customization_RomusToras_Attire_GreySuit",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "灰のスーツ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001E2",
+  "name_in_database": "Customization_RomusToras_Attire_RedVelvet",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "赤いビロード"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100009E0000C278",
+  "name_in_database": "Customization_RomusToras_Attire_TorasRoyalAttire",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "トラス家王室装束"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001E9",
+  "name_in_database": "Customization_RomusToras_Attire_WhiteTuxedo",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "白のタキシード"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100009E0000C271",
+  "name_in_database": "Customization_RomusToras_Attire_WisemansRobe",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "賢者の法衣"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000108",
+  "name_in_database": "Customization_RomusToras_Background_Gold",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "金"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000010F",
+  "name_in_database": "Customization_RomusToras_Background_Green",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "緑"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000116",
+  "name_in_database": "Customization_RomusToras_Background_Maroon",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "えんじ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000011D",
+  "name_in_database": "Customization_RomusToras_Background_Red",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "赤"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000101",
+  "name_in_database": "Customization_RomusToras_Background_Tan",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "褐色"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000124",
+  "name_in_database": "Customization_RomusToras_Background_Turquoise",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "青緑"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000157",
+  "name_in_database": "Customization_RomusToras_FacialHair_Circle",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "丸眼鏡"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000016C",
+  "name_in_database": "Customization_RomusToras_FacialHair_CleanShaven",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "髭なし"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000015E",
+  "name_in_database": "Customization_RomusToras_FacialHair_FullBeard",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "顎髭"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000173",
+  "name_in_database": "Customization_RomusToras_FacialHair_Intellectual",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "知識人"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000142",
+  "name_in_database": "Customization_RomusToras_FacialHair_Magnificent",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "壮麗"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000019D",
+  "name_in_database": "Customization_RomusToras_FacialHair_Markian",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "マルキア風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001A4",
+  "name_in_database": "Customization_RomusToras_FacialHair_Moustache",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "口髭"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001B2",
+  "name_in_database": "Customization_RomusToras_FacialHair_PetitGoatee",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "小さな山羊髭"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000001AB",
+  "name_in_database": "Customization_RomusToras_FacialHair_RezenidGoatee",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "レゼニド式山羊髭"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000017A",
+  "name_in_database": "Customization_RomusToras_FacialHair_Rizian",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "リジア風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000181",
+  "name_in_database": "Customization_RomusToras_FacialHair_RizianWithSides",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "リジア風（もみあげ付き）"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000188",
+  "name_in_database": "Customization_RomusToras_FacialHair_Sideburns",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "もみあげ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000018F",
+  "name_in_database": "Customization_RomusToras_FacialHair_Theorist",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "理論家"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000196",
+  "name_in_database": "Customization_RomusToras_FacialHair_Valgslandian",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ヴァルグスランド風"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000052",
+  "name_in_database": "Customization_RomusToras_Hair_Bald",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "禿頭"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000078",
+  "name_in_database": "Customization_RomusToras_Hair_Balding",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "薄毛"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000086",
+  "name_in_database": "Customization_RomusToras_Hair_Bicorne",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "二角帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100009E0000C2A4",
+  "name_in_database": "Customization_RomusToras_Hair_Cap",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "王室帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000008D",
+  "name_in_database": "Customization_RomusToras_Hair_Crown",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "王冠"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100009E0000C29D",
+  "name_in_database": "Customization_RomusToras_Hair_CrownBald",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "王冠（髪なし）"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000071",
+  "name_in_database": "Customization_RomusToras_Hair_Default",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "標準"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000004B",
+  "name_in_database": "Customization_RomusToras_Hair_Gentleman",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "紳士"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000006A",
+  "name_in_database": "Customization_RomusToras_Hair_Professional",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "実務家"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B00000094",
+  "name_in_database": "Customization_RomusToras_Hair_PushedBack",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "オールバック"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000009B",
+  "name_in_database": "Customization_RomusToras_Hair_Short",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "短髪"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000A2",
+  "name_in_database": "Customization_RomusToras_Hair_SordishFedora",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ソードランド式中折れ帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000B0",
+  "name_in_database": "Customization_RomusToras_Hair_Wavy",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "ウェーブ"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B000000A9",
+  "name_in_database": "Customization_RomusToras_Hair_WhiteHat",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "白帽"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100005B0000007F",
+  "name_in_database": "Customization_RomusToras_Hair_WhiteWig",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "白のかつら"
+ },
+ {
+  "type": "CharacterCustomizationOptionData",
+  "item_id": "0x0100009E0000C2AB",
+  "name_in_database": "Customization_RomusToras_Hair_WisemansHat",
+  "path": "CharacterCustomizationOptionProperties.Title",
+  "ja": "賢者の帽子"
+ }
+]

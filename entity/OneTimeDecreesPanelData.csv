@@ -1,0 +1,3 @@
+﻿type,item_id,name_in_database,path,ja
+OneTimeDecreesPanelData,0x0100006A000027C3,Panel_PresidentialDecrees,OneTimeDecreesPanelProperties.Title,大統領令
+OneTimeDecreesPanelData,0x0100006A000027C3,Panel_PresidentialDecrees,OneTimeDecreesPanelProperties.Subtitle,発令する勅令は3つまで選択できます。

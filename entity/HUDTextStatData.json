@@ -1,0 +1,44 @@
+[
+ {
+  "type": "HUDTextStatData",
+  "item_id": "0x0100006A0001C2D5",
+  "name_in_database": "Sordland_HUDTextStat_Economy",
+  "path": "HUDTextStatProperties.Title",
+  "ja": "経済"
+ },
+ {
+  "type": "HUDTextStatData",
+  "item_id": "0x0100006A0001C2D5",
+  "name_in_database": "Sordland_HUDTextStat_Economy",
+  "path": "HUDTextStatProperties.BadText",
+  "ja": "不安定"
+ },
+ {
+  "type": "HUDTextStatData",
+  "item_id": "0x0100006A0001C2D5",
+  "name_in_database": "Sordland_HUDTextStat_Economy",
+  "path": "HUDTextStatProperties.GoodText",
+  "ja": "成長"
+ },
+ {
+  "type": "HUDTextStatData",
+  "item_id": "0x0100006A0001C2D5",
+  "name_in_database": "Sordland_HUDTextStat_Economy",
+  "path": "HUDTextStatProperties.NeutralText",
+  "ja": "安定"
+ },
+ {
+  "type": "HUDTextStatData",
+  "item_id": "0x0100006A0001C2D5",
+  "name_in_database": "Sordland_HUDTextStat_Economy",
+  "path": "HUDTextStatProperties.VeryBadText",
+  "ja": "危機"
+ },
+ {
+  "type": "HUDTextStatData",
+  "item_id": "0x0100006A0001C2D5",
+  "name_in_database": "Sordland_HUDTextStat_Economy",
+  "path": "HUDTextStatProperties.VeryGoodText",
+  "ja": "成長"
+ }
+]

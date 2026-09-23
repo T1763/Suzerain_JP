@@ -1,0 +1,205 @@
+﻿key,scene,ja
+Profile Name,mainmenu,プロフィール名
+Continue with Google,mainmenu,Google で続ける
+Tickets,mainmenu,チケット
+Enter game name...,mainmenu,セーブ名を入力...
+Select,mainmenu,選択
+Settings,mainmenu,設定
+Zoom Out,mainmenu,ズームアウト
+Cancel,mainmenu,キャンセル
+Language (Q),mainmenu,言語 (Q)
+password,mainmenu,パスワード
+Watch Ads,mainmenu,広告を見る
+CHOOSE A POLITICAL AFFILIATION,mainmenu,政治的立場を選ぶ
+Torpor Account Login,mainmenu,Torpor アカウントにログイン
+Bundles,mainmenu,セット
+SSAO,mainmenu,SSAO
+AFFILIATION:,mainmenu,立場：
+<size=19>(Press)</size> Hyperlinks,mainmenu,<size=19>(押す)</size> リンク
+Torpor Account,mainmenu,Torpor アカウント
+"Use Story Points to start or continue playing a story. 
+
+Earn more by watching ads, leveling up, and completing in-game actions.",mainmenu,"ストーリーポイントを使って、物語を始めたり続けたりできます。
+
+広告の視聴、レベルアップ、ゲーム内の行動の達成で増やせます。"
+Country,mainmenu,国
+MAIN MENU,mainmenu,メインメニュー
+Gift Codes,mainmenu,ギフトコード
+Back,mainmenu,戻る
+Suzerain Completed,mainmenu,Suzerain クリア済み
+Confirm,mainmenu,決定
+Delete,mainmenu,削除
+Previous Token/Panel,mainmenu,前の駒／パネル
+INFLUENCE,mainmenu,影響力
+Login,mainmenu,ログイン
+"Congratulations. You've unlocked the daily reward for today.
+
+
+Keep up the good work.",mainmenu,"おめでとうございます。本日のデイリー報酬を獲得しました。
+
+
+この調子で続けましょう。"
+Story Packs,mainmenu,ストーリーパック
+"To receive your gift, enter your code below.",mainmenu,ギフトを受け取るには、下にコードを入力してください。
+"Data Collection
+
+This game collects gameplay data through Torpor Games' analytics service, A/B testing and service providers. The information gathered will aid us in enhancing game balance for a better game experience. For further information see the Torpor Games Privacy Policy.",mainmenu,"データの収集
+
+このゲームは、Torpor Games の分析サービス・A/Bテスト・サービス提供者を通じてプレイデータを収集します。収集した情報は、より良いゲーム体験のためにゲームバランスを改善するのに役立てます。詳しくは Torpor Games のプライバシーポリシーをご覧ください。"
+OR,mainmenu,または
+Prologue Choices,mainmenu,プロローグの選択
+"Minimize/Unminimize/
+Open Profile Page",mainmenu,"最小化／元に戻す／
+プロフィールを開く"
+Ad Privacy Options,mainmenu,広告のプライバシー設定
+Delete Personal Data,mainmenu,個人データを削除
+New Game,mainmenu,ニューゲーム
+Achievements,mainmenu,実績
+Post-processing,mainmenu,ポストプロセス
+Load,mainmenu,ロード
+Welcome to Suzerain,mainmenu,Suzerain へようこそ
+email,mainmenu,メールアドレス
+Password,mainmenu,パスワード
+Store,mainmenu,ストア
+Analytics Consent,mainmenu,分析への同意
+Daily Rewards,mainmenu,デイリー報酬
+Account Settings,mainmenu,アカウント設定
+Torpor Mode,mainmenu,トーパーモード
+No Internet Connection,mainmenu,インターネットに接続されていません
+"""Suzerain"" is a work of fiction and any resemblance to actual persons, living or dead, or actual events is purely coincidental. While the game may illustrate various perspectives on political subjects, these depictions are purely for artistic exploration and do not indicate an endorsement or promotion of these viewpoints by the creators. 
+
+This game employs mature themes including instances of violence, death and suicide as part of its narrative.",mainmenu,"『Suzerain』はフィクションであり、実在の人物（存命・故人を問わず）や実際の出来事との類似はすべて偶然です。本作は政治的な主題についてさまざまな視点を描いていますが、それらは純粋に芸術的な探求のためのものであり、制作者がそうした見解を支持・推奨していることを示すものではありません。 
+
+本作は物語の一部として、暴力・死・自殺の描写を含む成人向けの主題を扱っています。"
+Saved on a different version.,mainmenu,別のバージョンで保存されています。
+Zoom In,mainmenu,ズームイン
+Credits,mainmenu,クレジット
+Re-Enter Password,mainmenu,パスワードを再入力
+This mode disables manual saving and enables achievements. You can only turn it off after completing the story once.,mainmenu,このモードでは手動セーブができなくなり、実績が有効になります。物語を一度クリアするまでオフにできません。
+Sign up with Google,mainmenu,Google で登録
+Torpor Games Privacy Policy,mainmenu,Torpor Games プライバシーポリシー
+E-Mail Address,mainmenu,メールアドレス
+CONTINUE,mainmenu,続きから
+Link Account,mainmenu,アカウントを連携
+Loading...,mainmenu,読み込み中...
+Next Token/Panel,mainmenu,次の駒／パネル
+Forgot Password?,mainmenu,パスワードをお忘れですか？
+Delete Torpor Account,mainmenu,Torpor アカウントを削除
+CAP REACHED,mainmenu,上限に達しました
+Font Size,mainmenu,文字の大きさ
+Skip Prologue,mainmenu,プロローグを飛ばす
+Font,mainmenu,フォント
+"By using this service you agree to the Torpor Games
+<link=""https://www.torporgames.com/""><color=#D9D6D6><u>Terms of Service</color></u></link> and <link=""https://www.torporgames.com/""><color=#D9D6D6><u>Privacy Policy</color></u></link>",mainmenu,"このサービスを利用すると、Torpor Games の
+<link=""https://www.torporgames.com/""><color=#D9D6D6><u>利用規約</color></u></link>と<link=""https://www.torporgames.com/""><color=#D9D6D6><u>プライバシーポリシー</color></u></link>に同意したものとみなされます"
+EXPERIENCE,mainmenu,経験値
+"Level up by earning XP to unlock rewards and story points. 
+
+Gain XP through completing actions and achievements in the game.",mainmenu,"経験値を稼いでレベルを上げると、報酬とストーリーポイントが手に入ります。 
+
+経験値はゲーム内の行動や実績を達成すると得られます。"
+"By using this service you agree to the Torpor Games
+<link=""https://www.torporgames.com/terms-of-service""><color=#D9D6D6><u>Terms of Service</color></u></link> and <link=""https://www.torporgames.com/privacy-policy""><color=#D9D6D6><u>Privacy Policy</color></u></link>",mainmenu,"このサービスを利用すると、Torpor Games の
+<link=""https://www.torporgames.com/terms-of-service""><color=#D9D6D6><u>利用規約</color></u></link>と<link=""https://www.torporgames.com/privacy-policy""><color=#D9D6D6><u>プライバシーポリシー</color></u></link>に同意したものとみなされます"
+PURCHASE,mainmenu,購入
+Load Archetype,mainmenu,人物像を読み込む
+Window Mode,mainmenu,画面モード
+Secondary Language (E),mainmenu,第二言語 (E)
+Link Account with Email,mainmenu,メールアドレスでアカウントを連携
+Reset Password,mainmenu,パスワードを再設定
+Language,mainmenu,言語
+New,mainmenu,新着
+Leader,mainmenu,指導者
+Log Out,mainmenu,ログアウト
+SFX Volume,mainmenu,効果音の音量
+new email address,mainmenu,新しいメールアドレス
+code,mainmenu,コード
+Lighting,mainmenu,ライティング
+Reward:,mainmenu,報酬：
+Rizia Completed,mainmenu,リジア クリア済み
+Back to Login,mainmenu,ログインに戻る
+STORY POINTS,mainmenu,ストーリーポイント
+Music Volume,mainmenu,音楽の音量
+Options,mainmenu,設定
+Incorrect email or password.,mainmenu,メールアドレスまたはパスワードが違います。
+Continue with Apple,mainmenu,Apple で続ける
+"Loading ad…",mainmenu,"広告を読み込み中…"
+Story Selection,mainmenu,物語の選択
+SELECT,mainmenu,選択
+LOAD,mainmenu,ロード
+Overview,mainmenu,概要
+Experience,mainmenu,経験値
+Set Password,mainmenu,パスワードを設定
+Restore Defaults,mainmenu,初期設定に戻す
+Graphics,mainmenu,グラフィック
+Load Save,mainmenu,セーブをロード
+profile name,mainmenu,プロフィール名
+Delete Analytics Data,mainmenu,分析データを削除
+Error,mainmenu,エラー
+Shadows,mainmenu,影
+New Version Available!,mainmenu,新しいバージョンがあります！
+Map Movement/Scroll,mainmenu,マップの移動／スクロール
+Exit,mainmenu,終了
+New Game Name,mainmenu,新しいセーブの名前
+SAVING...,mainmenu,保存中...
+Reconnect,mainmenu,再接続
+Create Account,mainmenu,アカウントを作成
+Watch ads to earn Story Points. Use them to advance in the story.,mainmenu,広告を見てストーリーポイントを獲得し、物語を進めるのに使えます。
+V Sync,mainmenu,垂直同期
+ROTATE,mainmenu,回転
+Profile Details,mainmenu,プロフィールの詳細
+CHOOSE A PROFILE PICTURE,mainmenu,プロフィール画像を選ぶ
+Profile,mainmenu,プロフィール
+Torpor Mode Disabled,mainmenu,トーパーモード オフ
+"Are you sure you want to delete Torpor Games Account?
+You will lose your game backups and any associated data.",mainmenu,"Torpor Games アカウントを削除してよろしいですか？
+ゲームのバックアップと関連するデータはすべて失われます。"
+You must complete the Main Story once to disable Torpor Mode.,mainmenu,トーパーモードをオフにするには、本編を一度クリアする必要があります。
+"You are currently playing as a guest.
+Login to use your Suzerain profile across devices.",mainmenu,"現在ゲストとしてプレイしています。
+ログインすると、Suzerain のプロフィールを複数の端末で使えます。"
+ACHIEVEMENTS:,mainmenu,実績：
+Sync Achievements,mainmenu,実績を同期
+Done,mainmenu,完了
+Textures,mainmenu,テクスチャ
+Import from existing completed save,mainmenu,クリア済みのセーブから読み込む
+Accept,mainmenu,同意する
+Target FPS,mainmenu,目標FPS
+Rizia,mainmenu,リジア
+Decline,mainmenu,同意しない
+Choose Your Own,mainmenu,自分で選ぶ
+Edit Username,mainmenu,ユーザー名を編集
+Sign up with Apple,mainmenu,Apple で登録
+"To access this page, please reconnect to the internet.",mainmenu,このページを開くには、インターネットに再接続してください。
+RECENT ACTIVITY,mainmenu,最近の活動
+Map Switch/Open Login Page,mainmenu,マップ切り替え／ログインページを開く
+Collections,mainmenu,コレクション
+Warning,mainmenu,警告
+Saved on a different version,mainmenu,別のバージョンで保存されています
+START STORY,mainmenu,物語を始める
+"UI Scaling
+",mainmenu,"UIの拡大率
+"
+Render Scale,mainmenu,レンダースケール
+Receive news and updates from Torpor Games,mainmenu,Torpor Games からのお知らせと更新情報を受け取る
+BACK,mainmenu,戻る
+Apply,mainmenu,適用
+"If the email is found, you will receive an email shortly.",mainmenu,メールアドレスが登録されていれば、まもなくメールが届きます。
+Anti-Aliasing,mainmenu,アンチエイリアス
+Restore Purchases,mainmenu,購入を復元
+Choose the main character archetype for the parallel story. This will influence the story you are starting.,mainmenu,パラレルストーリーの主人公の人物像を選んでください。これから始める物語に影響します。
+Edit Email,mainmenu,メールアドレスを編集
+Latest News,mainmenu,最新情報
+Typewriter,mainmenu,タイプライター表示
+Story Points,mainmenu,ストーリーポイント
+Torpor Mode Enabled,mainmenu,トーパーモード オン
+Sordland,mainmenu,ソードランド
+Master Volume,mainmenu,全体の音量
+Info,mainmenu,情報
+END,mainmenu,終了
+Skip Read Dialogue Text,mainmenu,既読の会話を飛ばす
+Warn,mainmenu,警告
+You have previously signed in with ...,mainmenu,以前は次の方法でログインしていました…
+New E-Mail Address,mainmenu,新しいメールアドレス
+Click to Login,mainmenu,クリックしてログイン
+Resolution,mainmenu,解像度

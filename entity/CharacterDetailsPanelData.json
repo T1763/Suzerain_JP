@@ -1,0 +1,30 @@
+[
+ {
+  "type": "CharacterDetailsPanelData",
+  "item_id": "0x0100006C000002EE",
+  "name_in_database": "CharacterDetails_AntonRayne",
+  "path": "CharacterDetailsPanelProperties.Title",
+  "ja": "アントン・レイン"
+ },
+ {
+  "type": "CharacterDetailsPanelData",
+  "item_id": "0x0100006C000002EE",
+  "name_in_database": "CharacterDetails_AntonRayne",
+  "path": "CharacterDetailsPanelProperties.Subtitle",
+  "ja": "ソードランド大統領"
+ },
+ {
+  "type": "CharacterDetailsPanelData",
+  "item_id": "0x0100006C00000CC6",
+  "name_in_database": "CharacterDetails_RomusToras",
+  "path": "CharacterDetailsPanelProperties.Title",
+  "ja": "ロムス・トラス"
+ },
+ {
+  "type": "CharacterDetailsPanelData",
+  "item_id": "0x0100006C00000CC6",
+  "name_in_database": "CharacterDetails_RomusToras",
+  "path": "CharacterDetailsPanelProperties.Subtitle",
+  "ja": "リジア国王"
+ }
+]

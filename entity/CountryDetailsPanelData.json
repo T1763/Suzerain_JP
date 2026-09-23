@@ -1,0 +1,100 @@
+[
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.Title",
+  "ja": "リジア王国"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.Leader",
+  "ja": "ロムス・トラス"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.Capital",
+  "ja": "ポルテ・ドラゾン"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.Subtitle",
+  "ja": "黄金に錨を下ろす"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.Government",
+  "ja": "立憲君主制"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.GdpWorldRank",
+  "ja": "第14位"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000D12",
+  "name_in_database": "CountryDetails_Rizia",
+  "path": "CountryDetailsPanelProperties.OfficialLanguage",
+  "ja": "リジア語"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.Title",
+  "ja": "ソードランド共和国"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.Leader",
+  "ja": "アントン・レイン"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.Capital",
+  "ja": "ホルソード"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.Subtitle",
+  "ja": "A Morgna wes core"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.Government",
+  "ja": "大統領制共和国"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.GdpWorldRank",
+  "ja": "第16位"
+ },
+ {
+  "type": "CountryDetailsPanelData",
+  "item_id": "0x0100006C00000940",
+  "name_in_database": "CountryDetails_Sordland",
+  "path": "CountryDetailsPanelProperties.OfficialLanguage",
+  "ja": "ソードランド語"
+ }
+]

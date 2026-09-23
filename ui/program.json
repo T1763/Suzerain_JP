@@ -1,0 +1,92 @@
+[
+ {
+  "key": "Start Story",
+  "scene": "global-metadata.dat",
+  "ja": "物語を始める"
+ },
+ {
+  "key": "Regional Map",
+  "scene": "global-metadata.dat",
+  "ja": "世界地図"
+ },
+ {
+  "key": "National Map",
+  "scene": "global-metadata.dat",
+  "ja": "国内地図"
+ },
+ {
+  "key": "{0} <alpha=#44><size=16>(min: {1}, max: {2})</size>",
+  "scene": "global-metadata.dat",
+  "ja": "{0} <alpha=#44><size=16>（最小 {1}・最大 {2}）</size>"
+ },
+ {
+  "key": "{0} <alpha=#44><size=16>(min: {1})</size>",
+  "scene": "global-metadata.dat",
+  "ja": "{0} <alpha=#44><size=16>（最小 {1}）</size>"
+ },
+ {
+  "key": "{0} <alpha=#44><size=16>(max: {1})</size>",
+  "scene": "global-metadata.dat",
+  "ja": "{0} <alpha=#44><size=16>（最大 {1}）</size>"
+ },
+ {
+  "key": "Campaign: {0}",
+  "scene": "global-metadata.dat",
+  "ja": "キャンペーン：{0}"
+ },
+ {
+  "key": "Are you sure you want to Exit to Desktop?",
+  "scene": "global-metadata.dat",
+  "ja": "ゲームを終了してデスクトップに戻りますか？"
+ },
+ {
+  "key": "Are you sure you want to go back to Main Menu?",
+  "scene": "global-metadata.dat",
+  "ja": "メインメニューに戻りますか？"
+ },
+ {
+  "key": "Cannot delete the campaign while playing it.<br><br> Return to Main Menu to delete this campaign.",
+  "scene": "global-metadata.dat",
+  "ja": "プレイ中のキャンペーンは削除できません。<br><br> 削除するにはメインメニューに戻ってください。"
+ },
+ {
+  "key": "Cannot delete this save while playing its campaign.<br><br> Return to Main Menu to delete this save.",
+  "scene": "global-metadata.dat",
+  "ja": "プレイ中のキャンペーンのセーブは削除できません。<br><br> 削除するにはメインメニューに戻ってください。"
+ },
+ {
+  "key": "Game saved.",
+  "scene": "global-metadata.dat",
+  "ja": "セーブしました。"
+ },
+ {
+  "key": "Game loaded.",
+  "scene": "global-metadata.dat",
+  "ja": "ロードしました。"
+ },
+ {
+  "key": "Save a game first.",
+  "scene": "global-metadata.dat",
+  "ja": "先にセーブしてください。"
+ },
+ {
+  "key": "Press Escape for Menu",
+  "scene": "global-metadata.dat",
+  "ja": "Esc キーでメニュー"
+ },
+ {
+  "key": "Out of moves. End Turn to proceed.",
+  "scene": "global-metadata.dat",
+  "ja": "行動できる回数が残っていません。ターンを終了して進めてください。"
+ },
+ {
+  "key": "Yes",
+  "scene": "global-metadata.dat",
+  "ja": "はい"
+ },
+ {
+  "key": "No",
+  "scene": "global-metadata.dat",
+  "ja": "いいえ"
+ }
+]

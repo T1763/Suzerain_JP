@@ -1,0 +1,65 @@
+[
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x0100006A0001BDD1",
+  "name_in_database": "Archetype_AntonRayne_Idealist",
+  "path": "ArchetypeProperties.Title",
+  "ja": "理想家"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x0100006A0001BDD1",
+  "name_in_database": "Archetype_AntonRayne_Idealist",
+  "path": "ArchetypeProperties.Subtitle",
+  "ja": "地域主義・現実主義\n民衆の側の人"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x0100006A0001BDD1",
+  "name_in_database": "Archetype_AntonRayne_Idealist",
+  "path": "ArchetypeProperties.Description",
+  "ja": "ソル主義の伝統と大衆的な改革とを釣り合わせ、市井の人々の信頼を勝ち得た現実的な指導者。求心力があり理想を語る人物で、みずからを民衆の側の者として示し、団結と繁栄の新時代を約束する。"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x010000B900000A9C",
+  "name_in_database": "Archetype_AntonRayne_Opportunist",
+  "path": "ArchetypeProperties.Title",
+  "ja": "日和見主義者"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x010000B900000A9C",
+  "name_in_database": "Archetype_AntonRayne_Opportunist",
+  "path": "ArchetypeProperties.Subtitle",
+  "ja": "国際主義・柔軟\n西側寄り"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x010000B900000A9C",
+  "name_in_database": "Archetype_AntonRayne_Opportunist",
+  "path": "ArchetypeProperties.Description",
+  "ja": "何よりもまず、実直な実業家であり、ソードランド政界の生き残りである。西側寄りでありながら現実的で、世界に開かれたソードランドという構想のため、あらゆる陣営を渡り歩く。"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x010000B900000A94",
+  "name_in_database": "Archetype_AntonRayne_Populist",
+  "path": "ArchetypeProperties.Title",
+  "ja": "大衆扇動家"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x010000B900000A94",
+  "name_in_database": "Archetype_AntonRayne_Populist",
+  "path": "ArchetypeProperties.Subtitle",
+  "ja": "権威主義・理想主義\n東側寄り"
+ },
+ {
+  "type": "ArchetypeData",
+  "item_id": "0x010000B900000A94",
+  "name_in_database": "Archetype_AntonRayne_Populist",
+  "path": "ArchetypeProperties.Description",
+  "ja": "強く統一されたソードランドという構想を掲げ、群衆を動かすことのできる意志の強い大衆政治家。東側に与し、理想を深く抱き、国力と主権をこそ最優先と見なす。"
+ }
+]

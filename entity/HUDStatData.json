@@ -1,0 +1,93 @@
+[
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100006A00005BF3",
+  "name_in_database": "Rizia_HUDStat_Authority",
+  "path": "HUDStatProperties.Title",
+  "ja": "権威"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100006A00005C01",
+  "name_in_database": "Rizia_HUDStat_Budget",
+  "path": "HUDStatProperties.Title",
+  "ja": "予算"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100006A00005BF7",
+  "name_in_database": "Rizia_HUDStat_Energy",
+  "path": "HUDStatProperties.Title",
+  "ja": "エネルギー"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100007B00000196",
+  "name_in_database": "Rizia_War_HUDStat_BattleShip",
+  "path": "HUDStatProperties.Title",
+  "ja": "戦艦"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x010000B4000014E3",
+  "name_in_database": "Rizia_War_HUDStat_BomberPlanes",
+  "path": "HUDStatProperties.Title",
+  "ja": "爆撃機"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100007B0000018A",
+  "name_in_database": "Rizia_War_HUDStat_Equipment",
+  "path": "HUDStatProperties.Title",
+  "ja": "装備"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x010000B4000014D6",
+  "name_in_database": "Rizia_War_HUDStat_FighterPlanes",
+  "path": "HUDStatProperties.Title",
+  "ja": "戦闘機"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100007B00000186",
+  "name_in_database": "Rizia_War_HUDStat_Manpower",
+  "path": "HUDStatProperties.Title",
+  "ja": "兵員"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100007B0000019A",
+  "name_in_database": "Rizia_War_HUDStat_Submarine",
+  "path": "HUDStatProperties.Title",
+  "ja": "潜水艦"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100007B0000018E",
+  "name_in_database": "Rizia_War_HUDStat_Tank",
+  "path": "HUDStatProperties.Title",
+  "ja": "戦車"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100007B00000192",
+  "name_in_database": "Rizia_War_HUDStat_Truck",
+  "path": "HUDStatProperties.Title",
+  "ja": "輸送車"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100006A00005BD3",
+  "name_in_database": "Sordland_HUDStat_GovernmentBudget",
+  "path": "HUDStatProperties.Title",
+  "ja": "政府予算"
+ },
+ {
+  "type": "HUDStatData",
+  "item_id": "0x0100006A00005BDA",
+  "name_in_database": "Sordland_HUDStat_PersonalWealth",
+  "path": "HUDStatProperties.Title",
+  "ja": "個人資産"
+ }
+]

@@ -1,0 +1,3698 @@
+[
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C80000188C",
+  "name_in_database": "Floating_Hugo_RoyalDecreeCounsel",
+  "path": "ConversationProperties.Title",
+  "ja": "ウーゴとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C80000188C",
+  "name_in_database": "Floating_Hugo_RoyalDecreeCounsel",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の居室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A281",
+  "name_in_database": "Turn01_A_Media",
+  "path": "ConversationProperties.Title",
+  "ja": "報道戦略に関する会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A281",
+  "name_in_database": "Turn01_A_Media",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A27D",
+  "name_in_database": "Turn01_A_PoliticalOverview",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の政治情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A27D",
+  "name_in_database": "Turn01_A_PoliticalOverview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000052000207DD",
+  "name_in_database": "Turn01_A_ReligiousCeremony",
+  "path": "ConversationProperties.Title",
+  "ja": "国王の聖別式"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000052000207DD",
+  "name_in_database": "Turn01_A_ReligiousCeremony",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "プラヴォ聖域"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000905",
+  "name_in_database": "Turn01_A_TorasPoliticalOverview",
+  "path": "ConversationProperties.Title",
+  "ja": "宰相との政情概観"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000905",
+  "name_in_database": "Turn01_A_TorasPoliticalOverview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の大食堂、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005500007406",
+  "name_in_database": "Turn01_EnT_CouncilBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "王室評議会による初回説明"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005500007406",
+  "name_in_database": "Turn01_EnT_CouncilBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A275",
+  "name_in_database": "Turn01_EnT_EconomicOverview",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の経済情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A275",
+  "name_in_database": "Turn01_EnT_EconomicOverview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A279",
+  "name_in_database": "Turn01_InT_Infrastructure",
+  "path": "ConversationProperties.Title",
+  "ja": "インフラ計画案の検討"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A279",
+  "name_in_database": "Turn01_InT_Infrastructure",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ブルー邸、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A285",
+  "name_in_database": "Turn01_Personal_Ball",
+  "path": "ConversationProperties.Title",
+  "ja": "就任舞踏会のレセプション"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A285",
+  "name_in_database": "Turn01_Personal_Ball",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000550000740E",
+  "name_in_database": "Turn01_P_FamilyIntroduction",
+  "path": "ConversationProperties.Title",
+  "ja": "パラス・レズナの早朝"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000550000740E",
+  "name_in_database": "Turn01_P_FamilyIntroduction",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の大食堂、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A289",
+  "name_in_database": "Turn01_SnO_MPShot",
+  "path": "ConversationProperties.Title",
+  "ja": "緊急会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A289",
+  "name_in_database": "Turn01_SnO_MPShot",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "作戦指令室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000052000207E7",
+  "name_in_database": "Turn01_SnO_SecurityMilitaryBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の治安情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000052000207E7",
+  "name_in_database": "Turn01_SnO_SecurityMilitaryBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "王立フォルチェ鋳造所、フォルチェ・ダトール"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005500007401",
+  "name_in_database": "Turn01_Start_Coronation",
+  "path": "ConversationProperties.Title",
+  "ja": "戴冠式"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005500007401",
+  "name_in_database": "Turn01_Start_Coronation",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "戴冠式"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A28D",
+  "name_in_database": "Turn01_Start_Inauguration",
+  "path": "ConversationProperties.Title",
+  "ja": "-"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A28D",
+  "name_in_database": "Turn01_Start_Inauguration",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "-"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A29D",
+  "name_in_database": "Turn02_A_AutocratBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "最高裁長官オルソ・ホーカーとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A29D",
+  "name_in_database": "Turn02_A_AutocratBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領の間、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A291",
+  "name_in_database": "Turn02_A_ContractBribe",
+  "path": "ConversationProperties.Title",
+  "ja": "マルーン宮殿での一日の終わり"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A291",
+  "name_in_database": "Turn02_A_ContractBribe",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A295",
+  "name_in_database": "Turn02_A_MediaDeal",
+  "path": "ConversationProperties.Title",
+  "ja": "マルセル・コロンティとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A295",
+  "name_in_database": "Turn02_A_MediaDeal",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領専用車、コンリアトへの道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A299",
+  "name_in_database": "Turn02_A_ReformBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "改革委員会の結果についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A299",
+  "name_in_database": "Turn02_A_ReformBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000023F",
+  "name_in_database": "Turn02_FPnT_DiplomacyBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "外交に関する評議会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000023F",
+  "name_in_database": "Turn02_FPnT_DiplomacyBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2B5",
+  "name_in_database": "Turn02_FPnT_DiplomacyOverview",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の外交情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2B5",
+  "name_in_database": "Turn02_FPnT_DiplomacyOverview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ブルー邸、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000246",
+  "name_in_database": "Turn02_FPnT_SordlandTradeVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "ソードランド通商使節団の来訪"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000246",
+  "name_in_database": "Turn02_FPnT_SordlandTradeVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "リザニア号、ズパナ川"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000254",
+  "name_in_database": "Turn02_FPnT_ZilleFriendshipDay",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴェゼク・リジア友好の日"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000254",
+  "name_in_database": "Turn02_FPnT_ZilleFriendshipDay",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "スモラク広場、ジル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2A1",
+  "name_in_database": "Turn02_InT_HighwayContract",
+  "path": "ConversationProperties.Title",
+  "ja": "H-3高速道路契約の締結"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2A1",
+  "name_in_database": "Turn02_InT_HighwayContract",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、レンクルグ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2A5",
+  "name_in_database": "Turn02_InT_RailwayContract",
+  "path": "ConversationProperties.Title",
+  "ja": "L-1鉄道契約の締結"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2A5",
+  "name_in_database": "Turn02_InT_RailwayContract",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、アンリカ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2B1",
+  "name_in_database": "Turn02_Personal_FamilyDinner",
+  "path": "ConversationProperties.Title",
+  "ja": "自宅での家族との夕食"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2B1",
+  "name_in_database": "Turn02_Personal_FamilyDinner",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2AD",
+  "name_in_database": "Turn02_Personal_Funeral",
+  "path": "ConversationProperties.Title",
+  "ja": "ベルナルド・シルカスの葬儀"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2AD",
+  "name_in_database": "Turn02_Personal_Funeral",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "聖ダスト・ヌーリティ教墓地、デイル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000024D",
+  "name_in_database": "Turn02_P_VinaTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴィナとの会話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000024D",
+  "name_in_database": "Turn02_P_VinaTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "モンキズ沿岸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2A9",
+  "name_in_database": "Turn02_SnO_SecurityOverview",
+  "path": "ConversationProperties.Title",
+  "ja": "ソードランドへの脅威に関する治安報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2A9",
+  "name_in_database": "Turn02_SnO_SecurityOverview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "作戦指令室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002122",
+  "name_in_database": "Turn02_SnO_TitusGoldenGuard",
+  "path": "ConversationProperties.Title",
+  "ja": "近衛兵との非公式謁見"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002122",
+  "name_in_database": "Turn02_SnO_TitusGoldenGuard",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500002B11",
+  "name_in_database": "Turn03_A_AddressTheProtestors",
+  "path": "ConversationProperties.Title",
+  "ja": "抗議者への演説と車での退出"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500002B11",
+  "name_in_database": "Turn03_A_AddressTheProtestors",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ガソム支社の門前、ナルベル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2D1",
+  "name_in_database": "Turn03_A_AutocratDecree",
+  "path": "ConversationProperties.Title",
+  "ja": "非常事態令の準備"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2D1",
+  "name_in_database": "Turn03_A_AutocratDecree",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中央ホール、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2E1",
+  "name_in_database": "Turn03_A_AutocratSpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "非常事態法の宣言"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2E1",
+  "name_in_database": "Turn03_A_AutocratSpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大国民議会、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000064000002B2",
+  "name_in_database": "Turn03_A_CardesseMontaklarVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "モンタクラル行幸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000064000002B2",
+  "name_in_database": "Turn03_A_CardesseMontaklarVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "アザロ要塞、モンタクラル市"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2CD",
+  "name_in_database": "Turn03_A_DictatorConstitution",
+  "path": "ConversationProperties.Title",
+  "ja": "憲法改正案の最終決定"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2CD",
+  "name_in_database": "Turn03_A_DictatorConstitution",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中央ホール、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000510001385A",
+  "name_in_database": "Turn03_A_EnergyProtectionAct",
+  "path": "ConversationProperties.Title",
+  "ja": "1932年エネルギー保護法に関する会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000510001385A",
+  "name_in_database": "Turn03_A_EnergyProtectionAct",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000064000002A4",
+  "name_in_database": "Turn03_A_IzaVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "イザへの家族旅行"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000064000002A4",
+  "name_in_database": "Turn03_A_IzaVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "郊外、イザ市"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2C5",
+  "name_in_database": "Turn03_A_LateBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "改革委員会の結果についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2C5",
+  "name_in_database": "Turn03_A_LateBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2C9",
+  "name_in_database": "Turn03_A_ReformistConstitution",
+  "path": "ConversationProperties.Title",
+  "ja": "憲法改正案の最終決定"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2C9",
+  "name_in_database": "Turn03_A_ReformistConstitution",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中央ホール、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000064000002AB",
+  "name_in_database": "Turn03_A_SallabesVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "スカーレット・キングバード祭への行幸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000064000002AB",
+  "name_in_database": "Turn03_A_SallabesVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "アレーナ・サラベス、サラベス市"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2E9",
+  "name_in_database": "Turn03_EnT_Budget",
+  "path": "ConversationProperties.Title",
+  "ja": "ソードランド政府の予算配分"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2E9",
+  "name_in_database": "Turn03_EnT_Budget",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2E5",
+  "name_in_database": "Turn03_EnT_BusinessCouncil",
+  "path": "ConversationProperties.Title",
+  "ja": "経済連盟会員との夕食"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2E5",
+  "name_in_database": "Turn03_EnT_BusinessCouncil",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "レストラン・エステリア、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013848",
+  "name_in_database": "Turn03_EnT_GasomProposal",
+  "path": "ConversationProperties.Title",
+  "ja": "ガソムについてのマンガー・アルフォンソとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013848",
+  "name_in_database": "Turn03_EnT_GasomProposal",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "オルノベル地区、ナルベル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000262",
+  "name_in_database": "Turn03_FPnT_RumburgVisits",
+  "path": "ConversationProperties.Title",
+  "ja": "ルンブルクのベアトリス女王の来訪"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000262",
+  "name_in_database": "Turn03_FPnT_RumburgVisits",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "黄金の間、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2C1",
+  "name_in_database": "Turn03_Personal_DriverTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "大統領のナルベル訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2C1",
+  "name_in_database": "Turn03_Personal_DriverTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領専用車、ナルベルへの道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2BD",
+  "name_in_database": "Turn03_Personal_FrancTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "フランクとのバーベキュー"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2BD",
+  "name_in_database": "Turn03_Personal_FrancTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500000449",
+  "name_in_database": "Turn03_Personal_HelicopterEscape",
+  "path": "ConversationProperties.Title",
+  "ja": "アルフォンソ・ヴォルクナーとのナルギス上空飛行"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500000449",
+  "name_in_database": "Turn03_Personal_HelicopterEscape",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "田園地帯、ナルギス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2B9",
+  "name_in_database": "Turn03_PSnW_Overview",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の福祉情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2B9",
+  "name_in_database": "Turn03_PSnW_Overview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、ナルベル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000796F",
+  "name_in_database": "Turn03_PSnW_RustyMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "ラスティ・モントーロとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000796F",
+  "name_in_database": "Turn03_PSnW_RustyMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・ヴェラナ、ブロナズ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000025B",
+  "name_in_database": "Turn03_SnO_ZilleIncidentBrief",
+  "path": "ConversationProperties.Title",
+  "ja": "ジル事件の続報"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000025B",
+  "name_in_database": "Turn03_SnO_ZilleIncidentBrief",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A315",
+  "name_in_database": "Turn04_A_ConvinceAlbin",
+  "path": "ConversationProperties.Title",
+  "ja": "改革案についてのアルビン・クラヴィンとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A315",
+  "name_in_database": "Turn04_A_ConvinceAlbin",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "アルビン・クラヴィンの執務室、ソードランド大国民議会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A311",
+  "name_in_database": "Turn04_A_ConvinceGloria",
+  "path": "ConversationProperties.Title",
+  "ja": "改革案についてのグロリア・トーリーとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A311",
+  "name_in_database": "Turn04_A_ConvinceGloria",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "グロリア・トーリーの執務室、ソードランド大国民議会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000BE8",
+  "name_in_database": "Turn04_A_HouseOfDelegates",
+  "path": "ConversationProperties.Title",
+  "ja": "代議院訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000BE8",
+  "name_in_database": "Turn04_A_HouseOfDelegates",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "代議院、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A30D",
+  "name_in_database": "Turn04_EnT_TaxReform",
+  "path": "ConversationProperties.Title",
+  "ja": "税制改正の検討"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A30D",
+  "name_in_database": "Turn04_EnT_TaxReform",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国民経済連盟会館、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000BFC",
+  "name_in_database": "Turn04_FPnT_AlvarezCall",
+  "path": "ConversationProperties.Title",
+  "ja": "アルバレス首相との通話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000BFC",
+  "name_in_database": "Turn04_FPnT_AlvarezCall",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・トラス、モンキズ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000C06",
+  "name_in_database": "Turn04_FPnT_ANSouthMerkopa",
+  "path": "ConversationProperties.Title",
+  "ja": "国際連盟南メルコパ会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000C06",
+  "name_in_database": "Turn04_FPnT_ANSouthMerkopa",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国際連盟総会議場、キルート"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000041F",
+  "name_in_database": "Turn04_FPnT_CouncilTalkAboutPales",
+  "path": "ConversationProperties.Title",
+  "ja": "パレス・ガス紛争に関する評議会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000640000041F",
+  "name_in_database": "Turn04_FPnT_CouncilTalkAboutPales",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "シティ・ドーム、アレス要塞"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000829",
+  "name_in_database": "Turn04_FPnT_PalesDukeVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "ラインハルト公との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000829",
+  "name_in_database": "Turn04_FPnT_PalesDukeVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ラインハルト城、パレス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002973",
+  "name_in_database": "Turn04_FPnT_SordlandBondPurchase",
+  "path": "ConversationProperties.Title",
+  "ja": "国債発行協議のための使節団派遣"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002973",
+  "name_in_database": "Turn04_FPnT_SordlandBondPurchase",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国際空港、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2F5",
+  "name_in_database": "Turn04_InT_SSCHighwayIssue",
+  "path": "ConversationProperties.Title",
+  "ja": "H-3高速道路の工事問題についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2F5",
+  "name_in_database": "Turn04_InT_SSCHighwayIssue",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、レンクルグ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2F9",
+  "name_in_database": "Turn04_InT_SSCRailwayIssue",
+  "path": "ConversationProperties.Title",
+  "ja": "L-1鉄道の工事問題についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2F9",
+  "name_in_database": "Turn04_InT_SSCRailwayIssue",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ゲルソード研究評議会、ゲルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A301",
+  "name_in_database": "Turn04_InT_TaurusHighwayIssue",
+  "path": "ConversationProperties.Title",
+  "ja": "H-3高速道路の工事問題についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A301",
+  "name_in_database": "Turn04_InT_TaurusHighwayIssue",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、レンクルグ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2FD",
+  "name_in_database": "Turn04_InT_TaurusRailwayIssue",
+  "path": "ConversationProperties.Title",
+  "ja": "L-1鉄道の工事問題についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2FD",
+  "name_in_database": "Turn04_InT_TaurusRailwayIssue",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ゲルソード研究評議会、ゲルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500002B19",
+  "name_in_database": "Turn04_Personal_ChessWithLucian",
+  "path": "ConversationProperties.Title",
+  "ja": "ルシアン・ガラドとの夜のチェス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500002B19",
+  "name_in_database": "Turn04_Personal_ChessWithLucian",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2F1",
+  "name_in_database": "Turn04_Personal_Jogging",
+  "path": "ConversationProperties.Title",
+  "ja": "モニカとの夜の散歩"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A2F1",
+  "name_in_database": "Turn04_Personal_Jogging",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000BF2",
+  "name_in_database": "Turn04_P_EstelaUpdate",
+  "path": "ConversationProperties.Title",
+  "ja": "エステラ王太后との夜の語らい"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000BF2",
+  "name_in_database": "Turn04_P_EstelaUpdate",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中庭、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000C10",
+  "name_in_database": "Turn04_P_PabelLucitaRomance",
+  "path": "ConversationProperties.Title",
+  "ja": "ワイン「赤のロムス」発表会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006400000C10",
+  "name_in_database": "Turn04_P_PabelLucitaRomance",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "カントゥアーヴォ家のぶどう園、カルス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A309",
+  "name_in_database": "Turn04_PSnW_EducationReform",
+  "path": "ConversationProperties.Title",
+  "ja": "教育改革案についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A309",
+  "name_in_database": "Turn04_PSnW_EducationReform",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "レイレン迎賓館、レイレン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A305",
+  "name_in_database": "Turn04_PSnW_SchoolVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "レイレンの学校訪問と視察"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A305",
+  "name_in_database": "Turn04_PSnW_SchoolVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "トレンヒル校、レイレン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A319",
+  "name_in_database": "Turn04_SnO_LawEnforcementBudget",
+  "path": "ConversationProperties.Title",
+  "ja": "治安機関の予算配分"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A319",
+  "name_in_database": "Turn04_SnO_LawEnforcementBudget",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A329",
+  "name_in_database": "Turn05_A_AutocratAssembly",
+  "path": "ConversationProperties.Title",
+  "ja": "非常事態法に関する議会審議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A329",
+  "name_in_database": "Turn05_A_AutocratAssembly",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大国民議会、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A341",
+  "name_in_database": "Turn05_A_DamageControl",
+  "path": "ConversationProperties.Title",
+  "ja": "ベンフィ祭疑惑の評価"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A341",
+  "name_in_database": "Turn05_A_DamageControl",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A331",
+  "name_in_database": "Turn05_A_DictatorSpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "改革に関する大統領演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A331",
+  "name_in_database": "Turn05_A_DictatorSpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大国民議会、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A32D",
+  "name_in_database": "Turn05_A_ReformistSpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "改革に関する大統領演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A32D",
+  "name_in_database": "Turn05_A_ReformistSpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大国民議会、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A335",
+  "name_in_database": "Turn05_FPnT_AgnoliaTradeVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "アグノリア首相との通商交渉"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A335",
+  "name_in_database": "Turn05_FPnT_AgnoliaTradeVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド・ワン、スタールポートへの飛行"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A31D",
+  "name_in_database": "Turn05_FPnT_ImmigrationPolicy",
+  "path": "ConversationProperties.Title",
+  "ja": "移民規制の状況についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A31D",
+  "name_in_database": "Turn05_FPnT_ImmigrationPolicy",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E0000212A",
+  "name_in_database": "Turn05_FPnT_MITZBoardMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "MITZ理事国会合"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E0000212A",
+  "name_in_database": "Turn05_FPnT_MITZBoardMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "MITZ、メフティエム湾岸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500006A31",
+  "name_in_database": "Turn05_FPnT_MITZHegelCall",
+  "path": "ConversationProperties.Title",
+  "ja": "ヘーゲル書記長からの電話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500006A31",
+  "name_in_database": "Turn05_FPnT_MITZHegelCall",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E0000309A",
+  "name_in_database": "Turn05_FPnT_MorellaNegotiations",
+  "path": "ConversationProperties.Title",
+  "ja": "モレラとの通商交渉"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E0000309A",
+  "name_in_database": "Turn05_FPnT_MorellaNegotiations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "カヴェット、モレラ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A67D",
+  "name_in_database": "Turn05_FPnT_MorellaNegotiationsFeedback",
+  "path": "ConversationProperties.Title",
+  "ja": "MITZとモレラ交渉の続報"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A67D",
+  "name_in_database": "Turn05_FPnT_MorellaNegotiationsFeedback",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A666",
+  "name_in_database": "Turn05_FPnT_MorellaReturnFlight",
+  "path": "ConversationProperties.Title",
+  "ja": "モレラからの帰路の機上"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A666",
+  "name_in_database": "Turn05_FPnT_MorellaReturnFlight",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "上空、モレラ・リジア国境"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002126",
+  "name_in_database": "Turn05_FPnT_WehlenNegotiations",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴェーレンとの新二国間協定の協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002126",
+  "name_in_database": "Turn05_FPnT_WehlenNegotiations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A339",
+  "name_in_database": "Turn05_FPnT_WehlenTradeVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴェーレン大統領との通商交渉"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A339",
+  "name_in_database": "Turn05_FPnT_WehlenTradeVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド・ワン、ヴラツラヴィッツへの飛行"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A321",
+  "name_in_database": "Turn05_Personal_FestivalOpening",
+  "path": "ConversationProperties.Title",
+  "ja": "ベンフィ祭の開幕"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A321",
+  "name_in_database": "Turn05_Personal_FestivalOpening",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ベンフィ高等芸術センター、ベンフィ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A345",
+  "name_in_database": "Turn05_Personal_MonicaTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "自宅での休息"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A345",
+  "name_in_database": "Turn05_Personal_MonicaTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A325",
+  "name_in_database": "Turn05_Personal_PetrParty",
+  "path": "ConversationProperties.Title",
+  "ja": "紳士クラブの私的な集い"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A325",
+  "name_in_database": "Turn05_Personal_PetrParty",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ペトル・ベクターンの別荘、エルローリー"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A34D",
+  "name_in_database": "Turn05_Personal_ReturnOfInvestment",
+  "path": "ConversationProperties.Title",
+  "ja": "ガス・マンガーからの電話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A34D",
+  "name_in_database": "Turn05_Personal_ReturnOfInvestment",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000014EF",
+  "name_in_database": "Turn05_P_ManusVinaTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "エスキリス・ガス田の視察"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000014EF",
+  "name_in_database": "Turn05_P_ManusVinaTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "リザニア号、トペス沿岸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A349",
+  "name_in_database": "Turn05_SnO_FoundedPolice",
+  "path": "ConversationProperties.Title",
+  "ja": "新警察組織の創設に関する協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A349",
+  "name_in_database": "Turn05_SnO_FoundedPolice",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500006A3B",
+  "name_in_database": "Turn05_SnO_InternalSecurity",
+  "path": "ConversationProperties.Title",
+  "ja": "国内治安に関する会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006500006A3B",
+  "name_in_database": "Turn05_SnO_InternalSecurity",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、モンキズ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A33D",
+  "name_in_database": "Turn05_SnO_MilitaryBudget",
+  "path": "ConversationProperties.Title",
+  "ja": "ソードランド軍の予算配分"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A33D",
+  "name_in_database": "Turn05_SnO_MilitaryBudget",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002130",
+  "name_in_database": "Turn05_SnO_TitusLucitaBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿での夜"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100008E00002130",
+  "name_in_database": "Turn05_SnO_TitusLucitaBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A365",
+  "name_in_database": "Turn06_A_AutocratDemands",
+  "path": "ConversationProperties.Title",
+  "ja": "非常事態法についてのガラチ判事との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A365",
+  "name_in_database": "Turn06_A_AutocratDemands",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000520005FFBD",
+  "name_in_database": "Turn06_A_CouncilMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "王室評議会との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000520005FFBD",
+  "name_in_database": "Turn06_A_CouncilMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A369",
+  "name_in_database": "Turn06_A_DictatorConvinceNFP",
+  "path": "ConversationProperties.Title",
+  "ja": "来る採決についてのケサロ・キベナーとの協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A369",
+  "name_in_database": "Turn06_A_DictatorConvinceNFP",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001530",
+  "name_in_database": "Turn06_A_FootballGame",
+  "path": "ConversationProperties.Title",
+  "ja": "慈善サッカー試合"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001530",
+  "name_in_database": "Turn06_A_FootballGame",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "王室御領、モンタクラル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001588",
+  "name_in_database": "Turn06_A_PalaceBalconySpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "宣戦布告の演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001588",
+  "name_in_database": "Turn06_A_PalaceBalconySpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "宮殿のバルコニー、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A361",
+  "name_in_database": "Turn06_A_ReformistConvincePFJP",
+  "path": "ConversationProperties.Title",
+  "ja": "来る採決についてのフレンス・リクターとの協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A361",
+  "name_in_database": "Turn06_A_ReformistConvincePFJP",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000154B",
+  "name_in_database": "Turn06_A_ReligiousBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "六星の合"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000154B",
+  "name_in_database": "Turn06_A_ReligiousBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ポルテ・ドラゾン天文台、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013952",
+  "name_in_database": "Turn06_A_VictoryDay",
+  "path": "ConversationProperties.Title",
+  "ja": "戦勝記念日行事への出席"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013952",
+  "name_in_database": "Turn06_A_VictoryDay",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領専用車、ジェンへの道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A351",
+  "name_in_database": "Turn06_EnT_Overview",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の経済情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A351",
+  "name_in_database": "Turn06_EnT_Overview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "経済省、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001565",
+  "name_in_database": "Turn06_FPnT_PalesDealSigning",
+  "path": "ConversationProperties.Title",
+  "ja": "アウレウス協定の正式調印"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001565",
+  "name_in_database": "Turn06_FPnT_PalesDealSigning",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "旧市街、パレス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001542",
+  "name_in_database": "Turn06_FPnT_PalesPostIncidentMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "事件についてのラインハルト公との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001542",
+  "name_in_database": "Turn06_FPnT_PalesPostIncidentMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "公爵の広間、パレス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A371",
+  "name_in_database": "Turn06_InT_2ndCompanyChoice",
+  "path": "ConversationProperties.Title",
+  "ja": "新大規模事業契約の締結"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A371",
+  "name_in_database": "Turn06_InT_2ndCompanyChoice",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A359",
+  "name_in_database": "Turn06_InT_HighwayOpening",
+  "path": "ConversationProperties.Title",
+  "ja": "H-3高速道路の開通"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A359",
+  "name_in_database": "Turn06_InT_HighwayOpening",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "USP地方支部、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A355",
+  "name_in_database": "Turn06_InT_RailwayOpening",
+  "path": "ConversationProperties.Title",
+  "ja": "L-1鉄道の開通"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A355",
+  "name_in_database": "Turn06_InT_RailwayOpening",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001580",
+  "name_in_database": "Turn06_P_Cemetary",
+  "path": "ConversationProperties.Title",
+  "ja": "君主記念碑の追悼式"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001580",
+  "name_in_database": "Turn06_P_Cemetary",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国立霊廟、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A375",
+  "name_in_database": "Turn06_Personal_ReturnOfInvestment2",
+  "path": "ConversationProperties.Title",
+  "ja": "ガス・マンガーからの電話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A375",
+  "name_in_database": "Turn06_Personal_ReturnOfInvestment2",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000155C",
+  "name_in_database": "Turn06_P_LucitaAzaroUpdate",
+  "path": "ConversationProperties.Title",
+  "ja": "ルシータ・アザロとの会話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000155C",
+  "name_in_database": "Turn06_P_LucitaAzaroUpdate",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中心街、テラドール"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A37D",
+  "name_in_database": "Turn06_PSnW_Curriculum",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の学校教育課程についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A37D",
+  "name_in_database": "Turn06_PSnW_Curriculum",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "教育省、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A379",
+  "name_in_database": "Turn06_PSnW_EducationSpending",
+  "path": "ConversationProperties.Title",
+  "ja": "教育情勢の続報"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A379",
+  "name_in_database": "Turn06_PSnW_EducationSpending",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ヴァルゲン大学、ヴァルゲン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A36D",
+  "name_in_database": "Turn06_PSnW_HealthBudget",
+  "path": "ConversationProperties.Title",
+  "ja": "医療の予算配分"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A36D",
+  "name_in_database": "Turn06_PSnW_HealthBudget",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "地方庁舎、デイル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013943",
+  "name_in_database": "Turn06_SnO_BergiaMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "ベルギアの緊張激化に関する会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013943",
+  "name_in_database": "Turn06_SnO_BergiaMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001553",
+  "name_in_database": "Turn06_SnO_BorderInvestigationResults",
+  "path": "ConversationProperties.Title",
+  "ja": "捜査結果"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001553",
+  "name_in_database": "Turn06_SnO_BorderInvestigationResults",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A35D",
+  "name_in_database": "Turn06_SnO_ConscriptionAndMilitaryPolicy",
+  "path": "ConversationProperties.Title",
+  "ja": "ヨセフ・ランチェアからの面会要請"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A35D",
+  "name_in_database": "Turn06_SnO_ConscriptionAndMilitaryPolicy",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国防省、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000156E",
+  "name_in_database": "Turn06_SnO_DukeWarPhoneCall",
+  "path": "ConversationProperties.Title",
+  "ja": "ラインハルト公との最後の通話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000156E",
+  "name_in_database": "Turn06_SnO_DukeWarPhoneCall",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001539",
+  "name_in_database": "Turn06_SnO_Incident",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿での深夜"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001539",
+  "name_in_database": "Turn06_SnO_Incident",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001577",
+  "name_in_database": "Turn06_SnO_WarEruptionBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "パレス侵攻についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E00001577",
+  "name_in_database": "Turn06_SnO_WarEruptionBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3C1",
+  "name_in_database": "Turn07_A_AddressToTheNation",
+  "path": "ConversationProperties.Title",
+  "ja": "国民への演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3C1",
+  "name_in_database": "Turn07_A_AddressToTheNation",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A395",
+  "name_in_database": "Turn07_A_AssemblyVote",
+  "path": "ConversationProperties.Title",
+  "ja": "憲法改正の議会採決"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A395",
+  "name_in_database": "Turn07_A_AssemblyVote",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領専用車、大国民議会への道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A399",
+  "name_in_database": "Turn07_A_AssemblyVote_ResultsMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "議会採決の結果に関する会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A399",
+  "name_in_database": "Turn07_A_AssemblyVote_ResultsMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "二階のバルコニー、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3AD",
+  "name_in_database": "Turn07_A_Autocrat_CourtDecision",
+  "path": "ConversationProperties.Title",
+  "ja": "最高裁判所の判断の発表"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3AD",
+  "name_in_database": "Turn07_A_Autocrat_CourtDecision",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000690000060D",
+  "name_in_database": "Turn07_A_BludishRightsMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "ブルディア人権利運動の指導者との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000690000060D",
+  "name_in_database": "Turn07_A_BludishRightsMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000690000062E",
+  "name_in_database": "Turn07_A_ConfrontationToNewProposal",
+  "path": "ConversationProperties.Title",
+  "ja": "採決前の対決"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000690000062E",
+  "name_in_database": "Turn07_A_ConfrontationToNewProposal",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3B1",
+  "name_in_database": "Turn07_A_ConvinceHeron",
+  "path": "ConversationProperties.Title",
+  "ja": "ヘロン判事との非公式会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3B1",
+  "name_in_database": "Turn07_A_ConvinceHeron",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホルソード郊外、エルローリー"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3A9",
+  "name_in_database": "Turn07_A_ConvinceIsabel",
+  "path": "ConversationProperties.Title",
+  "ja": "イザベル判事との夕食"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3A9",
+  "name_in_database": "Turn07_A_ConvinceIsabel",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ル・パピヨン、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3B9",
+  "name_in_database": "Turn07_A_CourtVote",
+  "path": "ConversationProperties.Title",
+  "ja": "最高裁判所の判断の発表"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3B9",
+  "name_in_database": "Turn07_A_CourtVote",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3A5",
+  "name_in_database": "Turn07_A_DayofDescension",
+  "path": "ConversationProperties.Title",
+  "ja": "降臨祭の儀礼"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3A5",
+  "name_in_database": "Turn07_A_DayofDescension",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ダストヌリティ聖域、デイル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A385",
+  "name_in_database": "Turn07_A_EconomicDirection",
+  "path": "ConversationProperties.Title",
+  "ja": "ルシアン・ガラドからの面会要請"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A385",
+  "name_in_database": "Turn07_A_EconomicDirection",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015B9",
+  "name_in_database": "Turn07_A_HouseofDelegatesII",
+  "path": "ConversationProperties.Title",
+  "ja": "代議院訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015B9",
+  "name_in_database": "Turn07_A_HouseofDelegatesII",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "代議院、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015D1",
+  "name_in_database": "Turn07_A_HugoManusPrivateTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "ウーゴ伯父からの面会要請"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015D1",
+  "name_in_database": "Turn07_A_HugoManusPrivateTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "宰相の間、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031CA",
+  "name_in_database": "Turn07_A_IzaUniversity",
+  "path": "ConversationProperties.Title",
+  "ja": "イザ大学創立750周年"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031CA",
+  "name_in_database": "Turn07_A_IzaUniversity",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "イザ大学講堂"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A381",
+  "name_in_database": "Turn07_A_MarcelCalls",
+  "path": "ConversationProperties.Title",
+  "ja": "マルセル・コロンティからの電話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A381",
+  "name_in_database": "Turn07_A_MarcelCalls",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A391",
+  "name_in_database": "Turn07_A_OligarchsFinalMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "経済方針の結果"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A391",
+  "name_in_database": "Turn07_A_OligarchsFinalMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3BD",
+  "name_in_database": "Turn07_A_ResultsMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "採決結果に関する閣議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3BD",
+  "name_in_database": "Turn07_A_ResultsMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A389",
+  "name_in_database": "Turn07_EnT_NationalizationAndPrivatization",
+  "path": "ConversationProperties.Title",
+  "ja": "主要企業の所有権移転"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A389",
+  "name_in_database": "Turn07_EnT_NationalizationAndPrivatization",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "経済省、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015C9",
+  "name_in_database": "Turn07_FPnT_DerdiaNegotiations",
+  "path": "ConversationProperties.Title",
+  "ja": "最高賢者アズマルとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015C9",
+  "name_in_database": "Turn07_FPnT_DerdiaNegotiations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "銀の駐屯地、ネアエル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3A1",
+  "name_in_database": "Turn07_FPnT_DiplomacyOverview2AndTradeDeal",
+  "path": "ConversationProperties.Title",
+  "ja": "外交戦略についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3A1",
+  "name_in_database": "Turn07_FPnT_DiplomacyOverview2AndTradeDeal",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031DA",
+  "name_in_database": "Turn07_FPnT_DukeVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "ラインハルト公の来訪"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031DA",
+  "name_in_database": "Turn07_FPnT_DukeVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大謁見の間、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031D2",
+  "name_in_database": "Turn07_FPnT_RumburgMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "リヴィングストン女王との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031D2",
+  "name_in_database": "Turn07_FPnT_RumburgMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソーンボローへの飛行"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A39D",
+  "name_in_database": "Turn07_Personal_TheatreVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "映画初公開への招待"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A39D",
+  "name_in_database": "Turn07_Personal_TheatreVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "シネマ・アングレイ・デイ・エルローリー、エルローリー"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3B5",
+  "name_in_database": "Turn07_Personal_UniversityChoice",
+  "path": "ConversationProperties.Title",
+  "ja": "自宅での家族との夕食"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3B5",
+  "name_in_database": "Turn07_Personal_UniversityChoice",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000090DA",
+  "name_in_database": "Turn07_P_HugoConfronts",
+  "path": "ConversationProperties.Title",
+  "ja": "ウーゴからの面会要請"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000090DA",
+  "name_in_database": "Turn07_P_HugoConfronts",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の私室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015C1",
+  "name_in_database": "Turn07_P_PabelPrivateTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿の朝"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000015C1",
+  "name_in_database": "Turn07_P_PabelPrivateTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の寝室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031E3",
+  "name_in_database": "Turn07_P_TorasDinner",
+  "path": "ConversationProperties.Title",
+  "ja": "家族との夕食"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E000031E3",
+  "name_in_database": "Turn07_P_TorasDinner",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "王室食堂、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3E5",
+  "name_in_database": "Turn08_A_AffairMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿での一日の始まり"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3E5",
+  "name_in_database": "Turn08_A_AffairMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A40D",
+  "name_in_database": "Turn08_A_AschrafAnniversary",
+  "path": "ConversationProperties.Title",
+  "ja": "ワタニ・アシュラフ命日の連帯集会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A40D",
+  "name_in_database": "Turn08_A_AschrafAnniversary",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "イッザム広場、エルザレン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001464C",
+  "name_in_database": "Turn08_A_GeneralCouncilMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "評議会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001464C",
+  "name_in_database": "Turn08_A_GeneralCouncilMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000B800006D82",
+  "name_in_database": "Turn08_A_HouseOfDelegates3",
+  "path": "ConversationProperties.Title",
+  "ja": "代議院訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000B800006D82",
+  "name_in_database": "Turn08_A_HouseOfDelegates3",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "代議院、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3E9",
+  "name_in_database": "Turn08_A_InvestigationResults",
+  "path": "ConversationProperties.Title",
+  "ja": "不倫スキャンダルの結末"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3E9",
+  "name_in_database": "Turn08_A_InvestigationResults",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3F1",
+  "name_in_database": "Turn08_A_LiviaPetrGone",
+  "path": "ConversationProperties.Title",
+  "ja": "不倫スキャンダルを巡る情勢の続報"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3F1",
+  "name_in_database": "Turn08_A_LiviaPetrGone",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3FD",
+  "name_in_database": "Turn08_A_NewVPIntroduction",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿での一日の始まり"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3FD",
+  "name_in_database": "Turn08_A_NewVPIntroduction",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中央ホール、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A411",
+  "name_in_database": "Turn08_A_PoliticalOverview2",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の政治情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A411",
+  "name_in_database": "Turn08_A_PoliticalOverview2",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000069000006D8",
+  "name_in_database": "Turn08_A_PoliticsBillsBriefing",
+  "path": "ConversationProperties.Title",
+  "ja": "政治情勢の報告会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000069000006D8",
+  "name_in_database": "Turn08_A_PoliticsBillsBriefing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3D1",
+  "name_in_database": "Turn08_A_PresidentialPowers",
+  "path": "ConversationProperties.Title",
+  "ja": "法改正の協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3D1",
+  "name_in_database": "Turn08_A_PresidentialPowers",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3ED",
+  "name_in_database": "Turn08_A_PressRelease",
+  "path": "ConversationProperties.Title",
+  "ja": "不倫スキャンダルの記者発表"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3ED",
+  "name_in_database": "Turn08_A_PressRelease",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "地方裁判所、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000520006097E",
+  "name_in_database": "Turn08_A_Reform_Manus",
+  "path": "ConversationProperties.Title",
+  "ja": "マヌス・サゾンとの密会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000520006097E",
+  "name_in_database": "Turn08_A_Reform_Manus",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "地下のどこか、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014678",
+  "name_in_database": "Turn08_A_RoyalWedding",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴィナ王女の婚礼"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014678",
+  "name_in_database": "Turn08_A_RoyalWedding",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014660",
+  "name_in_database": "Turn08_A_RustyPhoneCall",
+  "path": "ConversationProperties.Title",
+  "ja": "ラスティ・モントーロとの電話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014660",
+  "name_in_database": "Turn08_A_RustyPhoneCall",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "王室専用列車、マーヴェ・ノルトゥス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014668",
+  "name_in_database": "Turn08_A_SalInvestigationResults",
+  "path": "ConversationProperties.Title",
+  "ja": "昼食の時間"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014668",
+  "name_in_database": "Turn08_A_SalInvestigationResults",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "王室食堂、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A415",
+  "name_in_database": "Turn08_A_UnrestMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "民衆の不安増大についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A415",
+  "name_in_database": "Turn08_A_UnrestMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3F9",
+  "name_in_database": "Turn08_A_VPSelection",
+  "path": "ConversationProperties.Title",
+  "ja": "新副大統領の選任"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3F9",
+  "name_in_database": "Turn08_A_VPSelection",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3F5",
+  "name_in_database": "Turn08_A_WomensRightsMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "女性の権利の状況についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3F5",
+  "name_in_database": "Turn08_A_WomensRightsMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A57E",
+  "name_in_database": "Turn08_FPnT_AlvarezVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "レスピアとの外交会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A57E",
+  "name_in_database": "Turn08_FPnT_AlvarezVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ペルラ、レスピアの首都"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014670",
+  "name_in_database": "Turn08_FPnT_ANSession",
+  "path": "ConversationProperties.Title",
+  "ja": "国際連盟"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014670",
+  "name_in_database": "Turn08_FPnT_ANSession",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国際連盟本部、コンスタンティウム"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3DD",
+  "name_in_database": "Turn08_FPnT_LespiaVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "レスピア首相との通商交渉"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3DD",
+  "name_in_database": "Turn08_FPnT_LespiaVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "マルーン列車、ホルソード中央駅"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3D9",
+  "name_in_database": "Turn08_FPnT_ValgslandVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴァルグスランド書記長との通商交渉"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3D9",
+  "name_in_database": "Turn08_FPnT_ValgslandVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "SRSホルソード、ラハベン港"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014656",
+  "name_in_database": "Turn08_FPnT_ZilleNegotiations",
+  "path": "ConversationProperties.Title",
+  "ja": "スモラク大統領との交渉"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014656",
+  "name_in_database": "Turn08_FPnT_ZilleNegotiations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ヴラツラヴィッツ、ヴェーレンの首都"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3CD",
+  "name_in_database": "Turn08_InT_LateHighwayOpening",
+  "path": "ConversationProperties.Title",
+  "ja": "H-3高速道路の開通"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3CD",
+  "name_in_database": "Turn08_InT_LateHighwayOpening",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ブルー邸、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3C9",
+  "name_in_database": "Turn08_InT_LateRailwayOpening",
+  "path": "ConversationProperties.Title",
+  "ja": "L-1鉄道の開通"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3C9",
+  "name_in_database": "Turn08_InT_LateRailwayOpening",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000690000084A",
+  "name_in_database": "Turn08_Personal_FamilyScene",
+  "path": "ConversationProperties.Title",
+  "ja": "家族との面会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000690000084A",
+  "name_in_database": "Turn08_Personal_FamilyScene",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3C5",
+  "name_in_database": "Turn08_Personal_FrancLeaves",
+  "path": "ConversationProperties.Title",
+  "ja": "大統領の息子の旅立ち"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3C5",
+  "name_in_database": "Turn08_Personal_FrancLeaves",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3E1",
+  "name_in_database": "Turn08_Personal_PetrTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "ペトル・ベクターンとの非公式会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A3E1",
+  "name_in_database": "Turn08_Personal_PetrTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ヴルヘック通り147番地、ホルソード郊外"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000AD93",
+  "name_in_database": "Turn08_P_HugoLeaves",
+  "path": "ConversationProperties.Title",
+  "ja": "ウーゴからの面会要請"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000AD93",
+  "name_in_database": "Turn08_P_HugoLeaves",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の私室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014680",
+  "name_in_database": "Turn08_P_NightBeforeWedding",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿の夜"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014680",
+  "name_in_database": "Turn08_P_NightBeforeWedding",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A409",
+  "name_in_database": "Turn08_PSnW_HealthOverviewAndPandemic",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の医療情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A409",
+  "name_in_database": "Turn08_PSnW_HealthOverviewAndPandemic",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A405",
+  "name_in_database": "Turn08_SnO_EstordRaid",
+  "path": "ConversationProperties.Title",
+  "ja": "財閥情勢の続報"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A405",
+  "name_in_database": "Turn08_SnO_EstordRaid",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、エストード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A401",
+  "name_in_database": "Turn08_SnO_GendarmerieDispute",
+  "path": "ConversationProperties.Title",
+  "ja": "国家憲兵隊内の紛争の調停"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A401",
+  "name_in_database": "Turn08_SnO_GendarmerieDispute",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "市庁舎、ヴェソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A586",
+  "name_in_database": "Turn08_SnO_SecurityBriefAndZille",
+  "path": "ConversationProperties.Title",
+  "ja": "安全保障会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000650000A586",
+  "name_in_database": "Turn08_SnO_SecurityBriefAndZille",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000A347",
+  "name_in_database": "Turn08_SnO_War_Pales_PostOperation1_Frontline_Loss",
+  "path": "ConversationProperties.Title",
+  "ja": "作戦「黄金の盾」の説明"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000A347",
+  "name_in_database": "Turn08_SnO_War_Pales_PostOperation1_Frontline_Loss",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "前進基地アイアン・ゲート、ハヴァス郊外"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000A352",
+  "name_in_database": "Turn08_SnO_War_Pales_PostOperation1_Frontline_Win",
+  "path": "ConversationProperties.Title",
+  "ja": "作戦「黄金の盾」の説明"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000A352",
+  "name_in_database": "Turn08_SnO_War_Pales_PostOperation1_Frontline_Win",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "前進基地ブル・チャージ、アレス要塞郊外"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000A368",
+  "name_in_database": "Turn08_SnO_War_Pales_PostOperation1_Palace",
+  "path": "ConversationProperties.Title",
+  "ja": "作戦「黄金の盾」の説明"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000A368",
+  "name_in_database": "Turn08_SnO_War_Pales_PostOperation1_Palace",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "作戦室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A445",
+  "name_in_database": "Turn09_A_CampaignAndInvestigations",
+  "path": "ConversationProperties.Title",
+  "ja": "USP本部での選挙演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A445",
+  "name_in_database": "Turn09_A_CampaignAndInvestigations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "グランド・シャリオ・ホテル、アンリカ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A421",
+  "name_in_database": "Turn09_A_KorontiLead",
+  "path": "ConversationProperties.Title",
+  "ja": "マルセル・コロンティ捜査についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A421",
+  "name_in_database": "Turn09_A_KorontiLead",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "中央ホール、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A451",
+  "name_in_database": "Turn09_A_LeakedScandal",
+  "path": "ConversationProperties.Title",
+  "ja": "レイン家の早朝"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A451",
+  "name_in_database": "Turn09_A_LeakedScandal",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A455",
+  "name_in_database": "Turn09_A_LileasDiscussion",
+  "path": "ConversationProperties.Title",
+  "ja": "リリアス・グラーフとの非公式会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A455",
+  "name_in_database": "Turn09_A_LileasDiscussion",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "グラーフ邸、アルヴォリー郊外"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A459",
+  "name_in_database": "Turn09_A_LileasPrisonVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "リリアス・グラーフとの非公式会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A459",
+  "name_in_database": "Turn09_A_LileasPrisonVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "アンテル・ロック刑務所、アンテル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A441",
+  "name_in_database": "Turn09_A_SollTrial",
+  "path": "ConversationProperties.Title",
+  "ja": "タルキン・ソルの裁判"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A441",
+  "name_in_database": "Turn09_A_SollTrial",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド最高裁判所、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A41D",
+  "name_in_database": "Turn09_A_Talks",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の内政に関する協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A41D",
+  "name_in_database": "Turn09_A_Talks",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A44D",
+  "name_in_database": "Turn09_A_TelevisionInterview",
+  "path": "ConversationProperties.Title",
+  "ja": "予定されたテレビ出演"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A44D",
+  "name_in_database": "Turn09_A_TelevisionInterview",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ブルー邸、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A449",
+  "name_in_database": "Turn09_EnT_EconomicOverviewAndAction",
+  "path": "ConversationProperties.Title",
+  "ja": "現在の経済情勢についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A449",
+  "name_in_database": "Turn09_EnT_EconomicOverviewAndAction",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "経済省、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A42D",
+  "name_in_database": "Turn09_FPnT_ArcasiaVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "ウォーカー大統領の公式訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A42D",
+  "name_in_database": "Turn09_FPnT_ArcasiaVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "マルーン宮殿の門前、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A429",
+  "name_in_database": "Turn09_FPnT_Preparations",
+  "path": "ConversationProperties.Title",
+  "ja": "同盟の可能性に関する緊急会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A429",
+  "name_in_database": "Turn09_FPnT_Preparations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホワイトルーム、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A431",
+  "name_in_database": "Turn09_FPnT_UnitedContanaVisit",
+  "path": "ConversationProperties.Title",
+  "ja": "マレニエフ議長の公式訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A431",
+  "name_in_database": "Turn09_FPnT_UnitedContanaVisit",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "マルーン宮殿の門前、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A419",
+  "name_in_database": "Turn09_Personal_FrancCalls",
+  "path": "ConversationProperties.Title",
+  "ja": "自宅での一日の終わり"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A419",
+  "name_in_database": "Turn09_Personal_FrancCalls",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A43D",
+  "name_in_database": "Turn09_Personal_MonicaFinalTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "レイン家の深夜"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A43D",
+  "name_in_database": "Turn09_Personal_MonicaFinalTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A439",
+  "name_in_database": "Turn09_Personal_PetrFuneral",
+  "path": "ConversationProperties.Title",
+  "ja": "ペトル・ベクターンの葬儀"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A439",
+  "name_in_database": "Turn09_Personal_PetrFuneral",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "墓地の入口、エルローリー"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A435",
+  "name_in_database": "Turn09_Personal_PetrGoesMissing",
+  "path": "ConversationProperties.Title",
+  "ja": "エヴェリン・ベクターンとの通話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A435",
+  "name_in_database": "Turn09_Personal_PetrGoesMissing",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A45D",
+  "name_in_database": "Turn09_SnO_MilitaryParade",
+  "path": "ConversationProperties.Title",
+  "ja": "軍事パレード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A45D",
+  "name_in_database": "Turn09_SnO_MilitaryParade",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "勝利大通り、ホルソード中心街"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A425",
+  "name_in_database": "Turn09_SnO_RumburgIncident",
+  "path": "ConversationProperties.Title",
+  "ja": "情勢悪化に関する緊急連絡"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A425",
+  "name_in_database": "Turn09_SnO_RumburgIncident",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A475",
+  "name_in_database": "Turn10_A_Congress",
+  "path": "ConversationProperties.Title",
+  "ja": "統一ソードランド党大会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A475",
+  "name_in_database": "Turn10_A_Congress",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領専用車、USP党大会会場への道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00019039",
+  "name_in_database": "Turn10_A_CouncilMeet",
+  "path": "ConversationProperties.Title",
+  "ja": "王室評議会との会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00019039",
+  "name_in_database": "Turn10_A_CouncilMeet",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "評議会議場、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A479",
+  "name_in_database": "Turn10_A_Debate",
+  "path": "ConversationProperties.Title",
+  "ja": "大統領候補討論会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A479",
+  "name_in_database": "Turn10_A_Debate",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド放送協会スタジオ、ラハベン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A46D",
+  "name_in_database": "Turn10_A_DeividFinalTalk",
+  "path": "ConversationProperties.Title",
+  "ja": "デイヴィド・ウィスキとの非公式会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A46D",
+  "name_in_database": "Turn10_A_DeividFinalTalk",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014989",
+  "name_in_database": "Turn10_A_HearingOfPetitions",
+  "path": "ConversationProperties.Title",
+  "ja": "請願の聴聞"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014989",
+  "name_in_database": "Turn10_A_HearingOfPetitions",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "玉座の間、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A471",
+  "name_in_database": "Turn10_A_Resignations",
+  "path": "ConversationProperties.Title",
+  "ja": "金曜午後の執務室"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A471",
+  "name_in_database": "Turn10_A_Resignations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000A963",
+  "name_in_database": "Turn10_AxelVinaUnity",
+  "path": "ConversationProperties.Title",
+  "ja": "アクセル・ラインハルトとの浜辺"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000A963",
+  "name_in_database": "Turn10_AxelVinaUnity",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "トラス海岸、モンキズ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000BE30",
+  "name_in_database": "Turn10_ExecutionDecisions",
+  "path": "ConversationProperties.Title",
+  "ja": "囚人たちの処遇"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000BE30",
+  "name_in_database": "Turn10_ExecutionDecisions",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000160EB",
+  "name_in_database": "Turn10_Executions_Citadel",
+  "path": "ConversationProperties.Title",
+  "ja": "処刑"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000160EB",
+  "name_in_database": "Turn10_Executions_Citadel",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "処刑場、ポルテ・ドラゾン城塞"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000160F3",
+  "name_in_database": "Turn10_Executions_Palace",
+  "path": "ConversationProperties.Title",
+  "ja": "処刑"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000160F3",
+  "name_in_database": "Turn10_Executions_Palace",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "宮殿の庭園、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014959",
+  "name_in_database": "Turn10_Executions_Plaza",
+  "path": "ConversationProperties.Title",
+  "ja": "処刑"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014959",
+  "name_in_database": "Turn10_Executions_Plaza",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ドラジア広場、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000069000007E2",
+  "name_in_database": "Turn10_FCAnricaMatch",
+  "path": "ConversationProperties.Title",
+  "ja": "メルコパ・チャンピオンズカップ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000069000007E2",
+  "name_in_database": "Turn10_FCAnricaMatch",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "マルーン・スタジアムへの道中、アンリカ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A465",
+  "name_in_database": "Turn10_FPnT_AllianceOfNations",
+  "path": "ConversationProperties.Title",
+  "ja": "国際連盟総会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A465",
+  "name_in_database": "Turn10_FPnT_AllianceOfNations",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド・ワン、キルートへの飛行"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A469",
+  "name_in_database": "Turn10_FPnT_QueenPhoneCall",
+  "path": "ConversationProperties.Title",
+  "ja": "ルンブルク女王との電話"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A469",
+  "name_in_database": "Turn10_FPnT_QueenPhoneCall",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "大統領執務室、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002AB4",
+  "name_in_database": "Turn10_P_BirthdayGathering",
+  "path": "ConversationProperties.Title",
+  "ja": "エステラ王太后の誕生祝賀会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002AB4",
+  "name_in_database": "Turn10_P_BirthdayGathering",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ポルテ・ドラゾン大図書館"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002B12",
+  "name_in_database": "Turn10_P_BirthdayGathering_ReformTalks",
+  "path": "ConversationProperties.Title",
+  "ja": "王太后の誕生祝賀会での改革協議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002B12",
+  "name_in_database": "Turn10_P_BirthdayGathering_ReformTalks",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ポルテ・ドラゾン大図書館"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A47D",
+  "name_in_database": "Turn10_Personal_FinalSupper",
+  "path": "ConversationProperties.Title",
+  "ja": "自宅での夕食"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A47D",
+  "name_in_database": "Turn10_Personal_FinalSupper",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A461",
+  "name_in_database": "Turn10_Personal_SergeFuneral",
+  "path": "ConversationProperties.Title",
+  "ja": "セルジュ・ヴォルクナーの葬儀"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A461",
+  "name_in_database": "Turn10_Personal_SergeFuneral",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホルソード大墓地、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002B01",
+  "name_in_database": "Turn10_P_HODShutdown",
+  "path": "ConversationProperties.Title",
+  "ja": "代議院への最後の訪問"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002B01",
+  "name_in_database": "Turn10_P_HODShutdown",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "代議院、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014930",
+  "name_in_database": "Turn10_Reform_ConstitutionSigning",
+  "path": "ConversationProperties.Title",
+  "ja": "1958年リジア基本法憲章の署名"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014930",
+  "name_in_database": "Turn10_Reform_ConstitutionSigning",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "代議院への道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014961",
+  "name_in_database": "Turn10_RelationshipAnnouncement",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿の朝"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014961",
+  "name_in_database": "Turn10_RelationshipAnnouncement",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の寝室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001494E",
+  "name_in_database": "Turn10_Security_LucitaOrTitus",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴァレロ・トラス殺害事件の捜査結果"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001494E",
+  "name_in_database": "Turn10_Security_LucitaOrTitus",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A481",
+  "name_in_database": "Turn10_SnO_CoupNight",
+  "path": "ConversationProperties.Title",
+  "ja": "真夜中の2分前"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A481",
+  "name_in_database": "Turn10_SnO_CoupNight",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A485",
+  "name_in_database": "Turn10_SnO_RumburgWarPlans",
+  "path": "ConversationProperties.Title",
+  "ja": "ルンブルク戦の作戦会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A485",
+  "name_in_database": "Turn10_SnO_RumburgWarPlans",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "作戦室、国防省"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A489",
+  "name_in_database": "Turn10_SnO_RumburgWarSpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "ルンブルクへの宣戦布告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A489",
+  "name_in_database": "Turn10_SnO_RumburgWarSpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ホルソード国会議事堂、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014969",
+  "name_in_database": "Turn10_Succession",
+  "path": "ConversationProperties.Title",
+  "ja": "王子誕生の発表"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014969",
+  "name_in_database": "Turn10_Succession",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・トラス、モンキズ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B58D",
+  "name_in_database": "Turn10_VinaFuneral",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴィナ王女の葬儀"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B58D",
+  "name_in_database": "Turn10_VinaFuneral",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ジルバ聖域、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B14F",
+  "name_in_database": "Turn10_VinaRescueOutcome",
+  "path": "ConversationProperties.Title",
+  "ja": "真夜中の4分過ぎ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B14F",
+  "name_in_database": "Turn10_VinaRescueOutcome",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の居間、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B5E6",
+  "name_in_database": "Turn10_War_Pales_Loss",
+  "path": "ConversationProperties.Title",
+  "ja": "パレス戦争の戦況"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B5E6",
+  "name_in_database": "Turn10_War_Pales_Loss",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "作戦室、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000A95B",
+  "name_in_database": "Turn10_War_Pales_PeaceTreaty_Konstantium",
+  "path": "ConversationProperties.Title",
+  "ja": "コンスタンティウム条約"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009E0000A95B",
+  "name_in_database": "Turn10_War_Pales_PeaceTreaty_Konstantium",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "コンスタンティウム、キルート"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B5CD",
+  "name_in_database": "Turn10_War_Pales_PeaceTreaty_Pales",
+  "path": "ConversationProperties.Title",
+  "ja": "パレス条約"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000B5CD",
+  "name_in_database": "Turn10_War_Pales_PeaceTreaty_Pales",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パレス市、パレス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001902B",
+  "name_in_database": "Turn10_War_Pales_PeaceTreaty_Thornborough",
+  "path": "ConversationProperties.Title",
+  "ja": "ソーンボロー条約"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001902B",
+  "name_in_database": "Turn10_War_Pales_PeaceTreaty_Thornborough",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソーンボロー、ルンブルク"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001493B",
+  "name_in_database": "Turn10_War_Pales_VictoryParade",
+  "path": "ConversationProperties.Title",
+  "ja": "戦勝パレード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A0001493B",
+  "name_in_database": "Turn10_War_Pales_VictoryParade",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ラインハルト城、パレス"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005200053BD9",
+  "name_in_database": "Turn11_A_CoupWarning",
+  "path": "ConversationProperties.Title",
+  "ja": "静かな午後"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005200053BD9",
+  "name_in_database": "Turn11_A_CoupWarning",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の書斎、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002B29",
+  "name_in_database": "Turn11_A_NewGovernment_Default",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿での昼"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800002B29",
+  "name_in_database": "Turn11_A_NewGovernment_Default",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王のバルコニー、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C8000032A0",
+  "name_in_database": "Turn11_A_TalkWithPrimeMinister",
+  "path": "ConversationProperties.Title",
+  "ja": "代議院への道中"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C8000032A0",
+  "name_in_database": "Turn11_A_TalkWithPrimeMinister",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の車列、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00019044",
+  "name_in_database": "Turn11_A_TheocracyDeclaration",
+  "path": "ConversationProperties.Title",
+  "ja": "神権国家宣言の演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00019044",
+  "name_in_database": "Turn11_A_TheocracyDeclaration",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国王の衣装部屋、パラス・レズナ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014999",
+  "name_in_database": "Turn11_Ending_Coup_HouseFallouts",
+  "path": "ConversationProperties.Title",
+  "ja": "夜"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014999",
+  "name_in_database": "Turn11_Ending_Coup_HouseFallouts",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014981",
+  "name_in_database": "Turn11_Ending_Revolution",
+  "path": "ConversationProperties.Title",
+  "ja": "革命への対処"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014981",
+  "name_in_database": "Turn11_Ending_Revolution",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014991",
+  "name_in_database": "Turn11_Ending_Speech",
+  "path": "ConversationProperties.Title",
+  "ja": "国民への演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014991",
+  "name_in_database": "Turn11_Ending_Speech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148C7",
+  "name_in_database": "Turn9_A_MeetingWithSal",
+  "path": "ConversationProperties.Title",
+  "ja": "サルとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148C7",
+  "name_in_database": "Turn9_A_MeetingWithSal",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ベニエヴォン聖域"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000B800006DAE",
+  "name_in_database": "Turn9_A_TalkWithAdarfo",
+  "path": "ConversationProperties.Title",
+  "ja": "アダルフォ・ソテラートとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000B800006DAE",
+  "name_in_database": "Turn9_A_TalkWithAdarfo",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148D7",
+  "name_in_database": "Turn9_A_TalkWithManus",
+  "path": "ConversationProperties.Title",
+  "ja": "マヌス・サゾンとの密会"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148D7",
+  "name_in_database": "Turn9_A_TalkWithManus",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ポルテ・ドラゾン大図書館"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000B800006DB9",
+  "name_in_database": "Turn9_A_TalkWithTitus",
+  "path": "ConversationProperties.Title",
+  "ja": "王太后の誕生祝賀会の準備"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000B800006DB9",
+  "name_in_database": "Turn9_A_TalkWithTitus",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ポルテ・ドラゾン大図書館"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014920",
+  "name_in_database": "Turn9_A_ZilleReturnedSpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "ジル返還の演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014920",
+  "name_in_database": "Turn9_A_ZilleReturnedSpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ジル市、リジア"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014928",
+  "name_in_database": "Turn9_FPnT_CallWithSmolak",
+  "path": "ConversationProperties.Title",
+  "ja": "モンキズの夜"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00014928",
+  "name_in_database": "Turn9_FPnT_CallWithSmolak",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "夏の離宮、モンキズ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148CF",
+  "name_in_database": "Turn9_FPnT_GRACE_Rumburg_Meeting",
+  "path": "ConversationProperties.Title",
+  "ja": "ベアトリス女王とのハイティー"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148CF",
+  "name_in_database": "Turn9_FPnT_GRACE_Rumburg_Meeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ブランブルトン邸、デイトフォート、ルンブルク"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000BF72",
+  "name_in_database": "Turn9_FPnT_IntermerkopumRoundtable",
+  "path": "ConversationProperties.Title",
+  "ja": "南メルコパ同盟構想の円卓会議"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000BF72",
+  "name_in_database": "Turn9_FPnT_IntermerkopumRoundtable",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "紫水晶の間、パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000BF6A",
+  "name_in_database": "Turn9_FPnT_Mediation",
+  "path": "ConversationProperties.Title",
+  "ja": "デルディアとの外交仲介"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100009A0000BF6A",
+  "name_in_database": "Turn9_FPnT_Mediation",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148BC",
+  "name_in_database": "Turn9_FPnT_MITZ_BoardMeeting",
+  "path": "ConversationProperties.Title",
+  "ja": "MITZに関する理事会の最終採決"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A000148BC",
+  "name_in_database": "Turn9_FPnT_MITZ_BoardMeeting",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "MITZ本部、モレラ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00017718",
+  "name_in_database": "Turn9_FPnT_ZilleReferendum",
+  "path": "ConversationProperties.Title",
+  "ja": "ジル住民投票の結果"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00017718",
+  "name_in_database": "Turn9_FPnT_ZilleReferendum",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ジャレス、私邸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00017720",
+  "name_in_database": "Turn9_FPnT_ZilleReferendumInterference",
+  "path": "ConversationProperties.Title",
+  "ja": "住民投票への介入の結果"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100006A00017720",
+  "name_in_database": "Turn9_FPnT_ZilleReferendumInterference",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ジャレス、私邸"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C300001EE1",
+  "name_in_database": "Turn9_Pipeline_NatDes_TombIntro",
+  "path": "ConversationProperties.Title",
+  "ja": "冒涜された父の墓の検分"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C300001EE1",
+  "name_in_database": "Turn9_Pipeline_NatDes_TombIntro",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "国立霊廟、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000980006770A",
+  "name_in_database": "Turn9_Pipeline_NatDes_TVIntro",
+  "path": "ConversationProperties.Title",
+  "ja": "宮殿での休息"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000980006770A",
+  "name_in_database": "Turn9_Pipeline_NatDes_TVIntro",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "パラス・レズナ、ポルテ・ドラゾン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A4A9",
+  "name_in_database": "Turn_Endings_A_ElectionSpeech",
+  "path": "ConversationProperties.Title",
+  "ja": "選挙演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A4A9",
+  "name_in_database": "Turn_Endings_A_ElectionSpeech",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソル広場、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800001F5F",
+  "name_in_database": "Turn_Endings_A_ElectionSpeech_MaroonSquare",
+  "path": "ConversationProperties.Title",
+  "ja": "選挙演説"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000C800001F5F",
+  "name_in_database": "Turn_Endings_A_ElectionSpeech_MaroonSquare",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "マルーン広場、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A4A5",
+  "name_in_database": "Turn_Endings_A_ImpeachmentTrial",
+  "path": "ConversationProperties.Title",
+  "ja": "アントン・レインの弾劾裁判"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A4A5",
+  "name_in_database": "Turn_Endings_A_ImpeachmentTrial",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "最高裁判所、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A48D",
+  "name_in_database": "Turn_Endings_Personal_Exile",
+  "path": "ConversationProperties.Title",
+  "ja": "ホルソードからの脱出"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A48D",
+  "name_in_database": "Turn_Endings_Personal_Exile",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領公邸、ホルソード"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A491",
+  "name_in_database": "Turn_Endings_Personal_Retirement",
+  "path": "ConversationProperties.Title",
+  "ja": "引退の表明"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A491",
+  "name_in_database": "Turn_Endings_Personal_Retirement",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A4A1",
+  "name_in_database": "Turn_Endings_SnO_CoupTrial",
+  "path": "ConversationProperties.Title",
+  "ja": "審判の日を待つ"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A4A1",
+  "name_in_database": "Turn_Endings_SnO_CoupTrial",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "アンテル・ロック刑務所、アンテル"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A499",
+  "name_in_database": "Turn_Endings_SnO_RumburgWarLost",
+  "path": "ConversationProperties.Title",
+  "ja": "ホルソードの戦い"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A499",
+  "name_in_database": "Turn_Endings_SnO_RumburgWarLost",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "作戦指令室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A49D",
+  "name_in_database": "Turn_Endings_SnO_RumburgWarWin",
+  "path": "ConversationProperties.Title",
+  "ja": "ルンブルクの降伏"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A49D",
+  "name_in_database": "Turn_Endings_SnO_RumburgWarWin",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "マルーン列車、エストード郊外"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A495",
+  "name_in_database": "Turn_Endings_SnO_WorldWar",
+  "path": "ConversationProperties.Title",
+  "ja": "ルンブルク戦の戦況についての報告"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x010000460001A495",
+  "name_in_database": "Turn_Endings_SnO_WorldWar",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ソードランド大統領執務室、マルーン宮殿"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000051000138A7",
+  "name_in_database": "WIP_Turn04_EnT_RuralDevelopment",
+  "path": "ConversationProperties.Title",
+  "ja": "農村開発についてのガス・マンガーとの会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x01000051000138A7",
+  "name_in_database": "WIP_Turn04_EnT_RuralDevelopment",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ボリン農業地区、ボリン"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013936",
+  "name_in_database": "WIP_Turn05_InT_ValgenDam",
+  "path": "ConversationProperties.Title",
+  "ja": "ヴァルゲン・ダムに関する会談"
+ },
+ {
+  "type": "ConversationData",
+  "item_id": "0x0100005100013936",
+  "name_in_database": "WIP_Turn05_InT_ValgenDam",
+  "path": "ConversationProperties.Subtitle",
+  "ja": "ヴァルゲン・ダム、ヴァルゲン"
+ }
+]

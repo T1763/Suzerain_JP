@@ -1,0 +1,16 @@
+[
+ {
+  "type": "CompassCharacterGroupData",
+  "item_id": "0x010000650000CAA0",
+  "name_in_database": "Rizia_CharacterGroup_RizianPoliticians",
+  "path": "CompassCharacterGroupProperties.GroupTitle",
+  "ja": "政治家"
+ },
+ {
+  "type": "CompassCharacterGroupData",
+  "item_id": "0x0100006A00006A28",
+  "name_in_database": "Sordland_CharacterGroup_SordishPoliticians",
+  "path": "CompassCharacterGroupProperties.GroupTitle",
+  "ja": "ソードランドの政治家"
+ }
+]

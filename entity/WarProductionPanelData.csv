@@ -1,0 +1,3 @@
+﻿type,item_id,name_in_database,path,ja
+WarProductionPanelData,0x0100009A000092F9,WarProductionPanel,WarProductionPanelProperties.Title,リジア軍
+WarProductionPanelData,0x0100009A000092F9,WarProductionPanel,WarProductionPanelProperties.Subtitle,資源と部隊

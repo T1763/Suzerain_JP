@@ -1,0 +1,4482 @@
+[
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3A7",
+  "name_in_database": "Diplomacy_Agnolia_Alliance",
+  "path": "PolicyProperties.Title",
+  "ja": "アグノリアとの同盟"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3A7",
+  "name_in_database": "Diplomacy_Agnolia_Alliance",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とアグノリア共和国は相互の保護と支援に関する包括的な協定を結び、予期せぬ危機が発生した際には共に立ち向かうことを約束した。この戦略的同盟により両国間の絆が強化され、安全保障意識と協力体制が育まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3AB",
+  "name_in_database": "Diplomacy_Agnolia_Heljiland_Recognised",
+  "path": "PolicyProperties.Title",
+  "ja": "ヘルジランドをアグノリア領として承認"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3AB",
+  "name_in_database": "Diplomacy_Agnolia_Heljiland_Recognised",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国は、アグノリア共和国がヘルジランドの正当な所有権を有していることを心から認め、これを確認する。この承認は外交上の重要な節目であり、互いの領土主権に対する共通の理解と尊重をより固めるものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3AF",
+  "name_in_database": "Diplomacy_Agnolia_Trade",
+  "path": "PolicyProperties.Title",
+  "ja": "アグノリアとの貿易"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3AF",
+  "name_in_database": "Diplomacy_Agnolia_Trade",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とアグノリア共和国は、両国の国境や領土を越えて資本、商品、サービスの円滑な交流を許可することにより、強固な経済的結びつきを促進し二国間貿易を強化するための重要な一歩を踏み出した。この前向きな取り組みは経済成長に適した環境を育み、互恵的なパートナーシップへの道を開いている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023E8",
+  "name_in_database": "Diplomacy_AN_Member",
+  "path": "PolicyProperties.Title",
+  "ja": "国際連盟加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023E8",
+  "name_in_database": "Diplomacy_AN_Member",
+  "path": "PolicyProperties.Description",
+  "ja": "国際連盟は世界の協力を象徴する存在として、各国間の平和や安全、協力関係を維持するために絶え間なく努力している。外交ルートや共同プロジェクトを通じて、加盟国は自国の資源や専門知識を結集し、新たに出現する課題に対処しながら、より調和のとれた国際社会を築き上げている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3B3",
+  "name_in_database": "Diplomacy_ANMember",
+  "path": "PolicyProperties.Title",
+  "ja": "国際連盟加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3B3",
+  "name_in_database": "Diplomacy_ANMember",
+  "path": "PolicyProperties.Description",
+  "ja": "国際連盟は世界の協力を象徴する存在として、各国間の平和や安全、協力関係を維持するために絶え間なく努力している。外交ルートや共同プロジェクトを通じて、加盟国は自国の資源や専門知識を結集し、新たに出現する課題に対処しながら、より調和のとれた国際社会を築き上げている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023EE",
+  "name_in_database": "Diplomacy_ATA_Founder",
+  "path": "PolicyProperties.Title",
+  "ja": "ATA創設国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023EE",
+  "name_in_database": "Diplomacy_ATA_Founder",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア継承戦争後にアリアナ・トラス女王の主導で設立されたアリアナ・トラス協会は、言語学校から芸術展示会に至るまで、世界20か所でリジア語と文化を普及させている。モンキズに教師養成施設を置いて創設され、政府の資金援助によって自律的に発展してきた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3BB",
+  "name_in_database": "Diplomacy_ATO",
+  "path": "PolicyProperties.Title",
+  "ja": "アルカシア条約機構加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3BB",
+  "name_in_database": "Diplomacy_ATO",
+  "path": "PolicyProperties.Description",
+  "ja": "アルカシア条約機構（ATO）は、その枠組みの中で各国を結びつける重要なプラットフォームとして台頭し、包括的な経済・防衛同盟を築いている。ATOの加盟国は力と資源を結集させることで共同防衛能力を強化し、CSPから生じうる潜在的な脅威に対して団結した前線を形成している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3DF",
+  "name_in_database": "Diplomacy_CoalitionIntervention",
+  "path": "PolicyProperties.Title",
+  "ja": "介入主義"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3DF",
+  "name_in_database": "Diplomacy_CoalitionIntervention",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドの断固とした介入主義政策とは、ヴェーレンの領土内にいる共通の敵対勢力に積極的に対処することを意味している。この先制的な姿勢は、共通の敵に対して目的を絞った行動を取ることで地域の安定を守り維持しようとする同国の意欲を示している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3BF",
+  "name_in_database": "Diplomacy_CSP",
+  "path": "PolicyProperties.Title",
+  "ja": "コンタナ条約機構加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3BF",
+  "name_in_database": "Diplomacy_CSP",
+  "path": "PolicyProperties.Description",
+  "ja": "コンタナ条約機構は、統合された防衛戦略を築き、参加国間の軍事的結束を強化する上で大きな前進となっている。合同演習、情報共有、協調した作戦を通じて、この条約機構の加盟国はATOがもたらす潜在的な脅威に対抗するための集団的な防御能力を高めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007351",
+  "name_in_database": "Diplomacy_Derdia_TradeSigned",
+  "path": "PolicyProperties.Title",
+  "ja": "デルディアとの貿易協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007351",
+  "name_in_database": "Diplomacy_Derdia_TradeSigned",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアがデルディアと結んだエネルギー分野での協力を重視した貿易協定により、経済的な関係を拡大する土台が築かれた。この協定には市場へのアクセスを拡大し、互いに利益をもたらす経済関係を育成するための取り組みも含まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3CF",
+  "name_in_database": "Diplomacy_EmbargoingArcasia",
+  "path": "PolicyProperties.Title",
+  "ja": "アルカシアへの禁輸措置"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3CF",
+  "name_in_database": "Diplomacy_EmbargoingArcasia",
+  "path": "PolicyProperties.Description",
+  "ja": "国家安全を最優先とする新たな非常事態令に基づき、ソードランドはアルカシアとの貿易、往来、そしてほとんどの外交活動を停止させる厳格な措置を実施した。この断固とした対応は、不安定な地政学的情勢から生じうる潜在的リスクを軽減し、国の利益を守ることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3D3",
+  "name_in_database": "Diplomacy_EmbargoingRumburg",
+  "path": "PolicyProperties.Title",
+  "ja": "ルンブルクへの禁輸措置"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3D3",
+  "name_in_database": "Diplomacy_EmbargoingRumburg",
+  "path": "PolicyProperties.Description",
+  "ja": "新たな非常事態令により、ルンブルクとの貿易、往来、そしてほとんどの外交関係の停止が命じられ、変化し続ける地域情勢の中で自国の主権を守り国家利益を保護するというソードランドの決意が明確に示された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3CB",
+  "name_in_database": "Diplomacy_EmbargoingUnitedContana",
+  "path": "PolicyProperties.Title",
+  "ja": "コンタナ連邦への禁輸措置"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3CB",
+  "name_in_database": "Diplomacy_EmbargoingUnitedContana",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドは新たな非常事態令に従い、交易を制限し、移動を規制し、コンタナ連邦とのほとんどの外交交流を抑え込む厳格な措置を講じている。この予防的な姿勢は、同国が自国の安全を守り、戦略的自律性を維持しようとする立場を反映している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000068E4",
+  "name_in_database": "Diplomacy_GRACE_Member",
+  "path": "PolicyProperties.Title",
+  "ja": "GRACE加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000068E4",
+  "name_in_database": "Diplomacy_GRACE_Member",
+  "path": "PolicyProperties.Description",
+  "ja": "王室通商同盟ギルド（G.R.A.C.E.）はメルコパ、リカ、シナといった大陸の君主制国家を結びつけ、貿易や投資、外交を強化している。創設メンバーであるルンブルクをはじめ、リジアやソラディスといった国もこの理念を推進している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3E3",
+  "name_in_database": "Diplomacy_Lespia_Alliance",
+  "path": "PolicyProperties.Title",
+  "ja": "レスピアとの同盟"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3E3",
+  "name_in_database": "Diplomacy_Lespia_Alliance",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とレスピア共和国は、予期せぬ危機が発生した際に互いに保護し合い支援し合うため、強固な協定を結んでいる。この戦略的パートナーシップにより両国間の絆が強化され、安全保障・安定性・協力という共通の意識が促進されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000241B",
+  "name_in_database": "Diplomacy_Lespia_TradeSigned",
+  "path": "PolicyProperties.Title",
+  "ja": "レスピアとの貿易協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000241B",
+  "name_in_database": "Diplomacy_Lespia_TradeSigned",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアとレスピアの間の貿易協定はエネルギー分野での協力を中心に結ばれ、両国の経済的つながりを強化することを目的としている。この協定には様々な協力策が含まれており、二国間貿易の拡大への決意を示している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023CD",
+  "name_in_database": "Diplomacy_MITZ_BoardMember",
+  "path": "PolicyProperties.Title",
+  "ja": "MITZ理事国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023CD",
+  "name_in_database": "Diplomacy_MITZ_BoardMember",
+  "path": "PolicyProperties.Description",
+  "ja": "モレラ共和国内に設立されたメフティエム国際貿易区は、金の採掘および精錬の拠点であり、モレラ、レスピア、ヴァルグスランド、リジアの各企業が参画している。この地域の中心にあるのが、高濃度の金が存在することで知られるメフティエム盆地である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002431",
+  "name_in_database": "Diplomacy_Morella_TradeSigned",
+  "path": "PolicyProperties.Title",
+  "ja": "モレラとの貿易協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002431",
+  "name_in_database": "Diplomacy_Morella_TradeSigned",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアとモレラの間の貿易協定はエネルギー分野を中心に締結され、両国間の経済的結びつきを強化することを目的としている。この協定には市場での連携強化のための取り組みが盛り込まれており、両国間の貿易関係をより活性化させるものとなっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3D7",
+  "name_in_database": "Diplomacy_Neutrality",
+  "path": "PolicyProperties.Title",
+  "ja": "中立"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3D7",
+  "name_in_database": "Diplomacy_Neutrality",
+  "path": "PolicyProperties.Description",
+  "ja": "中立はソードランドの外交政策の礎であり、いかなる勢力団体や同盟にも与しない姿勢を育んでいる。この中立的立場を維持することによって、ソードランドは自国の自律性を守り、外交上の柔軟性を高め、世界中の諸国と平和的な関係を築くことを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023C7",
+  "name_in_database": "Diplomacy_OMEC_Member",
+  "path": "PolicyProperties.Title",
+  "ja": "OMEC加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023C7",
+  "name_in_database": "Diplomacy_OMEC_Member",
+  "path": "PolicyProperties.Description",
+  "ja": "メルコパ経済協力機構は、経済の発展を促進し大陸内の貿易を育成する上で極めて重要な役割を果たしている。この機構は加盟国間の連携強化、知識共有、貿易政策の調和を推進することにより、経済統合の深化、貿易の多様化、そして互恵的なパートナーシップの構築を容易にしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3B7",
+  "name_in_database": "Diplomacy_OMECMember",
+  "path": "PolicyProperties.Title",
+  "ja": "OMEC加盟国"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3B7",
+  "name_in_database": "Diplomacy_OMECMember",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国が加盟しているメルコパ経済協力機構は、経済の発展を促進し大陸内の貿易を育成する上で極めて重要な役割を果たしている。この機構は加盟国間の連携強化、知識共有、貿易政策の調和を推進することにより、経済的統合の深化、貿易の多様化、そして互恵的なパートナーシップの構築を容易にしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000244D",
+  "name_in_database": "Diplomacy_Pales_Alliance",
+  "path": "PolicyProperties.Title",
+  "ja": "パレスとの軍事同盟"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000244D",
+  "name_in_database": "Diplomacy_Pales_Alliance",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアとパレスの間で軍事同盟が結成されたのは、防衛能力と地域の安全保障を強化することを目的としている。この同盟には合同軍事演習、情報共有、防衛技術分野での協力が含まれており、互いの信頼を深め、地域の平和と安定を維持しようとする姿勢が表れている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023FC",
+  "name_in_database": "Diplomacy_Pales_TradeSigned",
+  "path": "PolicyProperties.Title",
+  "ja": "パレスとの貿易協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023FC",
+  "name_in_database": "Diplomacy_Pales_TradeSigned",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアとパレスの間の貿易協定はエネルギー交換を中心に据え、経済的な結びつきを深めることを目指している。この協定にはより強固な貿易関係を築くことを目的とした様々な協力事業も含まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3C7",
+  "name_in_database": "Diplomacy_RelaxedImmigration",
+  "path": "PolicyProperties.Title",
+  "ja": "移民規制の緩和"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3C7",
+  "name_in_database": "Diplomacy_RelaxedImmigration",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国が導入した緩和された移民法により、移民手続きが簡素化・迅速化され、世界中の人々がソードランドを渡航先として選ぶよう促されている。ビザ手続きの簡略化、官僚的な障壁の削減、魅力的な移民オプションの提供により、ソードランドは同国の経済や革新、文化的多様性に貢献できる優秀な専門家、起業家、熟練労働者を引き寄せることを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002402",
+  "name_in_database": "Diplomacy_Rumburg_GasTradeAgreement",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア・ルンブルク間ガス貿易協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002402",
+  "name_in_database": "Diplomacy_Rumburg_GasTradeAgreement",
+  "path": "PolicyProperties.Description",
+  "ja": "ルンブルクとの包括的なガス貿易協定は、両国間に根深く存在する歴史的な絆を示すものである。この協定に基づき、リジアは一定量のガスをルンブルクに輸出することを約束し、相手国のエネルギー依存型産業を強化すると同時に、GRACEネットワーク内でより緊密な同盟関係を築いている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007371",
+  "name_in_database": "Diplomacy_Sordland_GovernmentBondPurchase",
+  "path": "PolicyProperties.Title",
+  "ja": "ソードランド4年物国債の購入"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007371",
+  "name_in_database": "Diplomacy_Sordland_GovernmentBondPurchase",
+  "path": "PolicyProperties.Description",
+  "ja": "4年間の満期を持つソードランド国債への戦略的投資は、同国の金融ポートフォリオを多様化し、安定した収益を確保することを目的としている。この金融上の措置は、ソードランドの経済的安定性を支えるという決意を示している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002421",
+  "name_in_database": "Diplomacy_Sordland_TradeSigned",
+  "path": "PolicyProperties.Title",
+  "ja": "ソードランドとの貿易協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002421",
+  "name_in_database": "Diplomacy_Sordland_TradeSigned",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアとソードランドの間の貿易協定は、幅広い経済協力の枠組みを構築することを目的としている。この協定には、両国間の経済的結びつきを強化するために策定された様々な協力プロジェクトが含まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3C3",
+  "name_in_database": "Diplomacy_TightenedImmigration",
+  "path": "PolicyProperties.Title",
+  "ja": "移民規制の強化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3C3",
+  "name_in_database": "Diplomacy_TightenedImmigration",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国によって制定されたより厳格な移民法により、移民手続きはより複雑で時間のかかるものとなり、潜在的な移民を抑止する役割を果たしている。これらの厳しい規制は、国内への人の出入りに対してより厳密な審査、安全保障、管理を実現することを目的としている。より厳格な資格基準や徹底した身元調査、追加の書類提出要求を課すことで、ソードランドは国家安全を最優先にし、国内の雇用市場を守ろうとしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3DB",
+  "name_in_database": "Diplomacy_TradeInitiative",
+  "path": "PolicyProperties.Title",
+  "ja": "貿易イニシアチブ"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3DB",
+  "name_in_database": "Diplomacy_TradeInitiative",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国が主導する貿易イニシアチブは、この地域内での経済的パートナーシップを構築し強化することを目的とした戦略的な外交政策上の取り組みである。このイニシアチブを通じて、ソードランドはより緊密な経済的結びつきを育み、貿易の自由化を促進し、市場アクセス、投資促進、貿易規制の調和といった重要な経済課題における協力を深めようとしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500005B49",
+  "name_in_database": "Diplomacy_Trade_Rumburg",
+  "path": "PolicyProperties.Title",
+  "ja": "ルンブルクとの貿易"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500005B49",
+  "name_in_database": "Diplomacy_Trade_Rumburg",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドとルンブルクは、経済関係を強め二国間貿易を確かなものとすることを目指す歴史的な協定を結んだ。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3E7",
+  "name_in_database": "Diplomacy_TradeZone_Lespia",
+  "path": "PolicyProperties.Title",
+  "ja": "レスピアとの貿易"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3E7",
+  "name_in_database": "Diplomacy_TradeZone_Lespia",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とレスピア共和国は、両国の国境または領土を越えて資本、商品、サービスの交流を認める二国間協定を結んでいる。この協定により両国間の貿易や経済協力が促進され、企業にとって新たな機会が生まれ、経済成長が促進されると同時に二国間関係も強化される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3EF",
+  "name_in_database": "Diplomacy_TradeZone_Valgsland",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴァルグスランドとの貿易"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3EF",
+  "name_in_database": "Diplomacy_TradeZone_Valgsland",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とヴァルグスランド民主共和国は、両国の国境および領土間で資本、商品、サービスの交流を円滑にするための協定を結んでいる。この二国間の取り決めにより経済協力が強化され、両国間の互恵的な貿易関係が育まれている。貿易関税や輸入制限といった国境を越えた取引の障壁を取り除くことで、ソードランドとヴァルグスランドは円滑な経済統合を推進し、企業が発展する機会を創出している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3EB",
+  "name_in_database": "Diplomacy_Valgsland_Alliance",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴァルグスランドとの同盟"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3EB",
+  "name_in_database": "Diplomacy_Valgsland_Alliance",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とヴァルグスランド民主共和国は、危機の際に集団的な安全を確保するため、相互防衛・支援協定を結んでいる。両国は援助と協力を約束することで、予期せぬ課題や脅威に直面した時も共に立ち向かうという決意を示している。この協定によりソードランドとヴァルグスランドの間の絆が強化され、両国間の信頼と連帯感が育まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3F3",
+  "name_in_database": "Diplomacy_Valgsland_Heljiland_Recognised",
+  "path": "PolicyProperties.Title",
+  "ja": "ヘルジランドをヴァルグスランド領として承認"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3F3",
+  "name_in_database": "Diplomacy_Valgsland_Heljiland_Recognised",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国は、ヘルジランドがヴァルグスランド民主共和国の領土であることを正式に認め、国際的な国境および領土主権への尊重を表明している。この承認によりソードランドとヴァルグスランドの間の外交関係が強化され、相互尊重と協力の基盤が築かれた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3FB",
+  "name_in_database": "Diplomacy_Wehlen_DefendBorder",
+  "path": "PolicyProperties.Title",
+  "ja": "BFFに対する国境防衛"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3FB",
+  "name_in_database": "Diplomacy_Wehlen_DefendBorder",
+  "path": "PolicyProperties.Description",
+  "ja": "テロリズムへの懸念に応えて、ソードランド共和国はヴェーレン共和国から来るすべてのブルディア系の外国人の入国を停止した。この措置は、ソードランドの国境と国民の安全保障を確保することを目的としている。特定地域からの入国を一時的に制限することで、ソードランドはテロリズムとの闘争および国家安全保障の維持への決意を示している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3FF",
+  "name_in_database": "Diplomacy_Wehlen_JointOperation",
+  "path": "PolicyProperties.Title",
+  "ja": "BFFに対する合同作戦"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3FF",
+  "name_in_database": "Diplomacy_Wehlen_JointOperation",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とヴェーレン共和国は、BFFとして知られるテロ組織に対抗するための協力関係を築き、軍事面で連携している。共同の軍事作戦や情報共有、調整された戦略を通じて、ソードランドとヴェーレンはBFFがもたらす脅威に対処し、地域の安全を維持することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3F7",
+  "name_in_database": "Diplomacy_Wehlen_Trade",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴェーレンとの貿易"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3F7",
+  "name_in_database": "Diplomacy_Wehlen_Trade",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド共和国とヴェーレン共和国は二国間協定を結び、両国の境界および領土を越えて資本、商品、サービスの自由な交流を可能にしている。この相互利益に基づく取り決めは、経済成長を促進し、貿易パートナーシップを育成し、両国間の結びつきを強化することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000072CA",
+  "name_in_database": "Diplomacy_Wehlen_TradeSigned",
+  "path": "PolicyProperties.Title",
+  "ja": "ジル協定1953年改正"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000072CA",
+  "name_in_database": "Diplomacy_Wehlen_TradeSigned",
+  "path": "PolicyProperties.Description",
+  "ja": "ジル協定の1953年改正は、リジアとヴェーレンの間の協定に加えられた重要な修正であり、元の条約に記載されていた条件や規定に大きな変更及び更新が行われたことを意味している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023D3",
+  "name_in_database": "Diplomacy_ZLLA_Active",
+  "path": "PolicyProperties.Title",
+  "ja": "1927年ジル協定"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000023D3",
+  "name_in_database": "Diplomacy_ZLLA_Active",
+  "path": "PolicyProperties.Description",
+  "ja": "1926年の反乱の後、反乱勢力に対抗するための軍事支援を求めていたリジアは、北西部に位置し金鉱が豊富なジル地域の賃貸契約を結ぶためにヴェーレンと交渉を行った。深刻な国内混乱の最中に成立したこの25年間の賃貸契約は、安定と安全を確保するための重要な外交的取引であった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C42F",
+  "name_in_database": "Economy_AgriculturalZone",
+  "path": "PolicyProperties.Title",
+  "ja": "サルナ農業地区"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C42F",
+  "name_in_database": "Economy_AgriculturalZone",
+  "path": "PolicyProperties.Description",
+  "ja": "新たに設置された30ヘクタールの区域により、ソードランドの地元農家たちは大きな恩恵を受け、農業生産を拡大し多数の雇用機会を創出することができるようになった。この取り組みは国内の食料安全保障を強化するだけでなく、農村地域全体の経済発展にも寄与している。農業生産量の増加は経済を活性化させ、輸出の可能性を高め、農家とその家族の生活水準を向上させる潜在力を持っている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C443",
+  "name_in_database": "Economy_AirportProject",
+  "path": "PolicyProperties.Title",
+  "ja": "ベンフィ国際空港"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C443",
+  "name_in_database": "Economy_AirportProject",
+  "path": "PolicyProperties.Description",
+  "ja": "ベンフィに新しくできた国際空港の開港により、この都市は世界の舞台において注目すべき観光地としての地位を確立した。この近代的な空港施設は国内の旅行者だけでなく海外からの訪問者も引き付け、観光業を活性化させるとともに新たな経済機会を生み出すことになる。空港の戦略的な立地と向上したアクセス性により、この地域へのアクセスが容易になり、観光関連産業の発展が促進され、地元経済も活性化するだろう。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000336F",
+  "name_in_database": "Economy_AllowWelfarePrivatization",
+  "path": "PolicyProperties.Title",
+  "ja": "福祉の部分的民営化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000336F",
+  "name_in_database": "Economy_AllowWelfarePrivatization",
+  "path": "PolicyProperties.Description",
+  "ja": "小規模福祉民営化政策とは、医療や教育を中心に、特定の福祉サービス分野に民間セクターの効率性を導入するものである。この取り組みは、すべての市民にとってアクセス性と公平性を基本原則として維持しつつ、サービスの質と対応速度を向上させることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C403",
+  "name_in_database": "Economy_Alphonsonomics",
+  "path": "PolicyProperties.Title",
+  "ja": "アルフォンソノミクス"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C403",
+  "name_in_database": "Economy_Alphonsonomics",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドの経済状況は、元大統領エヴァルト・アルフォンソが自由市場改革を実施したことにより大きく変化し、計画経済からより市場志向の体制へと移行した。この転換によりソードランドは二つの異なる経済システムの間に位置する独特な立場に置かれた。現在の課題は、これらの思想の間でバランスを取り、潜在的な利益を活用しつつ悪影響を最小限に抑えることである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033AE",
+  "name_in_database": "Economy_AncientRezenidCityRestoration",
+  "path": "PolicyProperties.Title",
+  "ja": "トペスの古代城壁都市"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033AE",
+  "name_in_database": "Economy_AncientRezenidCityRestoration",
+  "path": "PolicyProperties.Description",
+  "ja": "「古代の城壁都市トペス」は、レゼニド時代の輝かしい遺産であり、今日までに発見されたレゼニド時代の遺跡の中でも最も重要なものの一つとされている。この遺跡を復元し観光に開放する取り組みは、地域の歴史観光を振興し、国民の誇りを高めるとともに、かつてこの歴史ある城壁の内に栄えた建築上の驚異と社会的達成を示す生きた博物館とすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C44F",
+  "name_in_database": "Economy_ATOArea",
+  "path": "PolicyProperties.Title",
+  "ja": "アルカシア条約機構経済圏"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C44F",
+  "name_in_database": "Economy_ATOArea",
+  "path": "PolicyProperties.Description",
+  "ja": "アルカシア条約機構（ATO）内での深い統合により、加盟国間には相互に利益をもたらす経済的依存関係が築かれている。密接な協力と調整を通じて、ATOは商品やサービス、資本の交流を促進し、貿易の拡大や新たな輸出市場へのアクセスを実現してきた。この統合により、加盟国は経済的取り組みで協力し、専門知識を共有し、互いの強みを活用するためのプラットフォームが生まれ、地域全体の経済成長と発展が促進されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007348",
+  "name_in_database": "Economy_AureusGasField_Active",
+  "path": "PolicyProperties.Title",
+  "ja": "アウレウス・ガス田の採掘"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007348",
+  "name_in_database": "Economy_AureusGasField_Active",
+  "path": "PolicyProperties.Description",
+  "ja": "アウレウス・ガス田における採掘権の解決は、我が王国が世界最大級のガス田の膨大な埋蔵量を活用できるようになったことから、リジアのエネルギー分野において重要な節目となっている。アウレウスにある我が国の採掘施設は、エネルギー自立を高め、経済成長を促進するために積極的に稼働している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033D2",
+  "name_in_database": "Economy_BuildHavasCoalMine",
+  "path": "PolicyProperties.Title",
+  "ja": "ハヴァス炭鉱"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033D2",
+  "name_in_database": "Economy_BuildHavasCoalMine",
+  "path": "PolicyProperties.Description",
+  "ja": "ハヴァス地域の地下に広大に存在する石炭埋蔵量を活用することで、ハヴァス炭鉱は安定したエネルギー供給を約束するだけでなく、雇用創出や産業振興の波ももたらす。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003378",
+  "name_in_database": "Economy_BusinessTaxCredits",
+  "path": "PolicyProperties.Title",
+  "ja": "企業への税額控除"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003378",
+  "name_in_database": "Economy_BusinessTaxCredits",
+  "path": "PolicyProperties.Description",
+  "ja": "企業向けに大幅な税制優遇措置が導入され、それは革新を促進し国内投資を活性化させることを目的としていた。この取り組みによりリジア全土の産業界や起業家たちに新たな機会の章が開かれ、成長と革新の連鎖が生まれる見通しである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C51B",
+  "name_in_database": "Economy_CentralBankAct",
+  "path": "PolicyProperties.Title",
+  "ja": "中央銀行強化法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C51B",
+  "name_in_database": "Economy_CentralBankAct",
+  "path": "PolicyProperties.Description",
+  "ja": "中央銀行強化法は、ソードランドの通貨安定性を高め、全体としての経済を強化することを目的としている。主な措置としては、より厳格な通貨管理のための外貨準備の積み増し、国家債務を削減するための慎重な財政政策の採用、そして国際的な通貨需要を高めるために輸出潜在力の高い産業への重点的支援が挙げられる。この法律は、経済安定性を向上させ、我々の通貨を強化するための戦略的アプローチを提供している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003393",
+  "name_in_database": "Economy_ConstructSallabesConsumerIndustry",
+  "path": "PolicyProperties.Title",
+  "ja": "サラベス消費財産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003393",
+  "name_in_database": "Economy_ConstructSallabesConsumerIndustry",
+  "path": "PolicyProperties.Description",
+  "ja": "ブレナスに位置するサラベス消費財産業団地は、電子機器や家電を中心とした重要な工業拠点である。この団地は王国の製造基盤を強化するだけでなく、サラベスで雇用も創出し、ブレナス地方の経済を向上させている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C453",
+  "name_in_database": "Economy_CSPArea",
+  "path": "PolicyProperties.Title",
+  "ja": "コンタナ条約機構経済圏"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C453",
+  "name_in_database": "Economy_CSPArea",
+  "path": "PolicyProperties.Description",
+  "ja": "コンタナ条約機構は、加盟国間の経済的相互依存を促進する深い統合を育んできた。CSPに属する加盟国は自国の経済戦略や政策を調和させることで、貿易・投資・市場へのアクセスを容易にする経済的枠組みを構築することができた。この統合により新たな輸出商品や市場が開かれ、加盟国は自国の経済を多様化し、経済活動を拡大することが可能になった。共同の努力と協力を通じて、CSPの加盟国は経済成長と安定のための好環境を創出している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073D7",
+  "name_in_database": "Economy_Derdia_Pipeline",
+  "path": "PolicyProperties.Title",
+  "ja": "トランスモリディア・パイプライン"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073D7",
+  "name_in_database": "Economy_Derdia_Pipeline",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア・モレラ・デルディア間の協力を象徴するトランスモリディア・パイプラインは、天然ガスと石油の輸送において極めて重要な役割を果たしている。複数の国の多様な地形を横断するこのパイプラインにより、エネルギー安全保障や経済的結びつきが大幅に強化され、安定かつ相互利益のあるエネルギー貿易が促進されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C529",
+  "name_in_database": "Economy_EnergyInflationAct",
+  "path": "PolicyProperties.Title",
+  "ja": "エネルギーインフレ抑制法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C529",
+  "name_in_database": "Economy_EnergyInflationAct",
+  "path": "PolicyProperties.Description",
+  "ja": "エネルギーインフレ抑制法は、ソードランドのエネルギー分野における外国の操作によって引き起こされた最近のエネルギー価格の高騰を対象としている。この法律はガス価格に一時的な上限を設定することで国民に即時的な救済をもたらすと同時に、安定したエネルギー供給のためにエネルギー資源が豊富な国との二国間協定の締結を推進している。さらに、外部からの価格ショックを緩和し国内経済の成長を促進する長期的な解決策として、国内のエネルギー生産の拡大と近代化を強調している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C50D",
+  "name_in_database": "Economy_EnergyProtectionAct_10",
+  "path": "PolicyProperties.Title",
+  "ja": "エネルギー保護法（10％）"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C50D",
+  "name_in_database": "Economy_EnergyProtectionAct_10",
+  "path": "PolicyProperties.Description",
+  "ja": "1932年に施行されたEPAは、ソードランドのエネルギー産業が過度な外国資本の支配を受けないように保護するものである。この法律は後に改正され、ソル時代の規制に戻り、国家安全保障上重要なエネルギー企業における外国資本の所有割合を10パーセントと定めることになった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2BA",
+  "name_in_database": "Economy_EnergyProtectionAct_49",
+  "path": "PolicyProperties.Title",
+  "ja": "エネルギー保護法（49％）"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2BA",
+  "name_in_database": "Economy_EnergyProtectionAct_49",
+  "path": "PolicyProperties.Description",
+  "ja": "1932年に施行されたEPAは、ソードランドのエネルギー産業が過度な外国資本の支配を受けないように保護するものである。この法律は後に改正され、国家安全保障上重要なエネルギー企業における外国資本の所有比率の上限が49パーセントと定められた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2B3",
+  "name_in_database": "Economy_EnergyProtectionAct_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "エネルギー保護法（20％）"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2B3",
+  "name_in_database": "Economy_EnergyProtectionAct_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "1932年に施行されたEPAは、ソードランドのエネルギー産業が過度な外国資本の支配を受けないように保護するものである。この法律はアルフォンソ政権下の1949年に改正され、国家安全保障上重要なエネルギー企業における外国資本の所有割合を20パーセントと定めた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2C8",
+  "name_in_database": "Economy_EnergyProtectionAct_Removed",
+  "path": "PolicyProperties.Title",
+  "ja": "エネルギー保護法の廃止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2C8",
+  "name_in_database": "Economy_EnergyProtectionAct_Removed",
+  "path": "PolicyProperties.Description",
+  "ja": "1932年に導入され、ソードランドのエネルギー産業を過度な外国資本の支配から守っていたEPAは廃止された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000338A",
+  "name_in_database": "Economy_EnergySubsidiesForIndustries",
+  "path": "PolicyProperties.Title",
+  "ja": "産業へのエネルギー補助金"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000338A",
+  "name_in_database": "Economy_EnergySubsidiesForIndustries",
+  "path": "PolicyProperties.Description",
+  "ja": "エネルギー補助金制度はリジアの産業戦略の中核であり、主要産業分野の運営コストを大幅に削減している。この施策は、エネルギー関連の財政的負担を軽減することでリジア製品の世界的な競争力を高めるだけでなく、産業の中心地における雇用創出や経済活動の活性化も目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033ED",
+  "name_in_database": "Economy_EsqirisGasField",
+  "path": "PolicyProperties.Title",
+  "ja": "エスキリス・ガス田"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033ED",
+  "name_in_database": "Economy_EsqirisGasField",
+  "path": "PolicyProperties.Description",
+  "ja": "トペスとマトゥス湾によってリジアの南東に位置するエスキリス・ガス田は大幅な拡張と近代化が行われ、東メルコパ地域で最も優れた沖合ガス埋蔵量を有する地域の一つとしての地位をより強固なものにした。1921年にリジア石油ガス公社の管理の下で開発が始まって以来、このガス田は安定したエネルギー供給源として機能してきた。最近行われた改良により稼働期間が延長されるだけでなく生産量も増加し、今後も長期にわたってリジアのエネルギーインフラの中核を担い続けることが確実になった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002469",
+  "name_in_database": "Economy_EsqirisGasField_Active",
+  "path": "PolicyProperties.Title",
+  "ja": "エスキリス・ガス田"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002469",
+  "name_in_database": "Economy_EsqirisGasField_Active",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアの南東、トペスおよびマトゥス湾の近くに位置するエスキリス・ガス田は、東メルコパで最も規模の大きな沿岸ガス埋蔵量の一つである。1921年の発見以来リジア石油ガス公社によって管理されており、長い年月が経過しているにもかかわらず引き続き国に安定したガス供給を行っている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C530",
+  "name_in_database": "Economy_FiscalProtectionMeasures",
+  "path": "PolicyProperties.Title",
+  "ja": "財政保護措置"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C530",
+  "name_in_database": "Economy_FiscalProtectionMeasures",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドでは、潜在的な危機から国内経済を守り、その長期的な持続可能性と成長を確保することを目的とした強力な財政保護策が実施されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033A5",
+  "name_in_database": "Economy_FootballInfrastructure",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア・インペリイのサッカーへの投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033A5",
+  "name_in_database": "Economy_FootballInfrastructure",
+  "path": "PolicyProperties.Description",
+  "ja": "サッカーインフラへの大規模な投資により、ポルテ・ドラゾンは地域のスポーツハブとして変貌し、サッカーコミュニティ内外での地位を高めた。最新鋭のスタジアムやトレーニングセンターなど、改良された施設は地元の才能を育成するだけでなく、サッカーファンの注目も集めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000339C",
+  "name_in_database": "Economy_GasHeatingSubsidiesForCitizens",
+  "path": "PolicyProperties.Title",
+  "ja": "市民への暖房補助金"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000339C",
+  "name_in_database": "Economy_GasHeatingSubsidiesForCitizens",
+  "path": "PolicyProperties.Description",
+  "ja": "市民向けのガス暖房補助金により、厳しい冬の間、すべての家庭が温かさを得られるようになっている。生活水準向上への王国の取り組みを反映したこの制度は、住民のガス暖房費用の一部を負担し、誰もが快適な生活を送りやすくしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C53E",
+  "name_in_database": "Economy_Gasom_LargeStateInvestment",
+  "path": "PolicyProperties.Title",
+  "ja": "ガソムへの大規模な国家投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C53E",
+  "name_in_database": "Economy_Gasom_LargeStateInvestment",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド政府はガソムへの大規模な投資を行い、同社の運営能力と安定性を強化することで国内のエネルギー分野を発展させようとしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C545",
+  "name_in_database": "Economy_Gasom_StateCoInvestment",
+  "path": "PolicyProperties.Title",
+  "ja": "リジアと共同のガソムへの国家出資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C545",
+  "name_in_database": "Economy_Gasom_StateCoInvestment",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドとリジアはガソムにおいて共同投資戦略を開始し、国際的な協力を促進すると同時に、同社の財務状況や全体的な生産性を強化している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C514",
+  "name_in_database": "Economy_GreenAct",
+  "path": "PolicyProperties.Title",
+  "ja": "グルニ再生・生態経済育成法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C514",
+  "name_in_database": "Economy_GreenAct",
+  "path": "PolicyProperties.Description",
+  "ja": "提案されているG.R.E.E.N.法は、特にグルニ地域における持続可能な産業慣行の推進を目的としている。この法律は工業汚染や廃棄物処理に対する厳格な規制の実施を目指し、規制違反者には多額の罰金が科せられ、その収益は環境復元プロジェクトの資金として使われる。同時に、税制上の優遇措置を提供したり、環境に配慮した事業のための専用基金を設立したりすることで、環境に責任を持つ企業を奨励している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00008399",
+  "name_in_database": "Economy_HavasConsumerIndustry",
+  "path": "PolicyProperties.Title",
+  "ja": "ハヴァス消費財産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00008399",
+  "name_in_database": "Economy_HavasConsumerIndustry",
+  "path": "PolicyProperties.Description",
+  "ja": "ハヴァスにおける消費財産業は完全に稼働しており、繊維製品や家庭用品を生産している。この発展によって安定した雇用が創出され、地元の生産力が強化され、輸入への依存度が低下した。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C413",
+  "name_in_database": "Economy_HighwayProject",
+  "path": "PolicyProperties.Title",
+  "ja": "H-3高速道路"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C413",
+  "name_in_database": "Economy_HighwayProject",
+  "path": "PolicyProperties.Description",
+  "ja": "H-3高速道路の完成により、ソードランドで最大規模を誇る国際港湾であるラハベンとアグンランドの都市アルヴォリーが結ばれ、同国の物流インフラ向上において重要な節目が迎えられた。この極めて重要な交通回廊は、商品の輸送効率を高めるだけでなく、地域間の貿易や連携も促進する。この高速道路は経済活動の生命線として機能し、企業や産業、国際貿易を支えることで、最終的にソードランドの経済発展と統合に貢献している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C40B",
+  "name_in_database": "Economy_IncreasedTaxCorps",
+  "path": "PolicyProperties.Title",
+  "ja": "大企業への増税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C40B",
+  "name_in_database": "Economy_IncreasedTaxCorps",
+  "path": "PolicyProperties.Description",
+  "ja": "収入を確保し、企業部門に公平な負担を求めるため、政府は大規模な民間企業向けの法人税率を35％から45％へ引き上げた。この措置は、企業が財政的負担の公正な割合を負うような、より公平な税制を構築することを目的としている"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C40F",
+  "name_in_database": "Economy_IncreasedTaxSME",
+  "path": "PolicyProperties.Title",
+  "ja": "中小企業への増税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C40F",
+  "name_in_database": "Economy_IncreasedTaxSME",
+  "path": "PolicyProperties.Description",
+  "ja": "この国における法人税は最近見直しが行われ、中小企業向けの税率が35％から45％へ引き上げられた。この調整は、公平かつ平等な税制を確保すると同時に、政府の諸計画やサービスのための追加的な収入を確保することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003411",
+  "name_in_database": "Economy_IncreaseIncomeTax",
+  "path": "PolicyProperties.Title",
+  "ja": "所得税20％"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003411",
+  "name_in_database": "Economy_IncreaseIncomeTax",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアは国民の所得税率を20％に改定した。この見直された税制は、国民への明確で一貫した財政体系を維持しつつ、国家発展のためのより十分な資金を確保し、公共収入を増加させることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C457",
+  "name_in_database": "Economy_IndustrialExpansion_Agricultural",
+  "path": "PolicyProperties.Title",
+  "ja": "農業産業拡大計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C457",
+  "name_in_database": "Economy_IndustrialExpansion_Agricultural",
+  "path": "PolicyProperties.Description",
+  "ja": "農業の起業家や生産者を支援するため、最大10,500ソードランド・レンに上る財政的援助を提供する制度が導入されている。金銭的支援に加えて、この制度では研修、市場調査、市場計画といったさまざまな形態の支援や、総費用の最大70％に相当する機器の補助も含まれている。この包括的な取り組みは、ソードランドにおける農業分野の発展と成功を促進することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C45B",
+  "name_in_database": "Economy_IndustrialExpansion_Automotive",
+  "path": "PolicyProperties.Title",
+  "ja": "自動車産業拡大計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C45B",
+  "name_in_database": "Economy_IndustrialExpansion_Automotive",
+  "path": "PolicyProperties.Description",
+  "ja": "自動車産業拡大計画により、自動車分野で事業を営む人々やその道を目指す学生は、1人あたり最大10,500ソードランド・レンの資金援助を受けることができる。金銭的支援に加えて、訓練や教材、人材の提供、さらには機器費用の最大70％までの補償も含む包括的なサポートが行われる。この計画は自動車産業の成長を促進し、技術革新を奨励し、同分野の変化するニーズに応えられる熟練した専門家を育成することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C45F",
+  "name_in_database": "Economy_IndustrialExpansion_Electronics",
+  "path": "PolicyProperties.Title",
+  "ja": "電子産業拡大計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C45F",
+  "name_in_database": "Economy_IndustrialExpansion_Electronics",
+  "path": "PolicyProperties.Description",
+  "ja": "電子産業拡大計画とは、この分野で事業を営む起業家や将来その道を目指す学生に対し、1人あたり最大10,500ソードランド・レンの資金援助を行うことで同産業の成長を促進することを目的としている。さらに、訓練や資材の提供、人材の確保、機器費用の最大70％までの補助など、包括的な支援も行われる。この取り組みは、ソードランドにおける電子産業の発展を推進し、革新を促し、技術的専門知識を向上させることを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C463",
+  "name_in_database": "Economy_IndustrialExpansion_Military",
+  "path": "PolicyProperties.Title",
+  "ja": "軍事産業拡大計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C463",
+  "name_in_database": "Economy_IndustrialExpansion_Military",
+  "path": "PolicyProperties.Description",
+  "ja": "軍事産業拡大計画とは、起業家や軍需製造業者に一人当たり最大10,500ソードランド・レンの財政的支援を行うことで防衛分野を強化することを目的としている。金銭的援助に加えて、訓練や資材、人材の提供、さらには装備費用の最大70％までの補填など、包括的な支援が行われる。この計画は国内の軍事能力を向上させ、技術革新を促進し、国家安全保障の目標に合致した強固な防衛産業を育成することを狙っている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C447",
+  "name_in_database": "Economy_IndustrialZone",
+  "path": "PolicyProperties.Title",
+  "ja": "コンリアト工業地区"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C447",
+  "name_in_database": "Economy_IndustrialZone",
+  "path": "PolicyProperties.Description",
+  "ja": "コンリアトに巨大な工業都市が建設されることは、地域経済の多様化と工業生産の拡大を促進する触媒となっている。この発展により、同地域内で雇用創出、技術革新、そして経済成長の機会が生まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003408",
+  "name_in_database": "Economy_InheritenceTax",
+  "path": "PolicyProperties.Title",
+  "ja": "相続税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003408",
+  "name_in_database": "Economy_InheritenceTax",
+  "path": "PolicyProperties.Description",
+  "ja": "富裕格差に対処するために導入された相続税は、死後に移転される資産を対象としており、その仕組みはより大きな財産ほどより大きな影響を受けるように設計されている。この段階的な課税制度によって、中低所得層の家族の安定に不可欠な小規模な相続財産はほとんど影響を受けず、公平性の原則が保たれている。\n\n大規模な財産については、資産の価値に応じて税率が上昇し、より裕福な相続人により大きな財政的負担が課される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003381",
+  "name_in_database": "Economy_IzaHeavyIndustrialPark",
+  "path": "PolicyProperties.Title",
+  "ja": "イザ重工業団地"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003381",
+  "name_in_database": "Economy_IzaHeavyIndustrialPark",
+  "path": "PolicyProperties.Description",
+  "ja": "イザ都市国家内の戦略的な場所に位置するイザ重工業団地は、地域および国家の経済構造における中核として機能している。包括的な工業エコシステムとして設計されたこの地域では、鉄鋼生産から高度な機械製造に至るまで、多種多様な産業が営まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000341A",
+  "name_in_database": "Economy_LandOwnersTax",
+  "path": "PolicyProperties.Title",
+  "ja": "土地所有者税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000341A",
+  "name_in_database": "Economy_LandOwnersTax",
+  "path": "PolicyProperties.Description",
+  "ja": "15平方キロメートルを超える領地を対象とする土地所有者税は、国家の財政状況を改善し富の格差を緩和するための一時的な財政措置として機能している。国庫への影響は即座的に現れるものの、定期的な収入がないため一時的な性格を持つことが明らかである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00004C09",
+  "name_in_database": "Economy_Lespia_Pipeline",
+  "path": "PolicyProperties.Title",
+  "ja": "レスピアン・ブルーの利用権"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00004C09",
+  "name_in_database": "Economy_Lespia_Pipeline",
+  "path": "PolicyProperties.Description",
+  "ja": "レスピアン・ブルー・パイプラインとは、レスピア共和国を、かつてリジアによって構築された南メルコパのエネルギー網と結ぶ戦略的なエネルギープロジェクトである。レスピア産の石油や天然ガスの輸送を可能にすることで、リジアのエネルギー供給源の多様化に大きな役割を果たし、同時にレスピアとの経済的・政治的関係強化にも寄与している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C407",
+  "name_in_database": "Economy_LuxuryTax",
+  "path": "PolicyProperties.Title",
+  "ja": "奢侈品税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C407",
+  "name_in_database": "Economy_LuxuryTax",
+  "path": "PolicyProperties.Description",
+  "ja": "L.G.T.の第1節では、経済省が定める高級品カテゴリーに該当する物品に15％の税率を課すこととされている。これには宝石類、毛皮、スポーツカー、ヨット、私用機などが含まれる。同改正案の第2節では、特に相続時における財産の購入・売却・移転の条件に対して10％の財産税を設けることとなっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C467",
+  "name_in_database": "Economy_MarketEconomy",
+  "path": "PolicyProperties.Title",
+  "ja": "市場経済"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C467",
+  "name_in_database": "Economy_MarketEconomy",
+  "path": "PolicyProperties.Description",
+  "ja": "市場経済の理念に沿って、ソードランドでは個々の市民や企業が自ら経済的決定を下せるよう権限を与えている。この方針により、商品やサービスの価格設定といった重要な事項は市場の力や消費者・生産者の選択に委ねられる。経済的自由と自律性を促進することで、ソードランドは革新や効率性を育み、ソードランド国民のニーズや好みに迅速に対応できるダイナミックで競争的な市場を創出することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C600000321",
+  "name_in_database": "Economy_MaveNortusOilfield",
+  "path": "PolicyProperties.Title",
+  "ja": "マーヴェ・ノルトゥス油田"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C600000321",
+  "name_in_database": "Economy_MaveNortusOilfield",
+  "path": "PolicyProperties.Description",
+  "ja": "マーヴェ・ノルトゥス油田は完全に開発され、国内のエネルギー生産と経済成長を促進している。掘削作業、輸送インフラ、労働者用宿舎が整備されており、この地域は重要な資源ハブとなっている。このプロジェクトによって雇用が創出され、投資が呼び込まれ、エネルギー安全保障も強化された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033E4",
+  "name_in_database": "Economy_MiningSurveys",
+  "path": "PolicyProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033E4",
+  "name_in_database": "Economy_MiningSurveys",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア全土で鉱山調査が開始されたことは、この王国の隠された地質的富を戦略的に探求するきっかけとなり、多様な地形が持つ未利用の潜在力を活用しようとするものだ。\n\n調査が進むにつれて、新たな鉱床が発見されるという期待が、将来の繁栄への楽観視を高めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C46F",
+  "name_in_database": "Economy_MixedEconomy",
+  "path": "PolicyProperties.Title",
+  "ja": "混合経済"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C46F",
+  "name_in_database": "Economy_MixedEconomy",
+  "path": "PolicyProperties.Description",
+  "ja": "政府の経済政策によって私有財産権は保護されており、個人や企業がある程度の経済的自由を行使できる。しかし、ソードランドの利益とニーズを満たすため必要な場合には、当局は経済活動に介入する権利を留保している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033F6",
+  "name_in_database": "Economy_MonqizShipyard",
+  "path": "PolicyProperties.Title",
+  "ja": "モンキズ王立港湾・造船所"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033F6",
+  "name_in_database": "Economy_MonqizShipyard",
+  "path": "PolicyProperties.Description",
+  "ja": "モンキズ王立港湾・造船所は戦略的な拡張を経て、リジアの海運力の中核となっており、国際貿易の強化と海軍力の向上という二つの重要な役割を果たしている。現在では同種施設の中で最も先進的なものの一つとなっているこの施設は、拡張された埠頭や最先端の物流システムにより貿易量の大幅な増加を実現するだけでなく、海軍艦艇の建造や保守も専門的に行っている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073B7",
+  "name_in_database": "Economy_Morella_Pipeline",
+  "path": "PolicyProperties.Title",
+  "ja": "モルガス・パイプライン"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073B7",
+  "name_in_database": "Economy_Morella_Pipeline",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア・モレラ間のエネルギー協力における不可欠な構成要素であるモルガス・パイプラインは、天然ガスや石油製品の流れを円滑にしている。このパイプラインの建設は地域のエネルギー統合における重要な一歩となり、リジアのエネルギー備蓄を強化し、モレラとの経済的結びつきを固めることに寄与した。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024A9",
+  "name_in_database": "Economy_NelvisarOilField_Active",
+  "path": "PolicyProperties.Title",
+  "ja": "ネルヴィサル油田"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024A9",
+  "name_in_database": "Economy_NelvisarOilField_Active",
+  "path": "PolicyProperties.Description",
+  "ja": "1895年に発見されたネルヴィサル油田は、リジアの歴史的な石油資源の一つである。ほぼ枯渇しているものの、依然としてリジアの石油需要を賄っている。他の油田同様、リジア石油ガス公社によって専門的に管理されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003423",
+  "name_in_database": "Economy_NonWruhecistReligiousTax",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴルヘック教徒以外への宗教税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003423",
+  "name_in_database": "Economy_NonWruhecistReligiousTax",
+  "path": "PolicyProperties.Description",
+  "ja": "非ヴルヘック教徒に対する宗教税の導入は、特にヴルヘック教以外の信者たちから20％の付加価値税を徴収するものであり、リジアの財政政策において大きな転換点となっている。これはダストヌリティ派やザラニズムの信徒、その他の非ヴルヘック教徒を対象にして王国の財源を増やすことを目的としているが、宗教的差別を招くのではないかという懸念も生じている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073BF",
+  "name_in_database": "Economy_Pales_Pipeline",
+  "path": "PolicyProperties.Title",
+  "ja": "パレストリーム"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073BF",
+  "name_in_database": "Economy_Pales_Pipeline",
+  "path": "PolicyProperties.Description",
+  "ja": "パレストリーム・パイプラインはリジアとパレスを結んでいる。これはエネルギー管理における強力な協力関係を示す、極めて重要なエネルギープロジェクトだ。様々なエネルギー資源を輸送するこのパイプラインは、リジアのエネルギー供給の安定に大きく貢献しているだけでなく、パレス地域の経済発展にも寄与している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083B4",
+  "name_in_database": "Economy_PharmaInvestmentDrive",
+  "path": "PolicyProperties.Title",
+  "ja": "製薬産業への投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083B4",
+  "name_in_database": "Economy_PharmaInvestmentDrive",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国は国内の製薬産業への投資を促進する政策を導入し、抗生物質やワクチンといった必要不可欠な医薬品の生産を優先している。この取り組みによって医療インフラが強化され、外国の医療供給業者への依存度が低下する。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C46B",
+  "name_in_database": "Economy_PlannedEconomy",
+  "path": "PolicyProperties.Title",
+  "ja": "計画経済"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C46B",
+  "name_in_database": "Economy_PlannedEconomy",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドは計画経済の理念を採用し、同国の経済を形成する上で中央集権的な意思決定の重要性を認識している。この枠組みの下では、政府が商品やサービスの生産、流通、配分に関するほとんど、あるいは全ての重要な決定を下す上で中心的な役割を担う。主要な経済要因に影響力を及ぼすことにより、同国は資源の公平な分配を実現し、生産効率を最適化し、集団的福祉を優先させようとしている。戦略的な計画立案と介入を通じて、ソードランドは経済を持続可能な成長へと導き、社会のニーズや優先事項に対応しようと目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083C6",
+  "name_in_database": "Economy_Policy_PorteDrazonTourismCampaign",
+  "path": "PolicyProperties.Title",
+  "ja": "ポルテ・ドラゾン観光振興"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083C6",
+  "name_in_database": "Economy_Policy_PorteDrazonTourismCampaign",
+  "path": "PolicyProperties.Description",
+  "ja": "ポルテ・ドラゾンを主要な観光地として振興する新たな政策が導入され、その文化的ランドマークや自然の美しさが強調されている。この取り組みは、訪問者数の増加、地元企業の活性化、そしてリジア・インペリイにおける地域経済の成長を促進することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083AB",
+  "name_in_database": "Economy_PorteDrazonStockExchange",
+  "path": "PolicyProperties.Title",
+  "ja": "ポルテ・ドラゾン証券取引所"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083AB",
+  "name_in_database": "Economy_PorteDrazonStockExchange",
+  "path": "PolicyProperties.Description",
+  "ja": "ポルテ・ドラゾンに証券取引所を設立し、証券取引を一元化するとともに国内外の投資を呼び込むことである。この政策は資本の流動を円滑にし、企業の事業拡大を支援し、経済における革新を促進することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C42B",
+  "name_in_database": "Economy_PortProject",
+  "path": "PolicyProperties.Title",
+  "ja": "モルナ港"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C42B",
+  "name_in_database": "Economy_PortProject",
+  "path": "PolicyProperties.Description",
+  "ja": "モルナ港は戦略的な物流拠点として極めて重要な役割を果たし、ローレン地方との間の貿易活動の増加を促進している。優れたアクセス性を持つこの港は玄関口となってソードランドを世界市場と結びつけ、同地域の経済成長と発展に寄与している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083CF",
+  "name_in_database": "Economy_PrivatizationOfCrownLands",
+  "path": "PolicyProperties.Title",
+  "ja": "王領地の民営化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083CF",
+  "name_in_database": "Economy_PrivatizationOfCrownLands",
+  "path": "PolicyProperties.Description",
+  "ja": "選定された王室所有地が農業、工業、商業の発展のために民間に売却されている。こうした土地を民間企業に開放することで、投資を促進し経済成長を加速させ、より効率的な土地利用を実現しようとしているのだ。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C477",
+  "name_in_database": "Economy_PromoteMarket",
+  "path": "PolicyProperties.Title",
+  "ja": "市場経済の推進"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C477",
+  "name_in_database": "Economy_PromoteMarket",
+  "path": "PolicyProperties.Description",
+  "ja": "我々の経済政策の一環として、市場経済制度を積極的に推進し、企業に対してこの目標へ向けて移行するよう促している。供給と需要の動向、公正な競争、私有財産制といった市場原則を採用することで、革新や成長、持続可能な経済発展を促進するビジネス環境を創出することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C473",
+  "name_in_database": "Economy_PromotePlanned",
+  "path": "PolicyProperties.Title",
+  "ja": "計画経済の推進"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C473",
+  "name_in_database": "Economy_PromotePlanned",
+  "path": "PolicyProperties.Description",
+  "ja": "我々の経済的ビジョンに沿って、計画経済制度の導入を主張し、企業各社に対してその運営方針をこの方式に合わせるよう促している。包括的な経済計画と調整された資源配分を通じて、生産性を最適化し、社会福祉を確保し、長期的な経済安定と成長を実現することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033B7",
+  "name_in_database": "Economy_PublicRailTransportSubsidies",
+  "path": "PolicyProperties.Title",
+  "ja": "公共鉄道への補助金"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033B7",
+  "name_in_database": "Economy_PublicRailTransportSubsidies",
+  "path": "PolicyProperties.Description",
+  "ja": "公共鉄道への補助金により、王国全土での鉄道利用が大幅に安価になり、公共交通機関の利便性が向上した。  \nこの制度は鉄道網の持続可能性を維持するために慎重に運営されており、コスト面と国全体の移動性向上という利益とのバランスが取られている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033C0",
+  "name_in_database": "Economy_PublicSeaTransportSubsidies",
+  "path": "PolicyProperties.Title",
+  "ja": "海上輸送への補助金"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033C0",
+  "name_in_database": "Economy_PublicSeaTransportSubsidies",
+  "path": "PolicyProperties.Description",
+  "ja": "海上輸送補助金によって海路での移動コストが削減され、リジアの沿岸地域や島嶼部のコミュニティのアクセス性と交通の便が高まる。この取り組みにより王国の海域をより容易かつ安価に移動できるようになり、より多くの国民が海路を利用できる手段として選択できるようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033C9",
+  "name_in_database": "Economy_PublicTransportInfrastructure",
+  "path": "PolicyProperties.Title",
+  "ja": "公共交通インフラへの投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033C9",
+  "name_in_database": "Economy_PublicTransportInfrastructure",
+  "path": "PolicyProperties.Description",
+  "ja": "公共交通機関のインフラ投資により、リジアの交通システムは大幅に近代化され、公共交通の効率性と到達範囲が向上した。この包括的な発展によって新たな駅が設置され、路線が拡張され、施設も改良され、王国は地域間のシームレスな連携を実現する段階に一歩近づいた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033DB",
+  "name_in_database": "Economy_QalusGoldMine",
+  "path": "PolicyProperties.Title",
+  "ja": "カルス金鉱"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033DB",
+  "name_in_database": "Economy_QalusGoldMine",
+  "path": "PolicyProperties.Description",
+  "ja": "カルス地域の地下に広がる豊富な金鉱脈を活用することで、カルス金鉱はリジアの経済に莫大な富をもたらすだけでなく、雇用創出や地域の発展を促進している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C417",
+  "name_in_database": "Economy_RailwayProject",
+  "path": "PolicyProperties.Title",
+  "ja": "L-1高速鉄道"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C417",
+  "name_in_database": "Economy_RailwayProject",
+  "path": "PolicyProperties.Description",
+  "ja": "L-1高速鉄道は、同国初の電気列車路線として交通インフラにおける重要なマイルストーンとなっている。この近代的で効率的な鉄道システムはホルソード市とラハベン市を結び、市民の移動をより迅速かつ便利にし、これらの主要都市間の連携を強化している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C437",
+  "name_in_database": "Economy_RegionalInvestment_Agnland",
+  "path": "PolicyProperties.Title",
+  "ja": "アグンランドへの投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C437",
+  "name_in_database": "Economy_RegionalInvestment_Agnland",
+  "path": "PolicyProperties.Description",
+  "ja": "アグンランド地方の経済発展を促進するため、大規模な投資計画が実施され、企業や自治体に多額の資金が提供されている。この取り組みは成長を加速させ、投資を奨励し、企業が繁栄する機会を創出することで、アグンランド地方全体の経済的繁栄に貢献することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C43B",
+  "name_in_database": "Economy_RegionalInvestment_Bergia",
+  "path": "PolicyProperties.Title",
+  "ja": "ベルギアへの投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C43B",
+  "name_in_database": "Economy_RegionalInvestment_Bergia",
+  "path": "PolicyProperties.Description",
+  "ja": "ベルギア地方の企業や自治体に多額の資金を投入するため、包括的な投資計画が開始されている。この戦略的な投資は経済発展を促進し、投資を呼び込み、好都合なビジネス環境を整えることで成長を牽引し、ベルギア地方の全体的な経済状況を向上させることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C43F",
+  "name_in_database": "Economy_RegionalInvestment_Lorren",
+  "path": "PolicyProperties.Title",
+  "ja": "ローレンへの投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C43F",
+  "name_in_database": "Economy_RegionalInvestment_Lorren",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドが地域開発に力を入れた結果、大規模な投資計画が実施され、ローレン地方の企業や自治体に多額の資金が提供された。この投資策は経済成長を促進し、革新を育み、地元企業を支援することで、ローレン地方の持続可能な発展と繁栄に適した環境を創出することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C433",
+  "name_in_database": "Economy_ReliefAct",
+  "path": "PolicyProperties.Title",
+  "ja": "経済救済法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C433",
+  "name_in_database": "Economy_ReliefAct",
+  "path": "PolicyProperties.Description",
+  "ja": "この国が直面している経済的課題を認識し、政府は救済法を可決するという断固たる措置を講じた。この包括的な立法は現在の経済的困難に対処することを目的としており、財政的負担を軽減し、影響を受けた産業を支援し、回復力があり繁栄する経済の基盤を築くための具体的な措置を定めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002496",
+  "name_in_database": "Economy_RFF_Standard",
+  "path": "PolicyProperties.Title",
+  "ja": "リジアのサッカー産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002496",
+  "name_in_database": "Economy_RFF_Standard",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアのサッカー産業は、国内におけるこのスポーツへの熱意を高め、地元のファンだけでなく世界中の視聴者も引き付けている。トップクラスのクラブやスタジアム、強力なナショナルチームを有することで、この産業はリジアの文化的影響力と経済的活力に大きく貢献している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000245D",
+  "name_in_database": "Economy_RRG_StateOwnership",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア王室金鉱"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000245D",
+  "name_in_database": "Economy_RRG_StateOwnership",
+  "path": "PolicyProperties.Description",
+  "ja": "RRGはリジアの金鉱が豊富な地域を起源とし、現在では大量の金備蓄を有しているため、メルコパの経済における重要な存在となっている。長年にわたりRRGは戦略的に事業を拡大し、鉱物の安定した供給を確保することで金鉱業における優位性を維持してきた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002475",
+  "name_in_database": "Economy_RRNS_Standard",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア王立鉄道・海運網"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002475",
+  "name_in_database": "Economy_RRNS_Standard",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア王立鉄道・海運網は陸上輸送と海上輸送をシームレスに結びつけ、貨物や乗客の円滑な移動を実現している。これらの重要なインフラによって国内の連携が強化され、貿易が活性化し、近代化と進歩へのリジアの決意が象徴されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500004FE4",
+  "name_in_database": "Economy_RuralInvestment_Gruni",
+  "path": "PolicyProperties.Title",
+  "ja": "グルニへの投資"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500004FE4",
+  "name_in_database": "Economy_RuralInvestment_Gruni",
+  "path": "PolicyProperties.Description",
+  "ja": "この取り組みは、経済成長を促進し、革新を推進し、地元企業を強化することを目的としている。この戦略的な投資によって、グルニ地域における持続可能な発展と繁栄のための好環境が生まれると期待されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C427",
+  "name_in_database": "Economy_TaxBreakForSME",
+  "path": "PolicyProperties.Title",
+  "ja": "中小企業への税制優遇"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C427",
+  "name_in_database": "Economy_TaxBreakForSME",
+  "path": "PolicyProperties.Description",
+  "ja": "経済の支柱である中小企業を支援し育成するため、大幅な税制優遇が施されている。これら企業の税率は35％から25％に引き下げられ、彼らに必要とされる負担軽減がもたらされると同時に、成長と発展のための好条件が創出されている。この措置は、起業精神を奨励し、革新を促進し、地域レベルでの経済活動を活性化させることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C423",
+  "name_in_database": "Economy_TaxBreaksForPrivateCorps",
+  "path": "PolicyProperties.Title",
+  "ja": "民間企業への税制優遇"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C423",
+  "name_in_database": "Economy_TaxBreaksForPrivateCorps",
+  "path": "PolicyProperties.Description",
+  "ja": "経済成長を促進し投資を奨励するため、大規模な民間企業には魅力的な税制優遇措置が与えられている。これらの企業の税率は35％から25％に引き下げられ、事業拡大や革新の推進、そして国全体の繁栄への貢献を図るための好都合なビジネス環境が整えられている。この政策は、経済発展と雇用創出において重要な役割を果たす大規模企業を誘致し、維持することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000248F",
+  "name_in_database": "Economy_Taxes_Income",
+  "path": "PolicyProperties.Title",
+  "ja": "所得税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000248F",
+  "name_in_database": "Economy_Taxes_Income",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは国民に対して10％の所得税率が適用されている。この単純な課税制度により、人々は収入の一定割合を納付することになり、国の財政的安定のために透明で公平な財政構造が築かれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083BD",
+  "name_in_database": "Economy_TimberInvestmentDrive",
+  "path": "PolicyProperties.Title",
+  "ja": "木材産業の拡大"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083BD",
+  "name_in_database": "Economy_TimberInvestmentDrive",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国は、建設用や輸出向けとして責任ある伐採および加工を重視しながら林業を拡大している。この取り組みによって農村地域への投資が促進され、同分野を持続可能な経済成長の源泉とすることを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083A2",
+  "name_in_database": "Economy_TopesConsumerIndustry",
+  "path": "PolicyProperties.Title",
+  "ja": "トペス消費財産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000083A2",
+  "name_in_database": "Economy_TopesConsumerIndustry",
+  "path": "PolicyProperties.Description",
+  "ja": "トペスにある製造拠点は現在完全に稼働しており、衣類や道具、基本的な家電製品を生産している。生産能力が拡大し、雇用も創出され、トペスは国内製品の重要な中心地としての地位を固めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2C1",
+  "name_in_database": "Economy_TourismAct",
+  "path": "PolicyProperties.Title",
+  "ja": "観光・文化保護法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000640000C2C1",
+  "name_in_database": "Economy_TourismAct",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド観光・文化保護法は、不況の影響に対抗するため、ボリン、リベリー、ラハベン、アンリカ、ベンフィといった主要都市の観光潜在力を高めることを目的としている。この法律は、各地域固有の文化的特色を際立たせ、重要なランドマークを復元し、観光インフラを整備することに重点を置いている。また、リベリーにあるアンテラ洞窟やボリンのブドウ園といった重要な場所を観光振興のために保護し、その発展を図ることも規定している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C44B",
+  "name_in_database": "Economy_TransportInfraPrivatization",
+  "path": "PolicyProperties.Title",
+  "ja": "交通インフラの民営化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C44B",
+  "name_in_database": "Economy_TransportInfraPrivatization",
+  "path": "PolicyProperties.Description",
+  "ja": "民間企業が公共インフラ内のサービスを所有し運営できるようにする新たな政策が実施された。この措置は交通といった分野に市場原理と効率性を導入することを目的としており、民間企業が自らの専門知識や資源を活用しながら必要不可欠なサービスを提供できるようにするものだ。公共インフラへの民間参加を促すことにより、この政策はサービスの質向上や競争の促進、そして持続可能で円滑に機能するシステムの確保を目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002463",
+  "name_in_database": "Economy_Type_Diversified",
+  "path": "PolicyProperties.Title",
+  "ja": "多角化経済"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002463",
+  "name_in_database": "Economy_Type_Diversified",
+  "path": "PolicyProperties.Description",
+  "ja": "天然資源への過度な依存から脱却し、この政策はリジアの経済基盤を拡大することを目指している。技術や観光、製造業といった分野に投資することで、よりバランスの取れた財政状況を築き、資源市場の変動に対する脆弱性を低減しようとしているのだ。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00004C11",
+  "name_in_database": "Economy_Type_Mixed",
+  "path": "PolicyProperties.Title",
+  "ja": "混合経済"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00004C11",
+  "name_in_database": "Economy_Type_Mixed",
+  "path": "PolicyProperties.Description",
+  "ja": "この政策は柔軟な経済モデルを導入し、リジアの強力な資源部門と多様化された投資を組み合わせている。重要産業においては国家による統制的介入を許しつつ民間企業の活動も奨励することで、ダイナミックかつ適応力の高い経済を育成している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002457",
+  "name_in_database": "Economy_Type_ResourceBased",
+  "path": "PolicyProperties.Title",
+  "ja": "資源依存経済"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002457",
+  "name_in_database": "Economy_Type_ResourceBased",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアの経済は、金やガス、石油、その他の鉱物から世界クラスのワインに至るまで、豊富な天然資源に支えられて発展している。この資源頼みの姿勢により安定した成長と雇用機会が確保され、リジアは世界の商品市場における重要なプレーヤーとしての地位を築いている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00008390",
+  "name_in_database": "Economy_ValenqirHeavyIndustrialPark",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴァレンキル重工業団地"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00008390",
+  "name_in_database": "Economy_ValenqirHeavyIndustrialPark",
+  "path": "PolicyProperties.Description",
+  "ja": "ヴァレンキル重工業団地は完全に稼働しており、鉄鋼生産や機械製造を推進している。この施設によって王国の工業基盤が強化され、大規模なインフラプロジェクトに必要な資材が供給され、経済成長が促進されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000342C",
+  "name_in_database": "Economy_WarTax",
+  "path": "PolicyProperties.Title",
+  "ja": "戦争税"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000342C",
+  "name_in_database": "Economy_WarTax",
+  "path": "PolicyProperties.Description",
+  "ja": "戦争税の導入により、リジア全土の企業、小規模事業所、職人、商人らは、前年度の利益に対して50％という高率な税金が課されるようになり、その後は年間利益に対しても継続的に15％の税金を納めなければならなくなった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073DF",
+  "name_in_database": "Economy_Wehlen_Pipeline",
+  "path": "PolicyProperties.Title",
+  "ja": "リズヴェール導管"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000073DF",
+  "name_in_database": "Economy_Wehlen_Pipeline",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアとヴェーレンを結ぶ独自かつ戦略的なパイプラインであるリズヴェール導管は、重要なエネルギー資源の交流を可能にしている。このパイプラインは両国のエネルギーインフラを強化するだけでなく、歴史的な対立を乗り越え、共通の経済的利益とエネルギー安全保障に基づいた協力関係を築く新たな時代の象徴でもある。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002486",
+  "name_in_database": "Economy_WineIndustry_Developed",
+  "path": "PolicyProperties.Title",
+  "ja": "リジアのワイン産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002486",
+  "name_in_database": "Economy_WineIndustry_Developed",
+  "path": "PolicyProperties.Description",
+  "ja": "豊かなブドウ畑と何世紀にもわたるワイン製造の伝統で知られるリジアでは、そのワイン産業が鑑定家たちに上品さと歴史の味わいを提供している。輸出が世界各地に及んでいることから、リジア産のワインは国の世界的な評判を高めるだけでなく、経済に安定した収入源ももたらしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033FF",
+  "name_in_database": "Economy_ZpanaDam",
+  "path": "PolicyProperties.Title",
+  "ja": "ズパナ水力発電ダム"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000033FF",
+  "name_in_database": "Economy_ZpanaDam",
+  "path": "PolicyProperties.Description",
+  "ja": "ブレナスの広大な緑地帯に位置するズパナ・ダムは、リジアのエネルギーインフラを大幅に強化した重要な水力発電施設である。自然な水流を利用することで持続可能かつ安定した電力供給を実現し、国内送電網の信頼性と容量向上に貢献している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C49F",
+  "name_in_database": "Law_Amendment_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "憲法改正には議会と最高裁判所の承認が必要"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C49F",
+  "name_in_database": "Law_Amendment_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "憲法の第5条によれば、少なくとも150人分の署名を集めた議会の議員によって改正案が提出されることができる。この改正には大国民議会における3分の2以上の多数決と最高裁判所における単純多数決が必要となる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C49B",
+  "name_in_database": "Law_Amendment_NoCourt",
+  "path": "PolicyProperties.Title",
+  "ja": "憲法改正には議会の承認が必要"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C49B",
+  "name_in_database": "Law_Amendment_NoCourt",
+  "path": "PolicyProperties.Description",
+  "ja": "憲法の第5条によれば、少なくとも150人分の署名を集めた議会の議員によって改正案が提出されることができる。この改正案を承認するには大国民議会において3分の2以上の多数決が必要である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C483",
+  "name_in_database": "Law_AntiCorruptionPolice",
+  "path": "PolicyProperties.Title",
+  "ja": "汚職防止法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C483",
+  "name_in_database": "Law_AntiCorruptionPolice",
+  "path": "PolicyProperties.Description",
+  "ja": "政府の腐敗と戦うための積極的な取り組みとして、司法省は汚職捜査局の設立を伴う反腐敗法を導入した。この包括的な法的措置はあらゆるレベルでの腐敗に対処し、公職における透明性、説明責任、誠実さを確保することを目的としている。腐敗行為を積極的に調査・起訴することにより、この措置は国民の信頼を回復し、公共資源を守り、倫理的な統治文化を促進しようとしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100007400006718",
+  "name_in_database": "Law_AutonomousZoneOfBergia",
+  "path": "PolicyProperties.Title",
+  "ja": "ベルギア自治区"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100007400006718",
+  "name_in_database": "Law_AutonomousZoneOfBergia",
+  "path": "PolicyProperties.Description",
+  "ja": "ベルギア地方は現在「自治区」として編成されており、国内の他の地域とは異なる統治体制を採っている。この地域は地域民によって選出されたベルギア地方議会によって統治され、同議会の長は選出された知事が務める。また、憲法に反しない限り、地域独自の法律を制定し、国の法律によらずに済ませることができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C51B",
+  "name_in_database": "Law_Ban_BFP",
+  "path": "PolicyProperties.Title",
+  "ja": "ブルディア自由党の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C51B",
+  "name_in_database": "Law_Ban_BFP",
+  "path": "PolicyProperties.Description",
+  "ja": "元大統領のタルキン・ソルは、分離主義的活動を行っているためブルディア自由党またはBFPを違法な犯罪組織だと宣言した。同党の容疑者であれば誰でも裁判なしに逮捕される。BFPと共謀していると疑われるあらゆる行事、作戦、組織は解体され、関与者は逮捕される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C51F",
+  "name_in_database": "Law_Ban_RedYouth",
+  "path": "PolicyProperties.Title",
+  "ja": "赤旗青年団の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C51F",
+  "name_in_database": "Law_Ban_RedYouth",
+  "path": "PolicyProperties.Description",
+  "ja": "秩序を回復し社会の安定を維持するため、緊急法令が制定され、赤旗青年団を違法な犯罪組織として宣言した。この法令により、同組織の即時解体と全構成員の逮捕が義務付けられている。このような組織に対して断固たる措置を講じることで、当局は公共の安全への脅威を排除し、違法行為を抑止し、法の支配を守ろうとしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C517",
+  "name_in_database": "Law_Ban_WPB",
+  "path": "PolicyProperties.Title",
+  "ja": "ブルディア労働者党の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C517",
+  "name_in_database": "Law_Ban_WPB",
+  "path": "PolicyProperties.Description",
+  "ja": "秩序の回復と国家の保全が求められる中、緊急法令によりブルディア労働者党（WPB）は違法な犯罪組織として指定された。この法令は同党の即時解体と全構成員の逮捕を命じている。当局はこの組織を解体することで、その潜在的な破壊活動を無力化し、公共の安全を確保し、国家の利益を守ることを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C523",
+  "name_in_database": "Law_Ban_YoungSords",
+  "path": "PolicyProperties.Title",
+  "ja": "ソード青年団の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C523",
+  "name_in_database": "Law_Ban_YoungSords",
+  "path": "PolicyProperties.Description",
+  "ja": "公共の安全に対する脅威に対処し社会秩序を維持するため、緊急法令によってソード青年団は違法な犯罪組織と見なされた。この法令は同団体の即時解体と全構成員の逮捕を義務付けている。このような組織に対して迅速に措置を講じることで、当局は平和を守り、市民の福祉を保護し、正義の原則を維持することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024C6",
+  "name_in_database": "Law_CapitalPunishment_Legal",
+  "path": "PolicyProperties.Title",
+  "ja": "死刑制度"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024C6",
+  "name_in_database": "Law_CapitalPunishment_Legal",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは、特定の重罪に対する法的刑罰として死刑が用いられている。歴史的な法体系に根差したこの処罰方法は、賛成派と反対派が存在し、現代においても議論の的となっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002508",
+  "name_in_database": "Law_Citizenship_BloodRight",
+  "path": "PolicyProperties.Title",
+  "ja": "血統による市民権"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002508",
+  "name_in_database": "Law_Citizenship_BloodRight",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア人の血を引く者であれば、たとえリジア国外で生まれた場合でも市民権が与えられる。この政策は家族的絆を強く重視しており、リジア系の家系であることを証明できる人々に対して市民権を得る道を提供している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034DE",
+  "name_in_database": "Law_Citizenship_NaturalizationForForeigners",
+  "path": "PolicyProperties.Title",
+  "ja": "外国人の帰化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034DE",
+  "name_in_database": "Law_Citizenship_NaturalizationForForeigners",
+  "path": "PolicyProperties.Description",
+  "ja": "外国人の帰化手続きは、文化的統合、言語習得、そして社会への貢献意欲を重視し、外国籍者が市民権を取得するための体系的な道筋を提供している。この仕組みにより、新たな市民が国の社会的・経済的活動に十分に参加できるようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C48B",
+  "name_in_database": "Law_DecreasedJusticeFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "司法予算の削減"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C48B",
+  "name_in_database": "Law_DecreasedJusticeFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "司法省およびその重要な付属機関に割り当てられている資金が減少している。予算の削減により、司法サービスを提供する際の必要な効率性と実効性を維持することが困難になっている。司法制度の継続的な運営を確保するため、利用可能な資源を最適化し、不可欠な業務を優先する取り組みが行われるだろう。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4C7",
+  "name_in_database": "Law_Decree_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領令"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4C7",
+  "name_in_database": "Law_Decree_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "第18条および第51条によれば、大統領は政治的・社会的・経済的な問題に関して法律と同等の効力を持つ法令を発布することができる。しかし、それらは憲法に反してはならず、司法審査の対象となる。議会は同じ事項に関する立法を可決し、大統領の法令を無効にすることができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4D3",
+  "name_in_database": "Law_Decree_Removed",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領令の廃止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4D3",
+  "name_in_database": "Law_Decree_Removed",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法に従って第18条が改正され、大統領が法的効力を持つ法令を発布する権限が廃止された。この改正は政府機構内の抑制と均衡を強化し、適切な手続きを経て民主主義的原則に沿った立法が行われるようにすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4CB",
+  "name_in_database": "Law_Decree_Stronger",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領令の強化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4CB",
+  "name_in_database": "Law_Decree_Stronger",
+  "path": "PolicyProperties.Description",
+  "ja": "新憲法の第18条および第51条によれば、大統領令の管轄権は、大国民議会で制定された成文法よりも優先する。また、大統領令は司法審査の対象とならない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4CF",
+  "name_in_database": "Law_Decree_Weaker",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領令には授権法が必要"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4CF",
+  "name_in_database": "Law_Decree_Weaker",
+  "path": "PolicyProperties.Description",
+  "ja": "新憲法の第18条および第51条によれば、大国民議会の承認がなければ大統領は法律と同等の効力を持つ法令を発布することはできない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002675",
+  "name_in_database": "Law_Drugs_Banned",
+  "path": "PolicyProperties.Title",
+  "ja": "薬物の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002675",
+  "name_in_database": "Law_Drugs_Banned",
+  "path": "PolicyProperties.Description",
+  "ja": "あらゆる種類の麻薬や娯楽用薬物は厳しく禁止されており、所持・流通・使用は重大な法的罰則を招く可能性がある。この厳格な禁止規定は、特定物質の研究や医療上での利用にも及んでいる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C527",
+  "name_in_database": "Law_EducationUnification",
+  "path": "PolicyProperties.Title",
+  "ja": "教育統一法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C527",
+  "name_in_database": "Law_EducationUnification",
+  "path": "PolicyProperties.Description",
+  "ja": "第1節では、ソードランドの教育機関は、教育省から特別な承認を受けていない限り、外国語を除くすべての科目を同国の公用語で教えなければならないと定めている。ソードランド語以外の言語で授業を行う大学や専門学校、その他の教育機関は、承認申請を行うまで運営が停止される。第2節では、資金削減による罰則や学校の完全閉鎖といった手段によってこの法律を実施している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C48F",
+  "name_in_database": "Law_ElectoralFundingReform",
+  "path": "PolicyProperties.Title",
+  "ja": "選挙資金改革"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C48F",
+  "name_in_database": "Law_ElectoralFundingReform",
+  "path": "PolicyProperties.Description",
+  "ja": "新たな法案が法律として可決され、政党への公的資金配分基準が大きく変更された。改訂されたガイドラインによれば、資金の配分はもはや総選挙で得られた投票数に基づいて行われることはなく、代わりに議会内で獲得した議席の割合が考慮される。この変更の結果、各政党は議員1人あたり年間500,000レンを受け取ることになる。この調整により、最も多くの議席を持つ政党（USP）の選挙予算は2倍になり、他の議会内政党の予算もわずかに増加する。しかし一方で、10％の議席獲得ラインに達しない政党はもはや一切の公的資金を受け取れなくなる。この改正は、資金配分を議会内での政党の代表度合いに合わせ、政治的成果に基づいたより比例的な資源配分を実現することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C497",
+  "name_in_database": "Law_EmergencyDecree",
+  "path": "PolicyProperties.Title",
+  "ja": "緊急大統領令"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C497",
+  "name_in_database": "Law_EmergencyDecree",
+  "path": "PolicyProperties.Description",
+  "ja": "秩序の回復と公共の安全確保という要請に応じて、新たな緊急法令が制定され、国家に広範な権限が与えられた。この措置により、当局は危機的状況下で迅速かつ効果的な対応を取ることができ、市民の安全を守り、社会の安定を維持することが可能になる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000250E",
+  "name_in_database": "Law_GolcondistBlasphemy",
+  "path": "PolicyProperties.Title",
+  "ja": "ゴルコンド主義の冒涜罪法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000250E",
+  "name_in_database": "Law_GolcondistBlasphemy",
+  "path": "PolicyProperties.Description",
+  "ja": "ゴルコンド主義の冒涜罪法により、ゴルコンド主義者が重要な宗教的聖地へ立ち入ることが大幅に制限され、その結果デルディアとの外交関係が悪化している。さらに、この法律はリジア国内における宗教的権利や自由の保護について懸念を招いている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024E4",
+  "name_in_database": "Law_HODLegislative_Symbolic",
+  "path": "PolicyProperties.Title",
+  "ja": "象徴的な代議院"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024E4",
+  "name_in_database": "Law_HODLegislative_Symbolic",
+  "path": "PolicyProperties.Description",
+  "ja": "代議院は国内の立法体系において主に象徴的な役割を果たしている。議員たちは積極的に政策論争に参加するものの、これらの政策の制定に対する彼らの直接的な影響力は著しく限定的である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024CC",
+  "name_in_database": "Law_Homosexuality_Banned",
+  "path": "PolicyProperties.Title",
+  "ja": "同性愛の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024CC",
+  "name_in_database": "Law_Homosexuality_Banned",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは同性愛関係に対する法的禁止が敷かれている。この禁令は根強い伝統的価値観を反映したもので、国内の議論や国際関係においても論争の的となっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000251A",
+  "name_in_database": "Law_Homosexuality_Legalized",
+  "path": "PolicyProperties.Title",
+  "ja": "同性愛の非犯罪化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000251A",
+  "name_in_database": "Law_Homosexuality_Legalized",
+  "path": "PolicyProperties.Description",
+  "ja": "同性愛は非犯罪化され、かつて同性間の関係に課されていた法的罰則がなくなった。この大きな法改正は長年続いてきた伝統的規範からの脱却を意味し、リジアでは同性愛が自由に行われるようになった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4AF",
+  "name_in_database": "Law_Honorary_Abolished",
+  "path": "PolicyProperties.Title",
+  "ja": "名誉議員の称号の廃止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4AF",
+  "name_in_database": "Law_Honorary_Abolished",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法において、かつて「名誉議員」の称号を定めていた第99条が削除された。この改正は憲法体系の変化を反映しており、その称号を持つ全元大統領に対する平等な扱いと機会の確保を重視している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4A3",
+  "name_in_database": "Law_Honorary_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "名誉議員の称号"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4A3",
+  "name_in_database": "Law_Honorary_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "新憲法の第99条では「名誉議員」という称号、その任命手続き、そして名誉議員が行使できる権利が定められている。名誉議員は絶対的な免責特権を有し、大国民議会の常任議員となる。国家の大統領親衛隊が提供する警護チームを付ける権利もある。また、国家が無料で用意する特別な私邸に住む資格も与えられる。現在唯一の名誉議員はタルキン・ソルである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4A7",
+  "name_in_database": "Law_Honorary_NoImmunity",
+  "path": "PolicyProperties.Title",
+  "ja": "名誉議員の免責特権の廃止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4A7",
+  "name_in_database": "Law_Honorary_NoImmunity",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第99条では、「名誉議員」という称号やその任命手続き、そして名誉議員が行使できる権利が定められている。名誉議員とは大国民議会の常任議員であり、国家の大統領親衛隊が提供する警護チームを付ける資格がある。また、国家が無償で用意する特別な私邸に住むことも許されている。ただし、この地位はもはや保有者に絶対的な免責特権を与えない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4AB",
+  "name_in_database": "Law_Honorary_Presidents",
+  "path": "PolicyProperties.Title",
+  "ja": "全大統領が名誉議員"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4AB",
+  "name_in_database": "Law_Honorary_Presidents",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第99条では、「名誉議員」という称号やその任命手続き、そして名誉議員が行使できる権利が定められている。名誉議員は絶対的な免責特権を有し、大国民議会の常任議員となる。彼/彼女は国家の大統領親衛隊が提供する警護チームを利用する権利がある。また、国家が無料で用意する特別な私邸に住む資格も持つ。ソードランドの各大統領は、任期が終了した直後に名誉議員となる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4F3",
+  "name_in_database": "Law_Impeachment_Assembly",
+  "path": "PolicyProperties.Title",
+  "ja": "議会が大統領を弾劾できる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4F3",
+  "name_in_database": "Law_Impeachment_Assembly",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第17条によれば、ソードランドの大統領は、反逆罪や憲法違反の場合を除き、大統領職務の遂行中に行った行為について責任を負わない。そのような場合、大国民議会で3分の2の多数決により大統領は弾劾されることがある。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4F7",
+  "name_in_database": "Law_Impeachment_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "最高裁判所が大統領を弾劾できる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4F7",
+  "name_in_database": "Law_Impeachment_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第17条によれば、ソードランドの大統領は、反逆罪や憲法違反の場合を除き、大統領職務の遂行中に行った行為について責任を負わない。そのような場合、最高裁判所が全体会議を開き、その構成員の絶対多数によって大統領の弾劾が行われることがある。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4FB",
+  "name_in_database": "Law_Impeachment_Harder",
+  "path": "PolicyProperties.Title",
+  "ja": "最高裁判所と議会が大統領を弾劾できる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4FB",
+  "name_in_database": "Law_Impeachment_Harder",
+  "path": "PolicyProperties.Description",
+  "ja": "第17条によれば、ソードランドの大統領は、反逆罪または憲法違反の場合を除き、大統領職務の遂行中に行われた行為について責任を負わない。このような場合、大国民議会と最高裁判所の両方で3分の2以上の多数決により大統領は弾劾されることがある。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4FF",
+  "name_in_database": "Law_Impeachment_Removed",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領の免責特権"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4FF",
+  "name_in_database": "Law_Impeachment_Removed",
+  "path": "PolicyProperties.Description",
+  "ja": "憲法の第17条によれば、大統領は大統領職務を遂行する過程で行われた行為に対して一切の責任を負わない。この規定により、大統領は公的な立場で下した決定について個人的な責任を負うことなく職務を果たすことができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C487",
+  "name_in_database": "Law_IncreasedJusticeFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "司法予算の増額"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C487",
+  "name_in_database": "Law_IncreasedJusticeFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "司法省およびその重要な関連機関に割り当てられている予算は大幅に増加している。この追加の資金は、司法制度のリソースと能力を強化し、同制度が職務を効果的に遂行し法の支配を守ることを可能にすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000C043",
+  "name_in_database": "Law_Iza_BrenasIntegrated",
+  "path": "PolicyProperties.Title",
+  "ja": "イザ都市国家のブレナス州への統合"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000C043",
+  "name_in_database": "Law_Iza_BrenasIntegrated",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアで文化的に豊かな3番目に大きな都市であるイザは、商業共和国としての独特な歴史を持ち、多様な遺産や大学、そして商人としての伝統で知られている。現在では都市国家としてブレナス州に編入されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002568",
+  "name_in_database": "Law_Iza_CityState",
+  "path": "PolicyProperties.Title",
+  "ja": "イザ都市国家"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002568",
+  "name_in_database": "Law_Iza_CityState",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアで文化的に豊かな3番目に大きな都市であるイザは、商業共和国としての独特な歴史を持ち、多様な遺産や大学、そして商人としての伝統で知られている。1926年の蜂起以降、統治はトラス家に移行した。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4B7",
+  "name_in_database": "Law_Judges_Impeachment_Assembly",
+  "path": "PolicyProperties.Title",
+  "ja": "議会が判事を弾劾できる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4B7",
+  "name_in_database": "Law_Judges_Impeachment_Assembly",
+  "path": "PolicyProperties.Description",
+  "ja": "最高裁判所の判事たちは、違憲な行為があったという根拠がある場合、弾劾手続きに直面する可能性がある。弾劾を開始するためには、有効な提案が大国民議会で3分の2以上の多数決を得なければならない。この仕組みによって司法部門内の責任体制と誠実さが保証される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4B3",
+  "name_in_database": "Law_Judges_Impeachment_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "判事の免責特権"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4B3",
+  "name_in_database": "Law_Judges_Impeachment_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "最高裁判所の判事たちは、職務を遂行する過程で行った行為について個人的に責任を問われることはない。この原則は彼らの独立性を守り、個人的な責任から彼らを保護すると同時に、裁判上の判断が公平であることを維持するものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4BB",
+  "name_in_database": "Law_Judges_Impeachment_President",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領が判事を弾劾できる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4BB",
+  "name_in_database": "Law_Judges_Impeachment_President",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドの大統領に与えられた権限により、同大統領は最高裁判所の判事を他の適任者と交代させる力を持っている。この仕組みによって大統領は裁判所の構成を自ら決定し、機能する司法制度を維持することができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024F0",
+  "name_in_database": "Law_LaborHands_Freed",
+  "path": "PolicyProperties.Title",
+  "ja": "出稼ぎ労働者への恒久就労許可"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024F0",
+  "name_in_database": "Law_LaborHands_Freed",
+  "path": "PolicyProperties.Description",
+  "ja": "出稼ぎ労働者への恒久就労許可制度により、ヴェーレンおよびデルディア出身の労働者は、鉱業、ガス産業、製造業といったリジアの主要な工業分野において無期限に働く権利を与えられる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024DE",
+  "name_in_database": "Law_LaborHands_Restricted",
+  "path": "PolicyProperties.Title",
+  "ja": "出稼ぎ労働者の制限"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024DE",
+  "name_in_database": "Law_LaborHands_Restricted",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは、ヴェゼクやデルディア出身の出稼ぎ労働者は現地のリジア人労働者とは対照的に権利制限に直面している。特定のビザ政策によって定められたこれらの制限が、労働力内に明確な労働構造上の差異や社会経済的格差を生み出している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024EA",
+  "name_in_database": "Law_Legislative_FullAuthority",
+  "path": "PolicyProperties.Title",
+  "ja": "1958年リジア基本法憲章"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024EA",
+  "name_in_database": "Law_Legislative_FullAuthority",
+  "path": "PolicyProperties.Description",
+  "ja": "1958年に制定されたリジア基本法憲章により、立法権は立法府に委ねられ、政府の長として首相という職位が導入された。この制度によってリジアの政治構造が再定義され、君主の権力は大幅に削減され、百年以上続いてきた王室評議会も実質的に廃止された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF35",
+  "name_in_database": "Law_Legislative_UpperHouse_Advisory",
+  "path": "PolicyProperties.Title",
+  "ja": "貴族院は諮問機関"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF35",
+  "name_in_database": "Law_Legislative_UpperHouse_Advisory",
+  "path": "PolicyProperties.Description",
+  "ja": "貴族院は立法過程において純粋に助言的な役割のみを担っている。提案された法律や条約を審査し意見を出すことはできるものの、実際の制定権は唯一代議院にのみある。この制度により、貴族院の協議的な役割は維持されつつ、正式な立法権は与えられていない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF41",
+  "name_in_database": "Law_Legislative_UpperHouse_Equal",
+  "path": "PolicyProperties.Title",
+  "ja": "貴族院は同等の権限"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF41",
+  "name_in_database": "Law_Legislative_UpperHouse_Equal",
+  "path": "PolicyProperties.Description",
+  "ja": "貴族院には同等の立法権が与えられている。この方針により、すべての法案は施行前に承認を得なければならない。この再編によって王国の統治におけるバランスが強化され、貴族院が国家法の形成において同等の影響力を持つようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF3B",
+  "name_in_database": "Law_Legislative_UpperHouse_Limited",
+  "path": "PolicyProperties.Title",
+  "ja": "貴族院は限定的な権限"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF3B",
+  "name_in_database": "Law_Legislative_UpperHouse_Limited",
+  "path": "PolicyProperties.Description",
+  "ja": "貴族院は助言的な役割から、明確な権限を持つ重要な立法機関へと変化した。憲法改正や国際条約の承認には今や彼らの正式な承認が必要となっている。この方針により立法過程内に抑制機能が確立され、貴族院は限定的な権限範囲を維持しつつも、国家的に重要な決定において決定的な発言権を持つことになった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002502",
+  "name_in_database": "Law_Media_FreePress",
+  "path": "PolicyProperties.Title",
+  "ja": "報道への国家検閲なし"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002502",
+  "name_in_database": "Law_Media_FreePress",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアのメディア機関は現在、かつて国家が定めた筋書きと密接に結びつけられていた厳格な監視から解放され、完全な編集上の独立性を持って運営されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024FC",
+  "name_in_database": "Law_Media_State",
+  "path": "PolicyProperties.Title",
+  "ja": "国家によるメディア統制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024FC",
+  "name_in_database": "Law_Media_State",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアの主要なメディア機関はすべて『王室ヘラルド』の管理下で厳格な国家の監視を受けながら運営されており、一貫した報道内容が保たれている。このような統制水準は、伝えられる情報が国家が定めた目的や見解と密接に一致するようにする上で極めて重要だ。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4E7",
+  "name_in_database": "Law_Ministers_Assembly",
+  "path": "PolicyProperties.Title",
+  "ja": "大臣は議会が提案する"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4E7",
+  "name_in_database": "Law_Ministers_Assembly",
+  "path": "PolicyProperties.Description",
+  "ja": "大国民議会は大臣の名簿を提案する権限を有しており、大統領がその者たちを行政部門に任命する。この協力体制によって、閣僚会議において多様な専門知識や見解が反映されることが保証される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4EB",
+  "name_in_database": "Law_Ministers_ConfidenceVote",
+  "path": "PolicyProperties.Title",
+  "ja": "大臣の任命に議会の承認が必要"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4EB",
+  "name_in_database": "Law_Ministers_ConfidenceVote",
+  "path": "PolicyProperties.Description",
+  "ja": "大統領には大臣を指名して任命する特権がある。しかし、その任命を確定させるためには投票を通じて大国民議会の信任を得る必要がある。この議会による承認制度によって、行政部門の責任体制と正当性が保証される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4EF",
+  "name_in_database": "Law_Ministers_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "大臣は議会から選ばれる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4EF",
+  "name_in_database": "Law_Ministers_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "大統領は議会で選出された議員の中から大臣を閣僚会議に任命する。この仕組みにより政治的な包括性が促進され、行政上の意思決定過程において様々な政党の意見が反映されることになる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C52B",
+  "name_in_database": "Law_MinorityRights",
+  "path": "PolicyProperties.Title",
+  "ja": "少数者権利法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C52B",
+  "name_in_database": "Law_MinorityRights",
+  "path": "PolicyProperties.Description",
+  "ja": "新法の第1節では、ソードランドに居住するすべての少数派集団の権利擁護を専門に行う少数者権利委員会が設置されている。第2節では、ブルディア自由党およびその他のブルディア系政党への禁止措置が解除され、政治的包容性が促進される。第3節では、分離主義活動で以前に逮捕されたブルディア人の囚人たちに恩赦が与えられ、和解と社会的結束の醸成を目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002538",
+  "name_in_database": "Law_Monarchy_Absolute",
+  "path": "PolicyProperties.Title",
+  "ja": "絶対君主制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002538",
+  "name_in_database": "Law_Monarchy_Absolute",
+  "path": "PolicyProperties.Description",
+  "ja": "代議院が解体された後、この王国は専制君主制の体制を採用した。現在、最高権力は君主にあり、王室評議会がその補助を務めている。この変化により権力が中央集権化し、立法機能は代表機関から奪われ、権力は直接君主の下に統合された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF2C",
+  "name_in_database": "Law_Monarchy_CentralizedConstitutional",
+  "path": "PolicyProperties.Title",
+  "ja": "中央集権的な政治構造"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000DF2C",
+  "name_in_database": "Law_Monarchy_CentralizedConstitutional",
+  "path": "PolicyProperties.Description",
+  "ja": "1958年のリジア基本法憲章が宣言された後、リジアは中央集権的な立憲君主制のもとで運営されるようになり、かつて存在した半自治的な地域構造は廃止され、ポルテ・ドラゾンにある政府によって直接統治されるようになった。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024D2",
+  "name_in_database": "Law_Monarchy_SemiCentralizedConstitutional",
+  "path": "PolicyProperties.Title",
+  "ja": "半中央集権的な政治構造"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000024D2",
+  "name_in_database": "Law_Monarchy_SemiCentralizedConstitutional",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国は半中央集権的な立憲君主制のもとで運営されており、君主が大きな権力を保持しつつ、地方統治の一部は直接地域当局に委ねられている統治形態である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BD000000EE",
+  "name_in_database": "Law_Monarchy_Theocractic",
+  "path": "PolicyProperties.Title",
+  "ja": "神権君主制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BD000000EE",
+  "name_in_database": "Law_Monarchy_Theocractic",
+  "path": "PolicyProperties.Description",
+  "ja": "政府は神権君主制へと移行し、リジア王党派から離れてより根本的な神的・宗教的教義を採用するようになった。君主は神聖な意志の地上での具現者として崇拝され、統治は完全に霊的教義に根差し、法律も神の命令として定められている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002532",
+  "name_in_database": "Law_PalesAdminZone_Active",
+  "path": "PolicyProperties.Title",
+  "ja": "パレス行政区"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002532",
+  "name_in_database": "Law_PalesAdminZone_Active",
+  "path": "PolicyProperties.Description",
+  "ja": "パレス行政区は20年代前半にリジア・インペリイによって奪還され、リジアの管轄下で運営されている。この地域の特徴として歴史的なヴァルグ人の要塞があり、現在は政府本部として機能している。かつてヴァルゴス帝国の支配下にあったパレスとカレカビズの間の戦略的な海域は1920年代にリジアの支配下に移り、地域情勢におけるこの行政区の重要性を確固たるものにした。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C52F",
+  "name_in_database": "Law_Prositution_Illegal",
+  "path": "PolicyProperties.Title",
+  "ja": "人間の尊厳法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C52F",
+  "name_in_database": "Law_Prositution_Illegal",
+  "path": "PolicyProperties.Description",
+  "ja": "新たに提案された法案は、1923年の法律取引法の第3節を改正するものである。同節は、登録されていない事業体や個人事業といった主体で行われる取引についても、当事者が金融当局に正確な書類を提出すれば合法化できるとしていた。これにより売春行為のための法的抜け道が生まれていた。人間の尊厳法案は、売春行為を違法な犯罪とし、違反者に法的処罰を科すことで、公序良俗を守り、売春行為において生じる道徳的原則の侵害を防ごうとするものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C533",
+  "name_in_database": "Law_ProtectWomen",
+  "path": "PolicyProperties.Title",
+  "ja": "女性保護法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C533",
+  "name_in_database": "Law_ProtectWomen",
+  "path": "PolicyProperties.Description",
+  "ja": "大国民議会は女性地位委員会と協力して調査を行い、この国において家庭内暴力の発生率が高い状況にあると結論づけた。こうした非道な状況を踏まえ、議会は以下の法律を可決した。第1節では女性に対する家庭内暴力を犯罪と定めており、同節第1項では被害を受けた女性に対する国家による保護を規定している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C513",
+  "name_in_database": "Law_ReformCommittee",
+  "path": "PolicyProperties.Title",
+  "ja": "改革委員会"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C513",
+  "name_in_database": "Law_ReformCommittee",
+  "path": "PolicyProperties.Description",
+  "ja": "憲法の見直しや更新に関する詳細な議論を行うため、改革委員会が招集されている。この包括的な対話には政府内のあらゆる政党から代表者が参加しており、憲法の総合的な見直しと改革の機会がもたらされている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C47B",
+  "name_in_database": "Law_ReligiousHarmony",
+  "path": "PolicyProperties.Title",
+  "ja": "宗教調和法案"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C47B",
+  "name_in_database": "Law_ReligiousHarmony",
+  "path": "PolicyProperties.Description",
+  "ja": "宗教的な調和と団結を高める目的で、宗教に関する以下の法律が定められている。デイル聖域における降臨祭の儀式では、今後はソードランド語でのみ説教が行われることになっている。聖堂を有するブルディアの都市や町、村の大部分では、ソードランドの大司祭から承認を得ない限りブルディア語での説教は許可されない。国家公認を申請するすべての司祭は、給与や年金を受け取るために、ブルディア人が多数を占める地域にソードランド系の子孫を持っていなければならない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034E7",
+  "name_in_database": "Law_ResidenceWorkPermitMigrants",
+  "path": "PolicyProperties.Title",
+  "ja": "外国人への居住・就労許可"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034E7",
+  "name_in_database": "Law_ResidenceWorkPermitMigrants",
+  "path": "PolicyProperties.Description",
+  "ja": "外国人への労働許可を与えるための枠組みは、労働市場の需要に応じて設計されており、移民が王国内で居住権や雇用を得る手続きを簡素化している。この取り組みにより、熟練した移民がスムーズに労働力に統合され、彼らの専門知識が経済に貢献できるようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00000566",
+  "name_in_database": "Law_Rights_Article6and7_Amended",
+  "path": "PolicyProperties.Title",
+  "ja": "第6条・第7条の改正"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00000566",
+  "name_in_database": "Law_Rights_Article6and7_Amended",
+  "path": "PolicyProperties.Description",
+  "ja": "「ソード人」という語は憲法から削除され、「ソードランド市民」に置き換えられた。第7条は次のように改正された。「言語、人種、肌の色、性別、政治的思想、哲学的信条、宗教、障害の有無にかかわらず、すべての人は法の前に平等である。」"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000055F",
+  "name_in_database": "Law_Rights_Article6and7_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "第6条・第7条"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000055F",
+  "name_in_database": "Law_Rights_Article6and7_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド憲法の第6条では、民族や文化に関係なくすべての市民を「ソード人」と定義している。第7条では、すべてのソード人は法の前で平等であると規定されており、これは全ての市民が同等の権利と義務を負うことを意味している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100007400006711",
+  "name_in_database": "Law_SpecialZoneOfBergia",
+  "path": "PolicyProperties.Title",
+  "ja": "ベルギア特別区"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100007400006711",
+  "name_in_database": "Law_SpecialZoneOfBergia",
+  "path": "PolicyProperties.Description",
+  "ja": "ベルギア地方は現在「特別区」として編成されており、国内の他地域とは異なる統治構造を持っている。分離主義者たちの流血的な反乱の後、タルキン・ソルによって設立されたこの特別区は、同地の安全上の脅威を排除し平和を維持することを目的としていた。特別区内では自治体選挙が行われず、デイル市を拠点とする、権限を拡大された総督によって統治されており、その総督は通常大統領によって任命される。特別区には独自の治安部隊が存在し、内務省の管轄下にはない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C47F",
+  "name_in_database": "Law_StabilityDecree",
+  "path": "PolicyProperties.Title",
+  "ja": "1954年安定化令"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C47F",
+  "name_in_database": "Law_StabilityDecree",
+  "path": "PolicyProperties.Description",
+  "ja": "大統領の安定化令により、犯罪的な政治組織は直ちに禁止された。この断固とした措置は、国の安全と繁栄を脅かす集団を解体することでソードランドの安定を回復し、民主的なプロセスを守ることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000252C",
+  "name_in_database": "Law_StateReligion_None",
+  "path": "PolicyProperties.Title",
+  "ja": "国教なし"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000252C",
+  "name_in_database": "Law_StateReligion_None",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアは宗教的中立の政策を採用し、ヴルヘック教から離れて国家宗教を正式に認めていない。この姿勢により王国内のあらゆる信仰が平等に扱われ尊重され、包括的で多様な精神的風土が育まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002526",
+  "name_in_database": "Law_StateReligion_Nurity",
+  "path": "PolicyProperties.Title",
+  "ja": "国教：ヌーリティ教"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002526",
+  "name_in_database": "Law_StateReligion_Nurity",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアはかつてのヴルヘック教中心の姿勢から脱し、正式にヌーリティ教を国教として認定した。この変化は、国内の多様な宗教状況を調和させることを目的とし、より包括的な宗教的枠組みの下で諸宗教的実践を統一するものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002520",
+  "name_in_database": "Law_StateReligion_Wruhecism",
+  "path": "PolicyProperties.Title",
+  "ja": "国教：ヴルヘック教（他宗教も容認）"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002520",
+  "name_in_database": "Law_StateReligion_Wruhecism",
+  "path": "PolicyProperties.Description",
+  "ja": "ヴルヘック教は、主に聖ヴルヘックの教えを中心とし、国家によって認められている宗教である。この宗教は好奇心、懐疑心、感謝の表現といった価値観を特に重視しており、多くの国民の共感を呼んでいる。他の信仰の実践も認められている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BD000000F7",
+  "name_in_database": "Law_StateReligion_WruhecismSoleFaith",
+  "path": "PolicyProperties.Title",
+  "ja": "国教：ヴルヘック教のみ"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BD000000F7",
+  "name_in_database": "Law_StateReligion_WruhecismSoleFaith",
+  "path": "PolicyProperties.Description",
+  "ja": "この国はヴルヘック教を唯一の国教として採用し、その教義や慣習を社会および政府運営の基盤とすることを定めている。他のすべての宗教は禁止され、ヴルヘック教の原則が守られるようにそれらに関連する施設や慣習は解体された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000054A9",
+  "name_in_database": "Law_Succession_AbsolutePrimogeniture",
+  "path": "PolicyProperties.Title",
+  "ja": "絶対長子相続制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000054A9",
+  "name_in_database": "Law_Succession_AbsolutePrimogeniture",
+  "path": "PolicyProperties.Description",
+  "ja": "この継承制度では、君主の存命する最年長の子が王位を継ぎ、その後は出生順に弟妹が続く。君主に子供がいない場合、王位は最も近い親族に移る。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000520005AF1E",
+  "name_in_database": "Law_Succession_FemalePrefMatrilineal",
+  "path": "PolicyProperties.Title",
+  "ja": "女子優先の母系相続制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000520005AF1E",
+  "name_in_database": "Law_Succession_FemalePrefMatrilineal",
+  "path": "PolicyProperties.Description",
+  "ja": "この継承制度では、君主の存命する長女が最初に王位を継ぎ、その次に姉妹たち、そして兄弟たちが出生順に後を継ぐ。この方式は母系の血統を重視し、女性相続人を優先するが、女性の姉妹がいない場合には男性相続人も認められる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000549B",
+  "name_in_database": "Law_Succession_MalePrefPrimogeniture",
+  "path": "PolicyProperties.Title",
+  "ja": "男子優先の長子相続制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000549B",
+  "name_in_database": "Law_Succession_MalePrefPrimogeniture",
+  "path": "PolicyProperties.Description",
+  "ja": "この制度の下では、君主の存命する長男が王位を継承し、その次に兄弟たち、そして出生順に姉妹たちが続く。この継承方式は伝統的な家系制度を強化しており、男性後継者を優先しつつ、男性の兄弟がいない場合には女性後継者も認めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4BF",
+  "name_in_database": "Law_TermLimits_2",
+  "path": "PolicyProperties.Title",
+  "ja": "任期2期まで"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4BF",
+  "name_in_database": "Law_TermLimits_2",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法によれば、大統領の在任期間は最大で2期までと定められている。この規定により権力の交代が保証され、民主主義の原則が育まれ、権力が一人の人物に集中することが防がれる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4C3",
+  "name_in_database": "Law_TermLimits_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "任期制限なし"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4C3",
+  "name_in_database": "Law_TermLimits_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドの憲法によれば、大統領の在任期間に制限は設けられていない。この規定により、大統領は何度でも制約や任期の上限なく連続して選出され、再選される可能性がある。任期制限がないことで指導部の安定性と統治の継続性が保たれ、有権者によって再選されれば無制限に長期間職務を担うことが可能となる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4DF",
+  "name_in_database": "Law_Threshold_15",
+  "path": "PolicyProperties.Title",
+  "ja": "議席獲得ライン15％"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4DF",
+  "name_in_database": "Law_Threshold_15",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第50条に定められているように、政党が大国民議会で議席を得るためには全国投票総数の少なくとも15％の票を獲得しなければならない。投票数の比例的再配分によって、立法過程において公平な代表制と包括性が保証される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4D7",
+  "name_in_database": "Law_Threshold_3",
+  "path": "PolicyProperties.Title",
+  "ja": "議席獲得ライン3％"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4D7",
+  "name_in_database": "Law_Threshold_3",
+  "path": "PolicyProperties.Description",
+  "ja": "新憲法の第50条によれば、政党が大国民議会の議席を得るためには、全国投票総数の少なくとも3％の票を獲得しなければならない。この基準を超えた政党の票は比例配分され、立法機関における公正な代表制と包括性が保証される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4DB",
+  "name_in_database": "Law_Threshold_8",
+  "path": "PolicyProperties.Title",
+  "ja": "議席獲得ライン8％"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4DB",
+  "name_in_database": "Law_Threshold_8",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第50条に従い、政党が大国民議会で議席を得るためには全国投票総数の少なくとも8％の票が必要である。この基準を超える票は比例配分され、立法機関内の代表権が公平に分配されるようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4E3",
+  "name_in_database": "Law_Threshold_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "議席獲得ライン10％"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C4E3",
+  "name_in_database": "Law_Threshold_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第50条によれば、政党が大国民議会で議席を獲得するためには、全国投票総数の少なくとも10％の票が必要である。その基準を満たした政党の得票数は、比例的に再配分される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C503",
+  "name_in_database": "Law_Veto_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領は法案に拒否権を行使できる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C503",
+  "name_in_database": "Law_Veto_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "新憲法の第77条および第82条により、大統領は書面による説明を付けて法案を議会に返送することで拒否権を行使できる。この拒否権は抑制と均衡の仕組みとして機能し、大統領が懸念点を示したり、提案された立法案についてさらなる審議を開始したりすることを可能にしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C507",
+  "name_in_database": "Law_Veto_Limited",
+  "path": "PolicyProperties.Title",
+  "ja": "大統領の拒否権は覆せる"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C507",
+  "name_in_database": "Law_Veto_Limited",
+  "path": "PolicyProperties.Description",
+  "ja": "新憲法の第77条および第82条によれば、大国民議会は66％の多数決によって拒否権を覆す権限を有している。この議会による拒否権打破の仕組みにより、大統領の反対があっても立法府は法案の可決を進めることができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C50B",
+  "name_in_database": "Law_Veto_Loophole",
+  "path": "PolicyProperties.Title",
+  "ja": "ポケット拒否権"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C50B",
+  "name_in_database": "Law_Veto_Loophole",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法により、大国民議会は特別多数の賛成をもって拒否権を無効化する権限を与えられている。しかし、大統領は独自の判断で法案に対して行動する裁量権を保持しており、これにより行政部門と立法部門の間でさらなる対話や交渉が可能となっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C50F",
+  "name_in_database": "Law_Veto_Removed",
+  "path": "PolicyProperties.Title",
+  "ja": "拒否権の廃止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C50F",
+  "name_in_database": "Law_Veto_Removed",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい憲法の第77条では、大統領がどんな法案でも拒否することを禁じており、司法上の要件を満たしたすべての法案は自動的に法律となる。この規定によって立法手続きが簡素化され、大統領の拒否権によって立法の成立が妨げられる可能性がなくなる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C537",
+  "name_in_database": "Law_WomenLiberation",
+  "path": "PolicyProperties.Title",
+  "ja": "女性解放法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C537",
+  "name_in_database": "Law_WomenLiberation",
+  "path": "PolicyProperties.Description",
+  "ja": "大国民議会は女性地位委員会と協力して以下の法律を可決した。第1節では女性に対する家庭内暴力を犯罪と定めている。同節第1項では、虐待された女性に対する国家による保護を規定している。第2節では職場における女性の均等賃金の実現を義務付け、同一職種であっても企業が異なる給与を支払うことを禁じている。第3節では教育制度が男女両方に対して平等な扱いを行うべきであると明記している。第4節では有給産休の導入や、母親向けの国家補助付き託児所の設置を定めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C493",
+  "name_in_database": "Law_WorkersRightsReform",
+  "path": "PolicyProperties.Title",
+  "ja": "労働者権利改革"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C493",
+  "name_in_database": "Law_WorkersRightsReform",
+  "path": "PolicyProperties.Description",
+  "ja": "政府は包括的な労働権改革を成功裏に可決し、従業員の労働環境を大幅に改善した。これらの改革は労働者の権利を守り、公平な扱いを促進し、労働力の向上のために職場環境をより良くすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C39B",
+  "name_in_database": "Military_ArcasiaAirAccess",
+  "path": "PolicyProperties.Title",
+  "ja": "アルカシアに空軍基地の使用を許可"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C39B",
+  "name_in_database": "Military_ArcasiaAirAccess",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド空軍はアルカシア第4戦闘飛行隊に対して歓迎と支援を提供し、同飛行隊が給油や必要な修理を行い、エルローリー空軍基地の最先端施設を利用できるようにしている。この協力関係により、両空軍間での専門知識や資源、共有された知見の交流が促進され、より強固な協力と相互支援が生まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C39F",
+  "name_in_database": "Military_ATO_Officers",
+  "path": "PolicyProperties.Title",
+  "ja": "アルカシア条約機構の将校"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C39F",
+  "name_in_database": "Military_ATO_Officers",
+  "path": "PolicyProperties.Description",
+  "ja": "アルカシア条約機構の将校たちはソードランドの将軍たちと密接に協力し、最新の戦略や革新的な戦術、専門的な訓練内容を熱心に交換しながらソードランドの兵士たちに伝えている。このような協力関係によってソードランド軍の技能と熟練度が高められ、絶えず変化する作戦環境の中でも適応し成長していくことが可能になっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C500000822",
+  "name_in_database": "Military_BomberFactory",
+  "path": "PolicyProperties.Title",
+  "ja": "爆撃機産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C500000822",
+  "name_in_database": "Military_BomberFactory",
+  "path": "PolicyProperties.Description",
+  "ja": "ジャレスに新設された爆撃機工場は、リジアの軍事戦略における中核的存在となりつつある。高度な爆撃機の設計・製造・保守を専門とするこの施設は、王国の攻撃用航空力を強化する上で極めて重要な役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C377",
+  "name_in_database": "Military_CompulsoryMilitaryService",
+  "path": "PolicyProperties.Title",
+  "ja": "義務兵役制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C377",
+  "name_in_database": "Military_CompulsoryMilitaryService",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドでは軍隊は徴兵制によって運営されており、18歳に達した男性が軍務の義務を負う。この強制的な徴兵制度によって、国の防衛と安全を維持するための安定した有能な人材層が確保され、軍隊全体の抵抗力と即応能力が高められている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000348F",
+  "name_in_database": "Military_Conscription_18_1Year",
+  "path": "PolicyProperties.Title",
+  "ja": "徴兵制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000348F",
+  "name_in_database": "Military_Conscription_18_1Year",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは軍隊は徴兵制によって運営されており、18歳に達した男性が兵役の義務を負い、その期間は12か月である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003435",
+  "name_in_database": "Military_Conscription_18_2Year",
+  "path": "PolicyProperties.Title",
+  "ja": "徴兵制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003435",
+  "name_in_database": "Military_Conscription_18_2Year",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは軍隊は徴兵制によって運営されており、18歳に達した男性は兵役の義務を負い、その期間は24か月である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003486",
+  "name_in_database": "Military_Conscription_24_2Year",
+  "path": "PolicyProperties.Title",
+  "ja": "徴兵制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003486",
+  "name_in_database": "Military_Conscription_24_2Year",
+  "path": "PolicyProperties.Description",
+  "ja": "リジアでは軍隊は徴兵制によって運営されており、24歳に達した男性が兵役の義務を負い、その期間は24か月である。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002573",
+  "name_in_database": "Military_Conscription_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "徴兵制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002573",
+  "name_in_database": "Military_Conscription_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "24歳以上の者に義務付けられており、地域的な緊張状態を背景に1900年代初頭から実施されているリジアの12か月間の徴兵制度は、国が常に軍事的に警戒し準備を整えた状態を維持するためのものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3A3",
+  "name_in_database": "Military_CSP_Officers",
+  "path": "PolicyProperties.Title",
+  "ja": "コンタナ条約機構の将校"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C3A3",
+  "name_in_database": "Military_CSP_Officers",
+  "path": "PolicyProperties.Description",
+  "ja": "コンタナ条約機構の将校たちはソードランドの将軍たちと積極的に協力し、最先端の戦略や戦術、訓練手法をソードランドの兵士たちと共有することで強固な絆を築いている。この知識と専門技術の交流によりソードランド軍の能力が高まり、様々な課題に熟練と自信をもって対処できるようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C38B",
+  "name_in_database": "Military_DecreasedFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "予算の削減"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C38B",
+  "name_in_database": "Military_DecreasedFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド軍に割り当てられている予算は減少しており、そのため軍の活動を支える財政体制について総合的な評価が行われている。資金調達のこのような変更は資源配分に影響を及ぼす可能性があり、軍の組織的安定性と運用効率を維持するために戦略的な最適化が求められるかもしれない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000349F",
+  "name_in_database": "Military_EquipmentFactory",
+  "path": "PolicyProperties.Title",
+  "ja": "フォルチェ・ダトール軍需装備工場"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000349F",
+  "name_in_database": "Military_EquipmentFactory",
+  "path": "PolicyProperties.Description",
+  "ja": "フォルチェ・ダトール軍需装備工場はリジアにある重要な工業施設で、高度な軍事装備の製造を専門としている。この工場は弾薬から精密兵器まで多種多様な装備を生産し、国の防衛力強化に不可欠な役割を果たしており、それによって軍隊が国家安全を維持するのに十分な装備を有するようにしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C393",
+  "name_in_database": "Military_Expansion",
+  "path": "PolicyProperties.Title",
+  "ja": "拡張計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C393",
+  "name_in_database": "Military_Expansion",
+  "path": "PolicyProperties.Description",
+  "ja": "ある軍部門の兵力を増強するため、先見的かつ包括的な拡張計画が入念に策定されている。この野心的な取り組みは、軍の能力を強化し、常に適切な装備と十分な人員を確保しつつ、多方面にわたる任務を最大限の効果性をもって遂行できるようにすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000258C",
+  "name_in_database": "Military_FDMilitaryIndustrialComplex_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "フォルチェ・ダトール軍産複合体"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000258C",
+  "name_in_database": "Military_FDMilitaryIndustrialComplex_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "フォルチェ・ダトールの中心部に位置する「リジアの鍛造所」は、広大な鋳造工場や製造施設で知られている。その中でも最も著名なのが王立フォルチェ鋳造所で、キングス・アベニューの終点に堂々と建ち、地元の鉄を使って鍛造された武器を主にリジアの警察や軍隊に供給している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000259C",
+  "name_in_database": "Military_FDMilitaryIndustrialComplex_Expanded",
+  "path": "PolicyProperties.Title",
+  "ja": "フォルチェ・ダトール軍産複合体の拡張"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000259C",
+  "name_in_database": "Military_FDMilitaryIndustrialComplex_Expanded",
+  "path": "PolicyProperties.Description",
+  "ja": "フォルチェ・ダトール地域では軍需産業分野に多額の投資が行われ、新たな工場や研究施設が武器生産と技術革新を支えている。この拡大により雇用が創出され、国防製造における王国の自立性が強化された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C50000082B",
+  "name_in_database": "Military_FighterFactory",
+  "path": "PolicyProperties.Title",
+  "ja": "戦闘機産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C50000082B",
+  "name_in_database": "Military_FighterFactory",
+  "path": "PolicyProperties.Description",
+  "ja": "ジャレスにある戦闘機工場は、リジアの防衛戦略において極めて重要な存在として急速に台頭している。最先端の戦闘機の設計・製造・保守を専門とするこの施設は、王国の航空防御力及び支援作戦を強化する上で不可欠な役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003462",
+  "name_in_database": "Military_FortAlesNavalBase",
+  "path": "PolicyProperties.Title",
+  "ja": "アレス要塞海軍基地"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003462",
+  "name_in_database": "Military_FortAlesNavalBase",
+  "path": "PolicyProperties.Description",
+  "ja": "アレス要塞海軍基地は大幅な拡張と近代化を経て、重要な海上拠点として台頭し、リジアの海軍攻撃能力や沿岸砲撃の効率を高めている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C37F",
+  "name_in_database": "Military_Gendarmerie",
+  "path": "PolicyProperties.Title",
+  "ja": "国防省管轄の国家憲兵隊"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C37F",
+  "name_in_database": "Military_Gendarmerie",
+  "path": "PolicyProperties.Description",
+  "ja": "国家憲兵隊は高く評価されている武装法執行機関であり、特に農村地域の治安維持を最優先事項として、治安と公共の秩序を守る砦となっている。さらに、国家憲兵隊は多様な任務に対応できるため、市長の指導や要請に基づき都市部でも柔軟に派遣され、法執行能力を強化し、すべての人々にとってより安全な環境を創出している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C387",
+  "name_in_database": "Military_IncreasedFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "予算の増額"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C387",
+  "name_in_database": "Military_IncreasedFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド軍に割り当てられた予算は慎重に増額され、新たな機会が生まれ、軍の総合的な能力を強化するための資源も拡大した。この資金投入の増加により、革新的な投資や装備の更新、人材育成の道が開かれ、軍の準備態勢が強化され、変化し続ける安全保障上の課題に対応する能力も向上する。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000343E",
+  "name_in_database": "Military_IncreaseProvincialLevies",
+  "path": "PolicyProperties.Title",
+  "ja": "地方の徴兵の増加"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000343E",
+  "name_in_database": "Military_IncreaseProvincialLevies",
+  "path": "PolicyProperties.Description",
+  "ja": "この政策の調整により、ブレナス、ヴァレンキリス、カルデス＝モンタクラルといった州は、自地域の資源を活用して中央軍に、師団規模の部隊であれば最大28,000人にも上る兵力を供給しなければならない。この戦略により中央軍が強化され、より堅固な国防力が確保されることになる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C383",
+  "name_in_database": "Military_JointMilitaryExercises",
+  "path": "PolicyProperties.Title",
+  "ja": "合同軍事演習"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C383",
+  "name_in_database": "Military_JointMilitaryExercises",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド軍は、より高い軍事的連携性、相互運用性、そしてシナジーを実現することを目指し、尊敬すべき同盟国と一連の合同軍事演習を行っている。これらの協力による訓練を通じて、ソードランド軍は同盟軍との戦略的統合や戦術的協力を強化し、より結束力があり効果的な防衛ネットワークを構築しようとしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003447",
+  "name_in_database": "Military_MermiLogisticsHub",
+  "path": "PolicyProperties.Title",
+  "ja": "トペス＝メルミ＝アレス要塞 戦略連結計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003447",
+  "name_in_database": "Military_MermiLogisticsHub",
+  "path": "PolicyProperties.Description",
+  "ja": "トペス＝メルミ＝アレス要塞戦略連結計画により、トペスとメルミの間に要塞化された接続路が構築され、重要な拠点であるアレス要塞まで延長されている。この施設はリジアの防衛ネットワークにおける重要な動脈として機能し、物流能力を向上させつつ軍隊の機動性を確保している。この計画によってアレス要塞の国家安全保障上の役割が強化されるだけでなく、メルミも代替的な物流拠点として位置づけられ、潜在的な脅威に対するリジアの備えがより固められている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C38F",
+  "name_in_database": "Military_Modernisation",
+  "path": "PolicyProperties.Title",
+  "ja": "近代化計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C38F",
+  "name_in_database": "Military_Modernisation",
+  "path": "PolicyProperties.Description",
+  "ja": "特定の軍部門で使用されている装備を活性化させて高度化するため、包括的な近代化計画が戦略的に策定された。この野心的な取り組みでは先端技術の導入、最新鋭の兵器の調達、そして最先端システムの実装が含まれており、それによって軍の戦闘能力を強化し、新たに出現する脅威に対応できるようにするものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025A4",
+  "name_in_database": "Military_PalesAdministrativeDistrict_BorderFortifications",
+  "path": "PolicyProperties.Title",
+  "ja": "パレス行政区の国境要塞"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025A4",
+  "name_in_database": "Military_PalesAdministrativeDistrict_BorderFortifications",
+  "path": "PolicyProperties.Description",
+  "ja": "20年前に潜在的な脅威に対する戦略的防衛のために建設された、リジアとパレスの国境沿いに広がる多数の塹壕や陸上防御施設から成る網のような構造物。この要塞化された障壁はリジアの領有権を強化し、この地域の安全を確保している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007306",
+  "name_in_database": "Military_PalesAdministrativeDistrict_StrengthenedBorderFortifications",
+  "path": "PolicyProperties.Title",
+  "ja": "パレス行政区の国境要塞の強化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100006500007306",
+  "name_in_database": "Military_PalesAdministrativeDistrict_StrengthenedBorderFortifications",
+  "path": "PolicyProperties.Description",
+  "ja": "20年前に潜在的な脅威に対する戦略的防衛のために建設された、リジアとパレスの国境沿いに広がる多数の塹壕や陸上防御施設から成る網のような構造物。この要塞化された障壁はリジアの領有権を強化し、この地域の安全を確保している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000082FD",
+  "name_in_database": "Military_PledgeOfAllegiance",
+  "path": "PolicyProperties.Title",
+  "ja": "国王への軍の忠誠宣誓"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000082FD",
+  "name_in_database": "Military_PledgeOfAllegiance",
+  "path": "PolicyProperties.Description",
+  "ja": "この政策により、全軍人は軍務評議官や国家に対して立てていたこれまでの誓約に代わり、ロムス・トラス王に直接忠誠を誓うことが義務付けられている。この全国的な宣誓によって指揮系統が再編成され、軍隊は明確に王室の権威下に置かれることになった。この政策は軍事行動に対する王室の支配を強化し、他のあらゆる国家機関よりもまず国王陛下への忠誠が保証されるようにしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000257B",
+  "name_in_database": "Military_ProvincialDivisions_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "州の師団供出義務"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000257B",
+  "name_in_database": "Military_ProvincialDivisions_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "ブレナス、ヴァレンキリス、カルデス＝モンタクラルといった州は、自らの資源をもとに中央政府に師団規模の部隊、最大で14,000人までを提供する義務がある。この仕組みにより中央軍の力が強化される一方で、採用や訓練においては各州の自治権が維持されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002584",
+  "name_in_database": "Military_RizianArmedForces_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア軍"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002584",
+  "name_in_database": "Military_RizianArmedForces_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "軍の主要な常設軍組織であるRRAFは、陸軍、海軍、空軍を包含している。モンタクラルに本部を置き、カルロス・アザロ将軍の指揮のもと、これらの軍隊は東メルコパ地域で規模がトップ5に入らないものの、王国の防衛力の象徴として機能している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003459",
+  "name_in_database": "Military_RomusTorasMilitaryAcademy",
+  "path": "PolicyProperties.Title",
+  "ja": "ロムス・トラス士官学校"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003459",
+  "name_in_database": "Military_RomusTorasMilitaryAcademy",
+  "path": "PolicyProperties.Description",
+  "ja": "ロムス・トラス士官学校は、リジアの将来の軍指導者たちを育成し訓練するための最高峰の教育機関である。戦略的な場所に位置しており、軍事戦略や戦術、指導力に関する高度なコースを提供し、候補生たちを優秀な将校へと育成している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C37B",
+  "name_in_database": "Military_SordishGeneralStaff",
+  "path": "PolicyProperties.Title",
+  "ja": "ソードランド参謀本部"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C37B",
+  "name_in_database": "Military_SordishGeneralStaff",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド軍の参謀本部は、経験豊富で高く評価される将官たちで構成されており、極めて重要な軍事計画機関として機能している。この高位将校たちからなる優秀な集団は、綿密な戦略策定と調整を行い、軍の作戦効率を最大限に高め、防衛目標の円滑な達成を確実にするための包括的な計画や戦略を立案している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034A8",
+  "name_in_database": "Military_SupportVehicleFactory",
+  "path": "PolicyProperties.Title",
+  "ja": "フォルチェ・ダトール軍用支援車両産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034A8",
+  "name_in_database": "Military_SupportVehicleFactory",
+  "path": "PolicyProperties.Description",
+  "ja": "フォルチェ・ダトール軍事支援車両産業は、リジアの防衛システムにおける重要な分野であり、軍事支援車両の製造を専門としている。この産業は、輸送用、物流用、通信用の各種車両を軍隊に供給する上で中心的な役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034B1",
+  "name_in_database": "Military_TankFactory",
+  "path": "PolicyProperties.Title",
+  "ja": "戦車産業"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034B1",
+  "name_in_database": "Military_TankFactory",
+  "path": "PolicyProperties.Description",
+  "ja": "フォルチェ・ダトールにおける戦車産業は、軍用戦車の設計・製造・保守を中心に展開され、リジアの防衛インフラにおいて不可欠な要素となりつつある。これらの装甲車両は王国の陸上軍の中核を構成し、重要な火力と防御力を提供している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000346B",
+  "name_in_database": "Military_TeradorAirforce",
+  "path": "PolicyProperties.Title",
+  "ja": "テラドール空軍基地"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000346B",
+  "name_in_database": "Military_TeradorAirforce",
+  "path": "PolicyProperties.Description",
+  "ja": "この拡張された施設は航空作戦の中心的なハブとして機能し、より多くの航空機を収容できるほか、より規模の大きな物流や整備活動も支えている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C397",
+  "name_in_database": "Military_UCNavalAccess",
+  "path": "PolicyProperties.Title",
+  "ja": "コンタナ連邦に海軍基地の使用を許可"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C397",
+  "name_in_database": "Military_UCNavalAccess",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド海軍は、由緒正しいコンリアト海軍基地において、コンタナ連邦のマルキア海軍艦隊の燃料補給作業や必要な修理を支援し、その施設面でのサポートも行っている。この協力関係は艦隊間の連携を促進し、相互信頼を深め、重要な海洋領域における地域の安全保障を強化するものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5B7",
+  "name_in_database": "Order_AntiCorruptionPolice",
+  "path": "PolicyProperties.Title",
+  "ja": "汚職捜査局"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5B7",
+  "name_in_database": "Order_AntiCorruptionPolice",
+  "path": "PolicyProperties.Description",
+  "ja": "権威ある司法省の管轄下で活動する汚職捜査局は、政府の腐敗と戦い、誠実さと説明責任という原則を守る上で極めて重要な役割を担っている。この専門の警察組織は、腐敗行為の調査と対処に尽力し、統治体制の中で透明性と法の支配が保たれるようにしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034BA",
+  "name_in_database": "Order_AntiNarcoticsOperation",
+  "path": "PolicyProperties.Title",
+  "ja": "麻薬対策作戦"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034BA",
+  "name_in_database": "Order_AntiNarcoticsOperation",
+  "path": "PolicyProperties.Description",
+  "ja": "「麻薬撲滅作戦」とは、リジアの法執行機関が王国内での違法薬物の密売や流通と闘うために取る多角的な対策のことである。これらの作戦は、薬物ネットワークを破壊し解体し、薬物関連活動に関与する者を逮捕し、違法な薬物を押収することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C59B",
+  "name_in_database": "Order_Authority",
+  "path": "PolicyProperties.Title",
+  "ja": "警察権限の強化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C59B",
+  "name_in_database": "Order_Authority",
+  "path": "PolicyProperties.Description",
+  "ja": "法と秩序の維持を任務とする警察は、実力の行使、没収命令の発令、そして職務質問と所持品検査を行う権限といった特定の権限を有している。しかし、これらの権限は法律で定められた範囲内でのみ行使され、適正手続きの完全性を保ちつつ個人の保護と安全が守られるようになっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5B3",
+  "name_in_database": "Order_CommunityPolice",
+  "path": "PolicyProperties.Title",
+  "ja": "地域警察"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5B3",
+  "name_in_database": "Order_CommunityPolice",
+  "path": "PolicyProperties.Description",
+  "ja": "コミュニティ警察とは模範的な地域向け取り組みであり、信頼できる地元住民の積極的な参加によって法執行官を地域住民の近くに寄せることで、信頼と協力関係を育んでいる。この草の根的なアプローチにより、地域のニーズをより詳細に理解し、人々の間の絆を強化し、地域の問題に対処する際の法執行の全体的な効果を高めることができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000675D",
+  "name_in_database": "Order_CounterTerrorismOperation",
+  "path": "PolicyProperties.Title",
+  "ja": "BFFに対する対テロ作戦"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000740000675D",
+  "name_in_database": "Order_CounterTerrorismOperation",
+  "path": "PolicyProperties.Description",
+  "ja": "政府は内務省に対し、ブルディア自由戦線のインフラを破壊し、その指導部を全員排除することを目的とした国内の反テロ作戦を計画・実行する権限を与えた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5BB",
+  "name_in_database": "Order_CrowdControlMeasures",
+  "path": "PolicyProperties.Title",
+  "ja": "群衆統制措置"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5BB",
+  "name_in_database": "Order_CrowdControlMeasures",
+  "path": "PolicyProperties.Description",
+  "ja": "最近の民衆騒乱の事案により、事態のさらなる悪化を防ぎ公共の安全を維持するため、積極的な群衆制御策の実施が必要となった。これら入念に考案された措置によって、秩序の維持、公私財産の保護、そして関係するすべての人々の安全が確保される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C597",
+  "name_in_database": "Order_DecreasedInteriorFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "内務予算の削減"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C597",
+  "name_in_database": "Order_DecreasedInteriorFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "法執行能力の維持を担当する内務省は、資金削減に直面している。この財政的な調整により法執行機関の最適な機能発揮と効果性が脅かされており、国家及びその国民の継続的な保護を確実にするために戦略的な再編成や資源の優先配分が必要となっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C59F",
+  "name_in_database": "Order_DetentionWihoutTrial",
+  "path": "PolicyProperties.Title",
+  "ja": "裁判なしの拘禁"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C59F",
+  "name_in_database": "Order_DetentionWihoutTrial",
+  "path": "PolicyProperties.Description",
+  "ja": "強い疑念がありかつ特定の状況下において、ある人物が国内及び国外の安全保障に対する犯罪を犯したと疑われる場合、十分な有罪証拠がなくても、追って通知があるまで拘束されることがある。この例外措置は、国家の安全保障に対する潜在的な脅威を防ぎつつ、適正手続きと基本的権利が尊重されるようにすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5A7",
+  "name_in_database": "Order_ExpandedPolice",
+  "path": "PolicyProperties.Title",
+  "ja": "警察の緊急拡充"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5A7",
+  "name_in_database": "Order_ExpandedPolice",
+  "path": "PolicyProperties.Description",
+  "ja": "大統領の指示に基づき、内務省は訓練時間を短縮し治安部隊を拡充することで秩序と安全を回復させるための措置を講じている。この一連の取り組みは、法執行能力を強化し対応速度を向上させ、国家及びその住民の安全と福祉を確保することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5C7",
+  "name_in_database": "Order_FreedomAct",
+  "path": "PolicyProperties.Title",
+  "ja": "自由法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5C7",
+  "name_in_database": "Order_FreedomAct",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドにおける平和で安全な状況が続いていることから、大国民議会の大多数は治安法の緩和を求めている。自由法の第1節では、裁判なしに48時間拘束する規定が廃止され、公正かつ迅速な司法の原則が守られている。第2節では、私有財産の調査に関する令状申請の要件が変更され、地区警察署長ではなく地域管轄の裁判官の承認が必要となった。第3節では、職務質問と所持品検査の慣行が完全に廃止され、個人の権利と尊厳が保護されている。第4節では、実力の行使は絶対的な最終手段としてのみ許可されるという厳格な指針が定められ、人命の保護と平和の維持が図られている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5AB",
+  "name_in_database": "Order_Gendarmerie",
+  "path": "PolicyProperties.Title",
+  "ja": "内務省管轄の国家憲兵隊"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5AB",
+  "name_in_database": "Order_Gendarmerie",
+  "path": "PolicyProperties.Description",
+  "ja": "国家憲兵隊は高く評価されている武装法執行機関であり、治安と公共の秩序を維持する上で極めて重要な役割を果たしている。主に農村地域の治安を担当しているが、市長の要請があれば出動し、都市部の安全と福祉を守るための支援も行うことができる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025E0",
+  "name_in_database": "Order_GoldenGuard_DefaultBrigade",
+  "path": "PolicyProperties.Title",
+  "ja": "近衛兵旅団"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025E0",
+  "name_in_database": "Order_GoldenGuard_DefaultBrigade",
+  "path": "PolicyProperties.Description",
+  "ja": "精鋭の護衛部隊である近衛兵旅団は、リジアの君主を守護するためだけに編成されている。特徴的な金色の装備で識別されるこの部隊は、軍事保安評議官によって募集が行われるものの、君主のみに忠誠を誓う。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025EF",
+  "name_in_database": "Order_GoldenGuard_ExpandedDivision",
+  "path": "PolicyProperties.Title",
+  "ja": "拡充された近衛兵師団"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025EF",
+  "name_in_database": "Order_GoldenGuard_ExpandedDivision",
+  "path": "PolicyProperties.Description",
+  "ja": "精鋭の護衛部隊である近衛兵師団は、リジアの君主を守護するためだけに編成されている。特徴的な金色の装備で識別されるこの部隊は、軍事保安評議官によって募集が行われるものの、君主のみに忠誠を誓う。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C500000CA1",
+  "name_in_database": "Order_HODShutdown_NationalDefenseHQ",
+  "path": "PolicyProperties.Title",
+  "ja": "国防本部"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C500000CA1",
+  "name_in_database": "Order_HODShutdown_NationalDefenseHQ",
+  "path": "PolicyProperties.Description",
+  "ja": "代議院が解体されたことにより、この王国は軍事および治安指揮を統一するために国家防衛本部を設立した。この機関は軍と国内治安を統括し、直接的な行政の管理のもとで国防作戦を効率化する。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C7000004C4",
+  "name_in_database": "Order_HODShutdown_SupremeCouncilOfNur",
+  "path": "PolicyProperties.Title",
+  "ja": "ヌール最高評議会"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C7000004C4",
+  "name_in_database": "Order_HODShutdown_SupremeCouncilOfNur",
+  "path": "PolicyProperties.Description",
+  "ja": "かつての代議院はヌール最高評議会の所在地として再利用されることになっている。かつて王室評議会に取って代わったこの宗教的機関は、民衆と神によって選ばれた君主との間の精神的結びつきを強化する役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C593",
+  "name_in_database": "Order_IncreasedInteriorFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "内務予算の増額"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C593",
+  "name_in_database": "Order_IncreasedInteriorFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "内務省の予算は増加しており、それによって法執行活動が向上し、法執行機関がより効果的に職務を遂行できるようになっている。この財政的支援により、訓練の強化や資源の拡充、インフラの改善が可能となり、より強力で迅速な法執行体制が確保されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034C3",
+  "name_in_database": "Order_MaveNortusIntelligenceHub",
+  "path": "PolicyProperties.Title",
+  "ja": "マーヴェ・ノルトゥス情報拠点"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034C3",
+  "name_in_database": "Order_MaveNortusIntelligenceHub",
+  "path": "PolicyProperties.Description",
+  "ja": "複雑化する世界の地政学情勢や、ジルの領土をリジアと再統合しようとする動きに応えて設立されたマーヴェ・ノルトゥス情報拠点は、対外情報活動の重要な拠点として機能している。ここは、極めて重要な情報を収集したり、秘密裏の作戦を実行したり、ジルにいるリジア人に影響を与えたりする上で不可欠な役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5CB",
+  "name_in_database": "Order_PrivatePrisons",
+  "path": "PolicyProperties.Title",
+  "ja": "民営刑務所"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5CB",
+  "name_in_database": "Order_PrivatePrisons",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドでは、厳格な安全性及び生活水準に関する基準を満たすことを条件に、民間投資家による私設刑務所の設立が認可されている。この取り組みは、これら民間運営の施設において安全・保安・人道的な扱いという原則を守りつつ、矯正制度を多様化させることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002600",
+  "name_in_database": "Order_ProvincialPoliceForces_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "地方警察"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002600",
+  "name_in_database": "Order_ProvincialPoliceForces_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "ブレナス、ヴァレンキリス、カルデス＝モンタクラルの警察組織はそれぞれの州域内で活動し、君主の指示に従っている。彼らは地域内の業務においては一定の自治権を有しているが、指定された州域を超えて活動を展開することはできない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C500000C98",
+  "name_in_database": "Order_ReligiousCourts",
+  "path": "PolicyProperties.Title",
+  "ja": "宗教裁判所"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000C500000C98",
+  "name_in_database": "Order_ReligiousCourts",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国では、君主の司法機関と並行して宗教裁判所が機能する二重の裁判制度が認められている。これらの裁判所は、結婚解消、相続権の主張、宗教的義務に関わる紛争など、宗教教義に直接関連する事案を管轄している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002612",
+  "name_in_database": "Order_RizianBorderGuards_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア国境警備隊"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002612",
+  "name_in_database": "Order_RizianBorderGuards_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "重要な国境管理の任務を担うリジア国境警備隊は、移民の流れを調整し、麻薬密売と戦い、外国勢力による潜在的な脅威に対処している。彼らの職務範囲には、適切な入出国手続きの確保も含まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034CC",
+  "name_in_database": "Order_RizianBorderGuards_Expanded",
+  "path": "PolicyProperties.Title",
+  "ja": "拡充された国境警備隊"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034CC",
+  "name_in_database": "Order_RizianBorderGuards_Expanded",
+  "path": "PolicyProperties.Description",
+  "ja": "重要な国境管理の任務を担うリジア国境警備隊は、移民の流れを調整し、麻薬密売と戦い、外国勢力による潜在的な脅威に対処している。彼らの職務範囲には、適切な入出国手続きの確保も含まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025E8",
+  "name_in_database": "Order_RizianPoliceForce_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア警察"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E000025E8",
+  "name_in_database": "Order_RizianPoliceForce_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "中央集権的な法執行機関であるリジア警察は、リザ女王の治世中に設立され、それまで分断されていた各地域の警察組織を統合した。各州は自らの警察部門については自治権を保持しているものの、すべての活動は軍事保安評議官の連邦的な監督下にあり、特にリジア・インペリイにある中央部隊がその管轄下に置かれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002609",
+  "name_in_database": "Order_RizianRoyalIntelligenceService_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "リジア王立情報局"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002609",
+  "name_in_database": "Order_RizianRoyalIntelligenceService_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア警察の特殊部門であるリジア王立情報局は、対外情報活動を主な任務としている。軍隊や君主に奉仕し、国際関係の支援も行うことで、他国との交流を形作る上で極めて重要な役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000097B6",
+  "name_in_database": "Order_RizianRoyalIntelligenceService_Expanded",
+  "path": "PolicyProperties.Title",
+  "ja": "拡充されたリジア王立情報局"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000097B6",
+  "name_in_database": "Order_RizianRoyalIntelligenceService_Expanded",
+  "path": "PolicyProperties.Description",
+  "ja": "リジア王立情報局は資金投入によって大幅に拡大され、その力を対外情報活動に向けて注いでいる。軍隊や君主に奉仕し国際関係を支援するため、あらゆるタイプの工作員が情報収集に従事している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5AF",
+  "name_in_database": "Order_SecretStatePolice",
+  "path": "PolicyProperties.Title",
+  "ja": "特別高等警察"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5AF",
+  "name_in_database": "Order_SecretStatePolice",
+  "path": "PolicyProperties.Description",
+  "ja": "特別高等警察とは秘密裏に活動する政府機関であり、国家が必要と判断した人物を監視し、逮捕し、起訴する権限を持っている。この秘密組織は国家安全保障と公共の秩序を守ることを任務として活動し、国の利益を守るために隠密な手法や手続きを用いている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5C3",
+  "name_in_database": "Order_SecurityAct",
+  "path": "PolicyProperties.Title",
+  "ja": "治安法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5C3",
+  "name_in_database": "Order_SecurityAct",
+  "path": "PolicyProperties.Description",
+  "ja": "社会の動乱によって生じた治安の欠如を踏まえ、大国民議会の多数派が提案する厳格な措置の実施が必要となっている。治安法（S.A.）の第1節では、公共の安全を維持し秩序を回復するために必要と認められる場合に治安部隊が実力を行使できる権限が与えられている。第2節では、令状なしで疑念に基づく逮捕や差し押さえを行うことが許可され、緊急時に迅速な対応が可能となっている。第3節では、国家の安全と一般市民の福祉を守るため、治安部隊が法的制限を超えて行動できる権限が拡大されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C58F",
+  "name_in_database": "Order_SecurityPrivileges",
+  "path": "PolicyProperties.Title",
+  "ja": "国家保安特権"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C58F",
+  "name_in_database": "Order_SecurityPrivileges",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドの治安機関の職員は、一般市民が享受するものを上回る特権や利益を得ている。こうした特別な取り決めは、彼らの責務の特殊性と、国の安全及び安定を守る上で果たす極めて重要な役割を反映しているのである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5A3",
+  "name_in_database": "Order_SuspendedProtests",
+  "path": "PolicyProperties.Title",
+  "ja": "抗議活動の禁止"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C5A3",
+  "name_in_database": "Order_SuspendedProtests",
+  "path": "PolicyProperties.Description",
+  "ja": "平和的な抗議の権利は一時的に停止され、集会や組織活動、表現の自由にも相応の制限が課せられる。これらの措置は潜在的な危険を軽減し、公共の安全を維持し、社会秩序を回復させることを目的としており、個人の権利と国家全体の福祉との間のバランスを図っている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000D08C",
+  "name_in_database": "Order_WruhecsGuardians",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴルヘックの守護者"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000D08C",
+  "name_in_database": "Order_WruhecsGuardians",
+  "path": "PolicyProperties.Description",
+  "ja": "ヌーリティ教のヴルヘック派に属する有力な民兵組織であるヴルヘックの守護者たちは、ヴルヘック教の信条や伝統を積極的に実行している。\n\n大賢者サル・イグナティウスが率いるこの大規模な市民運動は、平和的な手段と強制的な手段の両方を用いて活動している。主にヴルヘック教の価値観を提唱する一方で、守護者たちは社会秩序の維持、異論への対処、そして内部からの脅威からヴルヘック教的な生活様式を守る上で重要な役割を果たしている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003521",
+  "name_in_database": "Welfare_AffordableHousing",
+  "path": "PolicyProperties.Title",
+  "ja": "低廉な住宅の供給計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003521",
+  "name_in_database": "Welfare_AffordableHousing",
+  "path": "PolicyProperties.Description",
+  "ja": "「低廉な住宅の供給計画」とは、市民が直面する住宅価格の高騰という課題に対処することを目的としたプログラムである。この計画では、補助金の支給や開発業者へのインセンティブ、規制の簡素化といった様々な措置が講じられ、より多くの人々が住宅をより手頃な価格で利用できるようにするものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C547",
+  "name_in_database": "Welfare_DecreasedEducationFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "教育予算の削減"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C547",
+  "name_in_database": "Welfare_DecreasedEducationFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "教育への資金投入は大幅に減少し、既に十分な資金が確保されていない教育制度に深刻な影響を与えた。財政的支援の削減により、教育機関が直面する困難はさらに悪化し、生徒たちの機会も制限された。医療予算の減少も大きな影響を及ぼし、提供される医療サービスの質が著しく低下した。医療制度への負担はますます重くなり、国民が受けられる医療水準が損なわれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C54B",
+  "name_in_database": "Welfare_DecreasedHealthFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "医療予算の削減"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C54B",
+  "name_in_database": "Welfare_DecreasedHealthFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "医療費の予算が大幅に削減されたことで、提供されるサービスの質が悪化している。その結果、治療の制約や待ち時間の長期化、専門的な治療へのアクセスの低下が生じている。こうした課題があるにもかかわらず、医療従事者たちは質の高い医療を提供しようと努力している。資源の効率的な活用や代替的な資金調達手段の探求、そして医療費増額のための働きかけも行われている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002680",
+  "name_in_database": "Welfare_DrugAddictionTreatment_None",
+  "path": "PolicyProperties.Title",
+  "ja": "薬物依存症治療なし"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002680",
+  "name_in_database": "Welfare_DrugAddictionTreatment_None",
+  "path": "PolicyProperties.Description",
+  "ja": "この政策体系の中では、薬物依存症の治療に関する公式な規定や支援が存在せず、依存症の人々は国家による援助やリハビリテーションサービスを受けられない状態にある。この姿勢は公衆衛生上の取り組みや潜在的な社会介入に影響を与えている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C557",
+  "name_in_database": "Welfare_EducationPrivatization",
+  "path": "PolicyProperties.Title",
+  "ja": "教育の民営化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C557",
+  "name_in_database": "Welfare_EducationPrivatization",
+  "path": "PolicyProperties.Description",
+  "ja": "資金調達の困難さを解消し、資源を増やすために、政府は教育民営化計画を導入した。この計画により、民間企業が教育機関を購入したり建設したりすることで教育分野に参入できる。その目的は、追加の資金や投資を呼び込み、教育制度を支援し、全体的な質を向上させることにある。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C55B",
+  "name_in_database": "Welfare_EducationReform",
+  "path": "PolicyProperties.Title",
+  "ja": "教育改革"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C55B",
+  "name_in_database": "Welfare_EducationReform",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランド政府は社会からの懸念に応え、教育制度からナショナリスト的な洗脳を排除するための措置を講じている。この動きは、生徒たちの中で自由な思考や批判的思考を育む方向への転換を示している。独立した思考を奨励する環境を整えることにより、政府は知的探求を促進し、より包括的な教育環境を創出することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000353C",
+  "name_in_database": "Welfare_EnforcedWruhecistEducation",
+  "path": "PolicyProperties.Title",
+  "ja": "ヴルヘック教教育の強制"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000353C",
+  "name_in_database": "Welfare_EnforcedWruhecistEducation",
+  "path": "PolicyProperties.Description",
+  "ja": "文化遺産を守るため、公立学校の教科課程においてヴルヘック教の宗教研究を義務付ける新しい教育政策が導入された。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C56F",
+  "name_in_database": "Welfare_EpidemicPrevention",
+  "path": "PolicyProperties.Title",
+  "ja": "流行病の予防措置"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C56F",
+  "name_in_database": "Welfare_EpidemicPrevention",
+  "path": "PolicyProperties.Description",
+  "ja": "健康上の緊急事態により、当局は疫病予防計画を開始し、利用可能なあらゆる資源を封じ込め措置に投入している。この包括的な計画は、この健康危機に効果的に対処し、国内でのさらなる疫病拡大を食い止めるために策定されたものだ。この計画は、公衆の健康と福祉を守るための積極的な取り組みを反映している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C57B",
+  "name_in_database": "Welfare_EqualAbilityBill",
+  "path": "PolicyProperties.Title",
+  "ja": "平等能力法案"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C57B",
+  "name_in_database": "Welfare_EqualAbilityBill",
+  "path": "PolicyProperties.Description",
+  "ja": "社会福祉施策を支援するため、大国民議会（GNA）は緊急援助法案（E.A.B.）を承認した。この法案の第1節では、退役軍人や公務員向けの障害手当制度に改正が加えられ、非公務員であるすべての市民も対象とする所得代替手当が新たに設けられた。この拡充された制度により、重病や障害によって働くことができなくなった人々は、月給の50％に相当する額を国家から定期的に受け取ることができる。この措置は、困難な状況に直面している人々に支援と経済的安定を提供することを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000352A",
+  "name_in_database": "Welfare_EqualPay",
+  "path": "PolicyProperties.Title",
+  "ja": "男女同一賃金"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000352A",
+  "name_in_database": "Welfare_EqualPay",
+  "path": "PolicyProperties.Description",
+  "ja": "新たな同一賃金政策は、労働力内に存在する性別に基づく賃金格差をなくすことを目的としている。この政策では、性自認にかかわらず、あらゆる性別の人々が同じ仕事に対して同等の賃金を受け取るよう義務付けている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C553",
+  "name_in_database": "Welfare_Evolution",
+  "path": "PolicyProperties.Title",
+  "ja": "進化論を教える"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C553",
+  "name_in_database": "Welfare_Evolution",
+  "path": "PolicyProperties.Description",
+  "ja": "教育機関における宗教の授業では、進化が科学的に認められた生命の事実であるという点のみを教えることに専念し、在籍する生徒たちの考え方を形成している。科学的コンセンサスに沿って、新法ではすべての教育機関における創造論の教授を禁止している。この法律に違反した学校や大学は閉鎖されることになる。さらに、進化論を必修科目とするよう定められており、教員は進化学の分野で資格を持っていなければ教職に就く資格がない。これらの措置により、生徒たちの科学的理解力と批判的思考力が高められる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C57F",
+  "name_in_database": "Welfare_EvolutionMandatoryBanCreationism",
+  "path": "PolicyProperties.Title",
+  "ja": "進化論教育"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C57F",
+  "name_in_database": "Welfare_EvolutionMandatoryBanCreationism",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい法律により、創造論の教義はすべての教育機関で禁止される。この法律が施行された瞬間から創造論を教えていることが判明した学校や大学は閉鎖される。さらに、進化論の教授が義務付けられ、すべての教育担当者はその職に就くために進化論分野の資格を持つ必要がある。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C583",
+  "name_in_database": "Welfare_EvolutionMandatoryCreationismOK",
+  "path": "PolicyProperties.Title",
+  "ja": "創造論を併せた進化論教育"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C583",
+  "name_in_database": "Welfare_EvolutionMandatoryCreationismOK",
+  "path": "PolicyProperties.Description",
+  "ja": "新しい法律により、すべての教育機関において創造論は選択科目となった。一方で進化論は必修科目であり、教員として働くためには進化論の分野で資格を取得していることが必須とされている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C587",
+  "name_in_database": "Welfare_EvolutionNotMandatory",
+  "path": "PolicyProperties.Title",
+  "ja": "教育課程の自由"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C587",
+  "name_in_database": "Welfare_EvolutionNotMandatory",
+  "path": "PolicyProperties.Description",
+  "ja": "法律により、教育機関はカリキュラムの一部として創造論または進化論を教える自由が与えられている。これにより、各学校は自身の教育理念に合致する方法を選択する自律性を持つことになる。多様な視点が取り入れられ、生徒たちの批判的思考が促進される。この法律は学問の自由の重要性を認め、教育機関が自らの価値観や信念に従ってカリキュラムを構成する権利を尊重している。こうした柔軟性を提供することで、法はバランスの取れた包括的な学習環境を促進している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C58B",
+  "name_in_database": "Welfare_FreeTransportation",
+  "path": "PolicyProperties.Title",
+  "ja": "市民移動法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C58B",
+  "name_in_database": "Welfare_FreeTransportation",
+  "path": "PolicyProperties.Description",
+  "ja": "大国民議会は雇用機会の創出、低所得層の経済的負担軽減、そして地域間交流の促進を目指している。57年市民移動法（C.M.A.）の第1節では、ソードランド国内のあらゆる形態の公共交通機関に対し国家による補助金が導入されている。この措置により、すべての市民がバス、トラム、列車、フェリーといった公共交通サービスを完全に無料で利用できるようになり、移動性や結びつきが高まっている。同法の第2節では、豪華なファーストクラスのサービスは補助金の対象外とされており、公共資源の持続可能かつ責任ある利用が保証されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002662",
+  "name_in_database": "Welfare_HealthEducation_FullyStateOwned",
+  "path": "PolicyProperties.Title",
+  "ja": "医療・教育機関の完全国有"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002662",
+  "name_in_database": "Welfare_HealthEducation_FullyStateOwned",
+  "path": "PolicyProperties.Description",
+  "ja": "すべての医療機関や教育機関は国家によって所有・運営されており、サービスの提供やカリキュラムが統一される。この制度によりこれらの分野における私的所有がなくなり、すべての市民に同等のサービスを提供することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C563",
+  "name_in_database": "Welfare_HealthPrivatization",
+  "path": "PolicyProperties.Title",
+  "ja": "医療の民営化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C563",
+  "name_in_database": "Welfare_HealthPrivatization",
+  "path": "PolicyProperties.Description",
+  "ja": "医療の課題に対処しサービスを向上させるため、政府は医療の民営化計画を提案した。この計画により民間投資家が病院を建設したり取得したりできるようになり、それによって医療インフラが拡充され医療サービスの利用可能性も高まる。その目的は民間投資を呼び込み、ソードランドにおける医療の全体的な質とアクセス性を向上させることである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C55F",
+  "name_in_database": "Welfare_HealthReform",
+  "path": "PolicyProperties.Title",
+  "ja": "医療改革"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C55F",
+  "name_in_database": "Welfare_HealthReform",
+  "path": "PolicyProperties.Description",
+  "ja": "医療サービスを向上させ、困窮する市民が無料で治療を受けられるようにするため、包括的な健康改革が実施されている。この改革は既存の課題に対処し、医療提供の質を高め、国民の福祉を向上させることを目的としている。医療分野への予算配分の増加により、医療の改善や各種医療プログラム・取り組みの拡大のための新たな経済的機会が生まれている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000265A",
+  "name_in_database": "Welfare_Housing_MarketDriven",
+  "path": "PolicyProperties.Title",
+  "ja": "市場主導の住宅政策"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000265A",
+  "name_in_database": "Welfare_Housing_MarketDriven",
+  "path": "PolicyProperties.Description",
+  "ja": "住宅市場は、国家による大規模な介入がなく、供給と需要の力動によって成り立っている。価格や供給状況、住宅政策は主に市場の力、開発業者、民間投資家によって決定される。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000D21A",
+  "name_in_database": "Welfare_Housing_StateInfluenced",
+  "path": "PolicyProperties.Title",
+  "ja": "国家関与の住宅政策"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000D21A",
+  "name_in_database": "Welfare_Housing_StateInfluenced",
+  "path": "PolicyProperties.Description",
+  "ja": "住宅市場は需給の原理によって部分的にしか機能しておらず、大幅な国家の介入がある。価格や供給状況、住宅政策はほとんどが開発業者や民間投資家ではなく、国家の委員たちによって決定されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C53F",
+  "name_in_database": "Welfare_IncreasedEducationFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "教育予算の増額"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C53F",
+  "name_in_database": "Welfare_IncreasedEducationFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "教育分野への配分額が増加し、教育制度の充実に向けた新たな機会が生まれている。この追加予算は、教育資源の整備や学習環境の改善を支援することで、生徒たちがより良い教育体験を得られるようにすることを目的としている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C543",
+  "name_in_database": "Welfare_IncreasedHealthFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "医療予算の増額"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C543",
+  "name_in_database": "Welfare_IncreasedHealthFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "医療分野では予算が増加し、経済成長や医療サービスの向上の機会が生まれている。この拡大された資金はソードランドの住民にとってより質の高く利用しやすい医療を提供することを目的としており、それによってより良い医療成果とサービスが実現されることになる。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003502",
+  "name_in_database": "Welfare_IncreasedWelfareFunding",
+  "path": "PolicyProperties.Title",
+  "ja": "福祉予算の増額"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003502",
+  "name_in_database": "Welfare_IncreasedWelfareFunding",
+  "path": "PolicyProperties.Description",
+  "ja": "王国内の弱い立場にある個人や家族への支援と資源をより充実させ、必要なサービスへのアクセスを改善し全体的な福祉を高めるため、福祉予算が大幅に増額されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000350B",
+  "name_in_database": "Welfare_LegalizeDrugs",
+  "path": "PolicyProperties.Title",
+  "ja": "嗜好目的の薬物使用の合法化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E0000350B",
+  "name_in_database": "Welfare_LegalizeDrugs",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国では、特定の娯楽用物質の使用を非犯罪化し、規制している。この方針により、人々は法的な罰則を受けることなく、娯楽目的で指定された物質を使用することが許可されている。政府は通常、これらの物質が安全かつ責任ある方法で使用されるよう規制や制限を設けると同時に、税金徴収や監督を通じて収入を得ている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002639",
+  "name_in_database": "Welfare_LyzianWelfareTraditions_Default",
+  "path": "PolicyProperties.Title",
+  "ja": "リュジアの福祉伝統"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E00002639",
+  "name_in_database": "Welfare_LyzianWelfareTraditions_Default",
+  "path": "PolicyProperties.Description",
+  "ja": "「偉大なる」リザ・トラスの指導のもと、リジアでは特に教育分野や女性の権利において根本的な福祉改革が行われた。王国が資金を提供する諸機関が発展し、国家の発展において極めて重要な役割を果たした。これらの機関はすべての子供たちに義務教育を提供するだけでなく、女性が教育や職業生活を追求できる道も開き、南メルコパの社会政治情勢の中でリジアを他と差別化させた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C56B",
+  "name_in_database": "Welfare_MandatoryVaccination",
+  "path": "PolicyProperties.Title",
+  "ja": "ワクチン接種の義務化"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C56B",
+  "name_in_database": "Welfare_MandatoryVaccination",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドでは医療制度において包括的な強制予防接種政策が実施されている。この政策により、子供から大人まですべての人が医療ガイドラインに従って必要な予防接種を受けることが保証され、公衆衛生が守られ、病気の拡散が防止されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000071A5",
+  "name_in_database": "Welfare_PlavoSanctuaryRestoration_Completed",
+  "path": "PolicyProperties.Title",
+  "ja": "プラヴォのヴルヘック教聖堂の修復完了"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000071A5",
+  "name_in_database": "Welfare_PlavoSanctuaryRestoration_Completed",
+  "path": "PolicyProperties.Description",
+  "ja": "カルデス＝モンタクラル地方にあるヴルヘック教のプラヴォ聖域は、不運なゴルコンド主義事件を経て今や完全に修復されている。国家の資源によって支えられたこの宗教的ランドマークはかつての輝きを取り戻し、リジアが大切にしてきたヴルヘック教の遺産を守ろうとする決意を象徴している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000719D",
+  "name_in_database": "Welfare_PlavoSanctuaryRestoration_Project",
+  "path": "PolicyProperties.Title",
+  "ja": "プラヴォのヴルヘック教聖堂修復計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000719D",
+  "name_in_database": "Welfare_PlavoSanctuaryRestoration_Project",
+  "path": "PolicyProperties.Description",
+  "ja": "カルデス＝モンタクラル地方にある、崇敬されるヴルヘック教のプラヴォ聖域は、ゴルコンド主義事件によって被った損害のため、重要な修復作業が行われている。継続的な働きかけの結果、国家から資金が承認され、修復作業が進められており、この重要な宗教的建造物をかつての栄光に戻すことが期待されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFC3",
+  "name_in_database": "Welfare_Policy_AddictionTreatmentCenters",
+  "path": "PolicyProperties.Title",
+  "ja": "依存症治療センター"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFC3",
+  "name_in_database": "Welfare_Policy_AddictionTreatmentCenters",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国は、国家が支援する更生センターを設立することによって依存症治療に対する姿勢を変えた。これらの施設では、依存症に苦しむ人々を支援するために医療ケアやカウンセリング、社会復帰プログラムが提供されている。この取り組みは、政府主導の治療手段が長年存在しなかった状況を解消し、公衆衛生と社会的安定への貢献を示すものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C577",
+  "name_in_database": "Welfare_Policy_ChildrenBenefits",
+  "path": "PolicyProperties.Title",
+  "ja": "児童手当"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C577",
+  "name_in_database": "Welfare_Policy_ChildrenBenefits",
+  "path": "PolicyProperties.Description",
+  "ja": "社会進歩向上委員会が提案した社会的福祉施策をさらに拡充するため、議会は以下の法律を盛り込んだ包括的家族支援法（C.F.A.）を可決した。第1節では、中所得層または高所得層に該当しない親に対し、子供1人ごとに定額の支給金を国が支払うという規定が設けられている。この措置は、経済的困難に直面する家族に財政的支援を提供することを目的としている。第2節では、失業家庭の子供を対象とした具体的な国家支援が導入され、教育機会の確保や生じ得る特別な医療ニーズへの対応が図られている。これらの立法努力は、社会福祉を向上させ、社会の弱い立場にある層の生活水準を高めることを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DF9F",
+  "name_in_database": "Welfare_Policy_FreeElectricity",
+  "path": "PolicyProperties.Title",
+  "ja": "電力無償化計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DF9F",
+  "name_in_database": "Welfare_Policy_FreeElectricity",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国は、登録されているすべての世帯に無料で電力を供給することを約束している。この取り組みにより市民の公共料金負担がなくなり、生活費が直接削減されて家庭の福祉が向上する。エネルギー消費に伴う経済的負担を軽減することで、この政策は経済生産性の向上や社会安定の促進、そして王国全体の生活水準の改善に寄与することを目指している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFA8",
+  "name_in_database": "Welfare_Policy_FreeMedicine",
+  "path": "PolicyProperties.Title",
+  "ja": "医薬品無償化構想"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFA8",
+  "name_in_database": "Welfare_Policy_FreeMedicine",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国では、基本的な治療に必要なすべての医薬品が全ての国民に無料で提供されている。医療当局が定めた標準的な医療ガイドラインに基づき、資格を持つ医師が各人のニーズを評価する。この制度により、重要な医薬品を手に入れる際の経済的負担が軽減され、医療へのアクセスを保障しようとする王国の姿勢が維持され、各地域の公衆衛生状況も向上している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFB1",
+  "name_in_database": "Welfare_Policy_FreePublicTransportation",
+  "path": "PolicyProperties.Title",
+  "ja": "公共交通無償化計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFB1",
+  "name_in_database": "Welfare_Policy_FreePublicTransportation",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国における公共交通機関はすべての国民に無料で利用可能であり、移動の利便性を高めつつ、仕事や教育、必要なサービスへの平等なアクセスを実現している。移動費用をなくすことにより、この政策はより大きな経済参加と社会的包摂を促進している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFBA",
+  "name_in_database": "Welfare_Policy_FuelSubsidies",
+  "path": "PolicyProperties.Title",
+  "ja": "燃料補助金計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFBA",
+  "name_in_database": "Welfare_Policy_FuelSubsidies",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国では、国民と産業の両方における燃料費を削減するために燃料補助金を実施し、あらゆる分野で手頃な価格でエネルギーを利用できるようにしている。この政策により、輸送やエネルギー消費に伴う経済的負担が軽減され、家庭や企業の両方にとって救済となっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFCC",
+  "name_in_database": "Welfare_Policy_KingsCars",
+  "path": "PolicyProperties.Title",
+  "ja": "王の自動車計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFCC",
+  "name_in_database": "Welfare_Policy_KingsCars",
+  "path": "PolicyProperties.Description",
+  "ja": "王の自動車計画を通じて、この王国は政府の補助金がついた低価格な車両を提供することで、より多くの人々が個人用交通機関を利用できるようにしている。この取り組みは、特に遠隔地やサービスが不足している地域に住む家族や労働者が直面する移動上の困難を軽減することを目的としている。交通面での自立を強化することで、この計画はより広範な経済活動を支援し、遠隔地のコミュニティを王国の社会・商業の中心部とより効果的に結びつけている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFD5",
+  "name_in_database": "Welfare_Policy_UniversalBasicIncome",
+  "path": "PolicyProperties.Title",
+  "ja": "ベーシックインカム"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000650000DFD5",
+  "name_in_database": "Welfare_Policy_UniversalBasicIncome",
+  "path": "PolicyProperties.Description",
+  "ja": "ベーシックインカム制度は、すべての国民に一定の最低所得を保証することで、基本的な生活費が常に賄われるようにしている。この財政的基盤を確立することにより、同政策は個人の安全保障を強化し、より広範な経済安定を促進する。この取り組みは貧困削減や資源のより公平な配分において重要な役割を果たし、王国全体で安定かつ繁栄した社会を築くための基盤となっている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C53B",
+  "name_in_database": "Welfare_RenanWelfarePrinciples",
+  "path": "PolicyProperties.Title",
+  "ja": "レナンの福祉原則"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C53B",
+  "name_in_database": "Welfare_RenanWelfarePrinciples",
+  "path": "PolicyProperties.Description",
+  "ja": "長年にわたりレナン貴族階級が福祉サービスの提供を行う際の指針としてきた福祉理念は、現在厳しい検証と評価の対象となっている。長期間にわたって福祉制度のあり方を形作ってきたこれらの理念は、変化する国民のニーズに応える上での有効性や適切性を判断するため、徹底的に評価されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034F9",
+  "name_in_database": "Welfare_RomusTorasHospital",
+  "path": "PolicyProperties.Title",
+  "ja": "ロムス・トラス病院"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034F9",
+  "name_in_database": "Welfare_RomusTorasHospital",
+  "path": "PolicyProperties.Description",
+  "ja": "ロムス・トラス病院はポルテ・ドラゾンにある最先端の医療施設である。広大なキャンパスに展開しており、最先端の手術室や診断画像センター、実験室を含む近代的な医療機器や技術が備えられている。この病院には心臓病学、腫瘍学、小児科など、さまざまな専門分野の部門があり、様々な医療ニーズに対応した専門的な治療を提供している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003514",
+  "name_in_database": "Welfare_RomusTorasUniversity",
+  "path": "PolicyProperties.Title",
+  "ja": "ロムス・トラス大学"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003514",
+  "name_in_database": "Welfare_RomusTorasUniversity",
+  "path": "PolicyProperties.Description",
+  "ja": "ロムス・トラス大学は近代的で広大なキャンパスを有し、高度な講義室や研究施設、巨大な図書館といった最先端の設備が整っている。ここでは人文科学や自然科学から工学、経営学に至るまで多種多様な学術プログラムが提供され、学生たちに幅広い教育機会が与えられている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000071B5",
+  "name_in_database": "Welfare_SallabesSanctuaryConstruction_Completed",
+  "path": "PolicyProperties.Title",
+  "ja": "サラベスのダストヌリティ派大聖域の完成"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000071B5",
+  "name_in_database": "Welfare_SallabesSanctuaryConstruction_Completed",
+  "path": "PolicyProperties.Description",
+  "ja": "サラベスにあるダストヌリティ派大聖域は、国家の資金援助により拡張が成功裏に行われた。より広くなり快適さも向上したこの聖域は、王国が宗教的寛容を重視していることを示しており、信者たちに精神的な豊かさをもたらすと同時にブレナス地域に経済的な利益ももたらすものと期待されている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000071AD",
+  "name_in_database": "Welfare_SallabesSanctuaryConstruction_Project",
+  "path": "PolicyProperties.Title",
+  "ja": "サラベスのダストヌリティ派大聖域の建設計画"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x01000065000071AD",
+  "name_in_database": "Welfare_SallabesSanctuaryConstruction_Project",
+  "path": "PolicyProperties.Description",
+  "ja": "サラベスの大司祭が市内の主要なダストヌリティ派礼拝所の拡張を求めて出した緊急要請が検討されている。ブレナス地域における宗教的寛容の必要性と潜在的な経済的利益を認識し、国家はこの宗教施設の発展を支援するため資金を投入している。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000264A",
+  "name_in_database": "Welfare_TenantLaws_LandLordFavoring",
+  "path": "PolicyProperties.Title",
+  "ja": "地主に有利な賃貸法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100008E0000264A",
+  "name_in_database": "Welfare_TenantLaws_LandLordFavoring",
+  "path": "PolicyProperties.Description",
+  "ja": "これらの法律は家主側に偏っており、不動産に関する事項において彼らにより大きな権利と保護を与えている。一方、賃借人は自分の権利を主張したり苦情を解決したりする際に困難に直面する可能性があり、法的状況は所有者側に有利に働いている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003533",
+  "name_in_database": "Welfare_TenantProtectionLaws",
+  "path": "PolicyProperties.Title",
+  "ja": "賃貸住居保護法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E00003533",
+  "name_in_database": "Welfare_TenantProtectionLaws",
+  "path": "PolicyProperties.Description",
+  "ja": "「賃貸住居保護法」とは、王国内の賃借人に与えられる権利と保護を強化することを目的として最近制定された一連の規制のことである。これらの法律は、不当な立ち退きの防止、公平な賃貸契約の確立、家賃上昇の抑制、そして賃貸物件が適切かつ住みやすい状態を維持することなど、賃借人と家主の関係における様々な側面に対処するために導入されたものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C573",
+  "name_in_database": "Welfare_TraditionalEducation",
+  "path": "PolicyProperties.Title",
+  "ja": "伝統的教育"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C573",
+  "name_in_database": "Welfare_TraditionalEducation",
+  "path": "PolicyProperties.Description",
+  "ja": "ソードランドの政府は伝統的な教育制度を採用しており、それはナショナリズム的な国民意識の強調と知的自由の制限という特徴を持っている。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C567",
+  "name_in_database": "Welfare_VoluntaryVaccination",
+  "path": "PolicyProperties.Title",
+  "ja": "任意のワクチン接種"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000460001C567",
+  "name_in_database": "Welfare_VoluntaryVaccination",
+  "path": "PolicyProperties.Description",
+  "ja": "長い間、ソードランドでは自発的なワクチン接種政策が採られており、人々は自身や子供のワクチン接種について選択の自由を行使できていた。この政策により、市民は個人的な信念や好みに基づいてワクチンを接種するかどうかを自ら決定する自律性を持っていた。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034F0",
+  "name_in_database": "Welfare_WorkersRights",
+  "path": "PolicyProperties.Title",
+  "ja": "労働者保護法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x0100009E000034F0",
+  "name_in_database": "Welfare_WorkersRights",
+  "path": "PolicyProperties.Description",
+  "ja": "「労働者保護法」とは、リジアの様々な産業に従事する労働者の権利と福祉を守り向上させるために制定された立法措置である。この包括的な法律は、公正な労働慣行、公平な賃金、適切な労働時間、そして安全かつ安定した労働環境の確保といった原則を実施するものである。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BE00003DA4",
+  "name_in_database": "Welfare_WorkersRightsWException",
+  "path": "PolicyProperties.Title",
+  "ja": "労働者保護法"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BE00003DA4",
+  "name_in_database": "Welfare_WorkersRightsWException",
+  "path": "PolicyProperties.Description",
+  "ja": "「労働者保護法」とは、リジアの様々な産業に従事する労働者の権利と福祉を守り向上させるために制定された立法措置である。この包括的な法律は、公正な労働慣行、適切な労働時間、そして安全かつ安定した労働環境の確保といった原則を実施するものだ。これはリジア王室金鉱（RRG）のような鉱山企業の従業員には適用されない。"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BD00000F76",
+  "name_in_database": "WIPLaw_Provinces_MinimalTaxation",
+  "path": "PolicyProperties.Title",
+  "ja": "州への課税は最小限"
+ },
+ {
+  "type": "PolicyData",
+  "item_id": "0x010000BD00000F76",
+  "name_in_database": "WIPLaw_Provinces_MinimalTaxation",
+  "path": "PolicyProperties.Description",
+  "ja": "この王国の各州は自治権を有しているため、直接課税はごくわずかにとどまっている。"
+ }
+]

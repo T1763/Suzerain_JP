@@ -1,0 +1,450 @@
+[
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000064A",
+  "name_in_database": "Rizia_Timeline_Prologue_1",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1905"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000064A",
+  "name_in_database": "Rizia_Timeline_Prologue_1",
+  "path": "TimelineElementProperties.Description",
+  "ja": "王子誕生"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000680",
+  "name_in_database": "Rizia_Timeline_Prologue_10",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1933"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000680",
+  "name_in_database": "Rizia_Timeline_Prologue_10",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ルンブルク協調の時代"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000686",
+  "name_in_database": "Rizia_Timeline_Prologue_11",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1933"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000686",
+  "name_in_database": "Rizia_Timeline_Prologue_11",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ヴェーレン内戦"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006A0001A1AE",
+  "name_in_database": "Rizia_Timeline_Prologue_12",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1937"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006A0001A1AE",
+  "name_in_database": "Rizia_Timeline_Prologue_12",
+  "path": "TimelineElementProperties.Description",
+  "ja": "スー・オミナの台頭"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000068C",
+  "name_in_database": "Rizia_Timeline_Prologue_13",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1942"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000068C",
+  "name_in_database": "Rizia_Timeline_Prologue_13",
+  "path": "TimelineElementProperties.Description",
+  "ja": "運命の旅"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000650000DC4F",
+  "name_in_database": "Rizia_Timeline_Prologue_14",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1946"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000650000DC4F",
+  "name_in_database": "Rizia_Timeline_Prologue_14",
+  "path": "TimelineElementProperties.Description",
+  "ja": "停滞の時代"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000692",
+  "name_in_database": "Rizia_Timeline_Prologue_15",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1948"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000692",
+  "name_in_database": "Rizia_Timeline_Prologue_15",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ラインハルト公の擁立"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000698",
+  "name_in_database": "Rizia_Timeline_Prologue_16",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1949"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000698",
+  "name_in_database": "Rizia_Timeline_Prologue_16",
+  "path": "TimelineElementProperties.Description",
+  "ja": "国王崩御"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000069E",
+  "name_in_database": "Rizia_Timeline_Prologue_17",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1949"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000069E",
+  "name_in_database": "Rizia_Timeline_Prologue_17",
+  "path": "TimelineElementProperties.Description",
+  "ja": "国王万歳"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000650",
+  "name_in_database": "Rizia_Timeline_Prologue_2",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1918"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000650",
+  "name_in_database": "Rizia_Timeline_Prologue_2",
+  "path": "TimelineElementProperties.Description",
+  "ja": "リザ女王の死"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000656",
+  "name_in_database": "Rizia_Timeline_Prologue_3",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1921"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000656",
+  "name_in_database": "Rizia_Timeline_Prologue_3",
+  "path": "TimelineElementProperties.Description",
+  "ja": "パレス独立宣言"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000065C",
+  "name_in_database": "Rizia_Timeline_Prologue_4",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1923"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000065C",
+  "name_in_database": "Rizia_Timeline_Prologue_4",
+  "path": "TimelineElementProperties.Description",
+  "ja": "パレス戦争の勃発"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000662",
+  "name_in_database": "Rizia_Timeline_Prologue_5",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1926"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000662",
+  "name_in_database": "Rizia_Timeline_Prologue_5",
+  "path": "TimelineElementProperties.Description",
+  "ja": "反乱と蜂起"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000668",
+  "name_in_database": "Rizia_Timeline_Prologue_6",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1926"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000668",
+  "name_in_database": "Rizia_Timeline_Prologue_6",
+  "path": "TimelineElementProperties.Description",
+  "ja": "王族誘拐事件"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000066E",
+  "name_in_database": "Rizia_Timeline_Prologue_7",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1926"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000066E",
+  "name_in_database": "Rizia_Timeline_Prologue_7",
+  "path": "TimelineElementProperties.Description",
+  "ja": "王政復古"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000674",
+  "name_in_database": "Rizia_Timeline_Prologue_8",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1927"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100006400000674",
+  "name_in_database": "Rizia_Timeline_Prologue_8",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ジル返還"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000067A",
+  "name_in_database": "Rizia_Timeline_Prologue_9",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1932"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x010000640000067A",
+  "name_in_database": "Rizia_Timeline_Prologue_9",
+  "path": "TimelineElementProperties.Description",
+  "ja": "王室の婚儀"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007DE7",
+  "name_in_database": "Sordland_Timeline_Prologue_1",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1908"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007DE7",
+  "name_in_database": "Sordland_Timeline_Prologue_1",
+  "path": "TimelineElementProperties.Description",
+  "ja": "新たな始まり"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E31",
+  "name_in_database": "Sordland_Timeline_Prologue_10",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1945"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E31",
+  "name_in_database": "Sordland_Timeline_Prologue_10",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソル 第5期当選"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E37",
+  "name_in_database": "Sordland_Timeline_Prologue_11",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1946"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E37",
+  "name_in_database": "Sordland_Timeline_Prologue_11",
+  "path": "TimelineElementProperties.Description",
+  "ja": "アルフォンソが統一ソードランド党党首に"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E3D",
+  "name_in_database": "Sordland_Timeline_Prologue_12",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1949"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E3D",
+  "name_in_database": "Sordland_Timeline_Prologue_12",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソル辞任、アルフォンソ当選"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E43",
+  "name_in_database": "Sordland_Timeline_Prologue_13",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1951"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E43",
+  "name_in_database": "Sordland_Timeline_Prologue_13",
+  "path": "TimelineElementProperties.Description",
+  "ja": "経済危機"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E49",
+  "name_in_database": "Sordland_Timeline_Prologue_14",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1953"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E49",
+  "name_in_database": "Sordland_Timeline_Prologue_14",
+  "path": "TimelineElementProperties.Description",
+  "ja": "新進の候補"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E4F",
+  "name_in_database": "Sordland_Timeline_Prologue_15",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1953"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E4F",
+  "name_in_database": "Sordland_Timeline_Prologue_15",
+  "path": "TimelineElementProperties.Description",
+  "ja": "選挙"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E01",
+  "name_in_database": "Sordland_Timeline_Prologue_2",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1923"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E01",
+  "name_in_database": "Sordland_Timeline_Prologue_2",
+  "path": "TimelineElementProperties.Description",
+  "ja": "共和国の成立"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E07",
+  "name_in_database": "Sordland_Timeline_Prologue_3",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1927"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E07",
+  "name_in_database": "Sordland_Timeline_Prologue_3",
+  "path": "TimelineElementProperties.Description",
+  "ja": "27年のクーデター"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E0D",
+  "name_in_database": "Sordland_Timeline_Prologue_4",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1928"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E0D",
+  "name_in_database": "Sordland_Timeline_Prologue_4",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソードランド内戦"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E13",
+  "name_in_database": "Sordland_Timeline_Prologue_5",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1929"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E13",
+  "name_in_database": "Sordland_Timeline_Prologue_5",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソル、共和国を再建する"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E19",
+  "name_in_database": "Sordland_Timeline_Prologue_6",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1930"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E19",
+  "name_in_database": "Sordland_Timeline_Prologue_6",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ヴェーレン内戦"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E1F",
+  "name_in_database": "Sordland_Timeline_Prologue_7",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1933"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E1F",
+  "name_in_database": "Sordland_Timeline_Prologue_7",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソル 第2期当選"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E25",
+  "name_in_database": "Sordland_Timeline_Prologue_8",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1937"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E25",
+  "name_in_database": "Sordland_Timeline_Prologue_8",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソル 第3期当選"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E2B",
+  "name_in_database": "Sordland_Timeline_Prologue_9",
+  "path": "TimelineElementProperties.Year",
+  "ja": "1941"
+ },
+ {
+  "type": "TimelineElementData",
+  "item_id": "0x0100005800007E2B",
+  "name_in_database": "Sordland_Timeline_Prologue_9",
+  "path": "TimelineElementProperties.Description",
+  "ja": "ソル 第4期当選"
+ }
+]

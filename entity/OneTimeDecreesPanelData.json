@@ -1,0 +1,16 @@
+[
+ {
+  "type": "OneTimeDecreesPanelData",
+  "item_id": "0x0100006A000027C3",
+  "name_in_database": "Panel_PresidentialDecrees",
+  "path": "OneTimeDecreesPanelProperties.Title",
+  "ja": "大統領令"
+ },
+ {
+  "type": "OneTimeDecreesPanelData",
+  "item_id": "0x0100006A000027C3",
+  "name_in_database": "Panel_PresidentialDecrees",
+  "path": "OneTimeDecreesPanelProperties.Subtitle",
+  "ja": "発令する勅令は3つまで選択できます。"
+ }
+]

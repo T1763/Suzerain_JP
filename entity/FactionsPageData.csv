@@ -1,0 +1,3 @@
+﻿type,item_id,name_in_database,path,ja
+FactionsPageData,0x0100005800009EE5,Page_Factions,FactionsPageProperties.Name,派閥
+FactionsPageData,0x0100008E00002AE5,Page_RoyalHouses,FactionsPageProperties.Name,貴族諸家

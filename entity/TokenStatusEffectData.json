@@ -1,0 +1,4202 @@
+[
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CC5",
+  "name_in_database": "City_AgriculturalGrowth",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "農業の成長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CC5",
+  "name_in_database": "City_AgriculturalGrowth",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は、さまざまな経済的・地理的要因により農業の成長が進んでいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CDD",
+  "name_in_database": "City_AntelRockPrison",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "アンテル・ロック刑務所"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CDD",
+  "name_in_database": "City_AntelRockPrison",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "アンテル・ロックはソードランドで最も厳重な重警備刑務所であり、その多くが政治犯に充てられている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CDD",
+  "name_in_database": "City_AntelRockPrison",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "アンテル・ロック刑務所"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CA7",
+  "name_in_database": "City_AntiquatedRailway",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "老朽化した鉄道"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CA7",
+  "name_in_database": "City_AntiquatedRailway",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この地の鉄道網は前世紀半ばにさかのぼるもので、改修を必要としている。一部の路線は危険の増大と車両の不足により休止されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000242",
+  "name_in_database": "City_ArcasiaAccess",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "アルカシアの航空利用権"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000242",
+  "name_in_database": "City_ArcasiaAccess",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "エルローリー空軍基地は拡張され、現在はソードランド空軍の要員に加えて数千名のアルカシア空軍要員が駐留している。アルカシア空軍は基地内に独自の区画を持つほか、基地全体の整備・給油設備を利用できる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100014282",
+  "name_in_database": "City_ArmedUnrest",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "武装勢力"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100014282",
+  "name_in_database": "City_ArmedUnrest",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は武装集団による暴力に日常的にさらされている。暴力的な抗議や武装襲撃が街頭で頻繁に起きるようになっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100014854",
+  "name_in_database": "City_ArmyControl",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "軍の統制下"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100014854",
+  "name_in_database": "City_ArmyControl",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド軍がこの都市の統制を掌握し、脅威からの安全確保にあたっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500006092",
+  "name_in_database": "City_ArmyGarrison",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "陸軍駐屯地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500006092",
+  "name_in_database": "City_ArmyGarrison",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド軍の一個軍が、この都市と周辺地方の基地に駐留している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006D92",
+  "name_in_database": "City_BergiaAutonomousZone",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ベルギア自治区"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006D92",
+  "name_in_database": "City_BergiaAutonomousZone",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は「ベルギア自治区」の一部であり、デイルの本部からベルギア総督が率いるベルギア地方議会によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006D92",
+  "name_in_database": "City_BergiaAutonomousZone",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ベルギア自治区"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E8A",
+  "name_in_database": "City_BergiaSpecialZone",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ベルギア特別区"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E8A",
+  "name_in_database": "City_BergiaSpecialZone",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は「ベルギア特別区」の一部であり、デイルにある特別区本部からベルギア総督によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E8A",
+  "name_in_database": "City_BergiaSpecialZone",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ベルギア特別区"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000022D",
+  "name_in_database": "City_BFFSanctuaries",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "聖堂内のBFF宣伝"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000022D",
+  "name_in_database": "City_BFFSanctuaries",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この地域でBFFのために直接または間接に働く聖職者の広範な網が発覚した。国家に認可された身分でありながら、その多くが分離主義の宣伝を広め、暴力的なゴルコンド主義の蜂起を呼びかけていたことが判明している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000022D",
+  "name_in_database": "City_BFFSanctuaries",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ブルディア自由戦線"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000249",
+  "name_in_database": "City_BludishRefugees",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "難民キャンプ"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000249",
+  "name_in_database": "City_BludishRefugees",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市には現在、多数の難民が身を寄せている。その大半はブルディア人で、近くヴェーレンから逃れてきた者たちである。多くは市外の仮設キャンプで暮らしており、生活環境は極めて劣悪である。キャンプに入れなかった者は職を見つけられずにおり、そのほとんどが住まいを持たない。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013EC5",
+  "name_in_database": "City_Capital",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "首都"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013EC5",
+  "name_in_database": "City_Capital",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ホルソードは、ソードランド共和国および大ホルソード地方の首府である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000607D",
+  "name_in_database": "City_DecreasedForeignEnergyInvestments",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外国エネルギー投資の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000607D",
+  "name_in_database": "City_DecreasedForeignEnergyInvestments",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市はエネルギー部門で外国投資の大規模な流出に見舞われている。これは地域産業と経済全体に悪影響を及ぼしつつある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000069000002E2",
+  "name_in_database": "City_DecreasingHomelessness",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ホームレスの減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000069000002E2",
+  "name_in_database": "City_DecreasingHomelessness",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の住まいを持たない人々のかなりの部分が、ここ数か月で職を得て住まいを確保できている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CD1",
+  "name_in_database": "City_DecreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "求人の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CD1",
+  "name_in_database": "City_DecreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "経済環境全体の不健全さにより、この都市では求人が大きく減少している。これは社会経済状況のさらなる後退と貧困を招きかねない。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FEB",
+  "name_in_database": "City_DecreasingPoverty",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "貧困の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FEB",
+  "name_in_database": "City_DecreasingPoverty",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、貧困地区のかなりの部分が貧困から抜け出しつつあり、この都市はいくらかの経済成長を経験している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00000362",
+  "name_in_database": "City_DecreasingUnemployment",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "失業の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00000362",
+  "name_in_database": "City_DecreasingUnemployment",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、失業者のかなりの部分が新たな就業の機会を得ている。失業は減少し、この都市はいくらかの経済成長を経験している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500003265",
+  "name_in_database": "City_EducationDisruptions",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "教育の混乱"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500003265",
+  "name_in_database": "City_EducationDisruptions",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市と周辺地方の教育制度は構造的な問題により深刻な混乱に陥っており、多くの生徒が断続的にしか教育を受けられず、あるいはまったく受けられずにいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000608B",
+  "name_in_database": "City_GasomBranchClosed",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ガソム支社の閉鎖"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000608B",
+  "name_in_database": "City_GasomBranchClosed",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市のガソム支社は、同社の厳しい財政状況により閉鎖された。有力な投資の不足と厳格な市場規制がこの結果を招いた。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500006084",
+  "name_in_database": "City_GasomBranchDownsized",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ガソム支社の縮小"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500006084",
+  "name_in_database": "City_GasomBranchDownsized",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市のガソム支社は、近年の投資不足と、大規模な操業への成長を妨げる市場規制により縮小している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500006076",
+  "name_in_database": "City_GasomBranchExpanded",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ガソム支社の拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500006076",
+  "name_in_database": "City_GasomBranchExpanded",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市のガソム支社は、近年の投資と、より複雑なエネルギー採掘の操業を認める市場規制のおかげで拡大している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000026F",
+  "name_in_database": "City_GolcondistSects",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "不審なゴルコンド主義の分派"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000026F",
+  "name_in_database": "City_GolcondistSects",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は、ヌーリティ教の異端的な解釈を説く過激なゴルコンド主義の分派を多数抱えている。これらの集団の一部は、ブルディア分離主義者BFFと直接通じている疑いがある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000026F",
+  "name_in_database": "City_GolcondistSects",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ゴルコンド主義"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000325E",
+  "name_in_database": "City_HealthcareDisruptions",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "医療の混乱"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000325E",
+  "name_in_database": "City_HealthcareDisruptions",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市と周辺地方の医療制度は構造的な問題により深刻な混乱に陥っており、多くの市民が治療の遅れ、あるいは治療そのものを受けられない状態に苦しんでいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CB3",
+  "name_in_database": "City_HighLevelsofPoverty",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "深刻な貧困"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CB3",
+  "name_in_database": "City_HighLevelsofPoverty",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の住民の大きな部分が危機的な水準の貧困にある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013C9B",
+  "name_in_database": "City_HistoricalTourism",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "歴史観光"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013C9B",
+  "name_in_database": "City_HistoricalTourism",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "名高いマルキア帝国の旧都として、マルキア期の建造物や遺跡を見るために多くの外国人観光客がこの都市を訪れる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CF5",
+  "name_in_database": "City_HolySite",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "聖地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CF5",
+  "name_in_database": "City_HolySite",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市には、ヌーリティ教の信徒が神聖視する重要な史跡がいくつも存在する。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CF5",
+  "name_in_database": "City_HolySite",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ヌーリティ教"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CA1",
+  "name_in_database": "City_Homelessness",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ホームレス問題"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CA1",
+  "name_in_database": "City_Homelessness",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市では住まいを失う人が増えており、すでに多数が住まいを持たずにいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FF9",
+  "name_in_database": "City_IncreasedBusinessTrade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "商業・交易の拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FF9",
+  "name_in_database": "City_IncreasedBusinessTrade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市は商業と交易の成長を経験している。この経済成長は新たな投資家と機会をこの都市にもたらすと見込まれる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000606F",
+  "name_in_database": "City_IncreasedForeignEnergyInvestments",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外国エネルギー投資の増加"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000606F",
+  "name_in_database": "City_IncreasedForeignEnergyInvestments",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市はエネルギー部門で外国投資の大規模な流入を得ている。これは地域産業と経済全体に好影響を及ぼしつつある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FF2",
+  "name_in_database": "City_IncreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "求人の増加"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FF2",
+  "name_in_database": "City_IncreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "経済環境全体の健全さにより、この都市では求人が大きく増加している。これは社会経済状況のさらなる向上と生活水準の上昇を招きうる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CEF",
+  "name_in_database": "City_IndustrialCenter",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "工業の中心地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CEF",
+  "name_in_database": "City_IndustrialCenter",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は重要な産業を擁し、ソードランドの工業の中心地の一つと見なされている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CBF",
+  "name_in_database": "City_LackofHealthcare",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "医療サービスの不足"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CBF",
+  "name_in_database": "City_LackofHealthcare",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市は医療サービスが不足しており、報告される健康問題が増加している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CAD",
+  "name_in_database": "City_LackofRoadNetwork",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "道路網の不足"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CAD",
+  "name_in_database": "City_LackofRoadNetwork",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の内外の道路網は極めて劣悪な状態にあり、市と主要な拠点とを結ぶ適切な道路が不足していると報告されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000257",
+  "name_in_database": "City_Lockdown",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "都市封鎖"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000257",
+  "name_in_database": "City_Lockdown",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "市長が非常事態を宣言し、この都市は完全な封鎖下に置かれた。封鎖は現地の非常事態が続くあいだ維持される。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CFB",
+  "name_in_database": "City_LogisticalIssues",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "物流の問題"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CFB",
+  "name_in_database": "City_LogisticalIssues",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "市長は、この都市の深刻な物流問題の克服に苦慮していると報告している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000226",
+  "name_in_database": "City_LowIndustrialOutput",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "低い工業生産"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000226",
+  "name_in_database": "City_LowIndustrialOutput",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の工業生産はその潜在力を大きく下回っており、地域経済を損なっている。工業生産を押し上げ、これ以上の経済の衰退を防ぐ手立てが必要かもしれない。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005800008D91",
+  "name_in_database": "City_LowLiteracyRate",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "低い識字率"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005800008D91",
+  "name_in_database": "City_LowLiteracyRate",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の住民のうち憂慮すべき大きな割合が読み書きできずにいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FDD",
+  "name_in_database": "City_MornaPort",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "トルプ港"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FDD",
+  "name_in_database": "City_MornaPort",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "トルプ港は、モルナ＝トルプ港とも呼ばれ、貨物と旅客の輸送に代替の航路を提供し、ラハベンからの交通の一部をソードランド東部へ振り向けている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000021F",
+  "name_in_database": "City_NationalSecurityThreat",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国家安全保障上の脅威"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000021F",
+  "name_in_database": "City_NationalSecurityThreat",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "国防省は、十分な防備を欠き格好の標的となっているこの地域の国境に「国家安全保障上の脅威」の可能性を認めている。この都市は「危険区域」に指定され、その脆弱な立場と、弱点であることが明示されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CB9",
+  "name_in_database": "City_OrganizedCrime",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "組織犯罪"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CB9",
+  "name_in_database": "City_OrganizedCrime",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は国内最大級の犯罪組織の本拠であり、組織犯罪が高い水準で発生している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CCB",
+  "name_in_database": "City_PoliceForcesOverburdened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "警察力の逼迫"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CCB",
+  "name_in_database": "City_PoliceForcesOverburdened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市の警察は秩序の維持に苦慮しており、人員不足と予算不足を訴えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001A8",
+  "name_in_database": "City_PolioEpidemic",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの流行"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001A8",
+  "name_in_database": "City_PolioEpidemic",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市ではポリオの症例が急増している。現在、保健省により「流行区域」に指定されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000025E",
+  "name_in_database": "City_PolioOutbreak",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの発生"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000025E",
+  "name_in_database": "City_PolioOutbreak",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市ではポリオの症例が指数関数的に増加している。現在、保健省により「流行区域」に指定されている。渡航は控えるよう注意が呼びかけられている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001AF",
+  "name_in_database": "City_PolioPandemic",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの大流行"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001AF",
+  "name_in_database": "City_PolioPandemic",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この地域ではポリオの症例が指数関数的に増加している。現在、ソードランド保健省により「流行区域」に指定されている。政府はあらゆる渡航に対して正式に警告を発している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E84",
+  "name_in_database": "City_Political_CPS",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "CPS市長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E84",
+  "name_in_database": "City_Political_CPS",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体は、ソードランド共産党所属の市長によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E84",
+  "name_in_database": "City_Political_CPS",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ソードランド共産党"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E72",
+  "name_in_database": "City_Political_NFP",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "NFP市長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E72",
+  "name_in_database": "City_Political_NFP",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体は、国民戦線党所属の市長によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E72",
+  "name_in_database": "City_Political_NFP",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "国民戦線党"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E78",
+  "name_in_database": "City_Political_PFJP",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "PFJP市長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E78",
+  "name_in_database": "City_Political_PFJP",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体は、人民自由正義党所属の市長によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E78",
+  "name_in_database": "City_Political_PFJP",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "人民自由正義党"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E6C",
+  "name_in_database": "City_Political_USP",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "USP市長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E6C",
+  "name_in_database": "City_Political_USP",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体は、統一ソードランド党所属の市長によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E6C",
+  "name_in_database": "City_Political_USP",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "統一ソードランド党"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E7E",
+  "name_in_database": "City_Political_WPB",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "WPB市長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E7E",
+  "name_in_database": "City_Political_WPB",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体は、ブルディア労働者党所属の市長によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013E7E",
+  "name_in_database": "City_Political_WPB",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ブルディア労働者党"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000234",
+  "name_in_database": "City_PrivateInvestments",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "民間投資"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000234",
+  "name_in_database": "City_PrivateInvestments",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は国内外からの投資が急増している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000001",
+  "name_in_database": "City_RapidGrowth",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "急速な都市成長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000001",
+  "name_in_database": "City_RapidGrowth",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は現在、急速な経済成長を遂げており、すでに近隣地域から新たな住民を引き寄せている。報告によれば、この傾向が続けば、将来この都市は一大拠点へと変貌する可能性がある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E84F",
+  "name_in_database": "City_RumburgBorderReinforcement",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国境の増強"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E84F",
+  "name_in_database": "City_RumburgBorderReinforcement",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ルンブルクに近い国境とこの都市は、あらゆる脅威を抑止するために増強された。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FD6",
+  "name_in_database": "City_SarnaAgricultureCity",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "サルナ農業都市"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FD6",
+  "name_in_database": "City_SarnaAgricultureCity",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "サルナの農業部門はソードランド最大の生産地となった。この都市は、広大な耕作地、作付地、農園、草地からなる巨大な農業地区の中にある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BF8",
+  "name_in_database": "City_Shared_AgriculturalGrowth",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "農業の成長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BF8",
+  "name_in_database": "City_Shared_AgriculturalGrowth",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は、さまざまな経済的・地理的要因により農業の成長が進んでいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C71",
+  "name_in_database": "City_Shared_ArmedUnrest",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "武装勢力"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C71",
+  "name_in_database": "City_Shared_ArmedUnrest",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は武装集団による暴力に日常的にさらされている。暴力的な抗議や武装襲撃が街頭で頻繁に起きるようになっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C91",
+  "name_in_database": "City_Shared_DecreasingHomelessness",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ホームレスの減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C91",
+  "name_in_database": "City_Shared_DecreasingHomelessness",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の住まいを持たない人々のかなりの部分が、ここ数か月で職を得て住まいを確保できている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BFF",
+  "name_in_database": "City_Shared_DecreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "求人の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BFF",
+  "name_in_database": "City_Shared_DecreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "経済環境全体の不健全さにより、この都市では求人が大きく減少している。これは社会経済状況のさらなる後退と貧困を招きかねない。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C22",
+  "name_in_database": "City_Shared_DecreasingPoverty",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "貧困の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C22",
+  "name_in_database": "City_Shared_DecreasingPoverty",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、貧困地区のかなりの部分が貧困から抜け出しつつあり、この都市はいくらかの経済成長を経験している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C4C",
+  "name_in_database": "City_Shared_DecreasingUnemployment",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "失業の減少"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C4C",
+  "name_in_database": "City_Shared_DecreasingUnemployment",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、失業者のかなりの部分が新たな就業の機会を得ている。失業は減少し、この都市はいくらかの経済成長を経験している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BF1",
+  "name_in_database": "City_Shared_HighLevelsofPoverty",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "深刻な貧困"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BF1",
+  "name_in_database": "City_Shared_HighLevelsofPoverty",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の住民の大きな部分が危機的な水準の貧困にある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BE3",
+  "name_in_database": "City_Shared_HistoricalTourism",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "歴史観光"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BE3",
+  "name_in_database": "City_Shared_HistoricalTourism",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "名高い史跡として、多くの外国人観光客が歴史観光のためにこの都市を訪れる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BEA",
+  "name_in_database": "City_Shared_Homelessness",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ホームレス問題"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003BEA",
+  "name_in_database": "City_Shared_Homelessness",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市では住まいを失う人が増えており、すでに多数が住まいを持たずにいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C30",
+  "name_in_database": "City_Shared_IncreasedBusinessTrade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "商業・交易の拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C30",
+  "name_in_database": "City_Shared_IncreasedBusinessTrade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市は商業と交易の成長を経験している。この経済成長は新たな投資家と機会をこの都市にもたらすと見込まれる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C29",
+  "name_in_database": "City_Shared_IncreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "求人の増加"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C29",
+  "name_in_database": "City_Shared_IncreasingJobOpenings",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "経済環境全体の健全さにより、この都市では求人が大きく増加している。これは社会経済状況のさらなる向上と生活水準の上昇を招きうる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C0D",
+  "name_in_database": "City_Shared_IndustrialCenter",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "工業の中心地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C0D",
+  "name_in_database": "City_Shared_IndustrialCenter",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は重要な産業を擁し、国内の工業の中心地の一つと見なされている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C83",
+  "name_in_database": "City_Shared_LackofHealthcare",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "医療サービスの不足"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C83",
+  "name_in_database": "City_Shared_LackofHealthcare",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市は医療サービスが不足しており、報告される健康問題が増加している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C14",
+  "name_in_database": "City_Shared_LogisticalIssues",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "物流の問題"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C14",
+  "name_in_database": "City_Shared_LogisticalIssues",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は、深刻な物流問題の克服に苦慮していると報告されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C45",
+  "name_in_database": "City_Shared_LowIndustrialOutput",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "低い工業生産"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C45",
+  "name_in_database": "City_Shared_LowIndustrialOutput",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の工業生産はその潜在力を大きく下回っており、地域経済を損なっている。工業生産を押し上げ、これ以上の経済の衰退を防ぐ手立てが必要かもしれない。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C8A",
+  "name_in_database": "City_Shared_LowLiteracyRate",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "低い識字率"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C8A",
+  "name_in_database": "City_Shared_LowLiteracyRate",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の住民のうち憂慮すべき大きな割合が読み書きできずにいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C63",
+  "name_in_database": "City_Shared_OrganizedCrime",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "組織犯罪"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C63",
+  "name_in_database": "City_Shared_OrganizedCrime",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は国内最大級の犯罪組織の本拠であり、組織犯罪が高い水準で発生している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C6A",
+  "name_in_database": "City_Shared_PoliceForcesOverburdened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "警察力の逼迫"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C6A",
+  "name_in_database": "City_Shared_PoliceForcesOverburdened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市の警察は秩序の維持に苦慮しており、人員不足と予算不足を訴えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C37",
+  "name_in_database": "City_Shared_RapidGrowth",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "急速な都市成長"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C37",
+  "name_in_database": "City_Shared_RapidGrowth",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は現在、急速な経済成長を遂げており、すでに近隣地域から新たな住民を引き寄せている。報告によれば、この傾向が続けば、将来この都市は一大拠点へと変貌する可能性がある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C3E",
+  "name_in_database": "City_Shared_ShrinkingBusiness",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "事業の縮小"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C3E",
+  "name_in_database": "City_Shared_ShrinkingBusiness",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の多くの事業が縮小しており、多数の従業員が解雇されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C06",
+  "name_in_database": "City_Shared_TourismDestination",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "観光地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C06",
+  "name_in_database": "City_Shared_TourismDestination",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は重要な観光地と見なされており、毎年数千人の国内外の観光客を受け入れていると報告されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C1B",
+  "name_in_database": "City_Shared_TradeHub",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "交易の要衝"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C1B",
+  "name_in_database": "City_Shared_TradeHub",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は我が国の経済にとって極めて重要な交易の拠点である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C78",
+  "name_in_database": "City_Shared_WidespreadProtests",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "大規模な抗議"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C78",
+  "name_in_database": "City_Shared_WidespreadProtests",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は政治的混乱の只中にある。抗議や市民的不服従の示威が街頭で日常的に起きている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000218",
+  "name_in_database": "City_ShrinkingBusiness",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "事業の縮小"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000218",
+  "name_in_database": "City_ShrinkingBusiness",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "報告によれば、この都市の多くの事業が縮小しており、多数の従業員が解雇されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CD7",
+  "name_in_database": "City_SollDam",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ソル・ダム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CD7",
+  "name_in_database": "City_SollDam",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソル・ダムはソードランド最大の水力発電源であり、ベルギアとナルギスの両地方の電力をこれ一つで賄っている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CD7",
+  "name_in_database": "City_SollDam",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ソル・ダム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000014D",
+  "name_in_database": "City_TheGateway",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "東方の玄関口"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000014D",
+  "name_in_database": "City_TheGateway",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラハベンはしばしば「東方の玄関口」と呼ばれる。東メルコパ最大級の交易港であり商業の拠点だからである。この象徴的な地位は、経済・文化・外交の活動が数十年にわたり絶えず活気を保ってきたことで確固たるものとなった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000014D",
+  "name_in_database": "City_TheGateway",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ラハベン"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FE4",
+  "name_in_database": "City_TheJewel",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "東方の宝石"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013FE4",
+  "name_in_database": "City_TheJewel",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ベンフィはソードランド全土で随一の観光地となり、「東方の宝石」として国際的に知られている。すでに高い水準にあるベンフィの観光は、市への投資の流入によって伸び続けている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CE9",
+  "name_in_database": "City_TourismDestination",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "観光地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CE9",
+  "name_in_database": "City_TourismDestination",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は重要な観光地と見なされており、毎年数千人の国内外の観光客を受け入れていると報告されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013EBE",
+  "name_in_database": "City_TradeHub",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "交易の要衝"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013EBE",
+  "name_in_database": "City_TradeHub",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市はソードランド経済にとって極めて重要な交易の拠点である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000023B",
+  "name_in_database": "City_UCAccess",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "コンタナ連邦の海軍利用権"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000690000023B",
+  "name_in_database": "City_UCAccess",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "コンリアト海軍基地は拡張され、現在はソードランド海軍とその要員に加えて数千名のコンタナ海軍の水兵と海兵が駐留している。コンタナ連邦海軍は基地内に独自の区画を持つほか、基地全体の接岸権と整備・給油設備の利用を認められている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CE3",
+  "name_in_database": "City_ValgenDam",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴァルゲン・ダム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013CE3",
+  "name_in_database": "City_ValgenDam",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ヴァルゲン・ダムは重要な水力発電源であり、周辺の地方に電力を供給している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000250",
+  "name_in_database": "City_WidespreadProtests",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "大規模な抗議"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006900000250",
+  "name_in_database": "City_WidespreadProtests",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は政治的混乱の只中にある。抗議や市民的不服従の示威が街頭で日常的に起きている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E33",
+  "name_in_database": "Country_AFTA",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "AFTA加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E33",
+  "name_in_database": "Country_AFTA",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "アンタケア自由貿易連合（AFTA）は、自由市場を促し、アンタケア地域の貿易を拡大するための政府間経済機構である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000012B",
+  "name_in_database": "Country_Agnolia_Alliance",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "同盟"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000012B",
+  "name_in_database": "Country_Agnolia_Alliance",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とアグノリア共和国は、相互の防衛と支援に関する包括的な協定を結び、不測の危機が生じた際には共に立つことを誓った。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DE1",
+  "name_in_database": "Country_Agnolia_CheapSteel",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "安価な鉄鋼の輸入"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DE1",
+  "name_in_database": "Country_Agnolia_CheapSteel",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "両国間の通商協定に基づき、ソードランドはアグノリア産の鉄鋼を市場価格より安く輸入している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000008",
+  "name_in_database": "Country_Agnolia_ExpensiveSteel",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "割高な鉄鋼の輸入"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000008",
+  "name_in_database": "Country_Agnolia_ExpensiveSteel",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "両国間の通商協定に基づき、ソードランドはアグノリア産の鉄鋼を市場価格より高い値で輸入している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001CA",
+  "name_in_database": "Country_Agnolia_PolioSpread",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001CA",
+  "name_in_database": "Country_Agnolia_PolioSpread",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "世界的な健康上の懸案であるポリオの大流行は、ソードランドからアグノリアへと広がった。ソードランドを発生源とするこの大流行は憂慮すべき速さで拡大しており、周辺地域の保健当局は警戒を強めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000092",
+  "name_in_database": "Country_Agnolia_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000092",
+  "name_in_database": "Country_Agnolia_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とアグノリア共和国は、力強い経済関係を築き二国間貿易を強化する重要な一歩を踏み出した。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CA3",
+  "name_in_database": "Country_Alliance",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "同盟"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CA3",
+  "name_in_database": "Country_Alliance",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "我々の両国は、不測の危機に際して相互の防衛と支援を確かなものとする強固な協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005124",
+  "name_in_database": "Country_AN",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国際連盟加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005124",
+  "name_in_database": "Country_AN",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "国際連盟（AN）は、地球上のほとんどの国によって形成された国際機関であり、政府間の枠組み、相互の協力、そして紛争の解決に取り組んでいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005124",
+  "name_in_database": "Country_AN",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "国際連盟"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DD3",
+  "name_in_database": "Country_ATO",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "アルカシア条約機構加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DD3",
+  "name_in_database": "Country_ATO",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "アルカシア条約機構（ATO）は、アルカシアが主導する政府間の軍事同盟である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DD3",
+  "name_in_database": "Country_ATO",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "アルカシア条約機構"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DDA",
+  "name_in_database": "Country_CSP",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "コンタナ条約機構加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DDA",
+  "name_in_database": "Country_CSP",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "コンタナ条約機構（CSP）は、コンタナ連邦が主導する政府間の軍事同盟である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100005100013DDA",
+  "name_in_database": "Country_CSP",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "コンタナ条約機構"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AD1",
+  "name_in_database": "Country_Derdia_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団の強化"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AD1",
+  "name_in_database": "Country_Derdia_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "外務評議官の府とその一団はデルディアでの外交使節活動を拡大し、両国の関係改善を進めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006ABD",
+  "name_in_database": "Country_Derdia_Pipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "トランスモリディア・パイプライン"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006ABD",
+  "name_in_database": "Country_Derdia_Pipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "トランスモリディア・パイプラインは二国間の重要な協力事業であり、天然ガスと石油を運ぶ不可欠な経路として機能している。多様な地形を横断し、エネルギー安全保障の向上に大きな役割を果たしている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E3B",
+  "name_in_database": "Country_GRACE",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "GRACE加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E3B",
+  "name_in_database": "Country_GRACE",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "王室通商同盟ギルド（G.R.A.C.E.）は、各大陸の君主国のあいだで経済協力と交流を育むために設立された国際機関である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E3B",
+  "name_in_database": "Country_GRACE",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "王室通商同盟ギルド"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000D463",
+  "name_in_database": "Country_IMK",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "インテルメルコプム加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000D463",
+  "name_in_database": "Country_IMK",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "インテルメルコプムは、加盟国間のエネルギー・安全保障・貿易の協力を広げるためにリジアが創設した南メルコパの国際同盟である。域外勢力からの地域の自立を掲げている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000D463",
+  "name_in_database": "Country_IMK",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "インテルメルコプム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E43",
+  "name_in_database": "Country_INA",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "INA加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E43",
+  "name_in_database": "Country_INA",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "国際ヌーリスト同盟（INA）は、デルディア・ヌーリスト共和国が主導する政府間の宗教同盟である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000123",
+  "name_in_database": "Country_Lespia_Alliance",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "同盟"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000123",
+  "name_in_database": "Country_Lespia_Alliance",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とレスピア共和国は、不測の危機に際して相互の防衛と支援を確かなものとする強固な協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001D1",
+  "name_in_database": "Country_Lespia_PolioSpread",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001D1",
+  "name_in_database": "Country_Lespia_PolioSpread",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "世界的な健康上の懸案であるポリオの大流行は、ソードランドからレスピアへと広がった。ソードランドを発生源とするこの大流行は憂慮すべき速さで拡大しており、周辺地域の保健当局は警戒を強めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000008A",
+  "name_in_database": "Country_Lespia_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000008A",
+  "name_in_database": "Country_Lespia_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とレスピア共和国は、それぞれの国境または領域を越えて資本・物品・サービスの交換を認める二国間協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000052",
+  "name_in_database": "Country_Lespia_Trade_Coal",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "石炭貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000052",
+  "name_in_database": "Country_Lespia_Trade_Coal",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "協定が生んだ有利な環境により、レスピアはソードランドにとってローレン産石炭の最大の輸出先となった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000067",
+  "name_in_database": "Country_Lespia_Trade_Fish",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "水産物貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000067",
+  "name_in_database": "Country_Lespia_Trade_Fish",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "レスピアとの包括的な協定によって規制と障壁が減り、レスピアはソードランドにとってアグンランド産水産物の最大の輸出先となった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000060",
+  "name_in_database": "Country_Lespia_Trade_SordishPetroleum",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ソードランド石油の売却"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000060",
+  "name_in_database": "Country_Lespia_Trade_SordishPetroleum",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランドは両国間の協定に基づき、ソードランド石油をレスピアに売却した。ソードランド石油はソードランドの石油取引の大半を握っており、この売却によりレスピアはヴェーレンからの石油の大半を自国へ振り向けることになる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005CE9",
+  "name_in_database": "Country_Lespia_TradeTariffs",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商関税の賦課"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005CE9",
+  "name_in_database": "Country_Lespia_TradeTariffs",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "レスピア共和国は先ごろソードランド共和国に対して新たな通商関税を課した。これは資本・物品・サービスの二国間取引に大きな影響を及ぼす措置である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000059",
+  "name_in_database": "Country_Lespia_Trade_Tungsten",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "タングステン貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000059",
+  "name_in_database": "Country_Lespia_Trade_Tungsten",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "規制と障壁を減らすソードランド・レスピア間の包括的な協定により、レスピアはソードランドにとってタングステンの最大の輸出先となった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000003A",
+  "name_in_database": "Country_Lespia_Trade_Wheat",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "小麦貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000003A",
+  "name_in_database": "Country_Lespia_Trade_Wheat",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "規制と障壁を減らすソードランド・レスピア間の包括的な協定により、レスピアはソードランドにとってベルギア産小麦の最大の輸出先となることができた。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006ADB",
+  "name_in_database": "Country_Morella_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団の強化"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006ADB",
+  "name_in_database": "Country_Morella_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "外務評議官の府とその一団はモレラでの外交使節活動を拡大し、両国の関係改善を進めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AB3",
+  "name_in_database": "Country_Morella_Pipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "モルガス・パイプライン"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AB3",
+  "name_in_database": "Country_Morella_Pipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "モルガス・パイプラインはリジアとモレラのエネルギー協力に不可欠であり、天然ガスと石油の流れを担って、エネルギー備蓄を厚くし、南西の隣国との経済的な結びつきを固めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E22",
+  "name_in_database": "Country_OMEC",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "OMEC加盟国"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E22",
+  "name_in_database": "Country_OMEC",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "メルコパ経済開発機構（OMEC）は、経済の発展を促し、メルコパの貿易を拡大するための政府間経済機構である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100007400006E22",
+  "name_in_database": "Country_OMEC",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "メルコパ経済開発機構"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AEF",
+  "name_in_database": "Country_Pales_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団の強化"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AEF",
+  "name_in_database": "Country_Pales_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "外務評議官の府とその一団はパレスでの外交使節活動を拡大し、両国の関係改善を進めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AA9",
+  "name_in_database": "Country_Pales_Pipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "パレストリーム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AA9",
+  "name_in_database": "Country_Pales_Pipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジアとパレスを結ぶパレストリーム・パイプラインは、エネルギー管理の要となる動脈であり、我が国のエネルギー供給を安定させるとともに、ガスその他の資源の輸送を通じてパレスの経済発展を支えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001C3",
+  "name_in_database": "Country_Rumburg_PolioSpread",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001C3",
+  "name_in_database": "Country_Rumburg_PolioSpread",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "世界的な健康上の懸案であるポリオの大流行は、ソードランドからルンブルクへと広がった。ソードランドを発生源とするこの大流行は憂慮すべき速さで拡大しており、周辺地域の保健当局は警戒を強めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000000A2",
+  "name_in_database": "Country_Rumburg_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000000A2",
+  "name_in_database": "Country_Rumburg_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランドとルンブルクは、経済関係を強め二国間貿易を確かなものとすることを目指す歴史的な協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000000A9",
+  "name_in_database": "Country_Rumburg_Trade_GasPipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ルンブルク・ソードランド間ガス貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000000A9",
+  "name_in_database": "Country_Rumburg_Trade_GasPipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ルンブルクはソードランドの天然ガス・パイプラインを自国領内へ延伸し、二国間貿易を大きく拡大させた。この協定は、ソードランドが他の隣国と結んだ協定より30％安いという独自のものである。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000000B0",
+  "name_in_database": "Country_Rumburg_Trade_KA74License",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ルンブルクによるKA-74の生産許諾"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000000B0",
+  "name_in_database": "Country_Rumburg_Trade_KA74License",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ルンブルクはソードランドに対し、KA-74の自国版を生産する許諾を与えた。この進展はソードランドの国防を強め、長期的に相当の経済的恩恵を約束し、関係の改善を象徴するものとなっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000145",
+  "name_in_database": "Country_Sordland_ATO_EconomicArea",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "アルカシア条約機構経済圏"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000145",
+  "name_in_database": "Country_Sordland_ATO_EconomicArea",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "アルカシア条約機構は、その深い統合を通じて加盟国間に有益な経済的相互依存を育んできた。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000145",
+  "name_in_database": "Country_Sordland_ATO_EconomicArea",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "アルカシア条約機構"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000006E",
+  "name_in_database": "Country_Sordland_CSP_EconomicArea",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "コンタナ条約機構経済圏"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000006E",
+  "name_in_database": "Country_Sordland_CSP_EconomicArea",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "コンタナ条約機構は、深い統合を促すことで加盟国間の強固な経済的相互依存への道を開いてきた。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000006E",
+  "name_in_database": "Country_Sordland_CSP_EconomicArea",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "コンタナ条約機構"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000041",
+  "name_in_database": "Country_Sordland_Recognition_HeljilandAgnolia",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "アグノリア領ヘルジランドの承認"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000041",
+  "name_in_database": "Country_Sordland_Recognition_HeljilandAgnolia",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この国はヘルジランドをアグノリアの領土として承認している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000041",
+  "name_in_database": "Country_Sordland_Recognition_HeljilandAgnolia",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ヘルジランド侵攻"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000049",
+  "name_in_database": "Country_Sordland_Recognition_HeljilandValgsland",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴァルグスランド領ヘルジランドの承認"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000049",
+  "name_in_database": "Country_Sordland_Recognition_HeljilandValgsland",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この国はヘルジランドをヴァルグスランドの領土として承認している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000049",
+  "name_in_database": "Country_Sordland_Recognition_HeljilandValgsland",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ヘルジランド侵攻"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CAB",
+  "name_in_database": "Country_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CAB",
+  "name_in_database": "Country_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "我々の両国は、それぞれの国境または領域を越えて資本・物品・サービスの交換を認める二国間協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C9B",
+  "name_in_database": "Country_TradeTariffs",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商関税の賦課"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003C9B",
+  "name_in_database": "Country_TradeTariffs",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "我が国の物品には新たな通商関税が課されており、これは資本とサービスの二国間取引に大きな影響を及ぼす措置である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000011B",
+  "name_in_database": "Country_Valgsland_Alliance",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "同盟"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000900000011B",
+  "name_in_database": "Country_Valgsland_Alliance",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とヴァルグスランド民主共和国は、危機の際の集団安全保障を確かなものとするため、相互の防衛と支援に関する協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000009A",
+  "name_in_database": "Country_Valgsland_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000009A",
+  "name_in_database": "Country_Valgsland_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とヴァルグスランド民主共和国は、それぞれの国境と領域を越えて資本・物品・サービスの交換を促す協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000000F",
+  "name_in_database": "Country_Valgsland_Trade_Coal",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "石炭貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000000F",
+  "name_in_database": "Country_Valgsland_Trade_Coal",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "規制と障壁を減らすソードランド・ヴァルグスランド間の包括的な協定により、ヴァルグスランドはソードランドにとってローレン産石炭の最大の輸出先となることができた。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000025",
+  "name_in_database": "Country_Valgsland_Trade_Fish",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "水産物貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000025",
+  "name_in_database": "Country_Valgsland_Trade_Fish",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランドとヴァルグスランドは規制と障壁を減らす包括的な協定に署名し、ヴァルグスランドはソードランドにとってアグンランド産水産物の最大の輸出先となった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005CE1",
+  "name_in_database": "Country_Valgsland_TradeTariffs",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商関税の賦課"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005CE1",
+  "name_in_database": "Country_Valgsland_TradeTariffs",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ヴァルグスランド民主共和国は先ごろソードランド共和国に対して新たな通商関税を課した。これは資本・物品・サービスの二国間取引に大きな影響を及ぼす措置である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000033",
+  "name_in_database": "Country_Valgsland_Trade_Tungsten",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "タングステン貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009200000033",
+  "name_in_database": "Country_Valgsland_Trade_Tungsten",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランドとヴァルグスランドは規制と障壁を減らす包括的な協定に至り、ヴァルグスランドはソードランドにとってタングステンの最大の輸出先となった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000002C",
+  "name_in_database": "Country_Valgsland_Trade_Wheat",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "小麦貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000920000002C",
+  "name_in_database": "Country_Valgsland_Trade_Wheat",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランドとヴァルグスランドは規制と障壁を減らす包括的な協定に署名し、ヴァルグスランドはソードランドにとってベルギア産小麦の最大の輸出先となった。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000133",
+  "name_in_database": "Country_Wehlen_Cooperation",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴェーレンとの協力"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100009000000133",
+  "name_in_database": "Country_Wehlen_Cooperation",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とヴェーレン共和国は、BFFとして知られるテロ組織への対処を連携させるため、軍事協力の関係を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AE5",
+  "name_in_database": "Country_Wehlen_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団の強化"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AE5",
+  "name_in_database": "Country_Wehlen_DiplomaticMissionStrengthened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "外務評議官の府とその一団はヴェーレンでの外交使節活動を拡大し、両国の関係改善を進めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AC7",
+  "name_in_database": "Country_Wehlen_Pipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "リズヴェール導管"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AC7",
+  "name_in_database": "Country_Wehlen_Pipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リズヴェール導管はリジアとヴェーレンを戦略的に結び、両国のエネルギー基盤を強化するとともに、歴史的な緊張を乗り越え、経済的利益とエネルギー安全保障を分かち合う協力の新時代を告げるものとなっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001BB",
+  "name_in_database": "Country_Wehlen_PolioSpread",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000092000001BB",
+  "name_in_database": "Country_Wehlen_PolioSpread",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "世界的な健康上の懸案であるポリオの大流行は、ソードランドからヴェーレンへと広がった。ソードランドを発生源とするこの大流行は憂慮すべき速さで拡大しており、周辺地域の保健当局は警戒を強めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005C7C",
+  "name_in_database": "Country_Wehlen_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005C7C",
+  "name_in_database": "Country_Wehlen_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ソードランド共和国とヴェーレン共和国は、共有する国境と領域を越えて資本・物品・サービスを自由に交換できる二国間協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005CA0",
+  "name_in_database": "Country_Wehlen_Trade_Oil",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "石油貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500005CA0",
+  "name_in_database": "Country_Wehlen_Trade_Oil",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "協定により、ヴェーレンからの石油輸入はすべて無関税となった。これはエネルギー輸入の費用を下げ、安価なエネルギーで成長を促すことで、ソードランド経済に好影響を与えると見込まれる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000460002468F",
+  "name_in_database": "Progress_AgriculturalZone",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "農業地区"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000460002468F",
+  "name_in_database": "Progress_AgriculturalZone",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000BB1",
+  "name_in_database": "Progress_Campaign_Tourism",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "観光振興"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000BB1",
+  "name_in_database": "Progress_Campaign_Tourism",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "全国規模の取り組みがこの都市を第一級の観光地として売り出しており、広報・インフラ・宿泊への投資が進んでいる。当局は来訪者を呼び込み、国際的な知名度を高めることを目指している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002FD",
+  "name_in_database": "Progress_Construction_ArgnoDastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ダストヌリティ派聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002FD",
+  "name_in_database": "Progress_Construction_ArgnoDastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002F3",
+  "name_in_database": "Progress_Construction_BenievonGolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ゴルコンド主義聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002F3",
+  "name_in_database": "Progress_Construction_BenievonGolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000339",
+  "name_in_database": "Progress_Construction_BenievonWruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴルヘック教聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000339",
+  "name_in_database": "Progress_Construction_BenievonWruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000DDB8",
+  "name_in_database": "Progress_Construction_BronazEnergyStorageFacility",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エネルギー貯蔵施設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000DDB8",
+  "name_in_database": "Progress_Construction_BronazEnergyStorageFacility",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000001",
+  "name_in_database": "Progress_Construction_BronazSouthMerkopanUniversityOfTheology",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "神学大学の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000001",
+  "name_in_database": "Progress_Construction_BronazSouthMerkopanUniversityOfTheology",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072E9",
+  "name_in_database": "Progress_Construction_DerdiaPipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "トランスモリディア・パイプライン"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072E9",
+  "name_in_database": "Progress_Construction_DerdiaPipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C70000012B",
+  "name_in_database": "Progress_Construction_EnergyStorageSabotage_Repair",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エネルギー貯蔵施設の修復"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C70000012B",
+  "name_in_database": "Progress_Construction_EnergyStorageSabotage_Repair",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "修復中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007111",
+  "name_in_database": "Progress_Construction_ExpandMonqizShipyard",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "モンキズ港・造船所の拡張"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007111",
+  "name_in_database": "Progress_Construction_ExpandMonqizShipyard",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007150",
+  "name_in_database": "Progress_Construction_ExpandTeradorAirforceBase",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "空軍基地の拡張"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007150",
+  "name_in_database": "Progress_Construction_ExpandTeradorAirforceBase",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007844",
+  "name_in_database": "Progress_Construction_FolceDatorEquipmentFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "軍需装備工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007844",
+  "name_in_database": "Progress_Construction_FolceDatorEquipmentFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000784E",
+  "name_in_database": "Progress_Construction_FolceDatorSupportVehicleFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "支援車両工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000784E",
+  "name_in_database": "Progress_Construction_FolceDatorSupportVehicleFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000783A",
+  "name_in_database": "Progress_Construction_FolceDatorTankFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "戦車工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000783A",
+  "name_in_database": "Progress_Construction_FolceDatorTankFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007830",
+  "name_in_database": "Progress_Construction_FortAlesNavalBaseExpansion",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "海軍基地の拡張"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007830",
+  "name_in_database": "Progress_Construction_FortAlesNavalBaseExpansion",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000070FC",
+  "name_in_database": "Progress_Construction_HavasCoalMine",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "炭鉱"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000070FC",
+  "name_in_database": "Progress_Construction_HavasCoalMine",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000361",
+  "name_in_database": "Progress_Construction_HavasConsumerIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "消費財産業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000361",
+  "name_in_database": "Progress_Construction_HavasConsumerIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000311",
+  "name_in_database": "Progress_Construction_HavasDastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ダストヌリティ派聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000311",
+  "name_in_database": "Progress_Construction_HavasDastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000070F5",
+  "name_in_database": "Progress_Construction_IzaHeavyIndustrialPark",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "重工業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000070F5",
+  "name_in_database": "Progress_Construction_IzaHeavyIndustrialPark",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000D9C",
+  "name_in_database": "Progress_Construction_JalesBomberFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "爆撃機工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000D9C",
+  "name_in_database": "Progress_Construction_JalesBomberFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000DA6",
+  "name_in_database": "Progress_Construction_JalesFighterFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "戦闘機工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000DA6",
+  "name_in_database": "Progress_Construction_JalesFighterFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000325",
+  "name_in_database": "Progress_Construction_JalesGolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ゴルコンド主義聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000325",
+  "name_in_database": "Progress_Construction_JalesGolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000307",
+  "name_in_database": "Progress_Construction_JalesWruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴルヘック教聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000307",
+  "name_in_database": "Progress_Construction_JalesWruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007858",
+  "name_in_database": "Progress_Construction_MaveNortusIntelHub",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "諜報拠点"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007858",
+  "name_in_database": "Progress_Construction_MaveNortusIntelHub",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000968",
+  "name_in_database": "Progress_Construction_MaveNortusOilfield",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "油田"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000968",
+  "name_in_database": "Progress_Construction_MaveNortusOilfield",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000031B",
+  "name_in_database": "Progress_Construction_MermiDastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ダストヌリティ派聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000031B",
+  "name_in_database": "Progress_Construction_MermiDastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007824",
+  "name_in_database": "Progress_Construction_MermiLogisticsHub",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "兵站拠点"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007824",
+  "name_in_database": "Progress_Construction_MermiLogisticsHub",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072DF",
+  "name_in_database": "Progress_Construction_MorellaPipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "モルガス・パイプライン"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072DF",
+  "name_in_database": "Progress_Construction_MorellaPipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000155",
+  "name_in_database": "Progress_Construction_MorellaPipelineSabotage_Repair",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "モルガスの修復"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000155",
+  "name_in_database": "Progress_Construction_MorellaPipelineSabotage_Repair",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "修復中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000343",
+  "name_in_database": "Progress_Construction_NelvisarWruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴルヘック教聖堂の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000343",
+  "name_in_database": "Progress_Construction_NelvisarWruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工事進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072D5",
+  "name_in_database": "Progress_Construction_PalesPipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "パレストリーム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072D5",
+  "name_in_database": "Progress_Construction_PalesPipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000089",
+  "name_in_database": "Progress_Construction_PalesPipelineSabotage_Repair",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "パレストリームの修復"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000089",
+  "name_in_database": "Progress_Construction_PalesPipelineSabotage_Repair",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "修復中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007126",
+  "name_in_database": "Progress_Construction_PorteDrazonHospital",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ロムス・トラス病院"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007126",
+  "name_in_database": "Progress_Construction_PorteDrazonHospital",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000711F",
+  "name_in_database": "Progress_Construction_PorteDrazonMilitaryAcademy",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ロムス・トラス士官学校"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000711F",
+  "name_in_database": "Progress_Construction_PorteDrazonMilitaryAcademy",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C6000007AA",
+  "name_in_database": "Progress_Construction_PorteDrazonStockExchange",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "証券取引所の建設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C6000007AA",
+  "name_in_database": "Progress_Construction_PorteDrazonStockExchange",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007862",
+  "name_in_database": "Progress_Construction_PorteDrazonUniversity",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ロムス・トラス大学"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007862",
+  "name_in_database": "Progress_Construction_PorteDrazonUniversity",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007103",
+  "name_in_database": "Progress_Construction_QalusGoldMine",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "金鉱"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007103",
+  "name_in_database": "Progress_Construction_QalusGoldMine",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000078A2",
+  "name_in_database": "Progress_Construction_SallabesConsumerIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "消費財産業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000078A2",
+  "name_in_database": "Progress_Construction_SallabesConsumerIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003075",
+  "name_in_database": "Progress_Construction_SallabesGrandsanctuaryExpansion",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "聖堂の拡張"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003075",
+  "name_in_database": "Progress_Construction_SallabesGrandsanctuaryExpansion",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C6000006E0",
+  "name_in_database": "Progress_Construction_Statues",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "像の建立"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C6000006E0",
+  "name_in_database": "Progress_Construction_Statues",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000740000851D",
+  "name_in_database": "Progress_Construction_StrengthenedBorderForts",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国境防備の強化中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000740000851D",
+  "name_in_database": "Progress_Construction_StrengthenedBorderForts",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000357",
+  "name_in_database": "Progress_Construction_TopesConsumerIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "消費財産業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000357",
+  "name_in_database": "Progress_Construction_TopesConsumerIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000710A",
+  "name_in_database": "Progress_Construction_TopesEsqirisGasFieldExpansion",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エスキリス・ガス田の拡張"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000710A",
+  "name_in_database": "Progress_Construction_TopesEsqirisGasFieldExpansion",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007898",
+  "name_in_database": "Progress_Construction_UpgradeBorderPost",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国境検問所の改修"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007898",
+  "name_in_database": "Progress_Construction_UpgradeBorderPost",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000034D",
+  "name_in_database": "Progress_Construction_ValenqirHeavyIndustrialPark",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "重工業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000034D",
+  "name_in_database": "Progress_Construction_ValenqirHeavyIndustrialPark",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072F3",
+  "name_in_database": "Progress_Construction_WehlenPipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "リズヴェール導管"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000065000072F3",
+  "name_in_database": "Progress_Construction_WehlenPipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007118",
+  "name_in_database": "Progress_Construction_ZpanaHydroelectricDam",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "水力発電ダム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007118",
+  "name_in_database": "Progress_Construction_ZpanaHydroelectricDam",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E55C",
+  "name_in_database": "Progress_DiplomaticMission_Agnolia",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E55C",
+  "name_in_database": "Progress_DiplomaticMission_Agnolia",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "デイヴィド・ウィスキとその一団は現在、アグノリアで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E563",
+  "name_in_database": "Progress_DiplomaticMission_Lespia",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E563",
+  "name_in_database": "Progress_DiplomaticMission_Lespia",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "デイヴィド・ウィスキとその一団は現在、レスピアで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E56A",
+  "name_in_database": "Progress_DiplomaticMission_Valgsland",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E56A",
+  "name_in_database": "Progress_DiplomaticMission_Valgsland",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "デイヴィド・ウィスキとその一団は現在、ヴァルグスランドで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E555",
+  "name_in_database": "Progress_DiplomaticMission_Wehlen",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E555",
+  "name_in_database": "Progress_DiplomaticMission_Wehlen",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "デイヴィド・ウィスキとその一団は現在、ヴェーレンで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000460002469E",
+  "name_in_database": "Progress_Highway",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "H-3高速道路"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000460002469E",
+  "name_in_database": "Progress_Highway",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000460002466B",
+  "name_in_database": "Progress_IndustrialZone",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "工業地区"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000460002466B",
+  "name_in_database": "Progress_IndustrialZone",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100004600024A44",
+  "name_in_database": "Progress_InternationalAirport",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国際空港"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100004600024A44",
+  "name_in_database": "Progress_InternationalAirport",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007157",
+  "name_in_database": "Progress_Operation_AntiNarcoticsOperation1",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "麻薬取締作戦"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007157",
+  "name_in_database": "Progress_Operation_AntiNarcoticsOperation1",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000715E",
+  "name_in_database": "Progress_Operation_AntiNarcoticsOperation2",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "麻薬取締作戦"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000715E",
+  "name_in_database": "Progress_Operation_AntiNarcoticsOperation2",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007165",
+  "name_in_database": "Progress_Operation_AntiNarcoticsOperation3",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "麻薬取締作戦"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007165",
+  "name_in_database": "Progress_Operation_AntiNarcoticsOperation3",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100004600024694",
+  "name_in_database": "Progress_Railway",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "L-1高速鉄道"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100004600024694",
+  "name_in_database": "Progress_Railway",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003071",
+  "name_in_database": "Progress_Restoration_PlavoArchsanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "聖堂の修復"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003071",
+  "name_in_database": "Progress_Restoration_PlavoArchsanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "修復進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000767A",
+  "name_in_database": "Progress_Restoration_TopesAncientCity",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "古代都市の修復"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000767A",
+  "name_in_database": "Progress_Restoration_TopesAncientCity",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BB0",
+  "name_in_database": "Progress_RiziaDiplomaticMediation_Derdia",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交調停活動"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BB0",
+  "name_in_database": "Progress_RiziaDiplomaticMediation_Derdia",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、デルディアで外交調停の使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BBA",
+  "name_in_database": "Progress_RiziaDiplomaticMediation_Morella",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BBA",
+  "name_in_database": "Progress_RiziaDiplomaticMediation_Morella",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、モレラで外交調停の使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BC4",
+  "name_in_database": "Progress_RiziaDiplomaticMediation_Wehlen",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BC4",
+  "name_in_database": "Progress_RiziaDiplomaticMediation_Wehlen",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、ヴェーレンで外交調停の使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007427",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Derdia",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007427",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Derdia",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、デルディアで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007430",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Morella",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007430",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Morella",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、モレラで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007442",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Pales",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007442",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Pales",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、パレスで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007439",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Wehlen",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "外交使節団"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007439",
+  "name_in_database": "Progress_RiziaDiplomaticMission_Wehlen",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ラウレント・エスキベルとその一団は現在、ヴェーレンで外交使節を率いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E57E",
+  "name_in_database": "Progress_RumburgBorderReinforcement",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "国境の増強"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A0000E57E",
+  "name_in_database": "Progress_RumburgBorderReinforcement",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ルンブルクに近いすべての国境と町で、現在増強が進められている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100004600024699",
+  "name_in_database": "Progress_SeaPort",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "海港"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100004600024699",
+  "name_in_database": "Progress_SeaPort",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "建設中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000713B",
+  "name_in_database": "Progress_Survey_ArgnoMining",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000713B",
+  "name_in_database": "Progress_Survey_ArgnoMining",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007149",
+  "name_in_database": "Progress_Survey_HavasMining",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007149",
+  "name_in_database": "Progress_Survey_HavasMining",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007134",
+  "name_in_database": "Progress_Survey_JalesMining",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007134",
+  "name_in_database": "Progress_Survey_JalesMining",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000094F",
+  "name_in_database": "Progress_Survey_MaveNortusMining",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000094F",
+  "name_in_database": "Progress_Survey_MaveNortusMining",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000712D",
+  "name_in_database": "Progress_Survey_QalusMining",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000712D",
+  "name_in_database": "Progress_Survey_QalusMining",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007142",
+  "name_in_database": "Progress_Survey_TopesMining",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "鉱床調査"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006500007142",
+  "name_in_database": "Progress_Survey_TopesMining",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "進行中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000000AB",
+  "name_in_database": "Progress_Upgrade_AdministrativeOne",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "行政機能の拡充中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000000AB",
+  "name_in_database": "Progress_Upgrade_AdministrativeOne",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "行政機能の拡大と改善が進められている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000000B6",
+  "name_in_database": "Progress_Upgrade_AdministrativeTwo",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "行政機能の拡充中"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000000B6",
+  "name_in_database": "Progress_Upgrade_AdministrativeTwo",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "行政機能の拡大と改善が進められている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000010F",
+  "name_in_database": "Rizia_City_AdministrationUpgradedOne",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "行政機能の拡充 I"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000010F",
+  "name_in_database": "Rizia_City_AdministrationUpgradedOne",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "行政機能は、新たな庁舎・事務所・職員・部局によって拡充された。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000011A",
+  "name_in_database": "Rizia_City_AdministrationUpgradedTwo",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "行政機能の拡充 II"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000011A",
+  "name_in_database": "Rizia_City_AdministrationUpgradedTwo",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "行政機能は、新たな庁舎・事務所・職員・部局によって大幅に拡充・拡大された。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000044",
+  "name_in_database": "Rizia_City_AdvancedShipIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "先進造船業"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000044",
+  "name_in_database": "Rizia_City_AdvancedShipIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "近代的な造船所が、改良された鋼製船体と機関を備えたより大きく頑丈な船を建造し、交易と海軍力を高めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000D6B",
+  "name_in_database": "Rizia_City_BomberFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "爆撃機工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000D6B",
+  "name_in_database": "Rizia_City_BomberFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この爆撃機の生産施設は我が国の軍事戦略の要となっており、高性能爆撃機の製造と整備を担っている。攻勢作戦の鍵となるこれらの機体は、強力な打撃と軍事目標の達成に資する強大な能力をもたらす。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000640000040D",
+  "name_in_database": "Rizia_City_CastelBronaz",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "カステル・ブロナズ"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000640000040D",
+  "name_in_database": "Rizia_City_CastelBronaz",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ブロナズの丘の上に立つ、広い濠に囲まれた名高い王室の地下牢。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A13",
+  "name_in_database": "Rizia_City_CoalMine",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "炭鉱"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A13",
+  "name_in_database": "Rizia_City_CoalMine",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この大規模な鉱山事業は石炭の採掘を目的としている。安定したエネルギー源を供給する役割で知られ、雇用の創出と産業の発展を通じて経済成長にも寄与している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B67",
+  "name_in_database": "Rizia_City_ConsumerIndustryPark",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "消費財産業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B67",
+  "name_in_database": "Rizia_City_ConsumerIndustryPark",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "新設された消費財産業団地は、とりわけ電子機器と家庭用電化製品の分野で消費財部門を押し上げている。いまや経済成長と技術革新の象徴となっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000069D3",
+  "name_in_database": "Rizia_City_DastnuristHolySite",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ダストヌリティ派の聖地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000069D3",
+  "name_in_database": "Rizia_City_DastnuristHolySite",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市には、ヌーリティ教ダストヌリティ派の信徒が神聖視する重要な史跡がいくつも存在する。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000069D3",
+  "name_in_database": "Rizia_City_DastnuristHolySite",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ダストヌリティ派"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000004DA",
+  "name_in_database": "Rizia_City_DastnuristSanctuariesClosed",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ダストヌリティ派聖堂の閉鎖"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000004DA",
+  "name_in_database": "Rizia_City_DastnuristSanctuariesClosed",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "王令により、ダストヌリティ派の礼拝所は閉鎖された。王国全土でヴルヘック教が唯一の国教として強制されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B85",
+  "name_in_database": "Rizia_City_DastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ダストヌリティ派聖堂"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B85",
+  "name_in_database": "Rizia_City_DastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ここはダストヌリティ派の信徒が祈り、身を清め、十一の柱に思いを致すために集う聖なる場所である。その静謐さで名高く、霊的な避難所として、また共同体を導く中心として機能している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B85",
+  "name_in_database": "Rizia_City_DastnuristSanctuary",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ダストヌリティ派"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BDA",
+  "name_in_database": "Rizia_City_DrugTrafficking",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "麻薬密売組織"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BDA",
+  "name_in_database": "Rizia_City_DrugTrafficking",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市には麻薬密売の犯罪組織があり、暴力・依存・犯罪を増加させている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000DDC2",
+  "name_in_database": "Rizia_City_EnergyStorageFacility",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エネルギー貯蔵施設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000650000DDC2",
+  "name_in_database": "Rizia_City_EnergyStorageFacility",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ブロナズのエネルギー貯蔵施設は、余剰電力を蓄えて地域のエネルギー安全保障を高める重要な社会基盤である。需要の集中する時期にも効率的な配電を保証する先進の設備を備えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C7000002FD",
+  "name_in_database": "Rizia_City_EnergyStorageSabotage_Damage",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エネルギー貯蔵施設への破壊工作"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C7000002FD",
+  "name_in_database": "Rizia_City_EnergyStorageSabotage_Damage",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "地域のエネルギー安全保障に不可欠なブロナズのエネルギー貯蔵施設は、破壊工作により甚大な損害を受け、大きな損失と需要期の配電の混乱を招いた。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000309",
+  "name_in_database": "Rizia_City_EnergyStorageSabotage_Repaired",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エネルギー貯蔵施設"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000309",
+  "name_in_database": "Rizia_City_EnergyStorageSabotage_Repaired",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ブロナズのエネルギー貯蔵施設は安定した供給と送電網の強靭さを支えている。破壊工作の後に修復され、いま再び地域のエネルギーと経済の安定を支えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B17",
+  "name_in_database": "Rizia_City_EquipmentFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "軍需装備工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B17",
+  "name_in_database": "Rizia_City_EquipmentFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "軍需装備工場は高度な軍用装備の生産を担っている。弾薬から精密兵器まで多様な装備を製造し、国家の安全保障のために軍が十分に装備されることを保証する点で、国防上きわめて重要な役割を果たしている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000811D",
+  "name_in_database": "Rizia_City_ExpandedSallabesGrandsanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "拡張されたダストヌリティ派大聖域"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000811D",
+  "name_in_database": "Rizia_City_ExpandedSallabesGrandsanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "王室の出資による拡張を経て、ダストヌリティ派大聖域は拡大した。いまやこの宗派に対する宗教的寛容の姿勢を象徴している。その拡大は、地域に霊的な恵みと経済的な恩恵をもたらす場を広げている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A31",
+  "name_in_database": "Rizia_City_ExpandedShipyard",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "拡張されたモンキズ港・造船所"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A31",
+  "name_in_database": "Rizia_City_ExpandedShipyard",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この港と造船所は海洋力の要となり、国際貿易の拡大と海軍力の双方を担っている。この種の施設として最も先進的なものの一つであり、拡張された埠頭と高度な物流により交易の増大を支えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000D5F",
+  "name_in_database": "Rizia_City_FighterFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ジェット戦闘機工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000B400000D5F",
+  "name_in_database": "Rizia_City_FighterFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "このジェット戦闘機の製造施設は国防戦略の要となっており、高性能機の生産と整備を担っている。防衛作戦に不可欠なこれらの機体は、陸海いずれの戦闘にも欠かせない航空支援をもたらす。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A00017B87",
+  "name_in_database": "Rizia_City_FortAles_ExpandedNavalBase",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "拡張された海軍基地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A00017B87",
+  "name_in_database": "Rizia_City_FortAles_ExpandedNavalBase",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "近年の拡張と近代化により、海軍基地は強化された造船施設と堅固な防備を備え、艦艇の建造能力と即応性を高めた。この整備によって上陸侵攻の能力が向上している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003404",
+  "name_in_database": "Rizia_City_GasField",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ガス田"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003404",
+  "name_in_database": "Rizia_City_GasField",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は有望なガス田を擁し、地域のエネルギー生産を支え、地域経済の発展に寄与している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A27",
+  "name_in_database": "Rizia_City_GasFieldExpansion",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "拡張されたガス田"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A27",
+  "name_in_database": "Rizia_City_GasFieldExpansion",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "新たな採掘設備と技術が産出量を押し上げており、このガス田は少なくともあと十年は操業する見込みで、主にガスと若干の石油を産出する。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000069C9",
+  "name_in_database": "Rizia_City_GolcondistHolySite",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ゴルコンド主義の聖地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000069C9",
+  "name_in_database": "Rizia_City_GolcondistHolySite",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市には、ヴルヘック教ゴルコンド主義派の信徒が神聖視する重要な史跡がいくつも存在する。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000069C9",
+  "name_in_database": "Rizia_City_GolcondistHolySite",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ゴルコンド主義"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002E7",
+  "name_in_database": "Rizia_City_GolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ゴルコンド主義聖堂"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002E7",
+  "name_in_database": "Rizia_City_GolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ここはゴルコンド主義の信徒が鍛錬し、瞑想し、武の実践を通じてゴルコンダに至ろうと戦う聖なる場所である。運動と霊性が入り混じるこの場は、信徒のあいだでヌールの発露を促している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD000002E7",
+  "name_in_database": "Rizia_City_GolcondistSanctuary",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ゴルコンド主義"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A1D",
+  "name_in_database": "Rizia_City_GoldMine",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "金鉱"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A1D",
+  "name_in_database": "Rizia_City_GoldMine",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "開設された金鉱は周辺の経済を押し上げ、この地方の資源輸出をさらに増やしている。ただし操業は周囲の農場に悪影響を及ぼしている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006C3C",
+  "name_in_database": "Rizia_City_HeavyIndustryPark",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "重工業団地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006C3C",
+  "name_in_database": "Rizia_City_HeavyIndustryPark",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "重工業団地はこの地方の経済構造の要であり、製鉄から先進的な機械製造まで多様な部門を擁している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000030",
+  "name_in_database": "Rizia_City_HighTechMilitaryIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "先端軍需産業"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000030",
+  "name_in_database": "Rizia_City_HighTechMilitaryIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "国家の発注が最先端の航空機・ミサイル・装甲車両の生産を牽引し、精密性・機動性・火力の新時代を画している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000064000003FF",
+  "name_in_database": "Rizia_City_HistoricalRezenidTourism",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "レゼニド期の歴史観光"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000064000003FF",
+  "name_in_database": "Rizia_City_HistoricalRezenidTourism",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "名高いレゼニド帝国のかつての都として、この都市は歴史ある建築と古代の遺跡を訪ねようとする外国人観光客を引き寄せている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00002935",
+  "name_in_database": "Rizia_City_HouseAzaro",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "アザロ家の総督"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00002935",
+  "name_in_database": "Rizia_City_HouseAzaro",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体はアザロ家によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00002935",
+  "name_in_database": "Rizia_City_HouseAzaro",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "アザロ家"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00002949",
+  "name_in_database": "Rizia_City_HouseSazon",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "サゾン家の総督"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00002949",
+  "name_in_database": "Rizia_City_HouseSazon",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体はサゾン家によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00002949",
+  "name_in_database": "Rizia_City_HouseSazon",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "サゾン家"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000293F",
+  "name_in_database": "Rizia_City_HouseToras",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "トラス家の総督"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000293F",
+  "name_in_database": "Rizia_City_HouseToras",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この自治体はトラス家によって統治されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000293F",
+  "name_in_database": "Rizia_City_HouseToras",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "トラス家"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BE7",
+  "name_in_database": "Rizia_City_HydroelectricDam",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "水力発電ダム"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006BE7",
+  "name_in_database": "Rizia_City_HydroelectricDam",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "水力発電所が建設され完全に稼働しており、地域の送電網において最大の再生可能エネルギーを生み出している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000340D",
+  "name_in_database": "Rizia_City_IndustrialCenter",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "工業の中心地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E0000340D",
+  "name_in_database": "Rizia_City_IndustrialCenter",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は主要な産業を擁し、この地方の製造業と経済活動を牽引する拠点の一つと認められている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B2B",
+  "name_in_database": "Rizia_City_IntelHub",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "諜報拠点"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B2B",
+  "name_in_database": "Rizia_City_IntelHub",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ジルの統合を支えるために設けられたこの拠点は、対外諜報の中枢として機能している。重要情報の収集、秘密工作の実行、そしてジルとその周辺における世論の形成を専門としている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B03",
+  "name_in_database": "Rizia_City_LogisticsHub",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "兵站拠点"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B03",
+  "name_in_database": "Rizia_City_LogisticsHub",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この戦略的な兵站拠点は要衝どうしを堅固に結び、防衛の兵站と軍の機動性を高めている。この取り組みは国家の安全保障を強め、代替となる戦略拠点を設けることで即応態勢を向上させている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000315",
+  "name_in_database": "Rizia_City_MorellaPipelineSabotage_Damage",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "モレラ・パイプラインへの破壊工作"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000315",
+  "name_in_database": "Rizia_City_MorellaPipelineSabotage_Damage",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジアとモレラのエネルギー協力を支える要であるモルガス・パイプラインが破壊工作により甚大な損害を受け、天然ガスと石油の流れが途絶した。この攻撃は大きなエネルギー損失を招き、備蓄を細らせ、南西の隣国との経済関係を圧迫している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000321",
+  "name_in_database": "Rizia_City_MorellaPipelineSabotage_Repaired",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "モルガス・パイプライン"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C700000321",
+  "name_in_database": "Rizia_City_MorellaPipelineSabotage_Repaired",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジアとモレラのエネルギー協力の要であるモルガス・パイプラインは、破壊工作の後に完全に修復された。操業の再開により再び天然ガスが流れ、エネルギー備蓄を厚くし、南西の隣国との経済関係を強めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003416",
+  "name_in_database": "Rizia_City_OilField",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "油田"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00003416",
+  "name_in_database": "Rizia_City_OilField",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は産出量の多い油田の上にあり、地域産業を支え、投資を呼び込み、エネルギーと製造に不可欠な資源を供給している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C7000002E5",
+  "name_in_database": "Rizia_City_PalesPipelineSabotage_Damage",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "パレストリーム・パイプラインへの破壊工作"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C7000002E5",
+  "name_in_database": "Rizia_City_PalesPipelineSabotage_Damage",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジアとパレスを結ぶ重要なエネルギーの動脈であるパレストリーム・パイプラインが破壊工作により甚大な損害を受け、エネルギーの輸出入が途絶した。この攻撃は大きなエネルギー損失を招き、供給網を不安定にし、パレスの経済の安定を脅かしている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C7000002F1",
+  "name_in_database": "Rizia_City_PalesPipelineSabotage_Repaired",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "パレストリーム・パイプラインの修復完了"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C7000002F1",
+  "name_in_database": "Rizia_City_PalesPipelineSabotage_Repaired",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジアとパレスを結ぶ重要なエネルギーの動脈であるパレストリーム・パイプラインは、破壊工作の後に完全に修復された。操業の再開により再びエネルギー供給が安定し、ガスその他の資源の輸送を通じてパレスの経済発展を支えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000024",
+  "name_in_database": "Rizia_City_PharmaceuticalIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "製薬産業"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000024",
+  "name_in_database": "Rizia_City_PharmaceuticalIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "抗生物質とワクチンの飛躍的な進歩が公衆衛生を向上させ、大量生産によって全国で医薬品が行き渡りつつある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006400000414",
+  "name_in_database": "Rizia_City_PoliceForcesOverburdened",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "警察力の逼迫"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006400000414",
+  "name_in_database": "Rizia_City_PoliceForcesOverburdened",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市の警察は秩序の維持に苦慮しており、人員不足と予算不足を訴えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CDB",
+  "name_in_database": "Rizia_City_ReformRallies",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "大規模な集会"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CDB",
+  "name_in_database": "Rizia_City_ReformRallies",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市では改革運動が活発で、組織化が進み、大規模な集会が繰り返されている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000003A",
+  "name_in_database": "Rizia_City_RenewablesIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "再生可能エネルギー産業"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000003A",
+  "name_in_database": "Rizia_City_RenewablesIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "工場と作業所はいまやダム・タービン・太陽光設備の部品を生産しており、将来の再生可能エネルギー事業の礎を築いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AF9",
+  "name_in_database": "Rizia_City_RestoratedAncientCity",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "修復された古代都市遺跡"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006AF9",
+  "name_in_database": "Rizia_City_RestoratedAncientCity",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "レゼニド期の古代都市は完全に修復され、現地では観光が活況を呈している。これは王国の国際的な印象を高め、世界中から観光客を呼び寄せている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00008129",
+  "name_in_database": "Rizia_City_RestoredPlavoArchsanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "修復されたプラヴォ聖域"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00008129",
+  "name_in_database": "Rizia_City_RestoredPlavoArchsanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ヴルヘック教のプラヴォ聖域は完全に修復され、いま往時の壮麗さを取り戻して輝いている。これは、大切に受け継がれてきたヴルヘック教の文化的・宗教的遺産の保存に王室が強く尽くしていることを示している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00008129",
+  "name_in_database": "Rizia_City_RestoredPlavoArchsanctuary",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ヴルヘック教"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000064000002BC",
+  "name_in_database": "Rizia_City_Rizia_Capital",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "リジアの首都"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x01000064000002BC",
+  "name_in_database": "Rizia_City_Rizia_Capital",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ポルテ・ドラゾンはリジア王国の首都であり、リジア・インペリイ州の一部である。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A45",
+  "name_in_database": "Rizia_City_RomusTorasAcademy",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ロムス・トラス士官学校"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A45",
+  "name_in_database": "Rizia_City_RomusTorasAcademy",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ロムス・トラス士官学校は高度に訓練された軍人の育成を担い、我が国の防衛力の質と能力を高めている。その創設は我が国の防衛史における大きな節目であり、戦略眼と力量を備えた軍指導者の系譜を育んでいる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000000B",
+  "name_in_database": "Rizia_City_RomusTorasHospital",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ロムス・トラス病院"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000000B",
+  "name_in_database": "Rizia_City_RomusTorasHospital",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "最新の医療設備と研究区画を備えたロムス・トラス病院は、リジア人に比類ない医療を提供するとともに、負傷した軍人にとって重要な医療拠点として機能し、国家の防衛能力を高めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B35",
+  "name_in_database": "Rizia_City_RomusTorasUniversity",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ロムス・トラス大学"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B35",
+  "name_in_database": "Rizia_City_RomusTorasUniversity",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ロムス・トラス大学は、学術的な卓越と革新的な研究を促すために設立された。その技術系の学部を通じて国の防衛産業を支える役割も担っている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C6000006EA",
+  "name_in_database": "Rizia_City_RoyalStatue",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "王室の像"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C6000006EA",
+  "name_in_database": "Rizia_City_RoyalStatue",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "王室の発注による壮大な像が王室の威信を高め、世論を形づくり、伝統を象徴している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000081A",
+  "name_in_database": "Rizia_City_RumburgPort",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ルンブルク運営の港"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000081A",
+  "name_in_database": "Rizia_City_RumburgPort",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ルンブルクがこの要衝の港を掌握し、交易の流れを差配して海軍の存在を誇示している。外国の統治の下で地元の権限は限られている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000004E",
+  "name_in_database": "Rizia_City_SteelIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "製鉄業"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000004E",
+  "name_in_database": "Rizia_City_SteelIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "近代的な炉と合金により鉄鋼の産出が伸び、建設・兵器・産業の拡大を支えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000017",
+  "name_in_database": "Rizia_City_StockExchange",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "証券取引所"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C600000017",
+  "name_in_database": "Rizia_City_StockExchange",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "証券取引所は投資と成長の要となる拠点であり、企業の拡大、起業家の資金調達、そして投資家が経済の将来を形づくることを助けている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B71",
+  "name_in_database": "Rizia_City_StrengthenedBorderForts",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "強化された国境防備"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B71",
+  "name_in_database": "Rizia_City_StrengthenedBorderForts",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市に隣接する地域で国境の防備と防衛網が強化され、防衛と警備の即応性が高まり、この地域の部隊の防御態勢が改善された。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B21",
+  "name_in_database": "Rizia_City_SupportVehicleFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "支援車両工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B21",
+  "name_in_database": "Rizia_City_SupportVehicleFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ここにある軍用支援車両の産業は国防体制の要であり、各種の軍用支援車両の製造を担っている。作戦の効率に不可欠な輸送・兵站・通信の車両を軍に供給している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B0D",
+  "name_in_database": "Rizia_City_TankFactory",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "戦車工場"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B0D",
+  "name_in_database": "Rizia_City_TankFactory",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "戦車製造工場は国防戦略の要となっており、装甲戦闘車両の製造と整備を担っている。地上作戦の中核をなすこれらの戦車は、攻防の双方に不可欠な能力をもたらす。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A00017B8D",
+  "name_in_database": "Rizia_City_Terador_AirforceBase",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "拡張された空軍基地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A00017B8D",
+  "name_in_database": "Rizia_City_Terador_AirforceBase",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "拡張されたテラドール空軍基地はより多くの機体を収容できるようになり、さまざまな航空任務の遂行能力が高まった。この事業の製造施設により、爆撃と空中戦の効率が向上している。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000005B",
+  "name_in_database": "Rizia_City_TimberIndustry",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "林業"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C60000005B",
+  "name_in_database": "Rizia_City_TimberIndustry",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "機械化された伐採と先進的な製材が木材の産出を増やし、建設と製造で高まる需要に応えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A00017B75",
+  "name_in_database": "Rizia_City_UnderOccupation",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "占領下"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100006A00017B75",
+  "name_in_database": "Rizia_City_UnderOccupation",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市は現在、敵軍の占領下にある。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A4F",
+  "name_in_database": "Rizia_City_UniversityOfTheology",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "南メルコパ神学大学"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006A4F",
+  "name_in_database": "Rizia_City_UniversityOfTheology",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ブロナズの南メルコパ神学大学は、王国中から学者を集める権威ある学問の府であり、宗教研究の灯台である。厳密な学術の営みを通じて信仰の理解を深めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B5D",
+  "name_in_database": "Rizia_City_UpgradedBorderPost",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "改修された国境検問所"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B5D",
+  "name_in_database": "Rizia_City_UpgradedBorderPost",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "国境検問所は、出入国管理と税関を改善し、現地の治安を守るために改修された。これにより犯罪・麻薬の流入・難民の流入が減り、望ましくない越境をより確実に阻止できる。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000824",
+  "name_in_database": "Rizia_City_ValgslandPort",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴァルグスランド運営の港"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD00000824",
+  "name_in_database": "Rizia_City_ValgslandPort",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ヴァルグ人の統制は港の交通量を増やす一方で、厳格な税関、CSPへの優遇的な利用、そして物流と航路への強い統制を伴っている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CE7",
+  "name_in_database": "Rizia_City_WorkerStrikes",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "労働者のストライキ"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000C800003CE7",
+  "name_in_database": "Rizia_City_WorkerStrikes",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市では近ごろ、RPPの急進派と各種の独立系労働団体が組織する大規模なストライキが続いている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000008D",
+  "name_in_database": "Rizia_City_WruhecistHolySite",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴルヘック教の聖地"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000008D",
+  "name_in_database": "Rizia_City_WruhecistHolySite",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "この都市には、ヌーリティ教ヴルヘック派の信徒が神聖視する重要な史跡がいくつも存在する。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x010000BD0000008D",
+  "name_in_database": "Rizia_City_WruhecistHolySite",
+  "path": "TokenStatusEffectProperties.CodexEntryTitle",
+  "ja": "ヴルヘック教"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B7B",
+  "name_in_database": "Rizia_City_WruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ヴルヘック教聖堂"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E00006B7B",
+  "name_in_database": "Rizia_City_WruhecistSanctuary",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ここはヴルヘック教の信徒が、学び、省み、問うことを通じて悟りを求めて集う聖なる場所である。その開かれた気風で知られ、知的な探究と霊的な成長の拠点となっている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032D0",
+  "name_in_database": "Rizia_Country_Rumburg_GasPipeline",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ルンブルク・リジア間ガス貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032D0",
+  "name_in_database": "Rizia_Country_Rumburg_GasPipeline",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "ルンブルクはリジアとの天然ガス協定を延長し、二国間貿易を大きく拡大させた。この協定により、他の隣国との協定に比べて流通量が少なくとも40％多く増えている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032EE",
+  "name_in_database": "Rizia_Country_Rumburg_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "エネルギー貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032EE",
+  "name_in_database": "Rizia_Country_Rumburg_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジアとルンブルクは、二国間関係におけるエネルギーの取り決めを拡大した。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032E6",
+  "name_in_database": "Rizia_Country_Wehlen_PolioSpread",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "ポリオの拡大"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032E6",
+  "name_in_database": "Rizia_Country_Wehlen_PolioSpread",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "世界的な健康上の懸案であるポリオの大流行は、ソードランドからヴェーレンへと広がった。ソードランドを発生源とするこの大流行は憂慮すべき速さで拡大しており、周辺地域の保健当局は警戒を強めている。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032DE",
+  "name_in_database": "Rizia_Country_Wehlen_Trade",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "通商協定"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032DE",
+  "name_in_database": "Rizia_Country_Wehlen_Trade",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "リジア王国とヴェーレン共和国は、共有する国境と領域を越えて資本・物品・サービスを自由に交換できる二国間協定を結んだ。"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032D7",
+  "name_in_database": "Rizia_Country_Wehlen_Trade_Oil",
+  "path": "TokenStatusEffectProperties.Title",
+  "ja": "石油貿易"
+ },
+ {
+  "type": "TokenStatusEffectData",
+  "item_id": "0x0100008E000032D7",
+  "name_in_database": "Rizia_Country_Wehlen_Trade_Oil",
+  "path": "TokenStatusEffectProperties.Subtitle",
+  "ja": "協定により、ヴェーレンからの石油輸入はすべて無関税となった。これはエネルギー輸入の費用を下げ、安価なエネルギーで成長を促すことで、ソードランド経済に好影響を与えると見込まれる。"
+ }
+]

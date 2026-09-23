@@ -1,0 +1,16 @@
+[
+ {
+  "type": "AdvisorsPageData",
+  "item_id": "0x0100004600022D4E",
+  "name_in_database": "Page_Cabinet",
+  "path": "AdvisorsPageProperties.Name",
+  "ja": "内閣"
+ },
+ {
+  "type": "AdvisorsPageData",
+  "item_id": "0x0100006A0000C5BA",
+  "name_in_database": "Page_Council",
+  "path": "AdvisorsPageProperties.Name",
+  "ja": "王室評議会"
+ }
+]

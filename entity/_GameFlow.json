@@ -1,0 +1,156 @@
+[
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[0].TransitionTitle",
+  "ja": "第一章:<br>レイン大統領"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[1].TransitionTitle",
+  "ja": "数日後…"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[2].TransitionTitle",
+  "ja": "民主主義の試練"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[3].TransitionTitle",
+  "ja": "第二章: 新しきソードランド"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[4].TransitionTitle",
+  "ja": "東メルコパの勢力均衡"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[5].TransitionTitle",
+  "ja": "国富論"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[6].TransitionTitle",
+  "ja": "第三章: 変革の犠牲者"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[7].TransitionTitle",
+  "ja": "露見"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[8].TransitionTitle",
+  "ja": "第四章: 詰み"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[9].TransitionTitle",
+  "ja": "国家の意志"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0xD6FA8EE957B481AD",
+  "name_in_database": "",
+  "path": "Turns[10].TransitionTitle",
+  "ja": "しばらくののち…"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[0].TransitionTitle",
+  "ja": "第一章:<br>ロムス王"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[1].TransitionTitle",
+  "ja": "黄金王国"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[2].TransitionTitle",
+  "ja": "綻びゆく絆"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[3].TransitionTitle",
+  "ja": "第二章:<br>海のはざまで"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[4].TransitionTitle",
+  "ja": "自省録"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[5].TransitionTitle",
+  "ja": "黄金の岸辺にて"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[6].TransitionTitle",
+  "ja": "兵法"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[7].TransitionTitle",
+  "ja": "第三章: リヴァイアサン"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[8].TransitionTitle",
+  "ja": "君主論"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[9].TransitionTitle",
+  "ja": "第四章: Sila Orica"
+ },
+ {
+  "type": "_GameFlow",
+  "item_id": "0x1D46D30C34279837",
+  "name_in_database": "",
+  "path": "Turns[10].TransitionTitle",
+  "ja": "{RiziaDLCText.FinalChapterTitle}"
+ }
+]

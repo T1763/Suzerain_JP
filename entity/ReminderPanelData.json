@@ -1,0 +1,86 @@
+[
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x01000046000243D3",
+  "name_in_database": "ReminderPanel_DraftConstitutionalChanges",
+  "path": "ReminderPanelProperties.Title",
+  "ja": "現在の提案"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x01000046000243D3",
+  "name_in_database": "ReminderPanel_DraftConstitutionalChanges",
+  "path": "ReminderPanelProperties.Subtitle",
+  "ja": "憲法改正草案"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x01000046000243D3",
+  "name_in_database": "ReminderPanel_DraftConstitutionalChanges",
+  "path": "ReminderPanelProperties.HeaderText",
+  "ja": "Subisiam av Konstitutia dei Sordland"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100006A00004DC0",
+  "name_in_database": "ReminderPanel_EmergencyAct",
+  "path": "ReminderPanelProperties.Title",
+  "ja": "現在の非常事態"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100006A00004DC0",
+  "name_in_database": "ReminderPanel_EmergencyAct",
+  "path": "ReminderPanelProperties.Subtitle",
+  "ja": "非常事態法"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100006A00004DC0",
+  "name_in_database": "ReminderPanel_EmergencyAct",
+  "path": "ReminderPanelProperties.HeaderText",
+  "ja": "Dekre av Prosdenten dei Sordland"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100009A00003843",
+  "name_in_database": "ReminderPanel_MorellaNationalizationDemands",
+  "path": "ReminderPanelProperties.Title",
+  "ja": "現在の要求"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100009A00003843",
+  "name_in_database": "ReminderPanel_MorellaNationalizationDemands",
+  "path": "ReminderPanelProperties.Subtitle",
+  "ja": "モレラ国有化要求"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100009A00003843",
+  "name_in_database": "ReminderPanel_MorellaNationalizationDemands",
+  "path": "ReminderPanelProperties.HeaderText",
+  "ja": "Demandius Morella axa Rizia Imperii"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100009A0000382A",
+  "name_in_database": "ReminderPanel_WehlenTradeNegotiations",
+  "path": "ReminderPanelProperties.Title",
+  "ja": "現在の通商協定"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100009A0000382A",
+  "name_in_database": "ReminderPanel_WehlenTradeNegotiations",
+  "path": "ReminderPanelProperties.Subtitle",
+  "ja": "ヴェーレン交渉の約定"
+ },
+ {
+  "type": "ReminderPanelData",
+  "item_id": "0x0100009A0000382A",
+  "name_in_database": "ReminderPanel_WehlenTradeNegotiations",
+  "path": "ReminderPanelProperties.HeaderText",
+  "ja": "Negotius Wehzeki axa Rizia Imperii"
+ }
+]

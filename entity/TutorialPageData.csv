@@ -1,0 +1,87 @@
+﻿type,item_id,name_in_database,path,ja
+TutorialPageData,0x010000CC0000003C,WarProduction_Tutorial_Page_AvailableUnits,TutorialPageProperties.Title,利用可能な部隊
+TutorialPageData,0x010000CC0000003C,WarProduction_Tutorial_Page_AvailableUnits,TutorialPageProperties.Description,"各部隊の下の数字は、その種類の部隊が何個すぐに使えるかを示しています。
+
+「+」アイコンは、その種類の部隊を訓練できることを表します。すべての部隊が訓練できるわけではありません。勅令や物語上の決断によって解放される部隊もあります。"
+TutorialPageData,0x010000CC00000051,WarProduction_Tutorial_Page_DeployedUnits,TutorialPageProperties.Title,展開中の部隊
+TutorialPageData,0x010000CC00000051,WarProduction_Tutorial_Page_DeployedUnits,TutorialPageProperties.Description,"現在戦場に出ている部隊は、下の「展開中」パネルに表示されます。
+
+各部隊の下の数字は、今どれだけの部隊が展開しているかを示しています。"
+TutorialPageData,0x010000CC0000004A,WarProduction_Tutorial_Page_GainingResources,TutorialPageProperties.Title,資源を増やす
+TutorialPageData,0x010000CC0000004A,WarProduction_Tutorial_Page_GainingResources,TutorialPageProperties.Description,部隊の訓練に使う資源を増やすには、工場を建設する勅令に署名し、通商協定を結び、あるいは軍に有利な決断を下してください。
+TutorialPageData,0x010000CC00000043,WarProduction_Tutorial_Page_InTraining,TutorialPageProperties.Title,「訓練中」
+TutorialPageData,0x010000CC00000043,WarProduction_Tutorial_Page_InTraining,TutorialPageProperties.Description,"「訓練中」の欄には、現在訓練している部隊が表示されます。これらは次のターンに展開できるようになります。
+
+「訓練中」パネルで部隊をクリックすれば、訓練を取り消して外すことができます。
+
+下の「訓練」ボタンを押すと、訓練中の部隊は確定し、以後は外せなくなります。資源は限られていることがあるため、訓練に踏み切る前に慎重に計画してください。"
+TutorialPageData,0x010000CC00000035,WarProduction_Tutorial_Page_Resources,TutorialPageProperties.Title,資源
+TutorialPageData,0x010000CC00000035,WarProduction_Tutorial_Page_Resources,TutorialPageProperties.Description,"装備・戦車・トラックなどの資源がここに表示されます。これらを消費して部隊を訓練します。
+
+下の「利用可能」にある部隊の種類にカーソルを合わせると、その訓練費用を確認できます。"
+TutorialPageData,0x010000820000054B,War_Tutorial_Page_AirStrikes,TutorialPageProperties.Title,航空攻撃と航空支援
+TutorialPageData,0x010000820000054B,War_Tutorial_Page_AirStrikes,TutorialPageProperties.Description,"味方の対空タイル <sprite name=""antiair""> の防護範囲内にない部隊は、すべて航空攻撃の標的となりえます。
+<indent=5%> \u2022 航空攻撃は部隊の <sprite name=""organization""> に損害を与えます。攻撃を受けた支援部隊は、支援している戦闘から外されます。
+
+敵の対空タイル <sprite name=""antiair""> の範囲内になく、かつ戦闘中である自軍の部隊は、航空支援を受けられます。これによりその部隊の <sprite name=""attack""> または <sprite name=""defence""> にボーナスが加わります。
+
+航空攻撃・航空支援はいずれも、再び使えるようになるまで数ターンの再使用待機があります。"
+TutorialPageData,0x0100008200000533,War_Tutorial_Page_Attack,TutorialPageProperties.Title,攻撃
+TutorialPageData,0x0100008200000533,War_Tutorial_Page_Attack,TutorialPageProperties.Description,"\u2022 陸上部隊は、まだ戦闘に加わっておらず <sprite name=""organization""> が0より大きい隣接の敵部隊または都市を攻撃できます。戦闘に加わっている支援部隊も攻撃の対象にできます。
+\u2022 海上部隊は、数タイル離れていても攻撃できます。その部隊は自動的に隣接タイルへ移動して攻撃します。"
+TutorialPageData,0x0100008200000547,War_Tutorial_Page_Fortify,TutorialPageProperties.Title,陣地構築
+TutorialPageData,0x0100008200000547,War_Tutorial_Page_Fortify,TutorialPageProperties.Description,"部隊を選択し、その部隊がいるタイルをもう一度クリックすると、陣地構築 <sprite name=""fortify""> ができます。これにより <sprite name=""defence""> +1のボーナスを得て、毎ターン <sprite name=""organization""> が+1回復します。 
+<indent=5%> \u2022 陣地構築した部隊は、次のターンまで移動も支援もできません。
+<indent=5%> \u2022 <sprite name=""organization""> が0の部隊は、陣地構築していても蹂躙 <sprite name=""overrun""> されることがあります。"
+TutorialPageData,0x0100008200000537,War_Tutorial_Page_LandBattle,TutorialPageProperties.Title,陸上戦闘
+TutorialPageData,0x0100008200000537,War_Tutorial_Page_LandBattle,TutorialPageProperties.Description,"攻撃するか攻撃されると戦闘が発生します。
+<indent=5%> \u2022 双方の点数が等しい戦闘は、防御側の勝利で終わります。攻撃側は <sprite name=""organization""> を1失います。
+<indent=5%> \u2022 防御側の部隊の <sprite name=""organization""> が0になると、攻撃側に蹂躙されるか、空いている隣接タイルがあればそこへ押し戻されます。
+<indent=5%> \u2022 防御側の都市の <sprite name=""organization""> が0になると、その都市は帰属を変えます。
+<indent=5%> \u2022 <sprite name=""organization""> が0の敵部隊を攻撃すると、その部隊を蹂躙 <sprite name=""overrun""> し、そのタイルを奪います。"
+TutorialPageData,0x0100008200000520,War_Tutorial_Page_MapOverview,TutorialPageProperties.Title,マップの概要
+TutorialPageData,0x0100008200000520,War_Tutorial_Page_MapOverview,TutorialPageProperties.Description,"山岳 <sprite name=""mountain"">：
+<indent=5%> \u2022 山岳兵は <sprite name=""mountain""> へ、から、そしてその上を自由に移動でき、能力値にもボーナスを得ます。通常の部隊は <sprite name=""defence""> にボーナスを得る一方 <sprite name=""attack""> に不利を受け、さらに <sprite name=""mountain""> へ移動するとそのターンの残りは行動が封じられます <sprite name=""movementlocked"">。</indent>
+要塞 <sprite name=""fortlevel1""><sprite name=""fortlevel2"">：
+<indent=5%> \u2022 これらのタイルは、占拠している部隊の <sprite name=""defence""> にボーナスを与えます。 </indent>
+対空 <sprite name=""antiair"">：
+<indent=5%> \u2022 これらのタイルは、占拠中および隣接する味方部隊を航空攻撃による爆撃 <sprite name=""bombed""> から守ります。防護はタイルと同じ陣営の部隊にのみ及びます。</indent>
+沿岸砲 <sprite name=""coastalartillery"">：
+<indent=5%> \u2022 これらのタイルは、隣接タイルにいる敵の海上部隊に損害を与えます。隣接部隊への効果はタイルの帰属によって決まります。</indent>
+飛行場 <sprite name=""airbase"">：
+<indent=5%> \u2022 これらのタイルは敵の航空攻撃力を支えています。奪取すれば敵の航空攻撃能力を削ぐことができます。 </indent>"
+TutorialPageData,0x010000820000052F,War_Tutorial_Page_Movement,TutorialPageProperties.Title,移動
+TutorialPageData,0x010000820000052F,War_Tutorial_Page_Movement,TutorialPageProperties.Description,"\u2022 通常：空いている隣接タイルへ移動するか、味方部隊と位置を入れ替えます。
+\u2022 補給線：車両は補給線上を最大2タイル移動できます。
+\u2022 山岳 <sprite name=""mountain""> ：山岳兵以外の部隊は移動が封じられます <sprite name=""movementlocked"">。
+\u2022 海：海上部隊は行動範囲が広く、封鎖されていない <sprite name=""blockaded""> 海上の空きタイルであればどこへでも移動できます。"
+TutorialPageData,0x0100008200000629,War_Tutorial_Page_NavalBattle,TutorialPageProperties.Title,海上戦闘
+TutorialPageData,0x0100008200000629,War_Tutorial_Page_NavalBattle,TutorialPageProperties.Description,"<indent=5%> \u2022 海上部隊は、離れた位置にいる他の海上部隊も攻撃できます。攻撃時には自動的に敵部隊へ移動します。
+<indent=5%> \u2022 海上部隊は陸上部隊を直接攻撃することはできません。
+<indent=5%> \u2022 陸上部隊とは異なり、海上部隊は戦闘から離脱して退くことができます。これには行動力を1消費します。"
+TutorialPageData,0x0100008200000625,War_Tutorial_Page_NavalSupport,TutorialPageProperties.Title,海上支援
+TutorialPageData,0x0100008200000625,War_Tutorial_Page_NavalSupport,TutorialPageProperties.Description,"<indent=5%> \u2022 海上部隊は戦闘において互いを支援できます。
+<indent=5%> \u2022 陸上部隊が海上戦闘を支援できないのに対し、海上部隊は海タイルに隣接する陸上部隊を支援することもできます。 
+<indent=5%> \u2022 海上部隊は2種類の <sprite name=""support""> を持ち、一方は陸上戦闘の支援、もう一方は海上戦闘の支援に使われます。"
+TutorialPageData,0x0100008200000519,War_Tutorial_Page_Objective,TutorialPageProperties.Title,目標
+TutorialPageData,0x0100008200000519,War_Tutorial_Page_Objective,TutorialPageProperties.Description,"\u2022 すべての目標 <sprite name=""objective""> を占領し、保持してください。できるかぎり多くの領土を得て、敵の攻撃を退けてそれを守ります。"
+TutorialPageData,0x010000820000054F,War_Tutorial_Page_ParaMarines,TutorialPageProperties.Title,空挺兵と海兵
+TutorialPageData,0x010000820000054F,War_Tutorial_Page_ParaMarines,TutorialPageProperties.Description,"軍への投資の種類に応じて、空挺兵または海兵を敵陣の背後に降下・上陸させることができます。
+<indent=5%> \u2022 空挺兵は強調表示されたタイルに展開できます。
+<indent=5%> \u2022 海兵は強調表示された海岸タイルに展開できます。"
+TutorialPageData,0x0100008200000553,War_Tutorial_Page_SupplyLines,TutorialPageProperties.Title,補給線
+TutorialPageData,0x0100008200000553,War_Tutorial_Page_SupplyLines,TutorialPageProperties.Description,"補給線は、都市と部隊に物資を届けて有利をもたらす道路網です。
+<indent=5%> \u2022 補給を受けている都市は <sprite name=""defence""> が高くなり、機能している補給線上の部隊はターン終了時に自動的に <sprite name=""organization""> が+1されます。 
+<indent=5%> \u2022 敵の補給線は橙色、自軍の補給線は青色、遮断された補給線は灰色で表示されます。
+<indent=5%> \u2022 機能している敵の補給線上には、敵の増援が出現することがあります。"
+TutorialPageData,0x010000820000053B,War_Tutorial_Page_Support,TutorialPageProperties.Title,支援
+TutorialPageData,0x010000820000053B,War_Tutorial_Page_Support,TutorialPageProperties.Description,"\u2022 部隊は戦闘中の味方を支援できます。その <sprite name=""support""> が戦闘の計算に加算されます。
+\u2022 戦闘を支援するには、味方部隊が攻撃側または防御側の部隊に隣接している必要があります。 
+\u2022 艦船は陸上戦闘も海上戦闘も支援できますが、陸上部隊は海上戦闘を支援できません。
+\u2022 敵の陸上部隊は、攻撃するときも攻撃されるときも自動的に戦闘を支援します。"
+TutorialPageData,0x0100008200000527,War_Tutorial_Page_Units,TutorialPageProperties.Title,部隊
+TutorialPageData,0x0100008200000527,War_Tutorial_Page_Units,TutorialPageProperties.Description,"部隊は4つの能力値を持ちます。 
+<indent=5%> \u2022 組織率 <sprite name=""organization"">
+<indent=5%> \u2022 攻撃 <sprite name=""attack"">
+<indent=5%> \u2022 防御 <sprite name=""defence"">
+<indent=5%> \u2022 支援 <sprite name=""support"">"

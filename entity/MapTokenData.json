@@ -1,0 +1,2116 @@
+[
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900000831",
+  "name_in_database": "Faction_Event_ATO",
+  "path": "MapTokenProperties.Title",
+  "ja": "アルカシア条約機構"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900000831",
+  "name_in_database": "Faction_Event_ATO",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "超大国同盟"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900000831",
+  "name_in_database": "Faction_Event_ATO",
+  "path": "DescriptionProperties.Description",
+  "ja": "アルカシア条約機構（ATO）は、1945年にアルカシア大統領レナルド・ルヴティエによって結成された政府間の軍事・経済同盟である。14の加盟国からなり、主としてアルカシアが主導し、経済協力とコンタナ条約機構に対する集団防衛の統一的な枠組みを築くことを目的とする。\n\nATOは資本主義経済をとる国が大半を占め、コンタナ連邦の影響力に対する均衡装置として機能している。その第一の目的は、社会主義の拡大を抑え、メルコパとその周辺の政治的・経済的な安定を守ることにある。\n\n近年、同盟は核抑止を一層重視するようになった。核兵器が現代の軍事戦略の要となったことの反映である。ATOの協調は今や、共同抑止計画、ミサイル防衛の開発、加盟国間の安全保障統合の拡大にまで及んでいる。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900000838",
+  "name_in_database": "Faction_Event_CSP",
+  "path": "MapTokenProperties.Title",
+  "ja": "コンタナ条約機構"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900000838",
+  "name_in_database": "Faction_Event_CSP",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "超大国同盟"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900000838",
+  "name_in_database": "Faction_Event_CSP",
+  "path": "DescriptionProperties.Description",
+  "ja": "コンタナ条約機構（CSP）は、1946年末にコンタナ連邦議長レオン・マレニエフによって設立された政府間の軍事・経済同盟である。アルカシア条約機構（ATO）の創設に直接応じて結成されたCSPは、拡大するアルカシア資本主義の影響力に対抗する統一的な防衛・経済圏として機能している。\n\nコンタナ連邦が主導するこの同盟は、資源の共有と中央集権的な貿易を行う計画経済国が中心である。その根幹の目的は、社会主義国の主権を守り、自由主義的な資本主義の影響がコンタナとその周辺へ広がるのを阻むことにある。\n\n近年、CSPはヴァルグスランドなど志を同じくする国々との協力を深め、地政学的な足場をメルコパへ広げようとしてきた。軍事的な連携、思想的な連帯、地域的な提携を通じて、この機構は続く世界規模の角逐においてATO主導の動きに対する主たる重石であり続けている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000A10000426E",
+  "name_in_database": "Faction_Event_GRACE",
+  "path": "MapTokenProperties.Title",
+  "ja": "王室通商同盟ギルド"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000A10000426E",
+  "name_in_database": "Faction_Event_GRACE",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "経済文化機構"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000A10000426E",
+  "name_in_database": "Faction_Event_GRACE",
+  "path": "DescriptionProperties.Description",
+  "ja": "王室通商同盟ギルド（G.R.A.C.E.）は、メルコパ、リカ、シナ、アンラカン諸島、コンタナなど各大陸の君主国のあいだで経済協力と交流を育むために設立された国際組織である。加盟国間の貿易・投資・外交関係を促すことで、GRACEは世界経済と国際関係において大きな役割を果たしてきた。\n\n創設国の一つであるルンブルク王国はGRACEの有力国の一つであり、ほかにリジア王国、ソラディス諸男爵領、諸公国、ナールブルク、アル＝リカル聖王国、ヴェンドネサム連合、ナリプルナ王国などが加盟している。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D8C",
+  "name_in_database": "International_Event_HeljilandBlockade",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヘルジランド封鎖"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D8C",
+  "name_in_database": "International_Event_HeljilandBlockade",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヘルジランド島"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D8C",
+  "name_in_database": "International_Event_HeljilandBlockade",
+  "path": "DescriptionProperties.Description",
+  "ja": "ヘルジランドは現在、ヴァルグスランド海軍によって完全に封鎖されている。この封鎖は、島の支配を奪うべく派兵するというヘーゲル首相の決定の一環と見られている。\n\n発端は、任命されたアグノリア人総督に反対してヘルジランドで起きた暴力的な抗議であった。ヴァルグスランド側の情報では、アグノリアの治安部隊によって数百人が殺害され、その多くは島に住むヴァルグ系住民だったという。\n\nヴァルグスランドは今なおこの島を本土から失われた一部とみなしており、島の安全と平和の保障者を自任している。ヘルジランドに多数を占めるヴァルグ系住民もまた島をヴァルグスランドの一部と考えており、ヴァルグスランドの民族主義者たちは島が自国の不可分の一部であるとの主張を声高に唱えている。\n\n封鎖はこの地域の交易と商業を大きく混乱させ、ヘルジランドのみならず近隣諸国にも影響を及ぼしている。緊張が高まり続けるなか、地域の市民の安全と生活が最大の懸念であり続けている。国際社会は事態を注視し、双方に自制と平和的解決を求めている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D82",
+  "name_in_database": "International_Event_OperationBearTrap",
+  "path": "MapTokenProperties.Title",
+  "ja": "熊の罠作戦"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D82",
+  "name_in_database": "International_Event_OperationBearTrap",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "BFFとの戦い"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D82",
+  "name_in_database": "International_Event_OperationBearTrap",
+  "path": "DescriptionProperties.Description",
+  "ja": "ヴェーレンのスモラク大統領は、ブルディア自由戦線として知られる分離主義の武装集団に対する「熊の罠作戦」の開始を宣言した。ヴェゼク政府は同集団がヴェーレン国内に騒擾と暴力をもたらしたと非難し、政治的・民間の標的へのテロ攻撃の責任を負わせている。\n\n作戦はこの地域におけるブルディア自由戦線の活動を封じることを狙いとし、とりわけヴェーレン北部のブルディア人居住地域に重点を置く。大統領は市民の安全に最大限の配慮をもって作戦を遂行し、罪なき人々への危害を防ぐためあらゆる必要な措置を講じると述べているが、国際社会はヴェゼク軍による過剰な武力行使を懸念している。\n\nブルディア人共同体に対するスモラク大統領のこれまでの姿勢、そして急ぎ導入された国際報道機関への一時的な取材禁止とあいまって、国際社会は事の推移を憂慮しつつ見守り、ヴェゼク政府に自制と作戦の透明性を求めている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D7A",
+  "name_in_database": "International_Event_TradeWar",
+  "path": "MapTokenProperties.Title",
+  "ja": "超大国間の貿易戦争"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D7A",
+  "name_in_database": "International_Event_TradeWar",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "リカ湾"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500009D7A",
+  "name_in_database": "International_Event_TradeWar",
+  "path": "DescriptionProperties.Description",
+  "ja": "アルカシアとコンタナ連邦の緊張が高まったことで、リカ湾は世界の注目を集めることとなった。現在、リカ湾全域と北リカ海はCSP同盟によって封鎖されている。これにより中央洋の交易網は大きく乱れ、世界の通商路はこの地域を避けて迂回することとなり、深刻な物資不足と物価の高騰を招いている。\n\n発端は、アルカシアが主導したニビヤでの政変であった。民主的に選ばれた政府が倒され、民族主義者のゼデユ・オグルンワ大佐が権力の座に就いた。これに応じてコンタナ連邦はリカ湾および北リカの封鎖を主導し、マルキア海と中央洋を結ぶ航路を断った。これが世界の貿易と商業に大きな混乱をもたらし、各国に影響を及ぼしている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xE3554F21B4A2D0C7",
+  "name_in_database": "NeutralLens_Country_Zanza_Copy",
+  "path": "MapTokenProperties.Title",
+  "ja": "民主ザンザ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xE3554F21B4A2D0C7",
+  "name_in_database": "NeutralLens_Country_Zanza_Copy",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ラファラ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000092",
+  "name_in_database": "Rizia_City_Argno",
+  "path": "MapTokenProperties.Title",
+  "ja": "アルグノ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000092",
+  "name_in_database": "Rizia_City_Argno",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ブレナス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033CE",
+  "name_in_database": "Rizia_City_Benievon",
+  "path": "MapTokenProperties.Title",
+  "ja": "ベニエヴォン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033CE",
+  "name_in_database": "Rizia_City_Benievon",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヴァレンキリス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000064",
+  "name_in_database": "Rizia_City_Bronaz",
+  "path": "MapTokenProperties.Title",
+  "ja": "ブロナズ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000064",
+  "name_in_database": "Rizia_City_Bronaz",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "リジア・インペリイ州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000A9",
+  "name_in_database": "Rizia_City_FolceDator",
+  "path": "MapTokenProperties.Title",
+  "ja": "フォルチェ・ダトール"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000A9",
+  "name_in_database": "Rizia_City_FolceDator",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "カルデス＝モンタクラル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000007B",
+  "name_in_database": "Rizia_City_FortAles",
+  "path": "MapTokenProperties.Title",
+  "ja": "アレス要塞"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000007B",
+  "name_in_database": "Rizia_City_FortAles",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "パレス行政区"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000004D",
+  "name_in_database": "Rizia_City_Havas",
+  "path": "MapTokenProperties.Title",
+  "ja": "ハヴァス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000004D",
+  "name_in_database": "Rizia_City_Havas",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "カルデス＝モンタクラル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000002D0",
+  "name_in_database": "Rizia_City_Iza",
+  "path": "MapTokenProperties.Title",
+  "ja": "イザ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000002D0",
+  "name_in_database": "Rizia_City_Iza",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "イザ都市国家"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000C0",
+  "name_in_database": "Rizia_City_Jales",
+  "path": "MapTokenProperties.Title",
+  "ja": "ジャレス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000C0",
+  "name_in_database": "Rizia_City_Jales",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ブレナス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000D7",
+  "name_in_database": "Rizia_City_MaveNortus",
+  "path": "MapTokenProperties.Title",
+  "ja": "マーヴェ・ノルトゥス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000D7",
+  "name_in_database": "Rizia_City_MaveNortus",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ブレナス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000EE",
+  "name_in_database": "Rizia_City_Mermi",
+  "path": "MapTokenProperties.Title",
+  "ja": "メルミ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000000EE",
+  "name_in_database": "Rizia_City_Mermi",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヴァレンキリス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000550000735E",
+  "name_in_database": "Rizia_City_Monqiz",
+  "path": "MapTokenProperties.Title",
+  "ja": "モンキズ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000550000735E",
+  "name_in_database": "Rizia_City_Monqiz",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヴァレンキリス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000002E7",
+  "name_in_database": "Rizia_City_Montaklar",
+  "path": "MapTokenProperties.Title",
+  "ja": "モンタクラル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000002E7",
+  "name_in_database": "Rizia_City_Montaklar",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "カルデス＝モンタクラル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDD1",
+  "name_in_database": "Rizia_City_Nanta",
+  "path": "MapTokenProperties.Title",
+  "ja": "ナンタ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDD1",
+  "name_in_database": "Rizia_City_Nanta",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ジル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033DF",
+  "name_in_database": "Rizia_City_Nelvisar",
+  "path": "MapTokenProperties.Title",
+  "ja": "ネルヴィサル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033DF",
+  "name_in_database": "Rizia_City_Nelvisar",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "カルデス＝モンタクラル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CD58",
+  "name_in_database": "Rizia_City_Pales",
+  "path": "MapTokenProperties.Title",
+  "ja": "パレス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CD58",
+  "name_in_database": "Rizia_City_Pales",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "パレス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033BD",
+  "name_in_database": "Rizia_City_Plavo",
+  "path": "MapTokenProperties.Title",
+  "ja": "プラヴォ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033BD",
+  "name_in_database": "Rizia_City_Plavo",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "カルデス＝モンタクラル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000550000734C",
+  "name_in_database": "Rizia_City_PorteDrazon",
+  "path": "MapTokenProperties.Title",
+  "ja": "ポルテ・ドラゾン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000550000734C",
+  "name_in_database": "Rizia_City_PorteDrazon",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "リジア・インペリイ州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E0000350A",
+  "name_in_database": "Rizia_City_Qabiz",
+  "path": "MapTokenProperties.Title",
+  "ja": "カビズ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E0000350A",
+  "name_in_database": "Rizia_City_Qabiz",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "リジア・インペリイ州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000133",
+  "name_in_database": "Rizia_City_Qalus",
+  "path": "MapTokenProperties.Title",
+  "ja": "カルス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000133",
+  "name_in_database": "Rizia_City_Qalus",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヴァレンキリス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CD8A",
+  "name_in_database": "Rizia_City_Remaz",
+  "path": "MapTokenProperties.Title",
+  "ja": "レマズ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CD8A",
+  "name_in_database": "Rizia_City_Remaz",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "パレス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000161",
+  "name_in_database": "Rizia_City_Sallabes",
+  "path": "MapTokenProperties.Title",
+  "ja": "サラベス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500000161",
+  "name_in_database": "Rizia_City_Sallabes",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ブレナス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDA3",
+  "name_in_database": "Rizia_City_Solles",
+  "path": "MapTokenProperties.Title",
+  "ja": "ソレス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDA3",
+  "name_in_database": "Rizia_City_Solles",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "パレス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000018F",
+  "name_in_database": "Rizia_City_Terador",
+  "path": "MapTokenProperties.Title",
+  "ja": "テラドール"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000018F",
+  "name_in_database": "Rizia_City_Terador",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "パレス行政区"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000001A6",
+  "name_in_database": "Rizia_City_Topes",
+  "path": "MapTokenProperties.Title",
+  "ja": "トペス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000001A6",
+  "name_in_database": "Rizia_City_Topes",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヴァレンキリス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000001BD",
+  "name_in_database": "Rizia_City_Valenqir",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴァレンキル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000065000001BD",
+  "name_in_database": "Rizia_City_Valenqir",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ヴァレンキリス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDEA",
+  "name_in_database": "Rizia_City_Zille",
+  "path": "MapTokenProperties.Title",
+  "ja": "ジル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDEA",
+  "name_in_database": "Rizia_City_Zille",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ジル州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDB9",
+  "name_in_database": "Rizia_City_Ziqes",
+  "path": "MapTokenProperties.Title",
+  "ja": "ジケス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000520005CDB9",
+  "name_in_database": "Rizia_City_Ziqes",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "パレス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033F0",
+  "name_in_database": "Rizia_City_Zpana",
+  "path": "MapTokenProperties.Title",
+  "ja": "ズパナ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000033F0",
+  "name_in_database": "Rizia_City_Zpana",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ブレナス州"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000742",
+  "name_in_database": "Rizia_Country_Agnolia",
+  "path": "MapTokenProperties.Title",
+  "ja": "アグノリア共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000742",
+  "name_in_database": "Rizia_Country_Agnolia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "自由か、さもなくば破滅か"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000742",
+  "name_in_database": "Rizia_Country_Agnolia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "スタールポート"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000742",
+  "name_in_database": "Rizia_Country_Agnolia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "アグノリア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000742",
+  "name_in_database": "Rizia_Country_Agnolia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "ディエルク・ダン・オトケンデ首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000742",
+  "name_in_database": "Rizia_Country_Agnolia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007B2",
+  "name_in_database": "Rizia_Country_Derdia",
+  "path": "MapTokenProperties.Title",
+  "ja": "デルディア・ヌーリスト共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007B2",
+  "name_in_database": "Rizia_Country_Derdia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "神と預言者ヴルヘック、そしてヌーリスト共和国に"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007B2",
+  "name_in_database": "Rizia_Country_Derdia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ネアエル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007B2",
+  "name_in_database": "Rizia_Country_Derdia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "デルディア・ゲルド語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007B2",
+  "name_in_database": "Rizia_Country_Derdia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "最高賢者ヨルガ・アズマル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007B2",
+  "name_in_database": "Rizia_Country_Derdia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "神権共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x6A9B59AB0500439E",
+  "name_in_database": "Rizia_Country_Galmland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ガルムランド"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x6A9B59AB0500439E",
+  "name_in_database": "Rizia_Country_Galmland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "レフェイク"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007A0",
+  "name_in_database": "Rizia_Country_Kyrute",
+  "path": "MapTokenProperties.Title",
+  "ja": "キルート共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007A0",
+  "name_in_database": "Rizia_Country_Kyrute",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "進歩、不屈、そして自由"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007A0",
+  "name_in_database": "Rizia_Country_Kyrute",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "コンスタンティウム"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007A0",
+  "name_in_database": "Rizia_Country_Kyrute",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ヴァルグ語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007A0",
+  "name_in_database": "Rizia_Country_Kyrute",
+  "path": "CountryDetailsProperties.President",
+  "ja": "イノス・アドリウメル首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007A0",
+  "name_in_database": "Rizia_Country_Kyrute",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000072E",
+  "name_in_database": "Rizia_Country_Lespia",
+  "path": "MapTokenProperties.Title",
+  "ja": "レスピア共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000072E",
+  "name_in_database": "Rizia_Country_Lespia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "幸運、力、自由"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000072E",
+  "name_in_database": "Rizia_Country_Lespia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ペルラ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000072E",
+  "name_in_database": "Rizia_Country_Lespia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "レスピア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000072E",
+  "name_in_database": "Rizia_Country_Lespia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "パトリシオ・アルバレス首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000072E",
+  "name_in_database": "Rizia_Country_Lespia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007C4",
+  "name_in_database": "Rizia_Country_Morella",
+  "path": "MapTokenProperties.Title",
+  "ja": "モレラ共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007C4",
+  "name_in_database": "Rizia_Country_Morella",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "多くより一つを"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007C4",
+  "name_in_database": "Rizia_Country_Morella",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "カヴェット"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007C4",
+  "name_in_database": "Rizia_Country_Morella",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "モレラ語・キナル語・ヴァルグ語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007C4",
+  "name_in_database": "Rizia_Country_Morella",
+  "path": "CountryDetailsProperties.President",
+  "ja": "アルマ・サルタナ首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000007C4",
+  "name_in_database": "Rizia_Country_Morella",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x6BC750AF30F91AED",
+  "name_in_database": "Rizia_Country_Nibiya",
+  "path": "MapTokenProperties.Title",
+  "ja": "ニビヤ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x6BC750AF30F91AED",
+  "name_in_database": "Rizia_Country_Nibiya",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ジャミル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000078E",
+  "name_in_database": "Rizia_Country_Pales",
+  "path": "MapTokenProperties.Title",
+  "ja": "パレス大公国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000078E",
+  "name_in_database": "Rizia_Country_Pales",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大公に平安あれ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000078E",
+  "name_in_database": "Rizia_Country_Pales",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "パレス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000078E",
+  "name_in_database": "Rizia_Country_Pales",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "パレス語・ヴァルグ語・リジア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000078E",
+  "name_in_database": "Rizia_Country_Pales",
+  "path": "CountryDetailsProperties.President",
+  "ja": "アクセル・ラインハルト大公"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000078E",
+  "name_in_database": "Rizia_Country_Pales",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "絶対君主制"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x500E1A4CA7786DF4",
+  "name_in_database": "Rizia_Country_Qinal",
+  "path": "MapTokenProperties.Title",
+  "ja": "キナル共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x500E1A4CA7786DF4",
+  "name_in_database": "Rizia_Country_Qinal",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ムスタパル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000755",
+  "name_in_database": "Rizia_Country_Rumburg",
+  "path": "MapTokenProperties.Title",
+  "ja": "ルンブルク王国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000755",
+  "name_in_database": "Rizia_Country_Rumburg",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "神を畏れ、女王を敬え"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000755",
+  "name_in_database": "Rizia_Country_Rumburg",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ソーンバラ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000755",
+  "name_in_database": "Rizia_Country_Rumburg",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ルミア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000755",
+  "name_in_database": "Rizia_Country_Rumburg",
+  "path": "CountryDetailsProperties.President",
+  "ja": "ベアトリス・リヴィングストン女王"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000755",
+  "name_in_database": "Rizia_Country_Rumburg",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "半立憲君主制"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000077C",
+  "name_in_database": "Rizia_Country_Sordland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ソードランド共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000077C",
+  "name_in_database": "Rizia_Country_Sordland",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "朝は来る、勝利は近い"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000077C",
+  "name_in_database": "Rizia_Country_Sordland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ホルソード"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000077C",
+  "name_in_database": "Rizia_Country_Sordland",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ソードランド語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000077C",
+  "name_in_database": "Rizia_Country_Sordland",
+  "path": "CountryDetailsProperties.President",
+  "ja": "エヴァルト・アルフォンソ大統領"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000640000077C",
+  "name_in_database": "Rizia_Country_Sordland",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "大統領制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000768",
+  "name_in_database": "Rizia_Country_Valgsland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴァルグスランド民主共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000768",
+  "name_in_database": "Rizia_Country_Valgsland",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "砕かれた枷を越えて"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000768",
+  "name_in_database": "Rizia_Country_Valgsland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ヘルム"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000768",
+  "name_in_database": "Rizia_Country_Valgsland",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ヴァルグ語・ガルム語・古ヴァルグ語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000768",
+  "name_in_database": "Rizia_Country_Valgsland",
+  "path": "CountryDetailsProperties.President",
+  "ja": "エメリッヒ・ヘーゲル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006400000768",
+  "name_in_database": "Rizia_Country_Valgsland",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "社会主義共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000003B",
+  "name_in_database": "Rizia_Country_Wehlen",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴェーレン共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000003B",
+  "name_in_database": "Rizia_Country_Wehlen",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "人民、正義、統一"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000003B",
+  "name_in_database": "Rizia_Country_Wehlen",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ヴラツラヴィッツ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000003B",
+  "name_in_database": "Rizia_Country_Wehlen",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ヴェゼク語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000003B",
+  "name_in_database": "Rizia_Country_Wehlen",
+  "path": "CountryDetailsProperties.President",
+  "ja": "ヴィクトル・スモラク大統領"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000650000003B",
+  "name_in_database": "Rizia_Country_Wehlen",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "大統領制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x600534E5580A9CB7",
+  "name_in_database": "Rizia_Country_Zaerland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ザエルランド"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x600534E5580A9CB7",
+  "name_in_database": "Rizia_Country_Zaerland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ポート・ザエル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000C70000032F",
+  "name_in_database": "Rizia_Country_Zille",
+  "path": "MapTokenProperties.Title",
+  "ja": "独立ジル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000C70000032F",
+  "name_in_database": "Rizia_Country_Zille",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "Zille Inpendentia"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000C70000032F",
+  "name_in_database": "Rizia_Country_Zille",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ジル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000C70000032F",
+  "name_in_database": "Rizia_Country_Zille",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "リジア語・ヴェゼク語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000C70000032F",
+  "name_in_database": "Rizia_Country_Zille",
+  "path": "CountryDetailsProperties.President",
+  "ja": "大統領"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000C70000032F",
+  "name_in_database": "Rizia_Country_Zille",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "大統領制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037C9",
+  "name_in_database": "Rizia_Event_Aureus",
+  "path": "MapTokenProperties.Title",
+  "ja": "アウレウス沖ガス田"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037C9",
+  "name_in_database": "Rizia_Event_Aureus",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "経済資源採掘区域"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037C9",
+  "name_in_database": "Rizia_Event_Aureus",
+  "path": "DescriptionProperties.Description",
+  "ja": "アウレウス・ガス田は、リジアとパレスの海域のあいだに広がる大規模な海底天然ガス鉱床である。両国の合同調査団が、両国の海洋境界をまたぐ位置にこれを発見したことから「アウレウス」と名づけられた。世界最大級のガス田の一つとして、経済的にも戦略的にも大きな重みを持つ。\n\n莫大な埋蔵量を特徴とするアウレウス・ガス田は、世界のエネルギー市場における要の資源である天然ガスの一大供給源となりうる。その開発はリジア・パレス双方のエネルギー部門に大きな影響を与え、地域のエネルギー情勢を塗り替える可能性がある。位置と規模の両面から、このガス田はエネルギー生産上の要衝であり、その開発はより広い範囲のエネルギー勢力図を大きく左右するとみられている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100009A00000009",
+  "name_in_database": "Rizia_Event_InvasionOfPales",
+  "path": "MapTokenProperties.Title",
+  "ja": "パレス侵攻"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100009A00000009",
+  "name_in_database": "Rizia_Event_InvasionOfPales",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "黄金の盾作戦"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100009A00000009",
+  "name_in_database": "Rizia_Event_InvasionOfPales",
+  "path": "DescriptionProperties.Description",
+  "ja": "1955年、リジア王国とパレス大公国のあいだでくすぶっていた緊張はついに全面的な衝突へと燃え上がり、第二次リジア・パレス戦争の幕が開いた。長年の対立が戦火へと煮えこぼれる歴史上の対決をなぞるように、リジアは全軍種を動員する包括的な戦略をとってパレスへの大規模な侵攻を開始した。 \n\nこの攻勢では、航空と海軍の支援に支えられた地上部隊が大挙して投入され、圧倒的な力と連携した機動によってパレスの防衛を打ち破ることが狙われた。戦火はたちまち拡大し、双方がこの地域の主戦場となった地に膨大な資源を注ぎ込むこととなった。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037C0",
+  "name_in_database": "Rizia_Event_MITZ",
+  "path": "MapTokenProperties.Title",
+  "ja": "メフティエム国際貿易区"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037C0",
+  "name_in_database": "Rizia_Event_MITZ",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "国際貿易区"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037C0",
+  "name_in_database": "Rizia_Event_MITZ",
+  "path": "DescriptionProperties.Description",
+  "ja": "モレラ共和国に位置するメフティエム国際貿易区は、1916年に創設された、世界に知られる経済区域である。広大な金鉱施設と精錬所で主に知られている。当初この区域の操業には、モレラ・レスピア・ヴァルグスランド・リジアの企業が参画し、あわせて戦略上重要なムアルディエン港の運営も担われた。これらの国々の協働が、歴史的にこの区域の発展と成功の礎を築いた。\n\n貿易区の中心をなすのはメフティエム盆地である。金を高い濃度で含む堆積岩層に富む、稀有な地質を持つ一帯だ。この天然資源こそ、創設以来この区域の活動の主眼であり続けてきた。年月を経るなかで、メフティエム国際貿易区は世界経済の情勢や国際関係の変化に合わせて姿を変えてきた。 \n\n金鉱業の一大拠点としてのその役割は、今なおこの地域とその外側の経済動向や通商関係に影響を与え続けている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037D2",
+  "name_in_database": "Rizia_Event_Zille",
+  "path": "MapTokenProperties.Title",
+  "ja": "ジル領"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037D2",
+  "name_in_database": "Rizia_Event_Zille",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "租借地"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037D2",
+  "name_in_database": "Rizia_Event_Zille",
+  "path": "DescriptionProperties.Description",
+  "ja": "クレレック海峡に面したリジア最北端に位置するジル領は、19世紀後半から大きな変貌を遂げた。もとは漁業の拠点だったこの地域は、湯治場と保養地の開発によって観光へと軸足を移し、レスピアやリジア内陸から客を集めた。この繁栄の時代は金の発見によって断ち切られ、「ラスティ」モントーロの監督のもとで採掘のための大規模な工業化が進んだ。それに伴う経済の転換は、この地域の風景と社会を大きく変えた。\n\n20世紀に入り、ジルの政治的な立場は1927年のジル協定によって劇的に変わった。リジア国内の紛争を受けて、この領土は25年の期限でヴェーレンへ租借された。軍事的支援によってリジアを安定させることを狙った措置である。この租借は統治のあり方に大きな転換をもたらし、ジルを地域政治の最前面へと押し出した。\n\nヴェーレン内戦の期間、ジルは戦火に追われた人々の避難先となり、資源をめぐって争われる領土から、地域の安定と人道支援の要衝へと姿を変えていった。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037A2",
+  "name_in_database": "Rizia_Faction_Event_ATO",
+  "path": "MapTokenProperties.Title",
+  "ja": "アルカシア条約機構"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037A2",
+  "name_in_database": "Rizia_Faction_Event_ATO",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "超大国同盟"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037A2",
+  "name_in_database": "Rizia_Faction_Event_ATO",
+  "path": "DescriptionProperties.Description",
+  "ja": "アルカシア条約機構は、1945年に結成された協調的な軍事・経済同盟であり、十数か国が加盟している。アルカシアが主導するこの同盟は、コンタナ条約機構の創設と、革命の世紀ののちに高まった地政学的緊張に応じて設立された。\n\n市場経済をとる国々が中心を占めるATOは、集団防衛・経済協調・戦略的協力の共通の枠組みを提供する。政治的自立を保ち、地域の安定を確かなものとし、とりわけメルコパ地域における外部の影響力に対抗することを目的としている。\n\n近年、ATOは核抑止へと重心を移してきた。世界の安全保障において先進的な兵器の役割が増していることを踏まえた転換である。この方向転換は、現代の戦争に対する同盟の姿勢の変化と、先行きの見通しにくい世界において加盟国の集団防衛能力を強めようとする努力の表れである。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037A6",
+  "name_in_database": "Rizia_Faction_Event_CSP",
+  "path": "MapTokenProperties.Title",
+  "ja": "コンタナ条約機構"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037A6",
+  "name_in_database": "Rizia_Faction_Event_CSP",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "超大国同盟"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E000037A6",
+  "name_in_database": "Rizia_Faction_Event_CSP",
+  "path": "DescriptionProperties.Description",
+  "ja": "コンタナ条約機構（CSP）は、1946年末にコンタナ連邦議長レオン・マレニエフによって設立された政府間の軍事・経済同盟である。アルカシア条約機構（ATO）の創設に直接応じて結成されたCSPは、拡大するアルカシア資本主義の影響力に対抗する統一的な防衛・経済圏として機能している。\n\nコンタナ連邦が主導するこの同盟は、資源の共有と中央集権的な貿易を行う計画経済国が中心である。その根幹の目的は、社会主義国の主権を守り、自由主義的な資本主義の影響がコンタナとその周辺へ広がるのを阻むことにある。\n\n近年、CSPはヴァルグスランドなど志を同じくする国々との協力を深め、地政学的な足場をメルコパへ広げようとしてきた。軍事的な連携、思想的な連帯、地域的な提携を通じて、この機構は続く世界規模の角逐においてATO主導の動きに対する主たる重石であり続けている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E0000379E",
+  "name_in_database": "Rizia_Faction_Event_GRACE",
+  "path": "MapTokenProperties.Title",
+  "ja": "王室通商同盟ギルド"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E0000379E",
+  "name_in_database": "Rizia_Faction_Event_GRACE",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "経済文化機構"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100008E0000379E",
+  "name_in_database": "Rizia_Faction_Event_GRACE",
+  "path": "DescriptionProperties.Description",
+  "ja": "王室通商同盟ギルドは、メルコパ、リカ、シナ、アンラカン諸島、コンタナなど各大陸の君主国のあいだで経済協力と交流を育むために設立された国際組織である。加盟国間の貿易・投資・外交関係を促すことで、GRACEは世界経済と国際関係において大きな役割を果たしてきた。\n\n創設国の一つであるルンブルク王国はGRACEの有力国の一つであり、ほかに{RiziaDLCText.GRACECountries}、ソラディス諸男爵領、諸公国、ナールブルク、アル＝リカル聖王国、ナリプルナ王国などが加盟している。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500007BD5",
+  "name_in_database": "Rizia_Faction_Event_Intermerkopum",
+  "path": "MapTokenProperties.Title",
+  "ja": "インテルメルコプム同盟"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500007BD5",
+  "name_in_database": "Rizia_Faction_Event_Intermerkopum",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "地域同盟"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006500007BD5",
+  "name_in_database": "Rizia_Faction_Event_Intermerkopum",
+  "path": "DescriptionProperties.Description",
+  "ja": "リジア王国が創設したインテルメルコプム同盟は、メルコパ南部の地域連合である。アルカシア条約機構とコンタナ条約機構の影響力の拡大に応じて設立され、この地域に中立という第三の選択肢を用意することを目的としている。同盟は加盟国間のエネルギー・貿易・安全保障の統合に重点を置き、地域の協力と自立を促している。\n\n多様な文化と政治体制からなるインテルメルコプム同盟は、その多文化性と政治的多様性において際立っている。この多様性が地域の課題への同盟の姿勢を支え、協働による問題解決と相互支援を促している。 \n\nリジアのほか、インテルメルコプムには{RiziaDLCText.IntermerkopumCountries}が加盟している。それぞれの経済的・政治的な思想は異なるものの、地域の独立と安定を保つという目標のもとに結ばれている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FC6",
+  "name_in_database": "Sordland_City_Anrica",
+  "path": "MapTokenProperties.Title",
+  "ja": "アンリカ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FC6",
+  "name_in_database": "Sordland_City_Anrica",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大ホルソード地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600013006",
+  "name_in_database": "Sordland_City_Antel",
+  "path": "MapTokenProperties.Title",
+  "ja": "アンテル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600013006",
+  "name_in_database": "Sordland_City_Antel",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ゲルスランド地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FB6",
+  "name_in_database": "Sordland_City_Arvory",
+  "path": "MapTokenProperties.Title",
+  "ja": "アルヴォリー"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FB6",
+  "name_in_database": "Sordland_City_Arvory",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "アグンランド地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FB2",
+  "name_in_database": "Sordland_City_Benfi",
+  "path": "MapTokenProperties.Title",
+  "ja": "ベンフィ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FB2",
+  "name_in_database": "Sordland_City_Benfi",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "グルニ地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FE2",
+  "name_in_database": "Sordland_City_Borin",
+  "path": "MapTokenProperties.Title",
+  "ja": "ボリン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FE2",
+  "name_in_database": "Sordland_City_Borin",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "グルニ地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FBE",
+  "name_in_database": "Sordland_City_Conriat",
+  "path": "MapTokenProperties.Title",
+  "ja": "コンリアト"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FBE",
+  "name_in_database": "Sordland_City_Conriat",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大ホルソード地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FAE",
+  "name_in_database": "Sordland_City_Deyr",
+  "path": "MapTokenProperties.Title",
+  "ja": "デイル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FAE",
+  "name_in_database": "Sordland_City_Deyr",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ベルギア地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FCA",
+  "name_in_database": "Sordland_City_Erlory",
+  "path": "MapTokenProperties.Title",
+  "ja": "エルローリー"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FCA",
+  "name_in_database": "Sordland_City_Erlory",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大ホルソード地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FE6",
+  "name_in_database": "Sordland_City_Erzaren",
+  "path": "MapTokenProperties.Title",
+  "ja": "エルザレン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FE6",
+  "name_in_database": "Sordland_City_Erzaren",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ベルギア地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FF2",
+  "name_in_database": "Sordland_City_Estord",
+  "path": "MapTokenProperties.Title",
+  "ja": "エストード"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FF2",
+  "name_in_database": "Sordland_City_Estord",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ナルギス地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FC2",
+  "name_in_database": "Sordland_City_Gelsord",
+  "path": "MapTokenProperties.Title",
+  "ja": "ゲルソード"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FC2",
+  "name_in_database": "Sordland_City_Gelsord",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ゲルスランド地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FA6",
+  "name_in_database": "Sordland_City_Holsord",
+  "path": "MapTokenProperties.Title",
+  "ja": "ホルソード"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FA6",
+  "name_in_database": "Sordland_City_Holsord",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大ホルソード地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FDA",
+  "name_in_database": "Sordland_City_Jen",
+  "path": "MapTokenProperties.Title",
+  "ja": "ジェン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FDA",
+  "name_in_database": "Sordland_City_Jen",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大ホルソード地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FAA",
+  "name_in_database": "Sordland_City_Lachaven",
+  "path": "MapTokenProperties.Title",
+  "ja": "ラハベン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FAA",
+  "name_in_database": "Sordland_City_Lachaven",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ナルギス地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FD2",
+  "name_in_database": "Sordland_City_Laren",
+  "path": "MapTokenProperties.Title",
+  "ja": "ラレン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FD2",
+  "name_in_database": "Sordland_City_Laren",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "アグンランド地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FFE",
+  "name_in_database": "Sordland_City_Leiren",
+  "path": "MapTokenProperties.Title",
+  "ja": "レイレン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FFE",
+  "name_in_database": "Sordland_City_Leiren",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "グルニ地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FBA",
+  "name_in_database": "Sordland_City_Lenkurg",
+  "path": "MapTokenProperties.Title",
+  "ja": "レンクルグ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FBA",
+  "name_in_database": "Sordland_City_Lenkurg",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "アグンランド地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600013002",
+  "name_in_database": "Sordland_City_Morbel",
+  "path": "MapTokenProperties.Title",
+  "ja": "モルベル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600013002",
+  "name_in_database": "Sordland_City_Morbel",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ローレン地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FDE",
+  "name_in_database": "Sordland_City_Morna",
+  "path": "MapTokenProperties.Title",
+  "ja": "モルナ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FDE",
+  "name_in_database": "Sordland_City_Morna",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ローレン地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FCE",
+  "name_in_database": "Sordland_City_Narbel",
+  "path": "MapTokenProperties.Title",
+  "ja": "ナルベル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FCE",
+  "name_in_database": "Sordland_City_Narbel",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ナルギス地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FF6",
+  "name_in_database": "Sordland_City_Ribel",
+  "path": "MapTokenProperties.Title",
+  "ja": "リベル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FF6",
+  "name_in_database": "Sordland_City_Ribel",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ベルギア地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FEA",
+  "name_in_database": "Sordland_City_Ribery",
+  "path": "MapTokenProperties.Title",
+  "ja": "リベリー"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FEA",
+  "name_in_database": "Sordland_City_Ribery",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ゲルスランド地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FFA",
+  "name_in_database": "Sordland_City_Sarna",
+  "path": "MapTokenProperties.Title",
+  "ja": "サルナ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FFA",
+  "name_in_database": "Sordland_City_Sarna",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ベルギア地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FD6",
+  "name_in_database": "Sordland_City_Uziren",
+  "path": "MapTokenProperties.Title",
+  "ja": "ウジレン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FD6",
+  "name_in_database": "Sordland_City_Uziren",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ベルギア地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FEE",
+  "name_in_database": "Sordland_City_Valgen",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴァルゲン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600012FEE",
+  "name_in_database": "Sordland_City_Valgen",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "グルニ地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000460001300A",
+  "name_in_database": "Sordland_City_Vesord",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴェソード"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x010000460001300A",
+  "name_in_database": "Sordland_City_Vesord",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ローレン地方"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D79",
+  "name_in_database": "Sordland_Country_Agnolia",
+  "path": "MapTokenProperties.Title",
+  "ja": "アグノリア共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D79",
+  "name_in_database": "Sordland_Country_Agnolia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "自由か、さもなくば破滅か"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D79",
+  "name_in_database": "Sordland_Country_Agnolia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "スタールポート"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D79",
+  "name_in_database": "Sordland_Country_Agnolia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "アグノリア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D79",
+  "name_in_database": "Sordland_Country_Agnolia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "マールティン・ファン・ホールテン首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D79",
+  "name_in_database": "Sordland_Country_Agnolia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006E6",
+  "name_in_database": "Sordland_Country_Derdia",
+  "path": "MapTokenProperties.Title",
+  "ja": "デルディア・ヌーリスト共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006E6",
+  "name_in_database": "Sordland_Country_Derdia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "神と預言者ヴルヘック、そしてヌーリスト共和国に"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006E6",
+  "name_in_database": "Sordland_Country_Derdia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ネアエル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006E6",
+  "name_in_database": "Sordland_Country_Derdia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "デルディア・ゲルド語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006E6",
+  "name_in_database": "Sordland_Country_Derdia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "最高賢者ヨルガ・アズマル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006E6",
+  "name_in_database": "Sordland_Country_Derdia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "神権共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xB47F671EC2A466A9",
+  "name_in_database": "Sordland_Country_Galmland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ガルムランド"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xB47F671EC2A466A9",
+  "name_in_database": "Sordland_Country_Galmland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "レフェイク"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006D4",
+  "name_in_database": "Sordland_Country_Kyrute",
+  "path": "MapTokenProperties.Title",
+  "ja": "キルート共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006D4",
+  "name_in_database": "Sordland_Country_Kyrute",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "進歩、不屈、そして自由"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006D4",
+  "name_in_database": "Sordland_Country_Kyrute",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "コンスタンティウム"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006D4",
+  "name_in_database": "Sordland_Country_Kyrute",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ヴァルグ語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006D4",
+  "name_in_database": "Sordland_Country_Kyrute",
+  "path": "CountryDetailsProperties.President",
+  "ja": "イノス・アドリウメル首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006D4",
+  "name_in_database": "Sordland_Country_Kyrute",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D71",
+  "name_in_database": "Sordland_Country_Lespia",
+  "path": "MapTokenProperties.Title",
+  "ja": "レスピア共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D71",
+  "name_in_database": "Sordland_Country_Lespia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "幸運、力、自由"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D71",
+  "name_in_database": "Sordland_Country_Lespia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ペルラ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D71",
+  "name_in_database": "Sordland_Country_Lespia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "レスピア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D71",
+  "name_in_database": "Sordland_Country_Lespia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "パトリシオ・アルバレス首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D71",
+  "name_in_database": "Sordland_Country_Lespia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006F8",
+  "name_in_database": "Sordland_Country_Morella",
+  "path": "MapTokenProperties.Title",
+  "ja": "モレラ共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006F8",
+  "name_in_database": "Sordland_Country_Morella",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "多くより一つを"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006F8",
+  "name_in_database": "Sordland_Country_Morella",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "カヴェット"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006F8",
+  "name_in_database": "Sordland_Country_Morella",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "モレラ語・キナル語・ヴァルグ語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006F8",
+  "name_in_database": "Sordland_Country_Morella",
+  "path": "CountryDetailsProperties.President",
+  "ja": "アルマ・サルタナ首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006F8",
+  "name_in_database": "Sordland_Country_Morella",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "議会制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xE5F487AB01EE9EE3",
+  "name_in_database": "Sordland_Country_Nibiya",
+  "path": "MapTokenProperties.Title",
+  "ja": "ニビヤ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xE5F487AB01EE9EE3",
+  "name_in_database": "Sordland_Country_Nibiya",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ジャミル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006C2",
+  "name_in_database": "Sordland_Country_Pales",
+  "path": "MapTokenProperties.Title",
+  "ja": "パレス大公国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006C2",
+  "name_in_database": "Sordland_Country_Pales",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "大公に平安あれ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006C2",
+  "name_in_database": "Sordland_Country_Pales",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "パレス"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006C2",
+  "name_in_database": "Sordland_Country_Pales",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "パレス語・ヴァルグ語・リジア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006C2",
+  "name_in_database": "Sordland_Country_Pales",
+  "path": "CountryDetailsProperties.President",
+  "ja": "アクセル・ラインハルト大公"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006C2",
+  "name_in_database": "Sordland_Country_Pales",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "絶対君主制"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xBCAD50138E89E804",
+  "name_in_database": "Sordland_Country_Qinal",
+  "path": "MapTokenProperties.Title",
+  "ja": "キナル共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xBCAD50138E89E804",
+  "name_in_database": "Sordland_Country_Qinal",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ムスタパル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006B0",
+  "name_in_database": "Sordland_Country_Rizia",
+  "path": "MapTokenProperties.Title",
+  "ja": "リジア王国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006B0",
+  "name_in_database": "Sordland_Country_Rizia",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "黄金に錨を下ろす"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006B0",
+  "name_in_database": "Sordland_Country_Rizia",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ポルテ・ドラゾン"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006B0",
+  "name_in_database": "Sordland_Country_Rizia",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "リジア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006B0",
+  "name_in_database": "Sordland_Country_Rizia",
+  "path": "CountryDetailsProperties.President",
+  "ja": "ロムス・トラス王"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000064000006B0",
+  "name_in_database": "Sordland_Country_Rizia",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "半立憲君主制"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D7D",
+  "name_in_database": "Sordland_Country_Rumburg",
+  "path": "MapTokenProperties.Title",
+  "ja": "ルンブルク王国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D7D",
+  "name_in_database": "Sordland_Country_Rumburg",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "神を畏れ、女王を敬え"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D7D",
+  "name_in_database": "Sordland_Country_Rumburg",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ソーンバラ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D7D",
+  "name_in_database": "Sordland_Country_Rumburg",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ルミア語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D7D",
+  "name_in_database": "Sordland_Country_Rumburg",
+  "path": "CountryDetailsProperties.President",
+  "ja": "ベアトリス・リヴィングストン女王"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D7D",
+  "name_in_database": "Sordland_Country_Rumburg",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "半立憲君主制"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D81",
+  "name_in_database": "Sordland_Country_Valgsland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴァルグスランド民主共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D81",
+  "name_in_database": "Sordland_Country_Valgsland",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "砕かれた枷を越えて"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D81",
+  "name_in_database": "Sordland_Country_Valgsland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ヘルム"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D81",
+  "name_in_database": "Sordland_Country_Valgsland",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ヴァルグ語・ガルム語・古ヴァルグ語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D81",
+  "name_in_database": "Sordland_Country_Valgsland",
+  "path": "CountryDetailsProperties.President",
+  "ja": "エメリッヒ・ヘーゲル首相"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D81",
+  "name_in_database": "Sordland_Country_Valgsland",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "社会主義共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D75",
+  "name_in_database": "Sordland_Country_Wehlen",
+  "path": "MapTokenProperties.Title",
+  "ja": "ヴェーレン共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D75",
+  "name_in_database": "Sordland_Country_Wehlen",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "人民、正義、統一"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D75",
+  "name_in_database": "Sordland_Country_Wehlen",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ヴラツラヴィッツ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D75",
+  "name_in_database": "Sordland_Country_Wehlen",
+  "path": "CountryDetailsProperties.Language",
+  "ja": "ヴェゼク語"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D75",
+  "name_in_database": "Sordland_Country_Wehlen",
+  "path": "CountryDetailsProperties.President",
+  "ja": "ヴィクトル・スモラク大統領"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100004600019D75",
+  "name_in_database": "Sordland_Country_Wehlen",
+  "path": "CountryDetailsProperties.Government",
+  "ja": "大統領制共和国"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xBCEA11DE779A8EF1",
+  "name_in_database": "Sordland_Country_Zaerland",
+  "path": "MapTokenProperties.Title",
+  "ja": "ザエルランド"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0xBCEA11DE779A8EF1",
+  "name_in_database": "Sordland_Country_Zaerland",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ポート・ザエル"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x7DC86631C8BF546F",
+  "name_in_database": "Sordland_Country_Zanza",
+  "path": "MapTokenProperties.Title",
+  "ja": "民主ザンザ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x7DC86631C8BF546F",
+  "name_in_database": "Sordland_Country_Zanza",
+  "path": "CountryDetailsProperties.Capital",
+  "ja": "ラファラ"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000069000017C0",
+  "name_in_database": "Sordland_Event_RumburgInvasion",
+  "path": "MapTokenProperties.Title",
+  "ja": "ルンブルク・ソードランド戦争"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000069000017C0",
+  "name_in_database": "Sordland_Event_RumburgInvasion",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ルンブルク侵攻"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x01000069000017C0",
+  "name_in_database": "Sordland_Event_RumburgInvasion",
+  "path": "DescriptionProperties.Description",
+  "ja": "ルンブルク・ソードランド戦争は、ルンブルクとソードランドのあいだで続く国際紛争である。 \n\n両国間の危機の解決に失敗したのち、ソードランドはルンブルク王国に宣戦を布告し、全面的な侵攻を開始した。 \n\nこの戦争は、ヴェーレン内戦以来、東メルコパで最大の難民・人道危機を引き起こした。戦火が続くなか、多くの市民が住まいを追われ、紛争から逃れることを余儀なくされている。"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900001563",
+  "name_in_database": "Sordland_Event_RumburgWar",
+  "path": "MapTokenProperties.Title",
+  "ja": "ルンブルク・ソードランド戦争"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900001563",
+  "name_in_database": "Sordland_Event_RumburgWar",
+  "path": "MapTokenProperties.Subtitle",
+  "ja": "ソードランド侵攻"
+ },
+ {
+  "type": "MapTokenData",
+  "item_id": "0x0100006900001563",
+  "name_in_database": "Sordland_Event_RumburgWar",
+  "path": "DescriptionProperties.Description",
+  "ja": "ルンブルク・ソードランド戦争は、ルンブルクとソードランドのあいだで続く国際紛争である。 \n\n賠償交渉が決裂したのち、ベアトリス・リヴィングストン女王はソードランド共和国に宣戦を布告し、全面的な侵攻を開始した。 \n\nこの戦争は、ヴェーレン内戦以来、東メルコパで最大の難民・人道危機を引き起こした。戦火が続くなか、多くの市民が住まいを追われ、紛争から逃れることを余儀なくされている。"
+ }
+]

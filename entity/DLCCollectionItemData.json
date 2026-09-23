@@ -1,0 +1,30 @@
+[
+ {
+  "type": "DLCCollectionItemData",
+  "item_id": "0x0100009900000145",
+  "name_in_database": "DLCCollectionItem_GoldBar",
+  "path": "DLCCollectionItemProperties.Title",
+  "ja": "王室金塊"
+ },
+ {
+  "type": "DLCCollectionItemData",
+  "item_id": "0x0100009900000145",
+  "name_in_database": "DLCCollectionItem_GoldBar",
+  "path": "DLCCollectionItemProperties.Description",
+  "ja": "リジアの富と繁栄の証が、一キログラムの純金の延べ棒と装飾を施された金貨に永遠のかたちを与えられた。リジア王室金鉱で採掘されたこの品が、持ち主に大いなる繁栄をもたらし、感謝と創造の証となりますように。"
+ },
+ {
+  "type": "DLCCollectionItemData",
+  "item_id": "0x0100006A0000B87A",
+  "name_in_database": "DLCCollectionItem_VulpitzerAward",
+  "path": "DLCCollectionItemProperties.Title",
+  "ja": "ヴルピッツァー賞"
+ },
+ {
+  "type": "DLCCollectionItemData",
+  "item_id": "0x0100006A0000B87A",
+  "name_in_database": "DLCCollectionItem_VulpitzerAward",
+  "path": "DLCCollectionItemProperties.Description",
+  "ja": "その威信と栄誉において並ぶものなく、ヴルピッツァー賞は世界最高の功績を示す象徴である。机上に輝くその姿は、比類なき貢献と、揺るがぬ誠実さと、真実を追い求める大胆さの、何よりの証となる。\n\nきらめく面のひとつひとつが受賞者の行いを映し出し、人々を励ます灯火として、そして不屈の精神を思い起こさせる品として在り続ける。"
+ }
+]

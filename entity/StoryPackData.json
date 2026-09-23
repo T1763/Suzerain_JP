@@ -1,0 +1,254 @@
+[
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[0].Title",
+  "ja": "政体"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[0].Value",
+  "ja": "大統領制共和国"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[1].Title",
+  "ja": "人口"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[1].Value",
+  "ja": "3,600万人"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[2].Title",
+  "ja": "経済"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[2].Value",
+  "ja": "不況下"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[3].Title",
+  "ja": "地域的影響"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[3].Value",
+  "ja": "大国"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[4].Title",
+  "ja": "開始日"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.Fields[4].Value",
+  "ja": "1954年"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.QuoteText",
+  "ja": "あなたは私の隷属であり、私の自由。\nあなたは生々しい夏の夜のように燃える私の肉体。\nあなたは私の祖国。"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.LeaderName",
+  "ja": "アントン・レイン"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.CountryName",
+  "ja": "ソードランド共和国"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.LeaderTitle",
+  "ja": "ソードランド第4代大統領"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.QuoteAuthor",
+  "ja": "ナーズム・ヒクメット・ラン"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.StoryPackTitle",
+  "ja": "メインストーリー"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.CountryNameShort",
+  "ja": "ソードランド"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017BC",
+  "name_in_database": "StoryPack_Main",
+  "path": "StoryPackProperties.LeaderDescription",
+  "ja": "アントン・レインは、深刻な不況、改革への要求、そして外圧のただ中で、ソードランド第4代大統領に選出された。新たな一頁を開き、経済的苦境からの立て直しを掲げた選挙戦が、分断された有権者の心をとらえた結果だった。\n\n政権が形を成しつつある今も、権力の中枢には不透明さが漂っている。レインが向き合うのは、制度疲労と、慎重な楽観と、静かに差し迫る変革の要請を抱えた国家である。"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[0].Title",
+  "ja": "政体"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[0].Value",
+  "ja": "半立憲君主制"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[1].Title",
+  "ja": "人口"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[1].Value",
+  "ja": "4,000万人"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[2].Title",
+  "ja": "国教"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[2].Value",
+  "ja": "ヴルヘック教"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[3].Title",
+  "ja": "主要輸出品"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[3].Value",
+  "ja": "ガス、金、ワイン"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[4].Title",
+  "ja": "開始日"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.Fields[4].Value",
+  "ja": "1950年"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.QuoteText",
+  "ja": "「王よ、汝の治世も、汝の館も、\n汝の笏も、その手の宝珠も、\nそして汝が踏みしめた大地さえも、\n汝が冷たくなれば、すべては塵と化す。」"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.LeaderName",
+  "ja": "ロムス・トラス"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.CountryName",
+  "ja": "リジア王国"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.LeaderTitle",
+  "ja": "リジア国王"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.QuoteAuthor",
+  "ja": "ヴィクトル・ユーゴー"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.StoryPackTitle",
+  "ja": "ストーリーDLC"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.CountryNameShort",
+  "ja": "リジア"
+ },
+ {
+  "type": "StoryPackData",
+  "item_id": "0x0100006A000017CE",
+  "name_in_database": "StoryPack_Rizia",
+  "path": "StoryPackProperties.LeaderDescription",
+  "ja": "ロムス・トラス王が即位した。その治世は、地政学的な緊張、貴族諸家の対立、そして失われた領土の回復を求める声のただ中で幕を開ける。特権のもとに生まれながら、危機のなかで戴冠した君主――ロムスが受け継いだのは、荒れた王国と、黄金王国の失われた威信を取り戻すという重荷であった。\n\n資源に依存する経済は停滞し、福祉の負担が国庫を圧迫し、改革を求めるささやきが宮廷にも民の間にも高まっている。畏敬と異論の双方を集める遺産を継いだ彼は、伝統と変革の狭間に立つ王国の舵を取らねばならない。"
+ }
+]

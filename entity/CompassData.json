@@ -1,0 +1,16 @@
+[
+ {
+  "type": "CompassData",
+  "item_id": "0x010000650000CA4C",
+  "name_in_database": "Rizia_Compass",
+  "path": "CompassProperties.Title",
+  "ja": "Rizia_Compass_Title"
+ },
+ {
+  "type": "CompassData",
+  "item_id": "0x0100006A00006A22",
+  "name_in_database": "Sordland_Compass",
+  "path": "CompassProperties.Title",
+  "ja": "Sordland_Compass_Title"
+ }
+]

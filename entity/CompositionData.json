@@ -1,0 +1,156 @@
+[
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100006500006BA1",
+  "name_in_database": "HODComposition_Abolished",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100006500007241",
+  "name_in_database": "HODComposition_Default",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100006500007241",
+  "name_in_database": "HODComposition_Default",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x01000065000071FF",
+  "name_in_database": "HODComposition_RNCWins",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x01000065000071FF",
+  "name_in_database": "HODComposition_RNCWins",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x010000650000720A",
+  "name_in_database": "HODComposition_RPPWins",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x010000650000720A",
+  "name_in_database": "HODComposition_RPPWins",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000818",
+  "name_in_database": "JudiciaryComposition_Default",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "派閥"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A0000081E",
+  "name_in_database": "JudiciaryComposition_ExperiencedJustice",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "派閥"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000824",
+  "name_in_database": "JudiciaryComposition_LoyalJustice",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "派閥"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A0000082A",
+  "name_in_database": "JudiciaryComposition_OldGuardReplaced",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "派閥"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000830",
+  "name_in_database": "JudiciaryComposition_Shuffled",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "派閥"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A69",
+  "name_in_database": "LegislativeComposition_Conservative",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A69",
+  "name_in_database": "LegislativeComposition_Conservative",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A55",
+  "name_in_database": "LegislativeComposition_Default",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A55",
+  "name_in_database": "LegislativeComposition_Default",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A64",
+  "name_in_database": "LegislativeComposition_Liberal",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A64",
+  "name_in_database": "LegislativeComposition_Liberal",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A5A",
+  "name_in_database": "LegislativeComposition_Socialist",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A5A",
+  "name_in_database": "LegislativeComposition_Socialist",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A5F",
+  "name_in_database": "LegislativeComposition_Ultranationalist",
+  "path": "CompositionProperties.CompositionGroups[0].GroupName",
+  "ja": "与党"
+ },
+ {
+  "type": "CompositionData",
+  "item_id": "0x0100009A00000A5F",
+  "name_in_database": "LegislativeComposition_Ultranationalist",
+  "path": "CompositionProperties.CompositionGroups[1].GroupName",
+  "ja": "野党"
+ }
+]

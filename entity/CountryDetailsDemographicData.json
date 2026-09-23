@@ -1,0 +1,212 @@
+[
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D16",
+  "name_in_database": "Rizia_Age",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "年齢"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D16",
+  "name_in_database": "Rizia_Age",
+  "path": "CountryDetailsDemographicProperties.Values[0].demographicTitle",
+  "ja": "1-18"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D16",
+  "name_in_database": "Rizia_Age",
+  "path": "CountryDetailsDemographicProperties.Values[1].demographicTitle",
+  "ja": "19-29"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D16",
+  "name_in_database": "Rizia_Age",
+  "path": "CountryDetailsDemographicProperties.Values[2].demographicTitle",
+  "ja": "30-49"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D16",
+  "name_in_database": "Rizia_Age",
+  "path": "CountryDetailsDemographicProperties.Values[3].demographicTitle",
+  "ja": "50-69"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D16",
+  "name_in_database": "Rizia_Age",
+  "path": "CountryDetailsDemographicProperties.Values[4].demographicTitle",
+  "ja": "70+"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D1E",
+  "name_in_database": "Rizia_Ethnicity",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "民族"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D30",
+  "name_in_database": "Rizia_GDPPerRegion",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "地域別GDP"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D2A",
+  "name_in_database": "Rizia_LastHouseElection",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "前回の代議院選挙"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D2A",
+  "name_in_database": "Rizia_LastHouseElection",
+  "path": "CountryDetailsDemographicProperties.Values[0].demographicTitle",
+  "ja": "リジア国民連合"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D2A",
+  "name_in_database": "Rizia_LastHouseElection",
+  "path": "CountryDetailsDemographicProperties.Values[1].demographicTitle",
+  "ja": "リジア人民党"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D36",
+  "name_in_database": "Rizia_PopPerRegion",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "地域別人口"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000D24",
+  "name_in_database": "Rizia_Religion",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "宗教"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C0C",
+  "name_in_database": "Sordland_Age",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "年齢"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C0C",
+  "name_in_database": "Sordland_Age",
+  "path": "CountryDetailsDemographicProperties.Values[0].demographicTitle",
+  "ja": "1-18"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C0C",
+  "name_in_database": "Sordland_Age",
+  "path": "CountryDetailsDemographicProperties.Values[1].demographicTitle",
+  "ja": "19-29"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C0C",
+  "name_in_database": "Sordland_Age",
+  "path": "CountryDetailsDemographicProperties.Values[2].demographicTitle",
+  "ja": "30-49"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C0C",
+  "name_in_database": "Sordland_Age",
+  "path": "CountryDetailsDemographicProperties.Values[3].demographicTitle",
+  "ja": "50-69"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C0C",
+  "name_in_database": "Sordland_Age",
+  "path": "CountryDetailsDemographicProperties.Values[4].demographicTitle",
+  "ja": "70+"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C00",
+  "name_in_database": "Sordland_Ethnicity",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "民族"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C14",
+  "name_in_database": "Sordland_GDPPerRegion",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "地域別GDP"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "前回の選挙"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Values[0].demographicTitle",
+  "ja": "USP"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Values[1].demographicTitle",
+  "ja": "PFJP"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Values[2].demographicTitle",
+  "ja": "NFP"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Values[3].demographicTitle",
+  "ja": "WPB"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Values[4].demographicTitle",
+  "ja": "CPS"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C08",
+  "name_in_database": "Sordland_LastElection",
+  "path": "CountryDetailsDemographicProperties.Values[5].demographicTitle",
+  "ja": "その他・無効"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C10",
+  "name_in_database": "Sordland_PopPerRegion",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "地域別人口"
+ },
+ {
+  "type": "CountryDetailsDemographicData",
+  "item_id": "0x0100006C00000C04",
+  "name_in_database": "Sordland_Religion",
+  "path": "CountryDetailsDemographicProperties.Title",
+  "ja": "宗教"
+ }
+]

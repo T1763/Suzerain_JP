@@ -1,0 +1,86 @@
+[
+ {
+  "type": "FactionData",
+  "item_id": "0x0100004600022E4B",
+  "name_in_database": "Faction_TheOldGuard",
+  "path": "FactionProperties.Title",
+  "ja": "守旧派"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100004600022E4B",
+  "name_in_database": "Faction_TheOldGuard",
+  "path": "FactionProperties.Description",
+  "ja": "守旧派は、旧政権に連なるソル主義者たちであり、現状の維持を擁護し保守的な政治を推し進める。彼らが国家機構を裏から操る「影の政府」を築いたのだ、と唱える者もいる。"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100004600022E53",
+  "name_in_database": "Faction_TheOligarchs",
+  "path": "FactionProperties.Title",
+  "ja": "財閥"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100004600022E53",
+  "name_in_database": "Faction_TheOligarchs",
+  "path": "FactionProperties.Description",
+  "ja": "財閥とは、ソードランドの富の大半を握る一握りの有力者たちを指す。かつての民営化の推進によって、国の内外を問わずその影響力は増し続けている。"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100004600022E4F",
+  "name_in_database": "Faction_TheReformists",
+  "path": "FactionProperties.Title",
+  "ja": "改革派"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100004600022E4F",
+  "name_in_database": "Faction_TheReformists",
+  "path": "FactionProperties.Description",
+  "ja": "改革派は、民主的改革を求める声のもとに結集した議員たちである。前政権の失政以来、ここ数年で支持を伸ばし続けている。"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100008E00002AF5",
+  "name_in_database": "House Azaro",
+  "path": "FactionProperties.Title",
+  "ja": "アザロ家"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100008E00002AF5",
+  "name_in_database": "House Azaro",
+  "path": "FactionProperties.Description",
+  "ja": "アザロ家はモンタクラル市とカルデス＝モンタクラル州を治める一族である。リジアの三大貴族家のうち、二番目に大きな力を持つ。家紋は交差した二振りの剣。"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100008E00002AF1",
+  "name_in_database": "House Sazon",
+  "path": "FactionProperties.Title",
+  "ja": "サゾン家"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100008E00002AF1",
+  "name_in_database": "House Sazon",
+  "path": "FactionProperties.Description",
+  "ja": "サゾン家はブレナス州を治める一族で、家紋はサボテンである。歴史的に、芸術と教育の庇護者として知られてきた。"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100008E00002AED",
+  "name_in_database": "House Toras",
+  "path": "FactionProperties.Title",
+  "ja": "トラス家"
+ },
+ {
+  "type": "FactionData",
+  "item_id": "0x0100008E00002AED",
+  "name_in_database": "House Toras",
+  "path": "FactionProperties.Description",
+  "ja": "トラス家は現在のリジアを統べる一族であり、三大貴族家のうち最も強い力を持つ。王位に加え、モンキズ州とイザ市を支配下に置いている。"
+ }
+]

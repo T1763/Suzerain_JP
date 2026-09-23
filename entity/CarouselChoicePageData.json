@@ -1,0 +1,226 @@
+[
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x01000067000000D4",
+  "name_in_database": "Page_Budget_Education",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "III. 教育"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100006700000093",
+  "name_in_database": "Page_Budget_Healthcare",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "I. 医療"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x01000067000000F3",
+  "name_in_database": "Page_Budget_Military",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "IV. 軍事"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x01000067000000B5",
+  "name_in_database": "Page_Budget_Security",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "II: 法と秩序"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C50000065C",
+  "name_in_database": "Page_CampaignPromise",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "選挙公約"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C500000742",
+  "name_in_database": "Page_CrownPrinceFocus",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "皇太子として重んじたこと"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C5000006EE",
+  "name_in_database": "Page_DiversityOrNationalism",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "多様性か民族主義か"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C5000006B6",
+  "name_in_database": "Page_DukeValenqiris",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "ヴァレンキリス公としての治世"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C50000067E",
+  "name_in_database": "Page_Education",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "学びの道"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C5000005EC",
+  "name_in_database": "Page_Extracurricular",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "課外活動"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100006A0001C732",
+  "name_in_database": "Page_Family",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "家族"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C50000070A",
+  "name_in_database": "Page_FamilyBoatTrip",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "家族で船旅に出る"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100008E00002CD5",
+  "name_in_database": "Page_FocusPanel_MilitaryBranchFocus",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "軍務の専門"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C70000054B",
+  "name_in_database": "Page_FormativeYearsAnton",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "人となりを形づくった歳月"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C70000052E",
+  "name_in_database": "Page_FormativeYearsRomus",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "人となりを形づくった歳月"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C700000353",
+  "name_in_database": "Page_Kidnapping",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "覆面の男たちによる誘拐"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x01000067000001A7",
+  "name_in_database": "Page_Nationalization_BergiaSteel",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "II. ベルギア製鉄"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x01000067000001FE",
+  "name_in_database": "Page_Nationalization_HOS",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "I. ハート・オブ・ソードランド"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C500000624",
+  "name_in_database": "Page_OppositionUSP",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "統一ソードランド党内の反対勢力"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C500000772",
+  "name_in_database": "Page_PalesRelations",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "パレスとの関係"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000670000014A",
+  "name_in_database": "Page_Privatization_Nedam",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "II. ネダム鉱業公社"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100006700000123",
+  "name_in_database": "Page_Privatization_SSC",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "I. ソードランド国営公社"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100005D000004EA",
+  "name_in_database": "Page_PromisesPanel_Focus",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "任期の重点"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C50000069A",
+  "name_in_database": "Page_ReclamationWarProtests",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "失地回復戦争への抗議"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C50000078E",
+  "name_in_database": "Page_RelationshipFather",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "父との関係"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100006A0001C70A",
+  "name_in_database": "Page_RelationshipToPanel",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "パベルとの関係"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C500000726",
+  "name_in_database": "Page_Religious",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "宗教"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C5000006D2",
+  "name_in_database": "Page_RoyalFamily",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "家族との関係"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100006A0001C6B4",
+  "name_in_database": "Page_SummersInRizia",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "幼年期の夏"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C500000640",
+  "name_in_database": "Page_TakePower",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "アルフォンソから権力を奪う"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x0100006A0001C74B",
+  "name_in_database": "Page_University",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "大学"
+ },
+ {
+  "type": "CarouselChoicePageData",
+  "item_id": "0x010000C500000608",
+  "name_in_database": "Page_YouthOrganization",
+  "path": "CarouselChoicePageProperties.Title",
+  "ja": "青年組織に加わる"
+ }
+]

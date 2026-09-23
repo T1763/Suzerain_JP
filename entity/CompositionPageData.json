@@ -1,0 +1,44 @@
+[
+ {
+  "type": "CompositionPageData",
+  "item_id": "0x0100006500006B91",
+  "name_in_database": "Page_HouseOfDelegates",
+  "path": "CompositionPageProperties.Name",
+  "ja": "代議院"
+ },
+ {
+  "type": "CompositionPageData",
+  "item_id": "0x0100006500006B91",
+  "name_in_database": "Page_HouseOfDelegates",
+  "path": "CompositionPageProperties.Title",
+  "ja": "代議院"
+ },
+ {
+  "type": "CompositionPageData",
+  "item_id": "0x0100009A000007A7",
+  "name_in_database": "Page_Judiciary",
+  "path": "CompositionPageProperties.Name",
+  "ja": "司法"
+ },
+ {
+  "type": "CompositionPageData",
+  "item_id": "0x0100009A000007A7",
+  "name_in_database": "Page_Judiciary",
+  "path": "CompositionPageProperties.Title",
+  "ja": "最高裁判所"
+ },
+ {
+  "type": "CompositionPageData",
+  "item_id": "0x0100009A000009D6",
+  "name_in_database": "Page_Legislative",
+  "path": "CompositionPageProperties.Name",
+  "ja": "立法"
+ },
+ {
+  "type": "CompositionPageData",
+  "item_id": "0x0100009A000009D6",
+  "name_in_database": "Page_Legislative",
+  "path": "CompositionPageProperties.Title",
+  "ja": "大国民議会"
+ }
+]

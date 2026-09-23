@@ -1,0 +1,852 @@
+[
+ {
+  "key": "Profile Name",
+  "scene": "mainmenu",
+  "ja": "プロフィール名"
+ },
+ {
+  "key": "Continue with Google",
+  "scene": "mainmenu",
+  "ja": "Google で続ける"
+ },
+ {
+  "key": "Tickets",
+  "scene": "mainmenu",
+  "ja": "チケット"
+ },
+ {
+  "key": "Enter game name...",
+  "scene": "mainmenu",
+  "ja": "セーブ名を入力..."
+ },
+ {
+  "key": "Select",
+  "scene": "mainmenu",
+  "ja": "選択"
+ },
+ {
+  "key": "Settings",
+  "scene": "mainmenu",
+  "ja": "設定"
+ },
+ {
+  "key": "Zoom Out",
+  "scene": "mainmenu",
+  "ja": "ズームアウト"
+ },
+ {
+  "key": "Cancel",
+  "scene": "mainmenu",
+  "ja": "キャンセル"
+ },
+ {
+  "key": "Language (Q)",
+  "scene": "mainmenu",
+  "ja": "言語 (Q)"
+ },
+ {
+  "key": "password",
+  "scene": "mainmenu",
+  "ja": "パスワード"
+ },
+ {
+  "key": "Watch Ads",
+  "scene": "mainmenu",
+  "ja": "広告を見る"
+ },
+ {
+  "key": "CHOOSE A POLITICAL AFFILIATION",
+  "scene": "mainmenu",
+  "ja": "政治的立場を選ぶ"
+ },
+ {
+  "key": "Torpor Account Login",
+  "scene": "mainmenu",
+  "ja": "Torpor アカウントにログイン"
+ },
+ {
+  "key": "Bundles",
+  "scene": "mainmenu",
+  "ja": "セット"
+ },
+ {
+  "key": "SSAO",
+  "scene": "mainmenu",
+  "ja": "SSAO"
+ },
+ {
+  "key": "AFFILIATION:",
+  "scene": "mainmenu",
+  "ja": "立場："
+ },
+ {
+  "key": "<size=19>(Press)</size> Hyperlinks",
+  "scene": "mainmenu",
+  "ja": "<size=19>(押す)</size> リンク"
+ },
+ {
+  "key": "Torpor Account",
+  "scene": "mainmenu",
+  "ja": "Torpor アカウント"
+ },
+ {
+  "key": "Use Story Points to start or continue playing a story. \r\n\r\nEarn more by watching ads, leveling up, and completing in-game actions.",
+  "scene": "mainmenu",
+  "ja": "ストーリーポイントを使って、物語を始めたり続けたりできます。\r\n\r\n広告の視聴、レベルアップ、ゲーム内の行動の達成で増やせます。"
+ },
+ {
+  "key": "Country",
+  "scene": "mainmenu",
+  "ja": "国"
+ },
+ {
+  "key": "MAIN MENU",
+  "scene": "mainmenu",
+  "ja": "メインメニュー"
+ },
+ {
+  "key": "Gift Codes",
+  "scene": "mainmenu",
+  "ja": "ギフトコード"
+ },
+ {
+  "key": "Back",
+  "scene": "mainmenu",
+  "ja": "戻る"
+ },
+ {
+  "key": "Suzerain Completed",
+  "scene": "mainmenu",
+  "ja": "Suzerain クリア済み"
+ },
+ {
+  "key": "Confirm",
+  "scene": "mainmenu",
+  "ja": "決定"
+ },
+ {
+  "key": "Delete",
+  "scene": "mainmenu",
+  "ja": "削除"
+ },
+ {
+  "key": "Previous Token/Panel",
+  "scene": "mainmenu",
+  "ja": "前の駒／パネル"
+ },
+ {
+  "key": "INFLUENCE",
+  "scene": "mainmenu",
+  "ja": "影響力"
+ },
+ {
+  "key": "Login",
+  "scene": "mainmenu",
+  "ja": "ログイン"
+ },
+ {
+  "key": "Congratulations. You've unlocked the daily reward for today.\n\n\nKeep up the good work.",
+  "scene": "mainmenu",
+  "ja": "おめでとうございます。本日のデイリー報酬を獲得しました。\n\n\nこの調子で続けましょう。"
+ },
+ {
+  "key": "Story Packs",
+  "scene": "mainmenu",
+  "ja": "ストーリーパック"
+ },
+ {
+  "key": "To receive your gift, enter your code below.",
+  "scene": "mainmenu",
+  "ja": "ギフトを受け取るには、下にコードを入力してください。"
+ },
+ {
+  "key": "Data Collection\n\nThis game collects gameplay data through Torpor Games' analytics service, A/B testing and service providers. The information gathered will aid us in enhancing game balance for a better game experience. For further information see the Torpor Games Privacy Policy.",
+  "scene": "mainmenu",
+  "ja": "データの収集\n\nこのゲームは、Torpor Games の分析サービス・A/Bテスト・サービス提供者を通じてプレイデータを収集します。収集した情報は、より良いゲーム体験のためにゲームバランスを改善するのに役立てます。詳しくは Torpor Games のプライバシーポリシーをご覧ください。"
+ },
+ {
+  "key": "OR",
+  "scene": "mainmenu",
+  "ja": "または"
+ },
+ {
+  "key": "Prologue Choices",
+  "scene": "mainmenu",
+  "ja": "プロローグの選択"
+ },
+ {
+  "key": "Minimize/Unminimize/\nOpen Profile Page",
+  "scene": "mainmenu",
+  "ja": "最小化／元に戻す／\nプロフィールを開く"
+ },
+ {
+  "key": "Ad Privacy Options",
+  "scene": "mainmenu",
+  "ja": "広告のプライバシー設定"
+ },
+ {
+  "key": "Delete Personal Data",
+  "scene": "mainmenu",
+  "ja": "個人データを削除"
+ },
+ {
+  "key": "New Game",
+  "scene": "mainmenu",
+  "ja": "ニューゲーム"
+ },
+ {
+  "key": "Achievements",
+  "scene": "mainmenu",
+  "ja": "実績"
+ },
+ {
+  "key": "Post-processing",
+  "scene": "mainmenu",
+  "ja": "ポストプロセス"
+ },
+ {
+  "key": "Load",
+  "scene": "mainmenu",
+  "ja": "ロード"
+ },
+ {
+  "key": "Welcome to Suzerain",
+  "scene": "mainmenu",
+  "ja": "Suzerain へようこそ"
+ },
+ {
+  "key": "email",
+  "scene": "mainmenu",
+  "ja": "メールアドレス"
+ },
+ {
+  "key": "Password",
+  "scene": "mainmenu",
+  "ja": "パスワード"
+ },
+ {
+  "key": "Store",
+  "scene": "mainmenu",
+  "ja": "ストア"
+ },
+ {
+  "key": "Analytics Consent",
+  "scene": "mainmenu",
+  "ja": "分析への同意"
+ },
+ {
+  "key": "Daily Rewards",
+  "scene": "mainmenu",
+  "ja": "デイリー報酬"
+ },
+ {
+  "key": "Account Settings",
+  "scene": "mainmenu",
+  "ja": "アカウント設定"
+ },
+ {
+  "key": "Torpor Mode",
+  "scene": "mainmenu",
+  "ja": "トーパーモード"
+ },
+ {
+  "key": "No Internet Connection",
+  "scene": "mainmenu",
+  "ja": "インターネットに接続されていません"
+ },
+ {
+  "key": "\"Suzerain\" is a work of fiction and any resemblance to actual persons, living or dead, or actual events is purely coincidental. While the game may illustrate various perspectives on political subjects, these depictions are purely for artistic exploration and do not indicate an endorsement or promotion of these viewpoints by the creators. \n\nThis game employs mature themes including instances of violence, death and suicide as part of its narrative.",
+  "scene": "mainmenu",
+  "ja": "『Suzerain』はフィクションであり、実在の人物（存命・故人を問わず）や実際の出来事との類似はすべて偶然です。本作は政治的な主題についてさまざまな視点を描いていますが、それらは純粋に芸術的な探求のためのものであり、制作者がそうした見解を支持・推奨していることを示すものではありません。 \n\n本作は物語の一部として、暴力・死・自殺の描写を含む成人向けの主題を扱っています。"
+ },
+ {
+  "key": "Saved on a different version.",
+  "scene": "mainmenu",
+  "ja": "別のバージョンで保存されています。"
+ },
+ {
+  "key": "Zoom In",
+  "scene": "mainmenu",
+  "ja": "ズームイン"
+ },
+ {
+  "key": "Credits",
+  "scene": "mainmenu",
+  "ja": "クレジット"
+ },
+ {
+  "key": "Re-Enter Password",
+  "scene": "mainmenu",
+  "ja": "パスワードを再入力"
+ },
+ {
+  "key": "This mode disables manual saving and enables achievements. You can only turn it off after completing the story once.",
+  "scene": "mainmenu",
+  "ja": "このモードでは手動セーブができなくなり、実績が有効になります。物語を一度クリアするまでオフにできません。"
+ },
+ {
+  "key": "Sign up with Google",
+  "scene": "mainmenu",
+  "ja": "Google で登録"
+ },
+ {
+  "key": "Torpor Games Privacy Policy",
+  "scene": "mainmenu",
+  "ja": "Torpor Games プライバシーポリシー"
+ },
+ {
+  "key": "E-Mail Address",
+  "scene": "mainmenu",
+  "ja": "メールアドレス"
+ },
+ {
+  "key": "CONTINUE",
+  "scene": "mainmenu",
+  "ja": "続きから"
+ },
+ {
+  "key": "Link Account",
+  "scene": "mainmenu",
+  "ja": "アカウントを連携"
+ },
+ {
+  "key": "Loading...",
+  "scene": "mainmenu",
+  "ja": "読み込み中..."
+ },
+ {
+  "key": "Next Token/Panel",
+  "scene": "mainmenu",
+  "ja": "次の駒／パネル"
+ },
+ {
+  "key": "Forgot Password?",
+  "scene": "mainmenu",
+  "ja": "パスワードをお忘れですか？"
+ },
+ {
+  "key": "Delete Torpor Account",
+  "scene": "mainmenu",
+  "ja": "Torpor アカウントを削除"
+ },
+ {
+  "key": "CAP REACHED",
+  "scene": "mainmenu",
+  "ja": "上限に達しました"
+ },
+ {
+  "key": "Font Size",
+  "scene": "mainmenu",
+  "ja": "文字の大きさ"
+ },
+ {
+  "key": "Skip Prologue",
+  "scene": "mainmenu",
+  "ja": "プロローグを飛ばす"
+ },
+ {
+  "key": "Font",
+  "scene": "mainmenu",
+  "ja": "フォント"
+ },
+ {
+  "key": "By using this service you agree to the Torpor Games\n<link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>Terms of Service</color></u></link> and <link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>Privacy Policy</color></u></link>",
+  "scene": "mainmenu",
+  "ja": "このサービスを利用すると、Torpor Games の\n<link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>利用規約</color></u></link>と<link=\"https://www.torporgames.com/\"><color=#D9D6D6><u>プライバシーポリシー</color></u></link>に同意したものとみなされます"
+ },
+ {
+  "key": "EXPERIENCE",
+  "scene": "mainmenu",
+  "ja": "経験値"
+ },
+ {
+  "key": "Level up by earning XP to unlock rewards and story points. \r\n\r\nGain XP through completing actions and achievements in the game.",
+  "scene": "mainmenu",
+  "ja": "経験値を稼いでレベルを上げると、報酬とストーリーポイントが手に入ります。 \r\n\r\n経験値はゲーム内の行動や実績を達成すると得られます。"
+ },
+ {
+  "key": "By using this service you agree to the Torpor Games\n<link=\"https://www.torporgames.com/terms-of-service\"><color=#D9D6D6><u>Terms of Service</color></u></link> and <link=\"https://www.torporgames.com/privacy-policy\"><color=#D9D6D6><u>Privacy Policy</color></u></link>",
+  "scene": "mainmenu",
+  "ja": "このサービスを利用すると、Torpor Games の\n<link=\"https://www.torporgames.com/terms-of-service\"><color=#D9D6D6><u>利用規約</color></u></link>と<link=\"https://www.torporgames.com/privacy-policy\"><color=#D9D6D6><u>プライバシーポリシー</color></u></link>に同意したものとみなされます"
+ },
+ {
+  "key": "PURCHASE",
+  "scene": "mainmenu",
+  "ja": "購入"
+ },
+ {
+  "key": "Load Archetype",
+  "scene": "mainmenu",
+  "ja": "人物像を読み込む"
+ },
+ {
+  "key": "Window Mode",
+  "scene": "mainmenu",
+  "ja": "画面モード"
+ },
+ {
+  "key": "Secondary Language (E)",
+  "scene": "mainmenu",
+  "ja": "第二言語 (E)"
+ },
+ {
+  "key": "Link Account with Email",
+  "scene": "mainmenu",
+  "ja": "メールアドレスでアカウントを連携"
+ },
+ {
+  "key": "Reset Password",
+  "scene": "mainmenu",
+  "ja": "パスワードを再設定"
+ },
+ {
+  "key": "Language",
+  "scene": "mainmenu",
+  "ja": "言語"
+ },
+ {
+  "key": "New",
+  "scene": "mainmenu",
+  "ja": "新着"
+ },
+ {
+  "key": "Leader",
+  "scene": "mainmenu",
+  "ja": "指導者"
+ },
+ {
+  "key": "Log Out",
+  "scene": "mainmenu",
+  "ja": "ログアウト"
+ },
+ {
+  "key": "SFX Volume",
+  "scene": "mainmenu",
+  "ja": "効果音の音量"
+ },
+ {
+  "key": "new email address",
+  "scene": "mainmenu",
+  "ja": "新しいメールアドレス"
+ },
+ {
+  "key": "code",
+  "scene": "mainmenu",
+  "ja": "コード"
+ },
+ {
+  "key": "Lighting",
+  "scene": "mainmenu",
+  "ja": "ライティング"
+ },
+ {
+  "key": "Reward:",
+  "scene": "mainmenu",
+  "ja": "報酬："
+ },
+ {
+  "key": "Rizia Completed",
+  "scene": "mainmenu",
+  "ja": "リジア クリア済み"
+ },
+ {
+  "key": "Back to Login",
+  "scene": "mainmenu",
+  "ja": "ログインに戻る"
+ },
+ {
+  "key": "STORY POINTS",
+  "scene": "mainmenu",
+  "ja": "ストーリーポイント"
+ },
+ {
+  "key": "Music Volume",
+  "scene": "mainmenu",
+  "ja": "音楽の音量"
+ },
+ {
+  "key": "Options",
+  "scene": "mainmenu",
+  "ja": "設定"
+ },
+ {
+  "key": "Incorrect email or password.",
+  "scene": "mainmenu",
+  "ja": "メールアドレスまたはパスワードが違います。"
+ },
+ {
+  "key": "Continue with Apple",
+  "scene": "mainmenu",
+  "ja": "Apple で続ける"
+ },
+ {
+  "key": "Loading ad…\r",
+  "scene": "mainmenu",
+  "ja": "広告を読み込み中…\r"
+ },
+ {
+  "key": "Story Selection",
+  "scene": "mainmenu",
+  "ja": "物語の選択"
+ },
+ {
+  "key": "SELECT",
+  "scene": "mainmenu",
+  "ja": "選択"
+ },
+ {
+  "key": "LOAD",
+  "scene": "mainmenu",
+  "ja": "ロード"
+ },
+ {
+  "key": "Overview",
+  "scene": "mainmenu",
+  "ja": "概要"
+ },
+ {
+  "key": "Experience",
+  "scene": "mainmenu",
+  "ja": "経験値"
+ },
+ {
+  "key": "Set Password",
+  "scene": "mainmenu",
+  "ja": "パスワードを設定"
+ },
+ {
+  "key": "Restore Defaults",
+  "scene": "mainmenu",
+  "ja": "初期設定に戻す"
+ },
+ {
+  "key": "Graphics",
+  "scene": "mainmenu",
+  "ja": "グラフィック"
+ },
+ {
+  "key": "Load Save",
+  "scene": "mainmenu",
+  "ja": "セーブをロード"
+ },
+ {
+  "key": "profile name",
+  "scene": "mainmenu",
+  "ja": "プロフィール名"
+ },
+ {
+  "key": "Delete Analytics Data",
+  "scene": "mainmenu",
+  "ja": "分析データを削除"
+ },
+ {
+  "key": "Error",
+  "scene": "mainmenu",
+  "ja": "エラー"
+ },
+ {
+  "key": "Shadows",
+  "scene": "mainmenu",
+  "ja": "影"
+ },
+ {
+  "key": "New Version Available!",
+  "scene": "mainmenu",
+  "ja": "新しいバージョンがあります！"
+ },
+ {
+  "key": "Map Movement/Scroll",
+  "scene": "mainmenu",
+  "ja": "マップの移動／スクロール"
+ },
+ {
+  "key": "Exit",
+  "scene": "mainmenu",
+  "ja": "終了"
+ },
+ {
+  "key": "New Game Name",
+  "scene": "mainmenu",
+  "ja": "新しいセーブの名前"
+ },
+ {
+  "key": "SAVING...",
+  "scene": "mainmenu",
+  "ja": "保存中..."
+ },
+ {
+  "key": "Reconnect",
+  "scene": "mainmenu",
+  "ja": "再接続"
+ },
+ {
+  "key": "Create Account",
+  "scene": "mainmenu",
+  "ja": "アカウントを作成"
+ },
+ {
+  "key": "Watch ads to earn Story Points. Use them to advance in the story.",
+  "scene": "mainmenu",
+  "ja": "広告を見てストーリーポイントを獲得し、物語を進めるのに使えます。"
+ },
+ {
+  "key": "V Sync",
+  "scene": "mainmenu",
+  "ja": "垂直同期"
+ },
+ {
+  "key": "ROTATE",
+  "scene": "mainmenu",
+  "ja": "回転"
+ },
+ {
+  "key": "Profile Details",
+  "scene": "mainmenu",
+  "ja": "プロフィールの詳細"
+ },
+ {
+  "key": "CHOOSE A PROFILE PICTURE",
+  "scene": "mainmenu",
+  "ja": "プロフィール画像を選ぶ"
+ },
+ {
+  "key": "Profile",
+  "scene": "mainmenu",
+  "ja": "プロフィール"
+ },
+ {
+  "key": "Torpor Mode Disabled",
+  "scene": "mainmenu",
+  "ja": "トーパーモード オフ"
+ },
+ {
+  "key": "Are you sure you want to delete Torpor Games Account?\nYou will lose your game backups and any associated data.",
+  "scene": "mainmenu",
+  "ja": "Torpor Games アカウントを削除してよろしいですか？\nゲームのバックアップと関連するデータはすべて失われます。"
+ },
+ {
+  "key": "You must complete the Main Story once to disable Torpor Mode.",
+  "scene": "mainmenu",
+  "ja": "トーパーモードをオフにするには、本編を一度クリアする必要があります。"
+ },
+ {
+  "key": "You are currently playing as a guest.\nLogin to use your Suzerain profile across devices.",
+  "scene": "mainmenu",
+  "ja": "現在ゲストとしてプレイしています。\nログインすると、Suzerain のプロフィールを複数の端末で使えます。"
+ },
+ {
+  "key": "ACHIEVEMENTS:",
+  "scene": "mainmenu",
+  "ja": "実績："
+ },
+ {
+  "key": "Sync Achievements",
+  "scene": "mainmenu",
+  "ja": "実績を同期"
+ },
+ {
+  "key": "Done",
+  "scene": "mainmenu",
+  "ja": "完了"
+ },
+ {
+  "key": "Textures",
+  "scene": "mainmenu",
+  "ja": "テクスチャ"
+ },
+ {
+  "key": "Import from existing completed save",
+  "scene": "mainmenu",
+  "ja": "クリア済みのセーブから読み込む"
+ },
+ {
+  "key": "Accept",
+  "scene": "mainmenu",
+  "ja": "同意する"
+ },
+ {
+  "key": "Target FPS",
+  "scene": "mainmenu",
+  "ja": "目標FPS"
+ },
+ {
+  "key": "Rizia",
+  "scene": "mainmenu",
+  "ja": "リジア"
+ },
+ {
+  "key": "Decline",
+  "scene": "mainmenu",
+  "ja": "同意しない"
+ },
+ {
+  "key": "Choose Your Own",
+  "scene": "mainmenu",
+  "ja": "自分で選ぶ"
+ },
+ {
+  "key": "Edit Username",
+  "scene": "mainmenu",
+  "ja": "ユーザー名を編集"
+ },
+ {
+  "key": "Sign up with Apple",
+  "scene": "mainmenu",
+  "ja": "Apple で登録"
+ },
+ {
+  "key": "To access this page, please reconnect to the internet.",
+  "scene": "mainmenu",
+  "ja": "このページを開くには、インターネットに再接続してください。"
+ },
+ {
+  "key": "RECENT ACTIVITY",
+  "scene": "mainmenu",
+  "ja": "最近の活動"
+ },
+ {
+  "key": "Map Switch/Open Login Page",
+  "scene": "mainmenu",
+  "ja": "マップ切り替え／ログインページを開く"
+ },
+ {
+  "key": "Collections",
+  "scene": "mainmenu",
+  "ja": "コレクション"
+ },
+ {
+  "key": "Warning",
+  "scene": "mainmenu",
+  "ja": "警告"
+ },
+ {
+  "key": "Saved on a different version",
+  "scene": "mainmenu",
+  "ja": "別のバージョンで保存されています"
+ },
+ {
+  "key": "START STORY",
+  "scene": "mainmenu",
+  "ja": "物語を始める"
+ },
+ {
+  "key": "UI Scaling\n",
+  "scene": "mainmenu",
+  "ja": "UIの拡大率\n"
+ },
+ {
+  "key": "Render Scale",
+  "scene": "mainmenu",
+  "ja": "レンダースケール"
+ },
+ {
+  "key": "Receive news and updates from Torpor Games",
+  "scene": "mainmenu",
+  "ja": "Torpor Games からのお知らせと更新情報を受け取る"
+ },
+ {
+  "key": "BACK",
+  "scene": "mainmenu",
+  "ja": "戻る"
+ },
+ {
+  "key": "Apply",
+  "scene": "mainmenu",
+  "ja": "適用"
+ },
+ {
+  "key": "If the email is found, you will receive an email shortly.",
+  "scene": "mainmenu",
+  "ja": "メールアドレスが登録されていれば、まもなくメールが届きます。"
+ },
+ {
+  "key": "Anti-Aliasing",
+  "scene": "mainmenu",
+  "ja": "アンチエイリアス"
+ },
+ {
+  "key": "Restore Purchases",
+  "scene": "mainmenu",
+  "ja": "購入を復元"
+ },
+ {
+  "key": "Choose the main character archetype for the parallel story. This will influence the story you are starting.",
+  "scene": "mainmenu",
+  "ja": "パラレルストーリーの主人公の人物像を選んでください。これから始める物語に影響します。"
+ },
+ {
+  "key": "Edit Email",
+  "scene": "mainmenu",
+  "ja": "メールアドレスを編集"
+ },
+ {
+  "key": "Latest News",
+  "scene": "mainmenu",
+  "ja": "最新情報"
+ },
+ {
+  "key": "Typewriter",
+  "scene": "mainmenu",
+  "ja": "タイプライター表示"
+ },
+ {
+  "key": "Story Points",
+  "scene": "mainmenu",
+  "ja": "ストーリーポイント"
+ },
+ {
+  "key": "Torpor Mode Enabled",
+  "scene": "mainmenu",
+  "ja": "トーパーモード オン"
+ },
+ {
+  "key": "Sordland",
+  "scene": "mainmenu",
+  "ja": "ソードランド"
+ },
+ {
+  "key": "Master Volume",
+  "scene": "mainmenu",
+  "ja": "全体の音量"
+ },
+ {
+  "key": "Info",
+  "scene": "mainmenu",
+  "ja": "情報"
+ },
+ {
+  "key": "END",
+  "scene": "mainmenu",
+  "ja": "終了"
+ },
+ {
+  "key": "Skip Read Dialogue Text",
+  "scene": "mainmenu",
+  "ja": "既読の会話を飛ばす"
+ },
+ {
+  "key": "Warn",
+  "scene": "mainmenu",
+  "ja": "警告"
+ },
+ {
+  "key": "You have previously signed in with ...",
+  "scene": "mainmenu",
+  "ja": "以前は次の方法でログインしていました…"
+ },
+ {
+  "key": "New E-Mail Address",
+  "scene": "mainmenu",
+  "ja": "新しいメールアドレス"
+ },
+ {
+  "key": "Click to Login",
+  "scene": "mainmenu",
+  "ja": "クリックしてログイン"
+ },
+ {
+  "key": "Resolution",
+  "scene": "mainmenu",
+  "ja": "解像度"
+ }
+]

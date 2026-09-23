@@ -1,0 +1,16 @@
+[
+ {
+  "type": "GraphPanelData",
+  "item_id": "0x0100006A0001C46A",
+  "name_in_database": "Graph_EconomicStability",
+  "path": "GraphPanelProperties.Title",
+  "ja": "経済の安定度"
+ },
+ {
+  "type": "GraphPanelData",
+  "item_id": "0x0100006A0001C46A",
+  "name_in_database": "Graph_EconomicStability",
+  "path": "GraphPanelProperties.Subtitle",
+  "ja": "下のグラフで経済の安定度の推移を追えます。フィルターを使えば過去のデータも確認できます。"
+ }
+]

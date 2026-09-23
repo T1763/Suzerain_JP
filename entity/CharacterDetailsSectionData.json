@@ -1,0 +1,793 @@
+[
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "所属"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "USP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "USP（元）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "CPS"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[3].Value",
+  "ja": "NFP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[4].Value",
+  "ja": "PF"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[5].Value",
+  "ja": "PFJP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[6].Value",
+  "ja": "WPB"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[7].Value",
+  "ja": "DP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[8].Value",
+  "ja": "LP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[9].Value",
+  "ja": "MP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[10].Value",
+  "ja": "PP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[11].Value",
+  "ja": "SPP"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[12].Value",
+  "ja": "FCアンリカ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[13].Value",
+  "ja": "アンダーホール建設"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[14].Value",
+  "ja": "レイン・ワイン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[15].Value",
+  "ja": "アルマディン工業"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[16].Value",
+  "ja": "赤旗青年団（元）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000494",
+  "name_in_database": "AntonRayne_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[17].Value",
+  "ja": "ソード青年団（元）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000488",
+  "name_in_database": "AntonRayne_AlmaMater",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "出身校"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000488",
+  "name_in_database": "AntonRayne_AlmaMater",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1930年 ホルソード国立大学 法学"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000488",
+  "name_in_database": "AntonRayne_AlmaMater",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "1930年 ラハベン商科大学 経済学"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000488",
+  "name_in_database": "AntonRayne_AlmaMater",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "1930年 デイル文化大学 歴史学"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E280",
+  "name_in_database": "AntonRayne_AssumedOffice",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "就任"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E280",
+  "name_in_database": "AntonRayne_AssumedOffice",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1954"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C000003BC",
+  "name_in_database": "AntonRayne_Born",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "生誕"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C000003BC",
+  "name_in_database": "AntonRayne_Born",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1908年 デイル"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C000003BC",
+  "name_in_database": "AntonRayne_Born",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "1908年 ホルソード"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C000003BC",
+  "name_in_database": "AntonRayne_Born",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "1908年 ラハベン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E278",
+  "name_in_database": "AntonRayne_Children",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "子女"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E278",
+  "name_in_database": "AntonRayne_Children",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "フランク・レイン、ディアナ・レイン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E2A7",
+  "name_in_database": "AntonRayne_Died",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "死没"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E2A7",
+  "name_in_database": "AntonRayne_Died",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1958年 ホルソード"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000490",
+  "name_in_database": "AntonRayne_InOffice",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "在任"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000490",
+  "name_in_database": "AntonRayne_InOffice",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1954-1958"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E288",
+  "name_in_database": "AntonRayne_PrecededBy",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "前任"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006A0000E288",
+  "name_in_database": "AntonRayne_PrecededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "エヴァルト・アルフォンソ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C0000048C",
+  "name_in_database": "AntonRayne_Spouse",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "配偶者"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C0000048C",
+  "name_in_database": "AntonRayne_Spouse",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "モニカ・レイン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C0000048C",
+  "name_in_database": "AntonRayne_Spouse",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "モニカ・レイン（元）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "後任"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "フレンス・リクター"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "ケサロ・キベナー"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "リリアス・グラーフ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[3].Value",
+  "ja": "マノリー・スハイル"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[4].Value",
+  "ja": "マンスン・レケ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[5].Value",
+  "ja": "レムス・ホルストロン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[6].Value",
+  "ja": "ヨセフ・ランチェア"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[7].Value",
+  "ja": "ヴァルケン・クルーガー"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[8].Value",
+  "ja": "ベアトリス・リヴィングストン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[9].Value",
+  "ja": "アルビン・クラヴィン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[10].Value",
+  "ja": "グロリア・トーリー"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[11].Value",
+  "ja": "ルシアン・ガラド"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000484",
+  "name_in_database": "AntonRayne_SuccededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[12].Value",
+  "ja": "ペトル・ベクターン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000480",
+  "name_in_database": "AntonRayne_VicePresident",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "副大統領"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000480",
+  "name_in_database": "AntonRayne_VicePresident",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "ペトル・ベクターン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000480",
+  "name_in_database": "AntonRayne_VicePresident",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "ペトル・ベクターン（54-57）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000480",
+  "name_in_database": "AntonRayne_VicePresident",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "グロリア・トーリー（57年以降）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000480",
+  "name_in_database": "AntonRayne_VicePresident",
+  "path": "CharacterDetailsSectionProperties.SectionValues[3].Value",
+  "ja": "ルシアン・ガラド（57年以降）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000480",
+  "name_in_database": "AntonRayne_VicePresident",
+  "path": "CharacterDetailsSectionProperties.SectionValues[4].Value",
+  "ja": "アルビン・クラヴィン（57年以降）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE7",
+  "name_in_database": "RomusToras_Affiliations",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "所属"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE7",
+  "name_in_database": "RomusToras_Affiliations",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "トラス家"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002138",
+  "name_in_database": "RomusToras_AlmaMatter",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "経歴"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002138",
+  "name_in_database": "RomusToras_AlmaMatter",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1924年 王室評議会の個人教授"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002138",
+  "name_in_database": "RomusToras_AlmaMatter",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "1924年 イザ大学 歴史学・経済学・政治学"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002138",
+  "name_in_database": "RomusToras_AlmaMatter",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "1924年 カンプ・ドムス士官学校"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CCF",
+  "name_in_database": "RomusToras_Born",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "生誕"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CCF",
+  "name_in_database": "RomusToras_Born",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1905年 モンキズ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CD3",
+  "name_in_database": "RomusToras_Children",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "子女"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CD3",
+  "name_in_database": "RomusToras_Children",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "ヴィナ・{RiziaDLCText.VinaLastName}"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CD3",
+  "name_in_database": "RomusToras_Children",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "ヴィナ・トラス（故人）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CD3",
+  "name_in_database": "RomusToras_Children",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "{RiziaDLCText.KingsSon}・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002148",
+  "name_in_database": "RomusToras_Died",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "死没"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002148",
+  "name_in_database": "RomusToras_Died",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1957年 ポルテ・ドラゾン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002148",
+  "name_in_database": "RomusToras_Died",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "1958年 ルンブルク王国"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002148",
+  "name_in_database": "RomusToras_Died",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "1958年 ポルテ・ドラゾン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "{RiziaDLCText.CharacterDetails_GrandVizierPM}"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "ウーゴ・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "アンジェリカ・サゾン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "サル・イグナティウス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[3].Value",
+  "ja": "アクセル・ラインハルト"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[4].Value",
+  "ja": "空席"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[5].Value",
+  "ja": "アダルフォ・ソテラート"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[6].Value",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[7].Value",
+  "ja": "ダリア・デ・ラーヴァ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[8].Value",
+  "ja": "アダルフォ・ソテラート"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[9].Value",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CE3",
+  "name_in_database": "RomusToras_GrandVizier",
+  "path": "CharacterDetailsSectionProperties.SectionValues[10].Value",
+  "ja": "ダリア・デ・ラーヴァ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002140",
+  "name_in_database": "RomusToras_InReign",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "在位"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002140",
+  "name_in_database": "RomusToras_InReign",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "1950-∞"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002140",
+  "name_in_database": "RomusToras_InReign",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "1950"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100008E00002140",
+  "name_in_database": "RomusToras_InReign",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "1950-1958"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CD7",
+  "name_in_database": "RomusToras_PrecededBy",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "前任"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CD7",
+  "name_in_database": "RomusToras_PrecededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "ヴァレロ「柔弱王」トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDB",
+  "name_in_database": "RomusToras_Spouse",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "配偶者"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDB",
+  "name_in_database": "RomusToras_Spouse",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "レナ・トラス（1931-42）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDB",
+  "name_in_database": "RomusToras_Spouse",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "レナ・トラス（1931-42）、ルシータ・アザロ・トラス（1956- ）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDB",
+  "name_in_database": "RomusToras_Spouse",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "レナ・トラス（1931-1942）、ルシータ・アザロ・トラス（1956-57）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDB",
+  "name_in_database": "RomusToras_Spouse",
+  "path": "CharacterDetailsSectionProperties.SectionValues[3].Value",
+  "ja": "レナ・トラス（1931-42）、パベル・アドリア（1957- ）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.Title",
+  "ja": "後任"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[0].Value",
+  "ja": "フベルトゥス・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[1].Value",
+  "ja": "ルシータ・アザロ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[2].Value",
+  "ja": "リコ・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[3].Value",
+  "ja": "ヴィナ・{RiziaDLCText.VinaLastName}"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[4].Value",
+  "ja": "ウーゴ・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[5].Value",
+  "ja": "アンジェリカ・サゾン"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[6].Value",
+  "ja": "ルシータ・アザロ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[7].Value",
+  "ja": "タデウス・アザロ"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[8].Value",
+  "ja": "ウーゴ・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[9].Value",
+  "ja": "リコ・トラス"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[10].Value",
+  "ja": "{RiziaDLCText.CoupLeader}（僭称者）"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[11].Value",
+  "ja": "アダルフォ・ソテラート"
+ },
+ {
+  "type": "CharacterDetailsSectionData",
+  "item_id": "0x0100006C00000CDF",
+  "name_in_database": "RomusToras_SucceededBy",
+  "path": "CharacterDetailsSectionProperties.SectionValues[12].Value",
+  "ja": "リジア革命委員会"
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "type": "TutorialPanelData",
+  "item_id": "0x010000CC00000021",
+  "name_in_database": "WarProduction_Tutorial_Panel",
+  "path": "TutorialPanelProperties.Title",
+  "ja": "戦時生産チュートリアル"
+ },
+ {
+  "type": "TutorialPanelData",
+  "item_id": "0x0100008200000510",
+  "name_in_database": "War_Tutorial_Panel",
+  "path": "TutorialPanelProperties.Title",
+  "ja": "戦争チュートリアル"
+ }
+]

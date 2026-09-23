@@ -1,0 +1,247 @@
+[
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100005D000004B0",
+  "name_in_database": "PagedDecisionPanel_PromisesPanel",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "選挙公約"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100005D000004B0",
+  "name_in_database": "PagedDecisionPanel_PromisesPanel",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "アントン・レインとして、あなたは1953年の選挙戦で票を得るため、ソードランドの国民に重い約束を交わした。これらの公約は慎重に検討すること。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006700000089",
+  "name_in_database": "Panel_Budget",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "任期予算"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006700000089",
+  "name_in_database": "Panel_Budget",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "以下の4部門に予算を配分できます。増額すればその部門は改善され、新たな政策の選択肢が開かれることもあります。据え置けば目立った変化は生じず、減額すれば効率が損なわれる恐れがあります。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006700000089",
+  "name_in_database": "Panel_Budget",
+  "path": "PagedDecisionPanelProperties.PanelCounterText",
+  "ja": "最終予算"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100005100013B82",
+  "name_in_database": "Panel_DictatorConstitution",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "憲法改正"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006700000003",
+  "name_in_database": "Panel_EmergencyDecree",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "緊急大統領令"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100009A0000BC89",
+  "name_in_database": "Panel_Executions",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "処刑"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100009A0000BC89",
+  "name_in_database": "Panel_Executions",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "捕らえられたこれらの囚人は、王室と国王に対する重大な罪を犯した。刑に服させ続けるか、ギロチンにかけるか、その処遇を決めねばならない。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100008E00002C96",
+  "name_in_database": "Panel_Focus",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "戦略重点の選択"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100008E00002C96",
+  "name_in_database": "Panel_Focus",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "ロムス・トラス王として、あなたは黄金王国の針路を定め、形づくる広範な権限を持つ。重点の選び方によって、得られる戦略上の利点は変わります。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006700000176",
+  "name_in_database": "Panel_Nationalization",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "国有化"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006700000176",
+  "name_in_database": "Panel_Nationalization",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "以下の企業は、四大企業のうち民間が保有する2社である。いずれもソードランド経済において重要な役割を担っている。株式の一部、過半数、または全部を国家へ移すことで国有化できます。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278D1",
+  "name_in_database": "Panel_Nationalization_Concessions_SeizeLespiaShare",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "メフティエム国際貿易区におけるレスピアの持ち分をリジアが買い取る提案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278D1",
+  "name_in_database": "Panel_Nationalization_Concessions_SeizeLespiaShare",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "以下の譲歩と引き換えに、リジアは国有化されたメフティエム国際貿易区において本来レスピアに提供されるはずの持ち分を引き受け、その保有比率を合計40パーセントとする。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278CD",
+  "name_in_database": "Panel_Nationalization_Demands_NoShare",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "メフティエム国際貿易区におけるリジア資産の接収に関する提案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278CD",
+  "name_in_database": "Panel_Nationalization_Demands_NoShare",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "リジアは、通常の補償に加えて以下の条件と引き換えに、メフティエム国際貿易区における現有資産をモレラへ移転することに同意する。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278E6",
+  "name_in_database": "Panel_Nationalization_Demands_Share",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "メフティエム国際貿易区におけるリジア資産の接収に関する提案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278E6",
+  "name_in_database": "Panel_Nationalization_Demands_Share",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "リジアは、再編後のMITZにおける20パーセントの持ち分に加えて以下の条件と引き換えに、メフティエム国際貿易区における現有資産をモレラへ移転することに同意する。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x010000670000011D",
+  "name_in_database": "Panel_Privatization",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "民営化"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x010000670000011D",
+  "name_in_database": "Panel_Privatization",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "以下の企業は、四大企業のうち国が保有する2社である。いずれもいくつかの戦略産業において重要な役割を担っている。株式の一部、過半数、または全部を民間へ売却することで民営化できます。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100005100013A17",
+  "name_in_database": "Panel_ReformistConstitution",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "憲法改正"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278D5",
+  "name_in_database": "Panel_Renegotiation_Concessions_BuyLespia",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "メフティエム国際貿易区におけるレスピアの持ち分をリジアが買い取る提案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278D5",
+  "name_in_database": "Panel_Renegotiation_Concessions_BuyLespia",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "モレラは、以下の譲歩と引き換えに、メフティエム国際貿易区におけるレスピアの持ち分のリジアへの売却を承認する。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278D9",
+  "name_in_database": "Panel_Renegotiation_Concessions_NoLespia",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "メフティエム国際貿易区におけるレスピアの持ち分をモレラが買い取る提案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278D9",
+  "name_in_database": "Panel_Renegotiation_Concessions_NoLespia",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "国際貿易区協定の再交渉の一環として、モレラはリジアからの以下の譲歩と引き換えにレスピアの持ち分を引き受ける。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278DD",
+  "name_in_database": "Panel_Renegotiation_Concessions_SameShares",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "国際貿易区協定の再交渉案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278DD",
+  "name_in_database": "Panel_Renegotiation_Concessions_SameShares",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "メフティエム国際貿易区協定の再交渉の一環として、リジアは現在の25パーセントの持ち分を維持し、以下を約する。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278C9",
+  "name_in_database": "Panel_Renegotiation_Demands_CedeRiziaShare",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "メフティエム国際貿易区の再交渉案"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x01000052000278C9",
+  "name_in_database": "Panel_Renegotiation_Demands_CedeRiziaShare",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "メフティエム国際貿易区に関する新協定の一環として、リジアは現在の持ち分の一部をモレラへ移転することに同意する。その見返りとして、リジアはモレラに以下を約するよう求める。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006A0001C6AB",
+  "name_in_database": "Panel_Rizia_PrologueSkip",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "プロローグの選択"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006A0001C722",
+  "name_in_database": "Panel_Sordland_PrologueSkip",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "プロローグの選択"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006500004B3C",
+  "name_in_database": "Panel_WehlenNegotiationPromises",
+  "path": "PagedDecisionPanelProperties.Title",
+  "ja": "1927年ジル協定の改定"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006500004B3C",
+  "name_in_database": "Panel_WehlenNegotiationPromises",
+  "path": "PagedDecisionPanelProperties.Description",
+  "ja": "ヴェーレンとリジア両国の経済的・文化的・政治的な結びつきを強めるため、ジル協定の再交渉が進められている。ヴェーレンは、新たな包括的二国間協定において一定の新条件を満たすことを望んでいる。"
+ },
+ {
+  "type": "PagedDecisionPanelData",
+  "item_id": "0x0100006500004B3C",
+  "name_in_database": "Panel_WehlenNegotiationPromises",
+  "path": "PagedDecisionPanelProperties.PanelBarText",
+  "ja": "交渉力"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x010000650000CAD9",
+  "name_in_database": "Rizia_Compass_Configuration",
+  "path": "CompassConfigurationProperties.TopTitle",
+  "ja": "君主主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x010000650000CAD9",
+  "name_in_database": "Rizia_Compass_Configuration",
+  "path": "CompassConfigurationProperties.LeftTitle",
+  "ja": "国家主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x010000650000CAD9",
+  "name_in_database": "Rizia_Compass_Configuration",
+  "path": "CompassConfigurationProperties.RightTitle",
+  "ja": "アルカシア型資本主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x010000650000CAD9",
+  "name_in_database": "Rizia_Compass_Configuration",
+  "path": "CompassConfigurationProperties.BottomTitle",
+  "ja": "即時主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x0100006A00006A30",
+  "name_in_database": "Sordland_Compass_Configuration",
+  "path": "CompassConfigurationProperties.TopTitle",
+  "ja": "ソル主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x0100006A00006A30",
+  "name_in_database": "Sordland_Compass_Configuration",
+  "path": "CompassConfigurationProperties.LeftTitle",
+  "ja": "マレニエフ主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x0100006A00006A30",
+  "name_in_database": "Sordland_Compass_Configuration",
+  "path": "CompassConfigurationProperties.RightTitle",
+  "ja": "アルカシア型資本主義"
+ },
+ {
+  "type": "CompassConfigurationData",
+  "item_id": "0x0100006A00006A30",
+  "name_in_database": "Sordland_Compass_Configuration",
+  "path": "CompassConfigurationProperties.BottomTitle",
+  "ja": "ソードランド改革主義"
+ }
+]

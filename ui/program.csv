@@ -1,0 +1,19 @@
+﻿key,scene,ja
+Start Story,global-metadata.dat,物語を始める
+Regional Map,global-metadata.dat,世界地図
+National Map,global-metadata.dat,国内地図
+"{0} <alpha=#44><size=16>(min: {1}, max: {2})</size>",global-metadata.dat,{0} <alpha=#44><size=16>（最小 {1}・最大 {2}）</size>
+{0} <alpha=#44><size=16>(min: {1})</size>,global-metadata.dat,{0} <alpha=#44><size=16>（最小 {1}）</size>
+{0} <alpha=#44><size=16>(max: {1})</size>,global-metadata.dat,{0} <alpha=#44><size=16>（最大 {1}）</size>
+Campaign: {0},global-metadata.dat,キャンペーン：{0}
+Are you sure you want to Exit to Desktop?,global-metadata.dat,ゲームを終了してデスクトップに戻りますか？
+Are you sure you want to go back to Main Menu?,global-metadata.dat,メインメニューに戻りますか？
+Cannot delete the campaign while playing it.<br><br> Return to Main Menu to delete this campaign.,global-metadata.dat,プレイ中のキャンペーンは削除できません。<br><br> 削除するにはメインメニューに戻ってください。
+Cannot delete this save while playing its campaign.<br><br> Return to Main Menu to delete this save.,global-metadata.dat,プレイ中のキャンペーンのセーブは削除できません。<br><br> 削除するにはメインメニューに戻ってください。
+Game saved.,global-metadata.dat,セーブしました。
+Game loaded.,global-metadata.dat,ロードしました。
+Save a game first.,global-metadata.dat,先にセーブしてください。
+Press Escape for Menu,global-metadata.dat,Esc キーでメニュー
+Out of moves. End Turn to proceed.,global-metadata.dat,行動できる回数が残っていません。ターンを終了して進めてください。
+Yes,global-metadata.dat,はい
+No,global-metadata.dat,いいえ

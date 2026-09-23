@@ -1,0 +1,884 @@
+[
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000A16F",
+  "name_in_database": "Rizia_Authority_Modifier_BaseMonarchRomus",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ロムス・トラス王により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000DB35",
+  "name_in_database": "Rizia_Authority_Modifier_CentralizedSecurity",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 治安の中央集権化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000E447",
+  "name_in_database": "Rizia_Authority_Modifier_DastnuristApproval",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ダストヌリティ派の支持により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000E436",
+  "name_in_database": "Rizia_Authority_Modifier_DastnuristDisapproval",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ダストヌリティ派の反発により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C60000044E",
+  "name_in_database": "Rizia_Authority_Modifier_ExpandedAdministration",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 行政機構の拡充により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C60000046B",
+  "name_in_database": "Rizia_Authority_Modifier_GolcondistDisapproval",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ゴルコンド主義者の反発により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000DB21",
+  "name_in_database": "Rizia_Authority_Modifier_GoldenGuard",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 近衛兵により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00007728",
+  "name_in_database": "Rizia_Authority_Modifier_HighPopularity",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 高い支持率により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000DB28",
+  "name_in_database": "Rizia_Authority_Modifier_IntelligenceServices",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 情報機関により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009CE9",
+  "name_in_database": "Rizia_Authority_Modifier_Intermerkopum",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} インテルメルコプム機構のために毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031EB",
+  "name_in_database": "Rizia_Authority_Modifier_LargeProvincialProtest",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 地方の大規模な抗議により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031A4",
+  "name_in_database": "Rizia_Authority_Modifier_LosingMyTradition",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 伝統の衰退により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000320B",
+  "name_in_database": "Rizia_Authority_Modifier_LostTerritorialIntegrity",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 領土保全の喪失により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000775A",
+  "name_in_database": "Rizia_Authority_Modifier_LowPopularity",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 低い支持率により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00006E73",
+  "name_in_database": "Rizia_Authority_Modifier_MalenyevistRevolutionaries",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} マレニエフ主義の革命勢力により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031F9",
+  "name_in_database": "Rizia_Authority_Modifier_NationalDestabilization",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 全国的な暴力を伴う抗議により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000831E",
+  "name_in_database": "Rizia_Authority_Modifier_OrganizedCrimeRise",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 組織犯罪により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000457",
+  "name_in_database": "Rizia_Authority_Modifier_PalantorPMC",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} パランター社の民間軍事サービスにより毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000DAFA",
+  "name_in_database": "Rizia_Authority_Modifier_PowerProjection",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 戦力投射により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031F2",
+  "name_in_database": "Rizia_Authority_Modifier_ProvincialObstruction",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 地方からの妨害により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000474",
+  "name_in_database": "Rizia_Authority_Modifier_ProvincialPolice",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 地方警察により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00007823",
+  "name_in_database": "Rizia_Authority_Modifier_RNCHouse",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} RNCを率いる貴族家により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00007815",
+  "name_in_database": "Rizia_Authority_Modifier_RPPHouse",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} RPPを率いる貴族家により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000006B5",
+  "name_in_database": "Rizia_Authority_Modifier_RumburgianBond",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ルンブルク王室との紐帯により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000002E3",
+  "name_in_database": "Rizia_Authority_Modifier_SecterianViolence",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 宗派間の暴力により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031E4",
+  "name_in_database": "Rizia_Authority_Modifier_SmallProvincialProtest",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 地方の小規模な抗議により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000CC04",
+  "name_in_database": "Rizia_Authority_Modifier_StopCheating",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェルクリア星の逆行により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000790",
+  "name_in_database": "Rizia_Authority_Modifier_SuOminaDestabilizes",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} スー・オミナによる動揺により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000DB11",
+  "name_in_database": "Rizia_Authority_Modifier_SuOminaSupports",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} スー・オミナの支持により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009CF2",
+  "name_in_database": "Rizia_Authority_Modifier_TerritorialReclaimation",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 回復した領土により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000461",
+  "name_in_database": "Rizia_Authority_Modifier_TorasHouseLevies",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} トラス家の徴兵により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000E440",
+  "name_in_database": "Rizia_Authority_Modifier_WruhecistApproval",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴルヘック教勢力の支持により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009D17",
+  "name_in_database": "Rizia_Authority_Modifier_WruhecistDisapproval",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴルヘック教勢力の反発により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000DB19",
+  "name_in_database": "Rizia_Authority_Modifier_WruhecsGuardians",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴルヘックの守護者により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000B400000D79",
+  "name_in_database": "Rizia_Bomber_Modifier_Factory",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 爆撃機の生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000BB16",
+  "name_in_database": "Rizia_Budget_Modifier_AdministrativeCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 行政収支により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009CCD",
+  "name_in_database": "Rizia_Budget_Modifier_ANSanctions",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 国際連盟の金融制裁により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031CA",
+  "name_in_database": "Rizia_Budget_Modifier_BaseIncomeTax",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 所得税により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000EC92",
+  "name_in_database": "Rizia_Budget_Modifier_BusinessInflux",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 企業の流入により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003310",
+  "name_in_database": "Rizia_Budget_Modifier_DerdiaPipeline",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} デルディア・パイプラインの建設により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003348",
+  "name_in_database": "Rizia_Budget_Modifier_DerdiaTrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} デルディアとの貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000CBFD",
+  "name_in_database": "Rizia_Budget_Modifier_EastTradeReduced",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} コンタナ条約機構との貿易縮小により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000A2F7",
+  "name_in_database": "Rizia_Budget_Modifier_EconomicInstability",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 企業の流出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000CB13",
+  "name_in_database": "Rizia_Budget_Modifier_EnergyStorageCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} エネルギー貯蔵費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500007BBA",
+  "name_in_database": "Rizia_Budget_Modifier_EqualPay",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 同一賃金の負担により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000007D5",
+  "name_in_database": "Rizia_Budget_Modifier_ForeignGoodsReliance",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 外国製品への依存による負担により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000833B",
+  "name_in_database": "Rizia_Budget_Modifier_FreeMedicine",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 医療の無償化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00008334",
+  "name_in_database": "Rizia_Budget_Modifier_FreePublicTransportation",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 公共交通の無償化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031D2",
+  "name_in_database": "Rizia_Budget_Modifier_GRACETrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} GRACEとの貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x01000065000075AF",
+  "name_in_database": "Rizia_Budget_Modifier_IncreasedHealthEducationFunds",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 福祉支出の増大により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003175",
+  "name_in_database": "Rizia_Budget_Modifier_InheritenceTax",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 相続税により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009CD4",
+  "name_in_database": "Rizia_Budget_Modifier_IntermerkopumCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} インテルメルコプムの負担金により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000005A6",
+  "name_in_database": "Rizia_Budget_Modifier_InternalSecurityCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 治安維持費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00008342",
+  "name_in_database": "Rizia_Budget_Modifier_KingsCars",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 王の自動車計画により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00004C1E",
+  "name_in_database": "Rizia_Budget_Modifier_LaborHandsLegalized",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 出稼ぎ労働者の合法化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100009A00001151",
+  "name_in_database": "Rizia_Budget_Modifier_LegalDrugTax",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 合法薬物税により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000740000D07D",
+  "name_in_database": "Rizia_Budget_Modifier_LesPowerImports",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} レスパワーからのガス輸入費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00006C54",
+  "name_in_database": "Rizia_Budget_Modifier_MilitaryExpenditures",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 軍事支出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00004FEB",
+  "name_in_database": "Rizia_Budget_Modifier_MITZRevenues",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} MITZの収益により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000740000802D",
+  "name_in_database": "Rizia_Budget_Modifier_MorellaPipeline",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} モレラ・パイプラインの建設により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003341",
+  "name_in_database": "Rizia_Budget_Modifier_MorellaTrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} モレラとの貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003192",
+  "name_in_database": "Rizia_Budget_Modifier_NonWruhecistReligiousTax",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴルヘック教徒以外への宗教税により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003309",
+  "name_in_database": "Rizia_Budget_Modifier_PalesPipeline",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} パレス・パイプラインの建設により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000B400000962",
+  "name_in_database": "Rizia_Budget_Modifier_PalesReconstruction",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} パレスの復興により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500007267",
+  "name_in_database": "Rizia_Budget_Modifier_PalesTrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} パレスとの貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000765B",
+  "name_in_database": "Rizia_Budget_Modifier_PublicTransportSubsidies",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 公共交通への補助金により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500006D60",
+  "name_in_database": "Rizia_Budget_Modifier_QalusGoldMine",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} カルス金鉱により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00008326",
+  "name_in_database": "Rizia_Budget_Modifier_ReligiousRevenues",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 宗教関連の財政収支により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031DA",
+  "name_in_database": "Rizia_Budget_Modifier_RizianGoldIndustry",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} RRGの収益により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000007A1",
+  "name_in_database": "Rizia_Budget_Modifier_RumburgTrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ルンブルクとの直接貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000332C",
+  "name_in_database": "Rizia_Budget_Modifier_SordlandGasomProfit",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ガソムの年間利益により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000A8E",
+  "name_in_database": "Rizia_Budget_Modifier_SordlandTrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ソードランドとの貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003364",
+  "name_in_database": "Rizia_Budget_Modifier_TaxCredits",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 企業向けの税額控除により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000008D5",
+  "name_in_database": "Rizia_Budget_Modifier_TourismIncome",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 観光により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00008349",
+  "name_in_database": "Rizia_Budget_Modifier_UniversalBasicIncome",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ベーシックインカムにより毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000726E",
+  "name_in_database": "Rizia_Budget_Modifier_WarExpenditures",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 戦費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000318B",
+  "name_in_database": "Rizia_Budget_Modifier_WarProfitsTax",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 戦時課税により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100009E00009C1F",
+  "name_in_database": "Rizia_Budget_Modifier_WarReparations",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 戦争賠償により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000729A",
+  "name_in_database": "Rizia_Budget_Modifier_WehlenPipeline",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェーレン・パイプラインの建設により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500007413",
+  "name_in_database": "Rizia_Budget_Modifier_WehlenTrade",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェーレンとの貿易により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0xD8A67816F93D7C87",
+  "name_in_database": "Rizia_Budget_Modifier_WestTradeReduced",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} アルカシア条約機構との貿易縮小により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500006D7B",
+  "name_in_database": "Rizia_Budget_Modifier_WorkRegulationCost",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 労働規制の厳格化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C60000050E",
+  "name_in_database": "Rizia_Energy_Modifier_AirforceRefuelCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 空軍の燃料費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000D485",
+  "name_in_database": "Rizia_Energy_Modifier_ANSanctions",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 国際連盟のエネルギー制裁により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000004FF",
+  "name_in_database": "Rizia_Energy_Modifier_ArmyRefuelCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 陸軍の燃料費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003317",
+  "name_in_database": "Rizia_Energy_Modifier_AureusGasField",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} アウレウス・ガス田により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031C3",
+  "name_in_database": "Rizia_Energy_Modifier_BaseEnergy",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} リジアのエネルギー産業により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000333A",
+  "name_in_database": "Rizia_Energy_Modifier_DerdiaEnergyExport",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} デルディアのエネルギー輸出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000335D",
+  "name_in_database": "Rizia_Energy_Modifier_EnergySubsidiesForIndustries",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 産業向けエネルギー補助金により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031B5",
+  "name_in_database": "Rizia_Energy_Modifier_EsqirisGasField",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} エスキリス・ガス田（既存分）により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500006D52",
+  "name_in_database": "Rizia_Energy_Modifier_EsqirisGasFieldExpansion",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} エスキリス・ガス田の拡張により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000CFA0",
+  "name_in_database": "Rizia_Energy_Modifier_FreeElectricity",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 国民への電力無償提供により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00008310",
+  "name_in_database": "Rizia_Energy_Modifier_FreePublicTransportation",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 公共交通の無償化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00008317",
+  "name_in_database": "Rizia_Energy_Modifier_FuelSubsidies",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 燃料補助金により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000CB0B",
+  "name_in_database": "Rizia_Energy_Modifier_GenerationCurtailment",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 発電の抑制により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00007869",
+  "name_in_database": "Rizia_Energy_Modifier_GRACEEnergyContribution",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} GRACEへのエネルギー拠出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500006D59",
+  "name_in_database": "Rizia_Energy_Modifier_HavasCoalMine",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ハヴァス炭鉱により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500006D74",
+  "name_in_database": "Rizia_Energy_Modifier_HeatingSubsidiesForCitizens",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 市民への暖房補助金により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000004F6",
+  "name_in_database": "Rizia_Energy_Modifier_HeightenedConsumption",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 消費の増大により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x01000065000071C1",
+  "name_in_database": "Rizia_Energy_Modifier_IndustrialProduction",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 工業生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000331E",
+  "name_in_database": "Rizia_Energy_Modifier_IntermerkopumEnergyExports",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} インテルメルコプムのエネルギー輸出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000740000D076",
+  "name_in_database": "Rizia_Energy_Modifier_LesPowerImports",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} レスパワーからのガス輸入により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C60000059E",
+  "name_in_database": "Rizia_Energy_Modifier_LocalRenewables",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 国内の再生可能エネルギーにより毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000BD00000972",
+  "name_in_database": "Rizia_Energy_Modifier_MaveNortusOilfield",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} マーヴェ・ノルトゥス油田により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003333",
+  "name_in_database": "Rizia_Energy_Modifier_MorellaGasExport",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} モレラのガス輸出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000507",
+  "name_in_database": "Rizia_Energy_Modifier_NavyRefuelCosts",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 海軍の燃料費により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000031BC",
+  "name_in_database": "Rizia_Energy_Modifier_NelvisarOilField",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ネルヴィサル油田により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000780B",
+  "name_in_database": "Rizia_Energy_Modifier_PublicTransitInfraExpansion",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 公共交通の拡充により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500006D40",
+  "name_in_database": "Rizia_Energy_Modifier_ROGStakeSold",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ROGの民営化により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000322A",
+  "name_in_database": "Rizia_Energy_Modifier_RumburgGasExport",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ルンブルクのエネルギー輸出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003325",
+  "name_in_database": "Rizia_Energy_Modifier_SordlandGasomImport",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ガソムのエネルギー輸入により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000650000CBF6",
+  "name_in_database": "Rizia_Energy_Modifier_StopCheating",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェルクリア星の逆行により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E000032FB",
+  "name_in_database": "Rizia_Energy_Modifier_WehlenGasExport",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェーレンのガス輸出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E00003302",
+  "name_in_database": "Rizia_Energy_Modifier_WehlenOilImport",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェーレンの石油輸入により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000520005FEAC",
+  "name_in_database": "Rizia_Energy_Modifier_ZpanaHydroelectricDam",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ズパナ水力発電ダムにより毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x01000065000077E7",
+  "name_in_database": "Rizia_Equipment_Modifier_Factory",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 軍装備の生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C6000005D5",
+  "name_in_database": "Rizia_Equipment_Modifier_WehlenArmsExports",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ヴェーレンへの輸出により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000B400000D80",
+  "name_in_database": "Rizia_Fighter_Modifier_Factory",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 戦闘機の生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100008E0000832D",
+  "name_in_database": "Rizia_Manpower_Modifier_GolcondistSignups",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} ゴルコンド主義の義勇兵により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C60000055B",
+  "name_in_database": "Rizia_Manpower_Modifier_GRACEVolunteers",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} GRACEの義勇兵により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x01000065000077EE",
+  "name_in_database": "Rizia_Manpower_Modifier_Recruitment",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 徴募により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x010000C600000552",
+  "name_in_database": "Rizia_Manpower_Modifier_SuOminaSignups",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} スー・オミナの義勇兵により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009CFC",
+  "name_in_database": "Rizia_Ship_Modifier_Dockyards",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 艦船の生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x0100006500009D03",
+  "name_in_database": "Rizia_Submarines_Modifier_Dockyards",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 潜水艦の生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x01000065000077F5",
+  "name_in_database": "Rizia_SupportVehicle_Modifier_Factory",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 支援車両の生産により毎ターン"
+ },
+ {
+  "type": "HUDPeriodicStatModifierData",
+  "item_id": "0x01000065000077FC",
+  "name_in_database": "Rizia_Tank_Modifier_Factory",
+  "path": "HUDPeriodicStatModifierProperties.Description",
+  "ja": "{0} 戦車工場の生産により毎ターン"
+ }
+]

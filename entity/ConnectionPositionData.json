@@ -1,0 +1,149 @@
+[
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x010000650000724C",
+  "name_in_database": "HODPosition_Speaker",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "下院議長"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EC3",
+  "name_in_database": "Position_AgricultureMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "農業農村開発大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x010000580000A702",
+  "name_in_database": "Position_ChiefJustice",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "最高裁長官"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EA5",
+  "name_in_database": "Position_ChiefOfStaff",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "首席補佐官"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EB7",
+  "name_in_database": "Position_DefenceMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "国防大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EB1",
+  "name_in_database": "Position_EconomyMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "経済大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EC9",
+  "name_in_database": "Position_EducationMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "教育大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B40",
+  "name_in_database": "Position_ForeignAffairs",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "外務評議官"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009ECF",
+  "name_in_database": "Position_ForeignAffairsMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "外務通商大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B38",
+  "name_in_database": "Position_GrandVizier",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "宰相"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B30",
+  "name_in_database": "Position_GrandWiseman",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "教皇"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009ED5",
+  "name_in_database": "Position_HealthMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "保健大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B51",
+  "name_in_database": "Position_HouseAzaro",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "アザロ家当主"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B59",
+  "name_in_database": "Position_HouseSazon",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "サゾン家当主"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B61",
+  "name_in_database": "Position_HouseToras",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "トラス家当主"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EAB",
+  "name_in_database": "Position_InteriorMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "内務大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009EBD",
+  "name_in_database": "Position_JusticeMinister",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "法務大臣"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x010000580000A71F",
+  "name_in_database": "Position_Speaker",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "議長"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100006A0000C5C2",
+  "name_in_database": "Position_TreasuryEconomy",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "財務経済評議官"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100005800009E9F",
+  "name_in_database": "Position_VicePresident",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "副大統領"
+ },
+ {
+  "type": "ConnectionPositionData",
+  "item_id": "0x0100008E00002B28",
+  "name_in_database": "Position_WarInternalSecurity",
+  "path": "ConnectionPositionProperties.Name",
+  "ja": "軍事保安評議官"
+ }
+]

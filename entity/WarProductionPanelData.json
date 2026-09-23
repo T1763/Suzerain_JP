@@ -1,0 +1,16 @@
+[
+ {
+  "type": "WarProductionPanelData",
+  "item_id": "0x0100009A000092F9",
+  "name_in_database": "WarProductionPanel",
+  "path": "WarProductionPanelProperties.Title",
+  "ja": "リジア軍"
+ },
+ {
+  "type": "WarProductionPanelData",
+  "item_id": "0x0100009A000092F9",
+  "name_in_database": "WarProductionPanel",
+  "path": "WarProductionPanelProperties.Subtitle",
+  "ja": "資源と部隊"
+ }
+]

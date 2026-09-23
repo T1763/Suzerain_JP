@@ -1,0 +1,436 @@
+[
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014C6",
+  "name_in_database": "ReminderSegment_Section10_Citizenship",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第10節：市民権と権利"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014C6",
+  "name_in_database": "ReminderSegment_Section10_Citizenship",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "憲法から「ソード」の語を削除し、第7条を次のとおり改める。「すべての者は、言語、人種、皮膚の色、性別、政治的思想、哲学的信条、宗教または障害の別にかかわらず、法の下に平等である。」"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000151D",
+  "name_in_database": "ReminderSegment_Section1_Ban_RedYouth",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "赤旗青年団の非合法化"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000151D",
+  "name_in_database": "ReminderSegment_Section1_Ban_RedYouth",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "赤旗青年団をテロ組織かつ国家安全保障上の脅威と宣言する。国家は、過去および現在の構成員、ならびにこれを支援した者に対して措置を講じる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001525",
+  "name_in_database": "ReminderSegment_Section1_Ban_WPB",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "ブルディア労働者党の非合法化"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001525",
+  "name_in_database": "ReminderSegment_Section1_Ban_WPB",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "ブルディア労働者党をブルディア自由党の直接の後継組織と宣言し、ブルディア自由戦線を支援したことをもって政治活動を禁じる。その構成員は国家安全保障上の脅威とみなされる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001505",
+  "name_in_database": "ReminderSegment_Section1_Ban_YoungSords",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "ソード青年団の非合法化"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001505",
+  "name_in_database": "ReminderSegment_Section1_Ban_YoungSords",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "ソード青年団をテロ組織かつ国家安全保障上の脅威と宣言する。国家は、過去および現在の構成員、ならびにこれを支援した者に対して措置を講じる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100009A0000384F",
+  "name_in_database": "ReminderSegment_Section1_Morella_",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第1節"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100009A0000384F",
+  "name_in_database": "ReminderSegment_Section1_Morella_",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "未定"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000046000243D7",
+  "name_in_database": "ReminderSegment_Section1_PresidentialVetoes",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第1節：拒否権"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000046000243D7",
+  "name_in_database": "ReminderSegment_Section1_PresidentialVetoes",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（大統領は法案に対して無制限に拒否権を行使できる。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000046000243D7",
+  "name_in_database": "ReminderSegment_Section1_PresidentialVetoes",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "大統領の拒否権を憲法から削除する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000046000243D7",
+  "name_in_database": "ReminderSegment_Section1_PresidentialVetoes",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "第82条を改め、ソードランド大国民議会の特別多数によって大統領の拒否権を覆す新たな手続きを設ける。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000046000243D7",
+  "name_in_database": "ReminderSegment_Section1_PresidentialVetoes",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[3].Text",
+  "ja": "第82条を改め、大統領の拒否権に制限を設ける。ただし大統領が法案を処理すべき期限は定めないため、大統領は絶対的な握りつぶしの権限を得ることになる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100009A00003837",
+  "name_in_database": "ReminderSegment_Section1_Wehlen",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第1節"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100009A00003837",
+  "name_in_database": "ReminderSegment_Section1_Wehlen",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "未定"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001515",
+  "name_in_database": "ReminderSegment_Section2_DetentionWithoutTrial",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "裁判なしの拘禁"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001515",
+  "name_in_database": "ReminderSegment_Section2_DetentionWithoutTrial",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "有力な徴候に基づき、内外の安全に対する犯罪の嫌疑がありながら有罪を立証する証拠の収集が不可能な場合、当該容疑者を追って通知があるまで拘禁するよう提案することができる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006A00004DC8",
+  "name_in_database": "ReminderSegment_Section2_PoliceAuthority",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "警察権限の拡大"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006A00004DC8",
+  "name_in_database": "ReminderSegment_Section2_PoliceAuthority",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "警察による実力の行使、押収の命令、および職務質問・所持品検査の権限は、別段に定められた法的制限を超えて認められる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000146B",
+  "name_in_database": "ReminderSegment_Section2_RemoveCourtVote",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第2節：憲法改正"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000146B",
+  "name_in_database": "ReminderSegment_Section2_RemoveCourtVote",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "憲法改正の手続きから最高裁判所の議決を除外する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000153D",
+  "name_in_database": "ReminderSegment_Section2_SuspendedProtests",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "抗議行動および大規模集会の停止"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000153D",
+  "name_in_database": "ReminderSegment_Section2_SuspendedProtests",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "平和的に抗議する権利を停止し、あわせて集会・結社の自由および表現の自由を制限する。警察は群衆を解散させ、またはその集結を阻むために必要な実力を行使することができる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000152D",
+  "name_in_database": "ReminderSegment_Section3_Embargo_Arcasia",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "アルカシアとの国交断絶"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000152D",
+  "name_in_database": "ReminderSegment_Section3_Embargo_Arcasia",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "アルカシア共和国はソードランド共和国にとって国家的脅威であるため、国家はこれとの外交関係を全面的に断絶する。国家はアルカシアに対し禁輸措置をとり、その国民のソードランドへの入国を拒否する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000150D",
+  "name_in_database": "ReminderSegment_Section3_Embargo_Rumburg",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "ルンブルクとの国交断絶"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000150D",
+  "name_in_database": "ReminderSegment_Section3_Embargo_Rumburg",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "ルンブルク王国はソードランド共和国にとって国家的脅威であるため、国家はこれとの外交関係を全面的に断絶する。国家はルンブルクに対し禁輸措置をとり、その国民のソードランドへの入国を拒否する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001535",
+  "name_in_database": "ReminderSegment_Section3_Embargo_UnitedContana",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "コンタナ連邦との国交断絶"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001535",
+  "name_in_database": "ReminderSegment_Section3_Embargo_UnitedContana",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "コンタナ連邦はソードランド共和国にとって国家的脅威であるため、国家はこれとの外交関係を全面的に断絶する。国家はコンタナ連邦に対し禁輸措置をとり、その国民のソードランドへの入国を拒否する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001478",
+  "name_in_database": "ReminderSegment_Section3_PresidentImpeachment",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第3節：大統領の弾劾"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001478",
+  "name_in_database": "ReminderSegment_Section3_PresidentImpeachment",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（最高裁判所は違憲な行為を理由に大統領を弾劾できる。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001478",
+  "name_in_database": "ReminderSegment_Section3_PresidentImpeachment",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "第17条を改め、大統領の弾劾手続きに最高裁判所と大国民議会の双方を関与させる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001478",
+  "name_in_database": "ReminderSegment_Section3_PresidentImpeachment",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "第17条の大統領弾劾手続きを削除する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001485",
+  "name_in_database": "ReminderSegment_Section4_Ministers",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第4節：閣僚の任命"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001485",
+  "name_in_database": "ReminderSegment_Section4_Ministers",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（大統領が閣僚会議を任命する。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001485",
+  "name_in_database": "ReminderSegment_Section4_Ministers",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "大統領が閣僚を指名し、その任命には大国民議会の信任投票を要するものとする。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001485",
+  "name_in_database": "ReminderSegment_Section4_Ministers",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "大国民議会が閣僚の名簿を指名し、大統領はそこから任命することができる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001485",
+  "name_in_database": "ReminderSegment_Section4_Ministers",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[3].Text",
+  "ja": "抜け道"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001492",
+  "name_in_database": "ReminderSegment_Section5_Threshold",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第5節：議席獲得ライン"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001492",
+  "name_in_database": "ReminderSegment_Section5_Threshold",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（政党が大国民議会で議席を得るには、総得票の10%以上を要する。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001492",
+  "name_in_database": "ReminderSegment_Section5_Threshold",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "議席獲得ラインを15%に引き上げる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001492",
+  "name_in_database": "ReminderSegment_Section5_Threshold",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "議席獲得ラインを8%に引き下げる"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x0100006900001492",
+  "name_in_database": "ReminderSegment_Section5_Threshold",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[3].Text",
+  "ja": "議席獲得ラインを3%に引き下げる。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000149F",
+  "name_in_database": "ReminderSegment_Section6_Decrees",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第6節：大統領令"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000149F",
+  "name_in_database": "ReminderSegment_Section6_Decrees",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（大統領は特定の事項について、大国民議会を経ずに命令を発することができる。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000149F",
+  "name_in_database": "ReminderSegment_Section6_Decrees",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "大統領令を憲法から削除する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000149F",
+  "name_in_database": "ReminderSegment_Section6_Decrees",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "大統領令には、大国民議会が可決する授権法を要するものとする。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x010000690000149F",
+  "name_in_database": "ReminderSegment_Section6_Decrees",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[3].Text",
+  "ja": "大統領令は政治・社会・経済の事項について発することができ、法律と同一の効力を持ち、司法審査の対象とならない。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014AC",
+  "name_in_database": "ReminderSegment_Section7_TermLimit",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第7節：任期の制限"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014AC",
+  "name_in_database": "ReminderSegment_Section7_TermLimit",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（憲法は任期の制限を定めていない。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014AC",
+  "name_in_database": "ReminderSegment_Section7_TermLimit",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "大統領は2期を超えて在任することができない。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014B9",
+  "name_in_database": "ReminderSegment_Section8_JusticeImpeachment",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第8節：判事の弾劾"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014B9",
+  "name_in_database": "ReminderSegment_Section8_JusticeImpeachment",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（憲法は最高裁判事に法の前の絶対的免責を与えており、弾劾の手続きを定めていない。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014B9",
+  "name_in_database": "ReminderSegment_Section8_JusticeImpeachment",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "大国民議会は、違憲な行為という法的理由に基づいて判事の弾劾を発議する権利を有する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014B9",
+  "name_in_database": "ReminderSegment_Section8_JusticeImpeachment",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "大統領は最高裁判事を任命し、また更迭する権利を有する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014D3",
+  "name_in_database": "ReminderSegment_Section9_MemberofHonor",
+  "path": "ReminderPanelSegmentProperties.Title",
+  "ja": "第9節：名誉議員"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014D3",
+  "name_in_database": "ReminderSegment_Section9_MemberofHonor",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[0].Text",
+  "ja": "変更なし。（名誉議員は絶対的免責を有し、大国民議会の終身議員とみなされる。）"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014D3",
+  "name_in_database": "ReminderSegment_Section9_MemberofHonor",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[1].Text",
+  "ja": "第99条から名誉議員の絶対的免責を削除する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014D3",
+  "name_in_database": "ReminderSegment_Section9_MemberofHonor",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[2].Text",
+  "ja": "第99条および名誉議員の称号を憲法から削除する。"
+ },
+ {
+  "type": "ReminderPanelSegmentData",
+  "item_id": "0x01000069000014D3",
+  "name_in_database": "ReminderSegment_Section9_MemberofHonor",
+  "path": "ReminderPanelSegmentProperties.SegmentConditions[3].Text",
+  "ja": "すべての大統領は、その任期の終了後に名誉議員とみなされる。"
+ }
+]

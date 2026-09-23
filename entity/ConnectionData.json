@@ -1,0 +1,1059 @@
+[
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003FA6",
+  "name_in_database": "Cabinet_AgricultureMinister_GusManger",
+  "path": "ConnectionProperties.Name",
+  "ja": "ガス・マンガー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F75",
+  "name_in_database": "Cabinet_ChiefOfStaff_LucianGalade",
+  "path": "ConnectionProperties.Name",
+  "ja": "ルシアン・ガラド"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F91",
+  "name_in_database": "Cabinet_DefenceMinister_IosefLancea",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヨセフ・ランチェア"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F83",
+  "name_in_database": "Cabinet_EconomyMinister_SymonHoll",
+  "path": "ConnectionProperties.Name",
+  "ja": "シモン・ホル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F98",
+  "name_in_database": "Cabinet_EducationMinister_CiaraWalda",
+  "path": "ConnectionProperties.Name",
+  "ja": "キアラ・ワルダ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F9F",
+  "name_in_database": "Cabinet_ForeignMinister_DeividWisci",
+  "path": "ConnectionProperties.Name",
+  "ja": "デイヴィド・ウィスキ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F7C",
+  "name_in_database": "Cabinet_HealthMinister_PaskalBeniwoll",
+  "path": "ConnectionProperties.Name",
+  "ja": "パスカル・ベニウォル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F6E",
+  "name_in_database": "Cabinet_InteriorMinister_LileasGraf",
+  "path": "ConnectionProperties.Name",
+  "ja": "リリアス・グラーフ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F8A",
+  "name_in_database": "Cabinet_JusticeMinister_NiaMorgna",
+  "path": "ConnectionProperties.Name",
+  "ja": "ニア・モルグナ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000003A0",
+  "name_in_database": "Cabinet_VicePresident_AlbinClavin",
+  "path": "ConnectionProperties.Name",
+  "ja": "アルビン・クラヴィン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000003A6",
+  "name_in_database": "Cabinet_VicePresident_GloriaTory",
+  "path": "ConnectionProperties.Name",
+  "ja": "グロリア・トーリー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A9A2",
+  "name_in_database": "Cabinet_VicePresident_LucianGalade",
+  "path": "ConnectionProperties.Name",
+  "ja": "ルシアン・ガラド"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005800003F40",
+  "name_in_database": "Cabinet_VicePresident_PetrVectern",
+  "path": "ConnectionProperties.Name",
+  "ja": "ペトル・ベクターン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A000185D1",
+  "name_in_database": "Council_ForeignAffairs_LaurentoEsquibel",
+  "path": "ConnectionProperties.Name",
+  "ja": "ラウレント・エスキベル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B0D",
+  "name_in_database": "Council_ForeignAffairs_VinaToras",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヴィナ・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500006B9B",
+  "name_in_database": "Council_GrandVizier_AngelicaSazon",
+  "path": "ConnectionProperties.Name",
+  "ja": "アンジェリカ・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A00018612",
+  "name_in_database": "Council_GrandVizier_AxelReinhart",
+  "path": "ConnectionProperties.Name",
+  "ja": "アクセル・ラインハルト"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B11",
+  "name_in_database": "Council_GrandVizier_HugoToras",
+  "path": "ConnectionProperties.Name",
+  "ja": "ウーゴ・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A000185D7",
+  "name_in_database": "Council_GrandVizier_SalIgnacius",
+  "path": "ConnectionProperties.Name",
+  "ja": "サル・イグナティウス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B1B",
+  "name_in_database": "Council_Religion_SalIgnacius",
+  "path": "ConnectionProperties.Name",
+  "ja": "サル・イグナティウス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B15",
+  "name_in_database": "Council_Security_LucitaAzaro",
+  "path": "ConnectionProperties.Name",
+  "ja": "ルシータ・アザロ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FFAF",
+  "name_in_database": "Council_Security_RicoToras",
+  "path": "ConnectionProperties.Name",
+  "ja": "リコ・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B77",
+  "name_in_database": "Council_Security_TaddeusAzaro",
+  "path": "ConnectionProperties.Name",
+  "ja": "タデウス・アザロ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A000185DD",
+  "name_in_database": "Council_Security_TitusGordion",
+  "path": "ConnectionProperties.Name",
+  "ja": "ティトゥス・ゴルディオン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0001450C",
+  "name_in_database": "Council_TreasuryEconomy_DariaDeRava",
+  "path": "ConnectionProperties.Name",
+  "ja": "ダリア・デ・ラーヴァ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A000185E3",
+  "name_in_database": "Council_TreasuryEconomy_ElenaWerner",
+  "path": "ConnectionProperties.Name",
+  "ja": "エレナ・ヴェルナー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B09",
+  "name_in_database": "Council_TreasuryEconomy_RustyMontoro",
+  "path": "ConnectionProperties.Name",
+  "ja": "ラスティ・モントーロ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B70",
+  "name_in_database": "Faction_HouseAzaro_Carlos",
+  "path": "ConnectionProperties.Name",
+  "ja": "カルロス・ロブレス・アザロ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B69",
+  "name_in_database": "Faction_HouseAzaro_Lucita",
+  "path": "ConnectionProperties.Name",
+  "ja": "ルシータ・アザロ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0001AA72",
+  "name_in_database": "Faction_HouseAzaro_Taddeus",
+  "path": "ConnectionProperties.Name",
+  "ja": "タデウス・アザロ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0001AA78",
+  "name_in_database": "Faction_HouseSazon_Angelica",
+  "path": "ConnectionProperties.Name",
+  "ja": "アンジェリカ・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B84",
+  "name_in_database": "Faction_HouseSazon_Leona",
+  "path": "ConnectionProperties.Name",
+  "ja": "レオナ・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B7D",
+  "name_in_database": "Faction_HouseSazon_Manus",
+  "path": "ConnectionProperties.Name",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0001AA65",
+  "name_in_database": "Faction_HouseToras_Hubertus",
+  "path": "ConnectionProperties.Name",
+  "ja": "フベルトゥス・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0001AA05",
+  "name_in_database": "Faction_HouseToras_Hugo",
+  "path": "ConnectionProperties.Name",
+  "ja": "ウーゴ・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B8B",
+  "name_in_database": "Faction_HouseToras_Rico",
+  "path": "ConnectionProperties.Name",
+  "ja": "リコ・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100008E00002B99",
+  "name_in_database": "Faction_HouseToras_Vina",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヴィナ・トラス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000278",
+  "name_in_database": "Faction_OldGuard_HeronGaraci",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヘロン・ガラチ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000278",
+  "name_in_database": "Faction_OldGuard_HeronGaraci",
+  "path": "ConnectionProperties.Title",
+  "ja": "最高裁判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000002A3",
+  "name_in_database": "Faction_OldGuard_LileasGraf",
+  "path": "ConnectionProperties.Name",
+  "ja": "リリアス・グラーフ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000002A3",
+  "name_in_database": "Faction_OldGuard_LileasGraf",
+  "path": "ConnectionProperties.Title",
+  "ja": "内務大臣"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000406B",
+  "name_in_database": "Faction_OldGuard_OrsoHawker",
+  "path": "ConnectionProperties.Name",
+  "ja": "オルソ・ホーカー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000406B",
+  "name_in_database": "Faction_OldGuard_OrsoHawker",
+  "path": "ConnectionProperties.Title",
+  "ja": "最高裁長官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000287",
+  "name_in_database": "Faction_OldGuard_ValkenKruger",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヴァルケン・クルーガー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000287",
+  "name_in_database": "Faction_OldGuard_ValkenKruger",
+  "path": "ConnectionProperties.Title",
+  "ja": "軍総司令官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000243",
+  "name_in_database": "Faction_Oligarchs_EdithAgnoc",
+  "path": "ConnectionProperties.Name",
+  "ja": "エディット・アグノク"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000243",
+  "name_in_database": "Faction_Oligarchs_EdithAgnoc",
+  "path": "ConnectionProperties.Title",
+  "ja": "中央銀行総裁"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000235",
+  "name_in_database": "Faction_Oligarchs_MarcelKoronti",
+  "path": "ConnectionProperties.Name",
+  "ja": "マルセル・コロンティ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000235",
+  "name_in_database": "Faction_Oligarchs_MarcelKoronti",
+  "path": "ConnectionProperties.Title",
+  "ja": "HOS総帥"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000023C",
+  "name_in_database": "Faction_Oligarchs_MikailAven",
+  "path": "ConnectionProperties.Name",
+  "ja": "ミカイル・アヴェン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000023C",
+  "name_in_database": "Faction_Oligarchs_MikailAven",
+  "path": "ConnectionProperties.Title",
+  "ja": "国民経済連盟議長"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000040A8",
+  "name_in_database": "Faction_Oligarchs_WalterTusk",
+  "path": "ConnectionProperties.Name",
+  "ja": "ウォルター・タスク"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000040A8",
+  "name_in_database": "Faction_Oligarchs_WalterTusk",
+  "path": "ConnectionProperties.Title",
+  "ja": "ロザーバーグ・グループ報道官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000263",
+  "name_in_database": "Faction_Reformists_AlbinClavin",
+  "path": "ConnectionProperties.Name",
+  "ja": "アルビン・クラヴィン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000263",
+  "name_in_database": "Faction_Reformists_AlbinClavin",
+  "path": "ConnectionProperties.Title",
+  "ja": "統一ソードランド党議員"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000040AF",
+  "name_in_database": "Faction_Reformists_FrensRicter",
+  "path": "ConnectionProperties.Name",
+  "ja": "フレンス・リクター"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000040AF",
+  "name_in_database": "Faction_Reformists_FrensRicter",
+  "path": "ConnectionProperties.Title",
+  "ja": "人民自由正義党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000025C",
+  "name_in_database": "Faction_Reformists_ManolySuheil",
+  "path": "ConnectionProperties.Name",
+  "ja": "マノリー・スハイル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000025C",
+  "name_in_database": "Faction_Reformists_ManolySuheil",
+  "path": "ConnectionProperties.Title",
+  "ja": "人民自由正義党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FC88",
+  "name_in_database": "HOD_RNC_Leader_DariaDeRava",
+  "path": "ConnectionProperties.Name",
+  "ja": "ダリア・デ・ラーヴァ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FC88",
+  "name_in_database": "HOD_RNC_Leader_DariaDeRava",
+  "path": "ConnectionProperties.Title",
+  "ja": "リジア国民連合党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FC88",
+  "name_in_database": "HOD_RNC_Leader_DariaDeRava",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RNC"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400011ED7",
+  "name_in_database": "HOD_RPP_Leader_AdarfoSotelato",
+  "path": "ConnectionProperties.Name",
+  "ja": "アダルフォ・ソテラート"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400011ED7",
+  "name_in_database": "HOD_RPP_Leader_AdarfoSotelato",
+  "path": "ConnectionProperties.Title",
+  "ja": "リジア人民党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400011ED7",
+  "name_in_database": "HOD_RPP_Leader_AdarfoSotelato",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RPP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500007226",
+  "name_in_database": "HOD_RPP_Leader_ManusSazon",
+  "path": "ConnectionProperties.Name",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500007226",
+  "name_in_database": "HOD_RPP_Leader_ManusSazon",
+  "path": "ConnectionProperties.Title",
+  "ja": "リジア人民党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500007226",
+  "name_in_database": "HOD_RPP_Leader_ManusSazon",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RPP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000C8000032D7",
+  "name_in_database": "HOD_RPP_Member_ManusSazon",
+  "path": "ConnectionProperties.Name",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000C8000032D7",
+  "name_in_database": "HOD_RPP_Member_ManusSazon",
+  "path": "ConnectionProperties.Title",
+  "ja": "リジア人民党議員"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000C8000032D7",
+  "name_in_database": "HOD_RPP_Member_ManusSazon",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RPP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400011EE0",
+  "name_in_database": "HOD_Speaker_AdarfoSotelato",
+  "path": "ConnectionProperties.Name",
+  "ja": "アダルフォ・ソテラート"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400011EE0",
+  "name_in_database": "HOD_Speaker_AdarfoSotelato",
+  "path": "ConnectionProperties.Title",
+  "ja": "下院議長"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400011EE0",
+  "name_in_database": "HOD_Speaker_AdarfoSotelato",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RPP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500007215",
+  "name_in_database": "HOD_Speaker_DariaDeRava",
+  "path": "ConnectionProperties.Name",
+  "ja": "ダリア・デ・ラーヴァ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500007215",
+  "name_in_database": "HOD_Speaker_DariaDeRava",
+  "path": "ConnectionProperties.Title",
+  "ja": "下院議長"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006500007215",
+  "name_in_database": "HOD_Speaker_DariaDeRava",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RNC"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FF74",
+  "name_in_database": "HOD_Speaker_ManusSazon",
+  "path": "ConnectionProperties.Name",
+  "ja": "マヌス・サゾン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FF74",
+  "name_in_database": "HOD_Speaker_ManusSazon",
+  "path": "ConnectionProperties.Title",
+  "ja": "下院議長"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FF74",
+  "name_in_database": "HOD_Speaker_ManusSazon",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "RPP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FF7D",
+  "name_in_database": "HOD_Speaker_SalIgnacius",
+  "path": "ConnectionProperties.Name",
+  "ja": "サル・イグナティウス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006A0000FF7D",
+  "name_in_database": "HOD_Speaker_SalIgnacius",
+  "path": "ConnectionProperties.Title",
+  "ja": "下院議長"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A934",
+  "name_in_database": "Judiciary_ChiefJustice_HeronGaraci",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヘロン・ガラチ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A934",
+  "name_in_database": "Judiciary_ChiefJustice_HeronGaraci",
+  "path": "ConnectionProperties.Title",
+  "ja": "最高裁長官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A934",
+  "name_in_database": "Judiciary_ChiefJustice_HeronGaraci",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "守旧派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041C6",
+  "name_in_database": "Judiciary_ChiefJustice_OrsoHawker",
+  "path": "ConnectionProperties.Name",
+  "ja": "オルソ・ホーカー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041C6",
+  "name_in_database": "Judiciary_ChiefJustice_OrsoHawker",
+  "path": "ConnectionProperties.Title",
+  "ja": "最高裁長官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041C6",
+  "name_in_database": "Judiciary_ChiefJustice_OrsoHawker",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "守旧派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005100042883",
+  "name_in_database": "Judiciary_ChiefJustice_OvidGrecer",
+  "path": "ConnectionProperties.Name",
+  "ja": "オヴィド・グレツェル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005100042883",
+  "name_in_database": "Judiciary_ChiefJustice_OvidGrecer",
+  "path": "ConnectionProperties.Title",
+  "ja": "最高裁長官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100005100042883",
+  "name_in_database": "Judiciary_ChiefJustice_OvidGrecer",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "中道派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000031E",
+  "name_in_database": "Judiciary_Justice_OvidGrecer",
+  "path": "ConnectionProperties.Name",
+  "ja": "オヴィド・グレツェル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000031E",
+  "name_in_database": "Judiciary_Justice_OvidGrecer",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000031E",
+  "name_in_database": "Judiciary_Justice_OvidGrecer",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "中道派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000037A",
+  "name_in_database": "Judiciary_NotableJustice_ArnoldDalton",
+  "path": "ConnectionProperties.Name",
+  "ja": "アーノルド・ダルトン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000037A",
+  "name_in_database": "Judiciary_NotableJustice_ArnoldDalton",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000037A",
+  "name_in_database": "Judiciary_NotableJustice_ArnoldDalton",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "中道派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000337",
+  "name_in_database": "Judiciary_NotableJustice_DidierMeye",
+  "path": "ConnectionProperties.Name",
+  "ja": "ディディエ・メイエ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000337",
+  "name_in_database": "Judiciary_NotableJustice_DidierMeye",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000337",
+  "name_in_database": "Judiciary_NotableJustice_DidierMeye",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "中道派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000035B",
+  "name_in_database": "Judiciary_NotableJustice_GloriaTory",
+  "path": "ConnectionProperties.Name",
+  "ja": "グロリア・トーリー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000035B",
+  "name_in_database": "Judiciary_NotableJustice_GloriaTory",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000035B",
+  "name_in_database": "Judiciary_NotableJustice_GloriaTory",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "守旧派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000034B",
+  "name_in_database": "Judiciary_NotableJustice_GustafSouter",
+  "path": "ConnectionProperties.Name",
+  "ja": "グスタフ・サウター"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000034B",
+  "name_in_database": "Judiciary_NotableJustice_GustafSouter",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000034B",
+  "name_in_database": "Judiciary_NotableJustice_GustafSouter",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "改革派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000030F",
+  "name_in_database": "Judiciary_NotableJustice_HeronGaraci",
+  "path": "ConnectionProperties.Name",
+  "ja": "ヘロン・ガラチ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000030F",
+  "name_in_database": "Judiciary_NotableJustice_HeronGaraci",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000030F",
+  "name_in_database": "Judiciary_NotableJustice_HeronGaraci",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "守旧派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A92B",
+  "name_in_database": "Judiciary_NotableJustice_IsabelEdmonds",
+  "path": "ConnectionProperties.Name",
+  "ja": "イザベル・エドモンズ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A92B",
+  "name_in_database": "Judiciary_NotableJustice_IsabelEdmonds",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A92B",
+  "name_in_database": "Judiciary_NotableJustice_IsabelEdmonds",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "中道派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041CE",
+  "name_in_database": "Judiciary_NotableJustice_NiaMorgna",
+  "path": "ConnectionProperties.Name",
+  "ja": "ニア・モルグナ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041CE",
+  "name_in_database": "Judiciary_NotableJustice_NiaMorgna",
+  "path": "ConnectionProperties.Title",
+  "ja": "判事・法務大臣"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041CE",
+  "name_in_database": "Judiciary_NotableJustice_NiaMorgna",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "改革派"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000483",
+  "name_in_database": "Legislative_AlbinClavin",
+  "path": "ConnectionProperties.Name",
+  "ja": "アルビン・クラヴィン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000483",
+  "name_in_database": "Legislative_AlbinClavin",
+  "path": "ConnectionProperties.Title",
+  "ja": "統一ソードランド党改革派の領袖"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000483",
+  "name_in_database": "Legislative_AlbinClavin",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "USP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400006D5F",
+  "name_in_database": "Legislative_BernardCircas",
+  "path": "ConnectionProperties.Name",
+  "ja": "ベルナルド・シルカス"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400006D5F",
+  "name_in_database": "Legislative_BernardCircas",
+  "path": "ConnectionProperties.Title",
+  "ja": "無所属会派報道官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100007400006D5F",
+  "name_in_database": "Legislative_BernardCircas",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "無所属"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041D5",
+  "name_in_database": "Legislative_FrensRicter",
+  "path": "ConnectionProperties.Name",
+  "ja": "フレンス・リクター"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041D5",
+  "name_in_database": "Legislative_FrensRicter",
+  "path": "ConnectionProperties.Title",
+  "ja": "人民自由正義党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041D5",
+  "name_in_database": "Legislative_FrensRicter",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "PFJP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041DC",
+  "name_in_database": "Legislative_GloriaTory",
+  "path": "ConnectionProperties.Name",
+  "ja": "グロリア・トーリー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041DC",
+  "name_in_database": "Legislative_GloriaTory",
+  "path": "ConnectionProperties.Title",
+  "ja": "統一ソードランド党穏健派の領袖"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000058000041DC",
+  "name_in_database": "Legislative_GloriaTory",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "USP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000471",
+  "name_in_database": "Legislative_KatarinaHorten",
+  "path": "ConnectionProperties.Name",
+  "ja": "カタリナ・ホルテン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000471",
+  "name_in_database": "Legislative_KatarinaHorten",
+  "path": "ConnectionProperties.Title",
+  "ja": "無所属議員"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000471",
+  "name_in_database": "Legislative_KatarinaHorten",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "無所属"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A917",
+  "name_in_database": "Legislative_KesaroKibener",
+  "path": "ConnectionProperties.Name",
+  "ja": "ケサロ・キベナー"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A917",
+  "name_in_database": "Legislative_KesaroKibener",
+  "path": "ConnectionProperties.Title",
+  "ja": "国民戦線党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A917",
+  "name_in_database": "Legislative_KesaroKibener",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "NFP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000049E",
+  "name_in_database": "Legislative_ManolySuheil",
+  "path": "ConnectionProperties.Name",
+  "ja": "マノリー・スハイル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000049E",
+  "name_in_database": "Legislative_ManolySuheil",
+  "path": "ConnectionProperties.Title",
+  "ja": "人民自由正義党議員"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000049E",
+  "name_in_database": "Legislative_ManolySuheil",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "PFJP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000004B0",
+  "name_in_database": "Legislative_MansounLeke",
+  "path": "ConnectionProperties.Name",
+  "ja": "マンスン・レケ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000004B0",
+  "name_in_database": "Legislative_MansounLeke",
+  "path": "ConnectionProperties.Title",
+  "ja": "無所属会派報道官"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000004B0",
+  "name_in_database": "Legislative_MansounLeke",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "無所属"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000048C",
+  "name_in_database": "Legislative_NFPLeader_RemusHolstron",
+  "path": "ConnectionProperties.Name",
+  "ja": "レムス・ホルストロン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000048C",
+  "name_in_database": "Legislative_NFPLeader_RemusHolstron",
+  "path": "ConnectionProperties.Title",
+  "ja": "国民戦線党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000670000048C",
+  "name_in_database": "Legislative_NFPLeader_RemusHolstron",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "NFP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000495",
+  "name_in_database": "Legislative_PFJPLeader_ManolySuheil",
+  "path": "ConnectionProperties.Name",
+  "ja": "マノリー・スハイル"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000495",
+  "name_in_database": "Legislative_PFJPLeader_ManolySuheil",
+  "path": "ConnectionProperties.Title",
+  "ja": "人民自由正義党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x0100006700000495",
+  "name_in_database": "Legislative_PFJPLeader_ManolySuheil",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "PFJP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000004A7",
+  "name_in_database": "Legislative_RemusHolstron",
+  "path": "ConnectionProperties.Name",
+  "ja": "レムス・ホルストロン"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000004A7",
+  "name_in_database": "Legislative_RemusHolstron",
+  "path": "ConnectionProperties.Title",
+  "ja": "国民戦線党議員"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x01000067000004A7",
+  "name_in_database": "Legislative_RemusHolstron",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "NFP"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A920",
+  "name_in_database": "Legislative_WPBLeader_MansounLeke",
+  "path": "ConnectionProperties.Name",
+  "ja": "マンスン・レケ"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A920",
+  "name_in_database": "Legislative_WPBLeader_MansounLeke",
+  "path": "ConnectionProperties.Title",
+  "ja": "ブルディア労働者党党首"
+ },
+ {
+  "type": "ConnectionData",
+  "item_id": "0x010000580000A920",
+  "name_in_database": "Legislative_WPBLeader_MansounLeke",
+  "path": "ConnectionProperties.AffiliationName",
+  "ja": "WPB"
+ }
+]

@@ -1,0 +1,534 @@
+[
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000037",
+  "name_in_database": "CollectionItem_AnricaTrophy",
+  "path": "CollectionItemProperties.Title",
+  "ja": "FCアンリカのトロフィー"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000037",
+  "name_in_database": "CollectionItem_AnricaTrophy",
+  "path": "CollectionItemProperties.GroupName",
+  "ja": "投資"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000037",
+  "name_in_database": "CollectionItem_AnricaTrophy",
+  "path": "CollectionItemProperties.Description",
+  "ja": "気概とスポーツマンシップの勝利を思い起こさせる一品。名高いFCアンリカの紋章が刻まれたこの輝くトロフィーは、あなたがクラブに投じた出資の証である。競技場の歓声がこの象徴のなかに生き続け、ソードランドの運動精神と仲間意識の核心を写し取っている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000044",
+  "name_in_database": "CollectionItem_ArmadineRadio",
+  "path": "CollectionItemProperties.Title",
+  "ja": "アルマディン製ラジオ"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000044",
+  "name_in_database": "CollectionItem_ArmadineRadio",
+  "path": "CollectionItemProperties.Description",
+  "ja": "アルカシアのヴェントリー市、その活気ある工房で作られたこの洗練されたラジオは、単なる機械ではなく世界とのつながりである。地球の各地の周波数に合わせられるそれは、あなたの抜け目ない投資の証であり、放送技術の粋を示す灯でもある。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000068",
+  "name_in_database": "CollectionItem_AschrafCandle",
+  "path": "CollectionItemProperties.Title",
+  "ja": "アシュラフの蝋燭"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000068",
+  "name_in_database": "CollectionItem_AschrafCandle",
+  "path": "CollectionItemProperties.Description",
+  "ja": "ブルディア人共同体のアシュラフ記念日に灯されたこの厳かな蝋燭は、多様のなかの結束の物語を静かに語りかける。揺らぐ炎の一つひとつが、民の強さと、その歴史と苦闘を映し、不屈と希望の像を描き出す。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000493",
+  "name_in_database": "CollectionItem_BullFigurine",
+  "path": "CollectionItemProperties.Title",
+  "ja": "雄牛の像"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000493",
+  "name_in_database": "CollectionItem_BullFigurine",
+  "path": "CollectionItemProperties.Description",
+  "ja": "リザ女王の治世にさかのぼる、輝く黄金の小像。台座に施された繊細な花の彫刻はリジアの豊かな大地を象徴し、その上をトラス家の不屈の雄牛が見守っている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000001F",
+  "name_in_database": "CollectionItem_CarKey",
+  "path": "CollectionItemProperties.Title",
+  "ja": "車の鍵"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000001F",
+  "name_in_database": "CollectionItem_CarKey",
+  "path": "CollectionItemProperties.Description",
+  "ja": "それは単なる鍵ではなく、速さと力と贅の象徴である。冷たい金属にはスポーツカーを駆る昂ぶりが宿り、レスピアの名門自動車メーカー、ランドルフィーニの格式を体現している。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000062",
+  "name_in_database": "CollectionItem_CeremonialScissors",
+  "path": "CollectionItemProperties.Title",
+  "ja": "式典用の鋏"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000062",
+  "name_in_database": "CollectionItem_CeremonialScissors",
+  "path": "CollectionItemProperties.Description",
+  "ja": "進歩を映して光る象徴。インフラ事業の落成式でテープを切るために用いられたこの鋏は、あなたが現代のソードランドの姿に寄与したことを形に残すものである。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000530000049D",
+  "name_in_database": "CollectionItem_ChessPiece",
+  "path": "CollectionItemProperties.Title",
+  "ja": "アザロ家のチェス駒"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000530000049D",
+  "name_in_database": "CollectionItem_ChessPiece",
+  "path": "CollectionItemProperties.Description",
+  "ja": "チェスはもっとも高貴な遊戯であり、戦略という技芸の証である。王宮の広間で時を過ごす手立てとしても格好のものだった。この美しい駒は、アザロ家がその武勇を讃えて作らせた一組の一部である。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000001",
+  "name_in_database": "CollectionItem_CigarBox",
+  "path": "CollectionItemProperties.Title",
+  "ja": "葉巻の箱"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000001",
+  "name_in_database": "CollectionItem_CigarBox",
+  "path": "CollectionItemProperties.GroupName",
+  "ja": "賄賂"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000001",
+  "name_in_database": "CollectionItem_CigarBox",
+  "path": "CollectionItemProperties.Description",
+  "ja": "ウォルター・タスクからの贈り物。この箱からは、レスピアの陽光で乾かされ、かの国随一の職人の手で巻かれた葉の、豊かで紛れもない香りが立ちのぼる。中の一本一本が、権力と富、そしてソードランドとレスピアの財閥が織りなす込み入った関係を物語っている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000005C",
+  "name_in_database": "CollectionItem_Dagger",
+  "path": "CollectionItemProperties.Title",
+  "ja": "エグムンド王の短剣"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000005C",
+  "name_in_database": "CollectionItem_Dagger",
+  "path": "CollectionItemProperties.Description",
+  "ja": "幾世代にもわたって受け継がれてきた古の遺品。この短剣はエグムンド王の治世を語り伝える。統べる者の重責を思い起こさせるそれは、武器である以上に、ソードランドの歴史そのものの一片である。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000A1000043A2",
+  "name_in_database": "CollectionItem_DastScepter",
+  "path": "CollectionItemProperties.Title",
+  "ja": "聖ダストの笏"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000A1000043A2",
+  "name_in_database": "CollectionItem_DastScepter",
+  "path": "CollectionItemProperties.Description",
+  "ja": "聖ダストの笏は、精緻な細工と深い象徴的意味で知られる崇敬の対象である。柄は11の区画に分かれ、それぞれがヌーリティの柱の一つを表し、その根本の教えを体現する意匠で飾られている。 \n\n伝承によれば、名工ドリアン・エチェベリアは、聖ダストが現れてヌーリティの柱を象るこの笏を作るよう促す、鮮烈な夢を見たという。この神聖な啓示に突き動かされたドリアンは、聖人の遺徳を讃えることこそ自らの聖なる務めと信じ、細心の注意をもってこの笏を設計し、鍛え上げた。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004A7",
+  "name_in_database": "CollectionItem_DogToy",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ブルーノの犬用玩具"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004A7",
+  "name_in_database": "CollectionItem_DogToy",
+  "path": "CollectionItemProperties.Description",
+  "ja": "友情、信頼、そして何より忠誠――いずれも王が臣下に当然求めてよいものである。ブルーノは幾度となく、その点で宮廷の多くの者よりも優れていることを示してきた。よくやった。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004D9",
+  "name_in_database": "CollectionItem_FabergeEgg",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ハッタースリーの卵"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004D9",
+  "name_in_database": "CollectionItem_FabergeEgg",
+  "path": "CollectionItemProperties.Description",
+  "ja": "ルンブルクの名高い金細工師ベンジャミン・C・ハッタースリーが、故アルフレッド2世の治世に王室の依頼で作った一連の卵の一つ。現存するのは8個のみとされ、この一点にはエメラルドとラピスラズリが象嵌されている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004CF",
+  "name_in_database": "CollectionItem_GasCorpPlaque",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ROGの記念盾"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004CF",
+  "name_in_database": "CollectionItem_GasCorpPlaque",
+  "path": "CollectionItemProperties.Description",
+  "ja": "リジア石油ガス公社は誇りの源であり、国家の自給と自立の象徴である。アウレウス・ガス田に捧げられた、武骨でありながら優美なこの記念盾は、その目標に至るまでに歩んだ道のりを絶えず思い起こさせる。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000780000000E",
+  "name_in_database": "CollectionItem_GoatStatue",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ソードランドの山羊像"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000780000000E",
+  "name_in_database": "CollectionItem_GoatStatue",
+  "path": "CollectionItemProperties.Description",
+  "ja": "精巧に作られたこのソードランドの山羊像は、国民の誇りを照らす灯である。細部まで丹念に彫り込まれたそれは、この国の遺産と自然の恵みを静かに讃えている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000025",
+  "name_in_database": "CollectionItem_Gun",
+  "path": "CollectionItemProperties.Title",
+  "ja": "拳銃"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000025",
+  "name_in_database": "CollectionItem_Gun",
+  "path": "CollectionItemProperties.Description",
+  "ja": "飾り気のないこのソードランド製の武器は、争いの生々しい残響であり、戦時下にある国の緊張を重く宿している。ソードランドが直面する試練と、それを切り抜けるのに要る胆力とを、厳しく突きつけてくる。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000002B",
+  "name_in_database": "CollectionItem_Headphones",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ヘッドフォン"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000002B",
+  "name_in_database": "CollectionItem_Headphones",
+  "path": "CollectionItemProperties.Description",
+  "ja": "絡まった配線とすり減ったイヤーパッドを持つこのヘッドフォンは、戦のさなかにあってあなたの伴侶となった。そこから流れる音は混沌のただ中に集中の繭を作り、最も必要なときに思考の冴えをもたらす。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000530000046F",
+  "name_in_database": "CollectionItem_IntermerkopumPlaque",
+  "path": "CollectionItemProperties.Title",
+  "ja": "インテルメルコプムの環"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000530000046F",
+  "name_in_database": "CollectionItem_IntermerkopumPlaque",
+  "path": "CollectionItemProperties.Description",
+  "ja": "精巧に組み合わされたこの環の連なりは、メルコパの数多の国々のあいだに丹念に築かれた結束を表している。それぞれの違いと思惑を思えば、驚くべき偉業である。願わくはこの先何十年も続かんことを。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000467",
+  "name_in_database": "CollectionItem_IzaKey",
+  "path": "CollectionItemProperties.Title",
+  "ja": "イザ門の鍵"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000467",
+  "name_in_database": "CollectionItem_IzaKey",
+  "path": "CollectionItemProperties.Description",
+  "ja": "イザの由緒あるムッセル門の装飾鍵。サゾン家がこの都市を治めていることの象徴である。サゾン家のサボテンの紋章が黄金で美しく象られ、磨き上げられて光を宿している。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000003E",
+  "name_in_database": "CollectionItem_KesaroLighter",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ケサロのライター"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000003E",
+  "name_in_database": "CollectionItem_KesaroLighter",
+  "path": "CollectionItemProperties.Description",
+  "ja": "一見なんの変哲もない道具だが、かつて銃弾から一つの命を救った。そこに散る火花のひとつひとつが、九死に一生の逸話と、予測しがたい運命の転がりを照らし出す。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000530000045F",
+  "name_in_database": "CollectionItem_KorontiResortPostcard",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ヴァレンキリスの絵葉書"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000530000045F",
+  "name_in_database": "CollectionItem_KorontiResortPostcard",
+  "path": "CollectionItemProperties.Description",
+  "ja": "陽射しを浴びた人でにぎわう浜辺が、この絵葉書を飾っている。ある者には楽園だろうが、より人目につかぬ静かな海辺の隠れ家を好む者もいよう。花開くリジアの観光産業へのささやかな讃辞であり、マルセル・コロンティからの私信が添えられている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000A000000138",
+  "name_in_database": "CollectionItem_LucitaDagger",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ルシータの短剣"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000A000000138",
+  "name_in_database": "CollectionItem_LucitaDagger",
+  "path": "CollectionItemProperties.Description",
+  "ja": "小ぶりながら恐ろしく鋭い刃物で、握りはよく使い込まれている。接近戦で振るうことも、敵めがけて投げつけることもできる。薄い造りゆえ、気づかれることなく身近に忍ばせておける。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004BB",
+  "name_in_database": "CollectionItem_MandragoraExtract",
+  "path": "CollectionItemProperties.Title",
+  "ja": "マンドラゴラの抽出液"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004BB",
+  "name_in_database": "CollectionItem_MandragoraExtract",
+  "path": "CollectionItemProperties.Description",
+  "ja": "この濃縮したマンドラゴラの抽出液を数滴垂らせば、信仰篤き者は神域を垣間見ることができる――賢者たちはそう説く。もっとも、数滴多すぎれば破滅的な結果を招くこともまた知られている……"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004ED",
+  "name_in_database": "CollectionItem_MechanicalBird",
+  "path": "CollectionItemProperties.Title",
+  "ja": "モレラのブリキの小鳥"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004ED",
+  "name_in_database": "CollectionItem_MechanicalBird",
+  "path": "CollectionItemProperties.Description",
+  "ja": "モレラの名高い職人たちが作り上げた、見事な出来のブリキの小鳥。簡素なぜんまい仕掛けで翼を羽ばたかせ、足を踏み鳴らす。 \n\n今日ではモレラの多くの家庭にありふれた玩具だが、大量生産されていないため、メルコパ各国ではこうした小鳥が珍重されている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004B1",
+  "name_in_database": "CollectionItem_MiniYacht",
+  "path": "CollectionItemProperties.Title",
+  "ja": "RRNリザニアの模型"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004B1",
+  "name_in_database": "CollectionItem_MiniYacht",
+  "path": "CollectionItemProperties.Description",
+  "ja": "速く、優美で、現代的、そして何より快適。望みうるかぎりの設備がこの船には備わっている。RRNリザニア号はまさに現代の王にふさわしい遊覧船であり、この縮尺模型はそれがあなたのものであることを絶えず思い起こさせる。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000A3000011AE",
+  "name_in_database": "CollectionItem_PalesCrown",
+  "path": "CollectionItemProperties.Title",
+  "ja": "パレスの王冠"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000A3000011AE",
+  "name_in_database": "CollectionItem_PalesCrown",
+  "path": "CollectionItemProperties.Description",
+  "ja": "パレスの王冠は、あなたのものには及ばぬとはいえ、それでも目を瞠る品である。純金で作られ、大粒の白真珠と宝石で飾られたそれは、かつて独立した大公国を治めるラインハルト家の象徴であった。\n\nそれが今、あなたの机上にある。分離した州をリジアが正当に取り戻したことの証として。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100008600000001",
+  "name_in_database": "CollectionItem_PhotoFrameTorn",
+  "path": "CollectionItemProperties.Title",
+  "ja": "破れた家族写真"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100008600000001",
+  "name_in_database": "CollectionItem_PhotoFrameTorn",
+  "path": "CollectionItemProperties.Description",
+  "ja": "端の破れたこの写真は、失われた愛と、断たれた縁について多くを語る。国を率いる座を求めて払った個人の犠牲を、痛切に思い起こさせる。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000031",
+  "name_in_database": "CollectionItem_Pocketwatch",
+  "path": "CollectionItemProperties.Title",
+  "ja": "セルジュの懐中時計"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000031",
+  "name_in_database": "CollectionItem_Pocketwatch",
+  "path": "CollectionItemProperties.Description",
+  "ja": "色褪せぬ友情の形見。この時計はかつて、忠実な運転手セルジュ・ヴォルクナーのものだった。刻まれる秒音の一つひとつが、二人で歩んだ道程の律動を響かせ、仲間意識と忠義の物語をささやく。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000050",
+  "name_in_database": "CollectionItem_PoemBook",
+  "path": "CollectionItemProperties.Title",
+  "ja": "シルカスの詩集"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100007300000050",
+  "name_in_database": "CollectionItem_PoemBook",
+  "path": "CollectionItemProperties.Description",
+  "ja": "この本を手に取ることは、斃れた詩人の心に触れることに等しい。そこに収められた詩句の一つひとつが、一国の悲嘆と栄光を、そしてあまりに早く黙らされた孤独な声を響かせている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004C5",
+  "name_in_database": "CollectionItem_PoemScroll",
+  "path": "CollectionItemProperties.Title",
+  "ja": "パベルの詩"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004C5",
+  "name_in_database": "CollectionItem_PoemScroll",
+  "path": "CollectionItemProperties.Description",
+  "ja": "詩としての出来にはなお改善の余地があるかもしれない。それでも、友であり執事でもあるパベルから贈られたこの詩は、ともに過ごした時の記憶であり、これから来るものへの希望でもある。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000009B",
+  "name_in_database": "CollectionItem_UnderhallTrophy",
+  "path": "CollectionItemProperties.Title",
+  "ja": "アンダーホールのトロフィー"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000009B",
+  "name_in_database": "CollectionItem_UnderhallTrophy",
+  "path": "CollectionItemProperties.GroupName",
+  "ja": "投資"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000009B",
+  "name_in_database": "CollectionItem_UnderhallTrophy",
+  "path": "CollectionItemProperties.Description",
+  "ja": "企業家としての成功を映す輝かしい象徴。このトロフィーは、あなたがアンダーホールに投じた出資の証である。ソードランドのインフラの成長と、繁栄の約束を証し立てている。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000004A",
+  "name_in_database": "CollectionItem_USPBrooch",
+  "path": "CollectionItemProperties.Title",
+  "ja": "USPのブローチ"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x010000730000004A",
+  "name_in_database": "CollectionItem_USPBrooch",
+  "path": "CollectionItemProperties.Description",
+  "ja": "58年の選挙戦で身につけられたこのブローチは、あなたの政治の歩みの象徴である。小さな品でありながら、一国の希望と、変革を求める切迫した熱を宿している。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000457",
+  "name_in_database": "CollectionItem_WeddingRing",
+  "path": "CollectionItemProperties.Title",
+  "ja": "レナの結婚指輪"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000457",
+  "name_in_database": "CollectionItem_WeddingRing",
+  "path": "CollectionItemProperties.Description",
+  "ja": "あの運命の舟遊びののち、亡骸から取り戻された妻レナの結婚指輪。大粒の青いアメジストは今もなお彼女の瞳を思わせ、黄金に刻まれた二人の名は、永遠に続くはずだったものを思い起こさせる。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004E3",
+  "name_in_database": "CollectionItem_WehzekDoorstop",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ヴェゼクのドアストッパー"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x01000053000004E3",
+  "name_in_database": "CollectionItem_WehzekDoorstop",
+  "path": "CollectionItemProperties.Description",
+  "ja": "最上のヴェゼク産トウヒから削り出し、金を被せ、優美な宝石で飾ったこのドアストッパーは、ヴェーレンの中枢に深く根づいた装飾木工の長い伝統に連なる品である。その多用途ぶりを褒める者もいるという。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100006A00005526",
+  "name_in_database": "CollectionItem_WhiskeyBottle",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ウイスキーの瓶"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100006A00005526",
+  "name_in_database": "CollectionItem_WhiskeyBottle",
+  "path": "CollectionItemProperties.Description",
+  "ja": "30年を経たエルローリーのマルーン――純然たる調和の一本。ひと口ごとに幾重もの複雑な風味がほどけ、飲む者をソードランドの静謐な高地へと運んでゆく。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100006A0000552B",
+  "name_in_database": "CollectionItem_WineBottle",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ワインの瓶"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100006A0000552B",
+  "name_in_database": "CollectionItem_WineBottle",
+  "path": "CollectionItemProperties.GroupName",
+  "ja": "投資"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100006A0000552B",
+  "name_in_database": "CollectionItem_WineBottle",
+  "path": "CollectionItemProperties.Description",
+  "ja": "ソードランドの肥沃な大地の証。この瓶には、あなた自身の葡萄畑から生まれた深紅の美酒が収められている。その深い香りは故郷を清々しく思い起こさせ、個人の達成とソードランドの風土そのものを象徴している。"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000489",
+  "name_in_database": "CollectionItem_WruhecistMedallion",
+  "path": "CollectionItemProperties.Title",
+  "ja": "ヴルヘック教のメダリオン"
+ },
+ {
+  "type": "CollectionItemData",
+  "item_id": "0x0100005300000489",
+  "name_in_database": "CollectionItem_WruhecistMedallion",
+  "path": "CollectionItemProperties.Description",
+  "ja": "メフティエム国際貿易区の予備調査の際に発見された、純金のヴルヘック教メダリオン。古代レゼニド帝国に残る最古級の遺物の一つとされる。驚くほどよく保たれた精緻な宗教彫刻は、数百年前と変わらぬ象徴をいまも湛えている。"
+ }
+]
