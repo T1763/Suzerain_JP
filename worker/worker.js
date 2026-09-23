@@ -52,7 +52,11 @@ export default {
           method: 'POST',
           body: new URLSearchParams({ secret: env.TURNSTILE_SECRET, response: String(fd.get('turnstile') || ''), remoteip: ip }),
         }).then((r) => r.json());
-        if (!v.success) return reply(400, { ok: false, error: 'ロボット対策の確認に失敗しました。ページを読み込み直してください' });
+        if (!v.success) {
+          const codes = (v['error-codes'] || []).join(',');
+          console.log('turnstile failed', codes, v.hostname || '');
+          return reply(400, { ok: false, error: `ロボット対策の確認に失敗しました。ページを読み込み直してください [${codes}]` });
+        }
       }
 
       const mode = fd.get('mode') === 'tester' ? 'tester' : 'report';
