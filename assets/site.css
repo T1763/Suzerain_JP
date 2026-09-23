@@ -128,12 +128,13 @@ textarea { min-height: 96px; resize: vertical; }
 .drop.over { border-color: var(--accent); color: var(--text); }
 /* スクリーンショットは本文の幅いっぱいに、縦横比そのままで出す（画面の文字が読めるように） */
 .shots {
-  display: flex; flex-direction: column; gap: 16px; margin-top: 12px;
-  /* ブラウザの画面幅の半分（2026-09-23 ユーザー指定）。スマホでは半分だと読めないので幅いっぱい */
-  width: 50vw; position: relative; left: 50%; transform: translateX(-50%);
+  /* 1枚が画面幅の約3分の1、3枚を横に並べる（2026-09-23 ユーザー指定）。4枚目からは次の段 */
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 12px;
+  width: calc(100vw - 32px); position: relative; left: 50%; transform: translateX(-50%);
 }
 @media (max-width: 700px) {
-  .shots { width: 100%; left: 0; transform: none; }
+  /* スマホでは3分の1だと読めないので1列 */
+  .shots { grid-template-columns: 1fr; width: 100%; left: 0; transform: none; }
 }
 .shot { position: relative; width: 100%; }
 .shot a { display: block; cursor: zoom-in; }
