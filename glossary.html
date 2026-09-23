@@ -33,6 +33,11 @@
   <h1>用語対訳表</h1>
   <p class="lead">日本語化で使っている人名・地名・組織名などの英語と日本語の対照です。ゲーム内の「索引」（Codex）の項目名にあたります。</p>
 
+  <div class="notice" id="spoiler-gate">
+    <p><strong>ネタバレ注意</strong>：最初は物語の序盤（最初の2ターン）に出てくる語だけを表示しています。下のボタンを押すと、物語の後半で初めて出てくる人物・組織・出来事の名前も表に加わります。</p>
+    <p style="margin-top:10px"><button class="btn secondary" type="button" id="show-full">ネタバレを承知ですべての語を表示する</button></p>
+  </div>
+
   <h2>訳し方の決まり</h2>
   <ul>
     <li>人名・地名はカタカナ、組織や制度は意味の分かる漢字の言葉にしています。</li>
@@ -41,9 +46,9 @@
     <li>ゲーム内の <strong>Codex</strong> は「索引」。</li>
   </ul>
 
-  <h2>序盤に出てくる語</h2>
-  <p>物語の最初の2ターンまでに出てくる語です。ネタバレはありません。</p>
-  <input class="search" type="search" id="q-early" placeholder="英語か日本語で絞り込む（例: Sordland、大統領）" aria-label="序盤の語を絞り込む">
+  <h2 id="t-title">序盤に出てくる語</h2>
+  <p id="t-desc">物語の最初の2ターンまでに出てくる語です。ネタバレはありません。</p>
+  <input class="search" type="search" id="q-early" placeholder="英語か日本語で絞り込む（例: Sordland、大統領）" aria-label="語を絞り込む">
   <p class="count" id="c-early"></p>
   <div class="table-wrap">
   <table id="t-early">
@@ -440,23 +445,6 @@
   </table>
   </div>
 
-  <h2>索引のすべての語</h2>
-  <div class="notice" id="spoiler-gate">
-    <p><strong>ネタバレ注意</strong>：物語の後半で初めて出てくる人物・組織・出来事の名前が含まれます。</p>
-    <p>本編と DLC を遊び終えていない方は、表示しないことをおすすめします。</p>
-    <p style="margin-top:12px"><button class="btn secondary" type="button" id="show-full">ネタバレを承知で表示する</button></p>
-  </div>
-  <div id="full" class="hidden">
-    <input class="search" type="search" id="q-full" placeholder="英語か日本語で絞り込む" aria-label="すべての語を絞り込む">
-    <p class="count" id="c-full"></p>
-    <div class="table-wrap">
-    <table id="t-full">
-      <thead><tr><th>英語</th><th>日本語</th></tr></thead>
-      <tbody></tbody>
-    </table>
-    </div>
-  </div>
-
   <p style="margin-top:32px">訳語の揺れや誤りに気づいたら、<a href="report.html">不備の報告</a>からお知らせください。</p>
 </main>
 
@@ -487,19 +475,26 @@
     btn.disabled = true;
     btn.textContent = '読み込んでいます…';
     fetch('data/glossary-full.json').then(function (r) { return r.json(); }).then(function (rows) {
-      var tb = document.getElementById('t-full').tBodies[0];
+      var tb = te.tBodies[0];
+      var have = {};
+      Array.prototype.forEach.call(tb.rows, function (tr) { have[tr.cells[0].textContent] = true; });
       rows.forEach(function (r) {
+        if (have[r[0]]) return;
         var tr = document.createElement('tr');
         var a = document.createElement('td'); a.textContent = r[0];
         var b = document.createElement('td'); b.textContent = r[1];
-        tr.appendChild(a); tr.appendChild(b); tb.appendChild(tr);
+        var c = document.createElement('td'); var t = document.createElement('span');
+        t.className = 'tag'; t.textContent = '後半'; c.appendChild(t);
+        tr.appendChild(a); tr.appendChild(b); tr.appendChild(c); tb.appendChild(tr);
       });
+      // 序盤の語と後半の語を英語の順に並べ直す
+      var all = Array.prototype.slice.call(tb.rows);
+      all.sort(function (x, y) { return x.cells[0].textContent.toLowerCase().localeCompare(y.cells[0].textContent.toLowerCase()); });
+      all.forEach(function (tr) { tb.appendChild(tr); });
       document.getElementById('spoiler-gate').classList.add('hidden');
-      document.getElementById('full').classList.remove('hidden');
-      var qf = document.getElementById('q-full'), tf = document.getElementById('t-full'), cf = document.getElementById('c-full');
-      qf.addEventListener('input', function () { filter(qf, tf, cf); });
-      filter(qf, tf, cf);
-      qf.focus();
+      document.getElementById('t-title').textContent = '索引のすべての語';
+      document.getElementById('t-desc').textContent = '「後半」の印は、物語の序盤には出てこない語です（ネタバレを含みます）。';
+      filter(qe, te, ce);
     }).catch(function () {
       btn.disabled = false;
       btn.textContent = '読み込めませんでした。もう一度押す';
