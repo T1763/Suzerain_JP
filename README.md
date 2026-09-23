@@ -1,5 +1,7 @@
 # Suzerain 日本語化パッチ（非公式）
 
+[English](README_EN.md)
+
 政治シミュレーションゲーム『Suzerain』（スゼレイン）を日本語で遊ぶための、有志による非公式の日本語化です。
 
 - **サイト**: https://t1763.github.io/Suzerain_JP/
@@ -69,7 +71,7 @@ Steam の更新で英語に戻ることがあります。**更新後のゲーム
 
 ## このリポジトリについて
 
-- [DATA.md](DATA.md) — 訳文データ（JSON／CSV）の説明。`entity/`・`dialogue/`・`ui/`・`glossary` の形式と列
+- [DATA_JP.md](DATA_JP.md) — 訳文データ（JSON／CSV）の説明。`entity/`・`dialogue/`・`ui/`・`glossary` の形式と列
 - [HOW_IT_WORKS.md](HOW_IT_WORKS.md) — 日本語化の作り方（英語・日本語）
 - [LICENSE](LICENSE)
 
