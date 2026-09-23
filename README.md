@@ -5,7 +5,7 @@ Unofficial Japanese translation data for **Suzerain** (3.1.0 (Windows) Build 175
 
 - 生成日 / Generated: 2026-09-23
 - ゲームのファイル（バンドル等）は含みません。訳文だけです。 / No game files are included — translations only.
-- **英語の原文は含みません。**各行はゲーム内の ID と日本語訳だけを持ちます。原文はお手持ちのゲームのデータと ID で突き合わせてください。
+- **英語の原文は含みません**。各行はゲーム内の ID と日本語訳だけを持ちます。原文はお手持ちのゲームのデータと ID で突き合わせてください。
   **The English source text is not included.** Each row carries only the in-game ID and the Japanese text; join it with your own copy of the game data by ID.
 - 作り方は `HOW_IT_WORKS.md` を参照。 / See `HOW_IT_WORKS.md` for how the translation is applied to the game.
 
