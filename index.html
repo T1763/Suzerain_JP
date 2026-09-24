@@ -22,7 +22,7 @@
 <meta property="og:url" content="https://t1763.github.io/Suzerain_JP/">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary">
-<link rel="stylesheet" href="assets/site.css?v=7">
+<link rel="stylesheet" href="assets/site.css?v=8">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -67,14 +67,15 @@
     <nav aria-label="サイト内">
       <ul>
         <li><a href="./" aria-current="page">ダウンロード</a></li>
-        <li><a href="glossary.html">用語対訳表</a></li>
-        <li><a href="report.html">不備の報告</a></li>
+        <li><a href="#glossary">用語対訳表</a></li>
+        <li><a href="#report">不備の報告</a></li>
       </ul>
     </nav>
   </div>
 </header>
 
 <main>
+<section class="view" id="view-download" data-title="Suzerain 最新Ver.3.1.0　日本語化Mod">
   <h1>Suzerain 日本語化パッチ</h1>
   <p class="lead">政治シミュレーションゲーム『Suzerain』（スゼレイン）を日本語で遊ぶための、有志による非公式の日本語化です。</p>
 
@@ -167,19 +168,638 @@
   <h3>ゲームがアップデートされたら？</h3>
   <p>Steam の更新で英語に戻ることがあります。<strong>更新後のゲームに古い版を上書きしないでください</strong>（版が合わないと正しく動かないことがあります）。更新に合わせた新しい版をこのページでお待ちください。</p>
   <h3>訳がおかしいところを見つけたら？</h3>
-  <p><a href="report.html">不備の報告</a>から、スクリーンショットを付けて送ってください。GitHub のアカウントは要りません。</p>
+  <p><a href="#report">不備の報告</a>から、スクリーンショットを付けて送ってください。GitHub のアカウントは要りません。</p>
   <h3>固有名詞の訳を確かめたい</h3>
-  <p><a href="glossary.html">用語対訳表</a>で、人名・地名・組織名の英語と日本語を引けます。</p>
+  <p><a href="#glossary">用語対訳表</a>で、人名・地名・組織名の英語と日本語を引けます。</p>
+</section>
+<section class="view" id="view-glossary" data-title="Suzerain 用語対訳表（英語・日本語）— Suzerain 日本語化" hidden>
+  <h1>用語対訳表</h1>
+  <p class="lead">日本語化で使っている人名・地名・組織名などの英語と日本語の対照です。ゲーム内の「索引」（Codex）の項目名にあたります。</p>
+
+  <div class="notice" id="spoiler-gate">
+    <p><strong>ネタバレ注意</strong>：最初は物語の序盤（最初の2ターン）に出てくる語だけを表示しています。下のボタンを押すと、物語の後半で初めて出てくる人物・組織・出来事の名前も表に加わります。</p>
+    <p style="margin-top:10px"><button class="btn secondary" type="button" id="show-full">ネタバレを承知ですべての語を表示する</button></p>
+  </div>
+
+  <h2>訳し方の決まり</h2>
+  <ul>
+    <li>人名・地名はカタカナ、組織や制度は意味の分かる漢字の言葉にしています。</li>
+    <li>法律の <strong>Act</strong> は「〜法」、<strong>Bill</strong> は「〜法案」。</li>
+    <li>ベルギアの長は、任命制なら「総督」、選挙で選ばれる場合は「知事」。</li>
+    <li>ゲーム内の <strong>Codex</strong> は「索引」。</li>
+  </ul>
+
+  <h2 id="t-title">序盤に出てくる語</h2>
+  <p id="t-desc">物語の最初の2ターンまでに出てくる語です。ネタバレはありません。</p>
+  <input class="search" type="search" id="q-early" placeholder="英語か日本語で絞り込む（例: Sordland、大統領）" aria-label="語を絞り込む">
+  <p class="count" id="c-early"></p>
+  <div class="table-wrap">
+  <table id="t-early">
+    <thead><tr><th>英語</th><th>日本語</th><th>物語</th></tr></thead>
+    <tbody>
+<!--EARLY-->
+      <tr><td>15-Day War</td><td>15日戦争</td><td>リジア</td></tr>
+      <tr><td>Agnland</td><td>アグンランド</td><td>ソードランド</td></tr>
+      <tr><td>Agnolia</td><td>アグノリア</td><td>ソードランド</td></tr>
+      <tr><td>Agnolian</td><td>アグノリア語</td><td>ソードランド</td></tr>
+      <tr><td>Albin Clavin</td><td>アルビン・クラヴィン</td><td>ソードランド</td></tr>
+      <tr><td>Alliance of Nations</td><td>国際連盟</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Alma Saltana</td><td>アルマ・サルタナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Alphonso Foundation</td><td>アルフォンソ財団</td><td>ソードランド</td></tr>
+      <tr><td>AN</td><td>AN</td><td>ソードランド</td></tr>
+      <tr><td>Anraka</td><td>アンラカ</td><td>ソードランド</td></tr>
+      <tr><td>Anrakan</td><td>アンラカン</td><td>ソードランド</td></tr>
+      <tr><td>Anrica</td><td>アンリカ</td><td>ソードランド</td></tr>
+      <tr><td>Anton Rayne</td><td>アントン・レイン</td><td>ソードランド</td></tr>
+      <tr><td>Arcasia</td><td>アルカシア</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Arcasian</td><td>アルカシア</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Arcasian Capitalism</td><td>アルカシア型資本主義</td><td>ソードランド</td></tr>
+      <tr><td>Arcasian Treaty Organisation</td><td>アルカシア条約機構</td><td>ソードランド</td></tr>
+      <tr><td>Arcasian Treaty Organization</td><td>アルカシア条約機構</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Archsanctuary of Plavo</td><td>プラヴォ聖域</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Ariana Toras Association</td><td>アリアナ・トラス協会</td><td>リジア</td></tr>
+      <tr><td>Artor S. Wisci</td><td>アルトル・S・ウィスキ</td><td>ソードランド</td></tr>
+      <tr><td>Arvory</td><td>アルヴォリー</td><td>ソードランド</td></tr>
+      <tr><td>ATA</td><td>ATA</td><td>リジア</td></tr>
+      <tr><td>ATO</td><td>ATO</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Aunt Bea</td><td>ベアトリス・リヴィングストン</td><td>リジア</td></tr>
+      <tr><td>Axel</td><td>アクセル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Axel Reinhart</td><td>アクセル・ラインハルト</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Azaro&#x27;s</td><td>アザロ家</td><td>リジア</td></tr>
+      <tr><td>Beatrice Livingston</td><td>ベアトリス・リヴィングストン</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Benfi</td><td>ベンフィ</td><td>ソードランド</td></tr>
+      <tr><td>Benievon</td><td>ベニエヴォン</td><td>リジア</td></tr>
+      <tr><td>Bergia</td><td>ベルギア</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Bergia Steel</td><td>ベルギア製鉄</td><td>ソードランド</td></tr>
+      <tr><td>Bernard Circas</td><td>ベルナルド・シルカス</td><td>ソードランド</td></tr>
+      <tr><td>BFF</td><td>BFF</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Bludish Freedom Front</td><td>ブルディア自由戦線</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Borin</td><td>ボリン</td><td>ソードランド</td></tr>
+      <tr><td>Brenas</td><td>ブレナス</td><td>リジア</td></tr>
+      <tr><td>Business Council</td><td>国民経済連盟</td><td>ソードランド</td></tr>
+      <tr><td>Caleqabiz</td><td>カビズ</td><td>リジア</td></tr>
+      <tr><td>Camp Strongarm</td><td>ストロングアーム基地</td><td>ソードランド</td></tr>
+      <tr><td>Captain Gordion</td><td>ゴルディオン</td><td>リジア</td></tr>
+      <tr><td>Cardesse-Montaklar</td><td>カルデス＝モンタクラル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Carlos</td><td>カルロス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Carlos Azaro</td><td>カルロス・アザロ</td><td>ソードランド</td></tr>
+      <tr><td>Carlos Robles Azaro</td><td>カルロス・ロブレス・アザロ</td><td>リジア</td></tr>
+      <tr><td>Century of Revolutions</td><td>革命の世紀</td><td>リジア</td></tr>
+      <tr><td>Chancellor Hegel</td><td>ヘーゲル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Chief Justice Hawker</td><td>ホーカー</td><td>ソードランド</td></tr>
+      <tr><td>Circas</td><td>シルカス</td><td>ソードランド</td></tr>
+      <tr><td>Colonel Soll</td><td>ソル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Communist Party of Sordland</td><td>ソードランド共産党</td><td>ソードランド</td></tr>
+      <tr><td>Confederacy of Vendonesam</td><td>ヴェンドネサム連合</td><td>ソードランド</td></tr>
+      <tr><td>Conriat</td><td>コンリアト</td><td>ソードランド</td></tr>
+      <tr><td>Consecration</td><td>国王の聖別式</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Consecration of the King</td><td>国王の聖別式</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Contanan</td><td>コンタナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Contanan Security Pact</td><td>コンタナ条約機構</td><td>ソードランド・リジア</td></tr>
+      <tr><td>CPS</td><td>CPS</td><td>ソードランド</td></tr>
+      <tr><td>CSP</td><td>CSP</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Curtan Leste</td><td>クルタン・レステ</td><td>ソードランド</td></tr>
+      <tr><td>Daria de Rava</td><td>ダリア・デ・ラーヴァ</td><td>リジア</td></tr>
+      <tr><td>Dastnurists</td><td>ダストヌリティ</td><td>リジア</td></tr>
+      <tr><td>Dastnurity</td><td>ダストヌリティ</td><td>リジア</td></tr>
+      <tr><td>Deana</td><td>ディアナ</td><td>ソードランド</td></tr>
+      <tr><td>Deivid Wisci</td><td>デイヴィド・ウィスキ</td><td>ソードランド</td></tr>
+      <tr><td>Derdia</td><td>デルディア</td><td>リジア</td></tr>
+      <tr><td>Derdian</td><td>デルディア人</td><td>リジア</td></tr>
+      <tr><td>Descension Day</td><td>降臨祭</td><td>リジア</td></tr>
+      <tr><td>Dewlen Arge</td><td>デウレン・アルゲ</td><td>ソードランド</td></tr>
+      <tr><td>Deyr</td><td>デイル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Duchess Azaro</td><td>アザロ公爵夫人</td><td>リジア</td></tr>
+      <tr><td>Duke Reinhart</td><td>ラインハルト</td><td>リジア</td></tr>
+      <tr><td>Dwight Walker</td><td>ドワイト・ウォーカー</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Edith Agnoc</td><td>エディット・アグノク</td><td>ソードランド</td></tr>
+      <tr><td>Elena</td><td>エレナ</td><td>リジア</td></tr>
+      <tr><td>Elena Werner</td><td>エレナ・ヴェルナー</td><td>リジア</td></tr>
+      <tr><td>Emmerich Hegel</td><td>エメリッヒ・ヘーゲル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Energy Protection Act</td><td>エネルギー保護法</td><td>ソードランド</td></tr>
+      <tr><td>Energy Protection Act of 1932</td><td>エネルギー保護法</td><td>ソードランド</td></tr>
+      <tr><td>EPA</td><td>EPA</td><td>ソードランド</td></tr>
+      <tr><td>Equa</td><td>エクア</td><td>ソードランド</td></tr>
+      <tr><td>Erdmarg</td><td>エルドマルグ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Erlory</td><td>エルローリー</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Erzaren</td><td>エルザレン</td><td>ソードランド</td></tr>
+      <tr><td>Estela</td><td>エステラ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Estord</td><td>エストード</td><td>ソードランド</td></tr>
+      <tr><td>Ewald Alphonso</td><td>エヴァルト・アルフォンソ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>FC Porte Drazon</td><td>FCポルテ・ドラゾン</td><td>リジア</td></tr>
+      <tr><td>Federation of Anraka</td><td>アンラカン諸島連邦</td><td>ソードランド</td></tr>
+      <tr><td>Federation of Anrakan Isles</td><td>アンラカン諸島連邦</td><td>ソードランド</td></tr>
+      <tr><td>Folce Dator</td><td>フォルチェ・ダトール</td><td>リジア</td></tr>
+      <tr><td>Franc</td><td>フランク</td><td>ソードランド</td></tr>
+      <tr><td>Frens Ricter</td><td>フレンス・リクター</td><td>ソードランド</td></tr>
+      <tr><td>Gasom</td><td>ガソム</td><td>ソードランド</td></tr>
+      <tr><td>Gelsland</td><td>ゲルスランド</td><td>ソードランド</td></tr>
+      <tr><td>Gelsord</td><td>ゲルソード</td><td>ソードランド</td></tr>
+      <tr><td>Gendarmerie</td><td>国家憲兵隊</td><td>ソードランド</td></tr>
+      <tr><td>General Kruger</td><td>クルーガー</td><td>ソードランド</td></tr>
+      <tr><td>General Luderin</td><td>ルデリン将軍</td><td>ソードランド</td></tr>
+      <tr><td>General Rikard</td><td>リカルド将軍</td><td>ソードランド</td></tr>
+      <tr><td>General Taddeus</td><td>タデウス</td><td>リジア</td></tr>
+      <tr><td>Giralt of Ribery</td><td>リベリーのジラルト</td><td>リジア</td></tr>
+      <tr><td>Gloria Tory</td><td>グロリア・トーリー</td><td>ソードランド</td></tr>
+      <tr><td>Golcondism</td><td>ゴルコンド主義</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Golcondists</td><td>ゴルコンド主義者</td><td>リジア</td></tr>
+      <tr><td>Golden Guard</td><td>近衛兵</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Governor Bron</td><td>ブロン</td><td>ソードランド</td></tr>
+      <tr><td>GRACE</td><td>GRACE</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Grand Duchy of Pales</td><td>パレス大公国</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Grand National Assembly</td><td>大国民議会</td><td>ソードランド</td></tr>
+      <tr><td>Grand Wiseman Ignacius</td><td>サル・イグナティウス</td><td>リジア</td></tr>
+      <tr><td>Great Fire of Conriat</td><td>コンリアト大火</td><td>ソードランド</td></tr>
+      <tr><td>Greater Holsord</td><td>大ホルソード</td><td>ソードランド</td></tr>
+      <tr><td>Gruni</td><td>グルニ</td><td>ソードランド</td></tr>
+      <tr><td>Gus Manger</td><td>ガス・マンガー</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Havas</td><td>ハヴァス</td><td>リジア</td></tr>
+      <tr><td>Heart of Sordland</td><td>ハート・オブ・ソードランド財閥</td><td>ソードランド</td></tr>
+      <tr><td>Heljiland</td><td>ヘルジランド</td><td>ソードランド</td></tr>
+      <tr><td>Herman Equa</td><td>ヘルマン・エクア</td><td>ソードランド</td></tr>
+      <tr><td>Heron Garaci</td><td>ヘロン・ガラチ</td><td>ソードランド</td></tr>
+      <tr><td>Hill of Pride</td><td>誇りの丘</td><td>ソードランド</td></tr>
+      <tr><td>Holsord</td><td>ホルソード</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Holsord State University</td><td>ホルソード国立大学</td><td>ソードランド</td></tr>
+      <tr><td>HOS</td><td>HOS</td><td>ソードランド</td></tr>
+      <tr><td>House Azaro</td><td>アザロ家</td><td>リジア</td></tr>
+      <tr><td>House of Delegates</td><td>代議院</td><td>ソードランド・リジア</td></tr>
+      <tr><td>House Sazon</td><td>サゾン家</td><td>リジア</td></tr>
+      <tr><td>House Toras</td><td>トラス家</td><td>リジア</td></tr>
+      <tr><td>HSU</td><td>HSU</td><td>ソードランド</td></tr>
+      <tr><td>Hubertus</td><td>フベルトゥス</td><td>リジア</td></tr>
+      <tr><td>Hubertus Toras</td><td>フベルトゥス・トラス</td><td>リジア</td></tr>
+      <tr><td>Hugo</td><td>ウーゴ</td><td>リジア</td></tr>
+      <tr><td>Iosef Lancea</td><td>ヨセフ・ランチェア</td><td>ソードランド</td></tr>
+      <tr><td>Iron Wall</td><td>レムス・ホルストロン</td><td>ソードランド</td></tr>
+      <tr><td>Isabel Edmonds</td><td>イザベル・エドモンズ</td><td>ソードランド</td></tr>
+      <tr><td>Iza</td><td>イザ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Izzam Incident</td><td>イッザム事件</td><td>ソードランド</td></tr>
+      <tr><td>Jales</td><td>ジャレス</td><td>リジア</td></tr>
+      <tr><td>Jen</td><td>ジェン</td><td>ソードランド</td></tr>
+      <tr><td>Jorga Azmal</td><td>ヨルガ・アズマル</td><td>リジア</td></tr>
+      <tr><td>Justice Garaci</td><td>ガラチ</td><td>ソードランド</td></tr>
+      <tr><td>KA-74</td><td>KA-74</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Karl Greiser</td><td>カール・グライザー</td><td>ソードランド</td></tr>
+      <tr><td>Katarina Horten</td><td>カタリナ・ホルテン</td><td>ソードランド</td></tr>
+      <tr><td>Kesaro Kibener</td><td>ケサロ・キベナー</td><td>ソードランド</td></tr>
+      <tr><td>King Romus Toras</td><td>ロムス・トラス王</td><td>ソードランド・リジア</td></tr>
+      <tr><td>King Valero</td><td>ヴァレロ王</td><td>ソードランド・リジア</td></tr>
+      <tr><td>King Valero Toras</td><td>ヴァレロ・トラス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Kingdom of Erdmarg</td><td>エルドマルグ王国</td><td>ソードランド</td></tr>
+      <tr><td>Kingdom of Rizia</td><td>リジア王国</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Kingdom of Rumburg</td><td>ルンブルク王国</td><td>リジア</td></tr>
+      <tr><td>Kingdom of Sordland</td><td>ソードランド王国</td><td>ソードランド</td></tr>
+      <tr><td>Konrath Koronti</td><td>コンラート・コロンティ</td><td>ソードランド</td></tr>
+      <tr><td>Koranelli</td><td>コラネッリ</td><td>ソードランド</td></tr>
+      <tr><td>Kyrute</td><td>キルート</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Labor Union of Sordland</td><td>ソードランド労働組合</td><td>ソードランド</td></tr>
+      <tr><td>Labour Union of Sordland</td><td>ソードランド労働組合</td><td>ソードランド</td></tr>
+      <tr><td>Lachaven</td><td>ラハベン</td><td>ソードランド</td></tr>
+      <tr><td>Laurento</td><td>ラウレント</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Laurento Esquibel</td><td>ラウレント・エスキベル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>League of Women</td><td>ソードランド婦人連盟</td><td>ソードランド</td></tr>
+      <tr><td>Leiren</td><td>レイレン</td><td>ソードランド</td></tr>
+      <tr><td>Lena</td><td>レナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Lenkurg</td><td>レンクルグ</td><td>ソードランド</td></tr>
+      <tr><td>Leona</td><td>レオナ</td><td>リジア</td></tr>
+      <tr><td>Leona Sazon</td><td>レオナ・サゾン</td><td>リジア</td></tr>
+      <tr><td>Lespia</td><td>レスピア</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Lespian</td><td>レスピア語</td><td>ソードランド・リジア</td></tr>
+      <tr><td>LesPower</td><td>レスパワー</td><td>ソードランド</td></tr>
+      <tr><td>Lileas Graf</td><td>リリアス・グラーフ</td><td>ソードランド</td></tr>
+      <tr><td>Livia Suno</td><td>リヴィア・スーノ</td><td>ソードランド</td></tr>
+      <tr><td>Lotherberg Group</td><td>ロザーバーグ・グループ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Lucian Galade</td><td>ルシアン・ガラド</td><td>ソードランド</td></tr>
+      <tr><td>Lucita</td><td>ルシータ</td><td>リジア</td></tr>
+      <tr><td>Lucita Azaro</td><td>ルシータ・アザロ</td><td>リジア</td></tr>
+      <tr><td>LUS</td><td>LUS</td><td>ソードランド</td></tr>
+      <tr><td>Lyza Toras</td><td>リザ・トラス</td><td>ソードランド</td></tr>
+      <tr><td>Maartin Van Hoorten</td><td>マールティン・ファン・ホールテン</td><td>ソードランド</td></tr>
+      <tr><td>Malenyevism</td><td>マレニエフ主義</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Malenyevist</td><td>マレニエフ主義</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Mansoun Leke</td><td>マンスン・レケ</td><td>ソードランド</td></tr>
+      <tr><td>Manus</td><td>マヌス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Manus Sazon</td><td>マヌス・サゾン</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Marcel Koronti</td><td>マルセル・コロンティ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Markian Empire</td><td>マルキア帝国</td><td>ソードランド</td></tr>
+      <tr><td>Maroon Palace</td><td>マルーン宮殿</td><td>ソードランド</td></tr>
+      <tr><td>Meftiem International Trade Zone</td><td>メフティエム国際貿易区</td><td>リジア</td></tr>
+      <tr><td>Meftiem Invasion</td><td>メフティエム侵攻</td><td>リジア</td></tr>
+      <tr><td>Meftiem ITZ</td><td>メフティエム国際貿易区</td><td>ソードランド</td></tr>
+      <tr><td>Mikail Aven</td><td>ミカイル・アヴェン</td><td>ソードランド</td></tr>
+      <tr><td>Monica</td><td>モニカ</td><td>ソードランド</td></tr>
+      <tr><td>Monqiz</td><td>モンキズ</td><td>リジア</td></tr>
+      <tr><td>Montaklar</td><td>モンタクラル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Morbel</td><td>モルベル</td><td>ソードランド</td></tr>
+      <tr><td>Morella</td><td>モレラ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Morellan</td><td>モレラ人</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Morna</td><td>モルナ</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Adria</td><td>アドリア</td><td>リジア</td></tr>
+      <tr><td>Mr. Azmal</td><td>アズマル</td><td>リジア</td></tr>
+      <tr><td>Mr. Circas</td><td>シルカス</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Esquibel</td><td>エスキベル</td><td>リジア</td></tr>
+      <tr><td>Mr. Galade</td><td>ガラド</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Garaci</td><td>ガラチ</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Hawker</td><td>ホーカー</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Holl</td><td>ホル</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Holstron</td><td>ホルストロン</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Kibener</td><td>キベナー</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Koronti</td><td>コロンティ</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Lancea</td><td>ランチェア</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Manger</td><td>マンガー</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Mr. Montoro</td><td>ルッセロ「ラスティ」モントーロ</td><td>リジア</td></tr>
+      <tr><td>Mr. Rayne</td><td>レイン氏</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Ricter</td><td>リクター</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Sazon</td><td>サゾン氏</td><td>リジア</td></tr>
+      <tr><td>Mr. Smolak</td><td>スモラク</td><td>リジア</td></tr>
+      <tr><td>Mr. Tusk</td><td>タスク</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Vectern</td><td>ベクターン氏</td><td>ソードランド</td></tr>
+      <tr><td>Mr. Wisci</td><td>ウィスキ氏</td><td>ソードランド</td></tr>
+      <tr><td>Mrs. Edmonds</td><td>エドモンズ</td><td>ソードランド</td></tr>
+      <tr><td>Mrs. Graf</td><td>グラーフ</td><td>ソードランド</td></tr>
+      <tr><td>Mrs. Morgna</td><td>モルグナ</td><td>ソードランド</td></tr>
+      <tr><td>Ms. Graf</td><td>グラーフ</td><td>ソードランド</td></tr>
+      <tr><td>Ms. Morgna</td><td>モルグナ</td><td>ソードランド</td></tr>
+      <tr><td>Ms. Werner</td><td>ヴェルナー</td><td>リジア</td></tr>
+      <tr><td>NAP</td><td>NAP</td><td>ソードランド</td></tr>
+      <tr><td>Narbel</td><td>ナルベル</td><td>ソードランド</td></tr>
+      <tr><td>Nargis</td><td>ナルギス</td><td>ソードランド</td></tr>
+      <tr><td>National Business Council</td><td>国民経済連盟</td><td>ソードランド</td></tr>
+      <tr><td>National Front Party</td><td>国民戦線党</td><td>ソードランド</td></tr>
+      <tr><td>Nelvisar</td><td>ネルヴィサル</td><td>リジア</td></tr>
+      <tr><td>NFP</td><td>NFP</td><td>ソードランド</td></tr>
+      <tr><td>Nia Morgna</td><td>ニア・モルグナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Nurity</td><td>ヌーリティ教</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Old Guard</td><td>守旧派</td><td>ソードランド</td></tr>
+      <tr><td>Oligarchs</td><td>財閥</td><td>ソードランド</td></tr>
+      <tr><td>Orso Hawker</td><td>オルソ・ホーカー</td><td>ソードランド</td></tr>
+      <tr><td>Pabel</td><td>パベル</td><td>リジア</td></tr>
+      <tr><td>Pabel Adria</td><td>パベル・アドリア</td><td>リジア</td></tr>
+      <tr><td>Palas Rezna</td><td>パラス・レズナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Pales</td><td>パレス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Pales Administrative District</td><td>パレス行政区</td><td>リジア</td></tr>
+      <tr><td>Palesian</td><td>パレス</td><td>リジア</td></tr>
+      <tr><td>Patricio Alvarez</td><td>パトリシオ・アルバレス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>People&#x27;s Freedom and Justice Party</td><td>人民自由正義党</td><td>ソードランド</td></tr>
+      <tr><td>People’s Freedom and Justice Party</td><td>人民自由正義党</td><td>ソードランド</td></tr>
+      <tr><td>Petr Vectern</td><td>ペトル・ベクターン</td><td>ソードランド</td></tr>
+      <tr><td>PFJP</td><td>PFJP</td><td>ソードランド</td></tr>
+      <tr><td>Phelix Bron</td><td>フェリクス・ブロン</td><td>ソードランド</td></tr>
+      <tr><td>Plavo</td><td>プラヴォ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Police Force</td><td>リジア警察</td><td>ソードランド</td></tr>
+      <tr><td>Porte Drazon</td><td>ポルテ・ドラゾン</td><td>ソードランド・リジア</td></tr>
+      <tr><td>President Alphonso</td><td>アルフォンソ大統領</td><td>ソードランド・リジア</td></tr>
+      <tr><td>President Rayne</td><td>レイン大統領</td><td>ソードランド</td></tr>
+      <tr><td>President Smolak</td><td>スモラク</td><td>ソードランド・リジア</td></tr>
+      <tr><td>President Soll</td><td>ソル大統領</td><td>ソードランド</td></tr>
+      <tr><td>President Walker</td><td>ウォーカー</td><td>ソードランド</td></tr>
+      <tr><td>Prime Minister Alvarez</td><td>アルバレス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Prime Minister Saltana</td><td>サルタナ</td><td>リジア</td></tr>
+      <tr><td>Prime Minister Van Hoorten</td><td>ファン・ホールテン</td><td>ソードランド</td></tr>
+      <tr><td>Princess Lena</td><td>レナ</td><td>ソードランド</td></tr>
+      <tr><td>Princess Vina</td><td>ヴィナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Qalus</td><td>カルス</td><td>リジア</td></tr>
+      <tr><td>Qinal</td><td>キナル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Queen Beatrice</td><td>ベアトリス女王</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Queen Lyza</td><td>リザ女王</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Queen Mother Estela</td><td>エステラ・トラス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Queen of Rumburg</td><td>ベアトリス・リヴィングストン</td><td>ソードランド</td></tr>
+      <tr><td>Real Montaklar</td><td>レアル・モンタクラル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Reclamation War</td><td>失地回復戦争</td><td>リジア</td></tr>
+      <tr><td>Red Youth</td><td>赤旗青年団</td><td>ソードランド</td></tr>
+      <tr><td>REE</td><td>REE</td><td>ソードランド</td></tr>
+      <tr><td>Reformists</td><td>改革派</td><td>ソードランド</td></tr>
+      <tr><td>Remus Holstron</td><td>レムス・ホルストロン</td><td>ソードランド</td></tr>
+      <tr><td>Republic of Kyrute</td><td>キルート共和国</td><td>ソードランド</td></tr>
+      <tr><td>Republic of Lespia</td><td>レスピア共和国</td><td>リジア</td></tr>
+      <tr><td>Republic of Sordland</td><td>ソードランド共和国</td><td>ソードランド</td></tr>
+      <tr><td>Rezenid Empire</td><td>レゼニド帝国</td><td>リジア</td></tr>
+      <tr><td>Ribery</td><td>リベリー</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Ricardus</td><td>リコ・トラス</td><td>リジア</td></tr>
+      <tr><td>Rico</td><td>リコ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rico Toras</td><td>リコ・トラス</td><td>ソードランド</td></tr>
+      <tr><td>Rikard</td><td>リカルド</td><td>ソードランド</td></tr>
+      <tr><td>Rizia</td><td>リジア</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rizia Imperii</td><td>リジア・インペリイ</td><td>リジア</td></tr>
+      <tr><td>Rizian</td><td>リジア語</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rizian Armed Forces</td><td>リジア軍</td><td>リジア</td></tr>
+      <tr><td>Rizian Intelligence</td><td>リジア情報局</td><td>リジア</td></tr>
+      <tr><td>Rizian military</td><td>リジア軍</td><td>リジア</td></tr>
+      <tr><td>Rizian National Coalition</td><td>リジア国民連合</td><td>リジア</td></tr>
+      <tr><td>Rizian Oil and Gas</td><td>リジア石油ガス公社</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rizian Royal Gold</td><td>リジア王室金鉱</td><td>ソードランド・リジア</td></tr>
+      <tr><td>RNC</td><td>RNC</td><td>リジア</td></tr>
+      <tr><td>ROG</td><td>ROG</td><td>ソードランド</td></tr>
+      <tr><td>Romus Toras</td><td>ロムス・トラス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Royal Council</td><td>王室評議会</td><td>リジア</td></tr>
+      <tr><td>RPP</td><td>RPP</td><td>リジア</td></tr>
+      <tr><td>RRG</td><td>RRG</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rumburg</td><td>ルンブルク</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rumburgian</td><td>ルンブルク人</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Russello</td><td>ルッセロ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Russello Montoro</td><td>ルッセロ「ラスティ」モントーロ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Rusty</td><td>ラスティ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Sal</td><td>サル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Sal Ignacius</td><td>サル・イグナティウス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Sallabes</td><td>サラベス</td><td>リジア</td></tr>
+      <tr><td>Sarna</td><td>サルナ</td><td>ソードランド</td></tr>
+      <tr><td>Second Rizian Gold Rush</td><td>第二次リジア・ゴールドラッシュ</td><td>リジア</td></tr>
+      <tr><td>Skinner Cartel</td><td>スキナー・カルテル</td><td>ソードランド</td></tr>
+      <tr><td>Soll Dam</td><td>ソル・ダム</td><td>ソードランド</td></tr>
+      <tr><td>Sollism</td><td>ソル主義</td><td>ソードランド</td></tr>
+      <tr><td>Sollist</td><td>ソル主義者</td><td>ソードランド</td></tr>
+      <tr><td>Soradis</td><td>ソラディス</td><td>リジア</td></tr>
+      <tr><td>Sordish</td><td>ソードランド語</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Sordish Armed Forces</td><td>ソードランド軍</td><td>ソードランド</td></tr>
+      <tr><td>Sordish Grid Corporation</td><td>ソードランド電力公社</td><td>ソードランド</td></tr>
+      <tr><td>Sordish League of Women</td><td>ソードランド婦人連盟</td><td>ソードランド</td></tr>
+      <tr><td>Sordish Police Force</td><td>ソードランド警察</td><td>ソードランド</td></tr>
+      <tr><td>Sordish State Corporation</td><td>ソードランド国営公社</td><td>ソードランド</td></tr>
+      <tr><td>Sordland</td><td>ソードランド</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Special Zone</td><td>ベルギア特別区</td><td>ソードランド</td></tr>
+      <tr><td>SSC</td><td>SSC</td><td>ソードランド</td></tr>
+      <tr><td>St. Dast</td><td>St. Dast</td><td>リジア</td></tr>
+      <tr><td>St. Wruhec</td><td>St. Wruhec</td><td>リジア</td></tr>
+      <tr><td>State Educators</td><td>国民教育隊</td><td>ソードランド</td></tr>
+      <tr><td>State Educators Corps</td><td>国民教育隊</td><td>ソードランド</td></tr>
+      <tr><td>Su Omina</td><td>スー・オミナ</td><td>リジア</td></tr>
+      <tr><td>Supreme Court</td><td>最高裁判所</td><td>ソードランド</td></tr>
+      <tr><td>Supreme Wiseman Azmal</td><td>ヨルガ・アズマル</td><td>リジア</td></tr>
+      <tr><td>Symon Holl</td><td>シモン・ホル</td><td>ソードランド</td></tr>
+      <tr><td>Taddeus Azaro</td><td>タデウス・アザロ</td><td>リジア</td></tr>
+      <tr><td>Tarquin Soll</td><td>タルキン・ソル</td><td>ソードランド</td></tr>
+      <tr><td>Taurus Holding</td><td>タウルス・ホールディング</td><td>ソードランド</td></tr>
+      <tr><td>Terador</td><td>テラドール</td><td>リジア</td></tr>
+      <tr><td>the Azaros</td><td>アザロ家</td><td>リジア</td></tr>
+      <tr><td>The Court</td><td>最高裁判所</td><td>ソードランド</td></tr>
+      <tr><td>The Group</td><td>ロザーバーグ・グループ</td><td>ソードランド</td></tr>
+      <tr><td>The Guild of Royal Allies for Commercial Exchange</td><td>王室通商同盟ギルド</td><td>ソードランド</td></tr>
+      <tr><td>The Rizian Intelligence Service</td><td>リジア情報局</td><td>リジア</td></tr>
+      <tr><td>the Sazons</td><td>サゾン家</td><td>リジア</td></tr>
+      <tr><td>Titus</td><td>ティトゥス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Titus Gordion</td><td>ティトゥス・ゴルディオン</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Topes</td><td>トペス</td><td>リジア</td></tr>
+      <tr><td>Toras&#x27;</td><td>トラス家</td><td>リジア</td></tr>
+      <tr><td>Uncle Hugo</td><td>ウーゴ</td><td>リジア</td></tr>
+      <tr><td>Underhall Construction</td><td>アンダーホール建設</td><td>ソードランド</td></tr>
+      <tr><td>United Contana</td><td>コンタナ連邦</td><td>ソードランド・リジア</td></tr>
+      <tr><td>United Sordland Party</td><td>統一ソードランド党</td><td>ソードランド</td></tr>
+      <tr><td>USP</td><td>USP</td><td>ソードランド</td></tr>
+      <tr><td>Uziren</td><td>ウジレン</td><td>ソードランド</td></tr>
+      <tr><td>Valenqir</td><td>ヴァレンキル</td><td>リジア</td></tr>
+      <tr><td>Valenqiris</td><td>ヴァレンキリス</td><td>リジア</td></tr>
+      <tr><td>Valero</td><td>ヴァレロ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Valero Toras</td><td>ヴァレロ・トラス</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Valgen</td><td>ヴァルゲン</td><td>ソードランド</td></tr>
+      <tr><td>Valgish</td><td>ヴァルグ語</td><td>リジア</td></tr>
+      <tr><td>Valgsland</td><td>ヴァルグスランド</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Valgslandian Socialism</td><td>ヴァルグスランド社会主義</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Valgslandian Socialist</td><td>ヴァルグスランド社会主義者</td><td>リジア</td></tr>
+      <tr><td>Valken Kruger</td><td>ヴァルケン・クルーガー</td><td>ソードランド</td></tr>
+      <tr><td>Van Hoorten</td><td>ファン・ホールテン</td><td>ソードランド</td></tr>
+      <tr><td>Vendonesam</td><td>ヴェンドネサム</td><td>ソードランド</td></tr>
+      <tr><td>Vesord</td><td>ヴェソード</td><td>ソードランド</td></tr>
+      <tr><td>Vina</td><td>ヴィナ</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Vina Toras</td><td>ヴィナ・トラス</td><td>リジア</td></tr>
+      <tr><td>Walker Plan</td><td>ウォーカー計画</td><td>ソードランド</td></tr>
+      <tr><td>Walter Tusk</td><td>ウォルター・タスク</td><td>ソードランド</td></tr>
+      <tr><td>War of Broken Wills</td><td>砕かれた意志の戦争</td><td>ソードランド</td></tr>
+      <tr><td>War of Rizian Succession</td><td>リジア継承戦争</td><td>リジア</td></tr>
+      <tr><td>Wehlen</td><td>ヴェーレン</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Wehlen Civil War</td><td>ヴェーレン内戦</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Wehzek</td><td>ヴェゼク語</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Wiktor Smolak</td><td>ヴィクトル・スモラク</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Worker&#x27;s Party</td><td>ブルディア労働者党</td><td>ソードランド</td></tr>
+      <tr><td>Worker&#x27;s Party of Bludia</td><td>ブルディア労働者党</td><td>ソードランド</td></tr>
+      <tr><td>Workers Party</td><td>ブルディア労働者党</td><td>ソードランド</td></tr>
+      <tr><td>Workers Party of Bludia</td><td>ブルディア労働者党</td><td>ソードランド</td></tr>
+      <tr><td>Workers&#x27; Party of Bludia</td><td>ブルディア労働者党</td><td>ソードランド</td></tr>
+      <tr><td>WPB</td><td>WPB</td><td>ソードランド</td></tr>
+      <tr><td>Wruhecism</td><td>ヴルヘック教</td><td>リジア</td></tr>
+      <tr><td>Wruhecists</td><td>ヴルヘック教徒</td><td>リジア</td></tr>
+      <tr><td>Yarktralis</td><td>ヤークトラリス</td><td>ソードランド</td></tr>
+      <tr><td>Young Sords</td><td>ソード青年団</td><td>ソードランド</td></tr>
+      <tr><td>Zille</td><td>ジル</td><td>ソードランド・リジア</td></tr>
+      <tr><td>Zpana</td><td>ズパナ</td><td>リジア</td></tr>
+<!--/EARLY-->
+    </tbody>
+  </table>
+  </div>
+
+  <p style="margin-top:32px">訳語の揺れや誤りに気づいたら、<a href="#report">不備の報告</a>からお知らせください。</p>
+</section>
+<section class="view" id="view-report" data-title="翻訳の不備を報告する — Suzerain 日本語化" hidden>
+  <h1>翻訳の不備を報告する</h1>
+  <p class="lead">誤訳・不自然な訳・英語のまま残っているところ・文字の表示崩れなどを見つけたら、ここから送ってください。GitHub のアカウントは要りません。</p>
+
+  <div class="notice">
+    <p><strong>送った内容とスクリーンショットは公開されます。</strong>GitHub の <a href="https://github.com/T1763/Suzerain_JP/issues">報告一覧</a>に誰でも見られる形で載ります。</p>
+    <p>名前やアカウント名など、個人の情報が写っていないか確かめてから送ってください。</p>
+  </div>
+
+  <div class="notice hidden" id="offline" style="margin-top:12px">
+    <p>このフォームは準備中です。GitHub のアカウントをお持ちの方は、<a data-issue-form href="#">GitHub の報告フォーム</a>からお送りください。</p>
+  </div>
+
+  <div id="slot-report">
+  <form id="report-form" data-mode="report" style="margin-top:24px" novalidate>
+    <div class="field tester-only">
+      <label for="f-version">入れている日本語化の版</label>
+      <p class="hint">ダウンロードした版の名前。最新版の名前を自動で入れています。古い版を使っているときは書き換えてください。</p>
+      <input type="text" id="f-version" name="version" maxlength="100">
+    </div>
+
+    <div class="field">
+      <span class="label">物語</span>
+      <div class="radios">
+        <label><input type="radio" name="story" value="ソードランド（本編）" checked> ソードランド（本編）</label>
+        <label><input type="radio" name="story" value="リジア（DLC）"> リジア（DLC）</label>
+        <label><input type="radio" name="story" value="メニュー・その他"> メニュー・その他</label>
+      </div>
+    </div>
+
+    <div class="field tester-only">
+      <label for="f-turn">ターン</label>
+      <input type="text" id="f-turn" name="turn" maxlength="40" placeholder="例: 3">
+    </div>
+
+    <div class="field">
+      <label for="f-type">どんな不備ですか</label>
+      <select id="f-type" name="type">
+        <option>誤訳（意味が違う）</option>
+        <option>不自然な日本語</option>
+        <option>英語のまま</option>
+        <option>表示崩れ・文字化け</option>
+        <option>用語の揺れ</option>
+        <option class="tester-only">口調・呼びかけ</option>
+        <option>その他</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="f-detail">問題の詳細<span class="req">必須</span></label>
+      <p class="hint">どこがどうおかしいかを書いてください。例: 「〜」が英語のまま／人名の読みが前の場面と違う／文字が枠からはみ出している</p>
+      <textarea id="f-detail" name="detail" maxlength="4000" required></textarea>
+    </div>
+
+    <div class="field">
+      <label for="f-scene">場面</label>
+      <p class="hint">誰との会話か、どの画面か（報告書・新聞・索引・法案など）</p>
+      <input type="text" id="f-scene" name="scene" maxlength="200">
+    </div>
+
+    <div class="field">
+      <label for="f-ja">画面に出ている文（分かれば）</label>
+      <textarea id="f-ja" name="ja" maxlength="2000"></textarea>
+    </div>
+
+    <div class="field">
+      <label for="f-en">英語の原文（分かれば）</label>
+      <textarea id="f-en" name="en" maxlength="2000"></textarea>
+    </div>
+
+    <div class="field tester-only">
+      <label for="f-steps">その場面までの流れ</label>
+      <p class="hint">直前に選んだ選択肢など、同じ場面を出すのに役立つこと</p>
+      <textarea id="f-steps" name="steps" maxlength="2000"></textarea>
+    </div>
+
+    <div class="field">
+      <label for="f-note">どう直すとよいか・気づいたこと</label>
+      <textarea id="f-note" name="note" maxlength="4000"></textarea>
+    </div>
+
+    <div class="field">
+      <span class="label">スクリーンショット（<span id="max-shots">10</span> 枚まで）</span>
+      <div class="drop" id="drop">
+        <p style="margin:0 0 8px">ここに画像をドラッグするか、<kbd>Ctrl</kbd>+<kbd>V</kbd> で貼り付けてください。</p>
+        <label class="btn secondary" style="display:inline-block;font-weight:700">画像を選ぶ
+          <input type="file" id="shot-input" accept="image/png,image/jpeg,image/webp" multiple class="hidden">
+        </label>
+        <p class="hint" style="margin:8px 0 0">Steam のスクリーンショットは <kbd>F12</kbd> で撮れます。</p>
+      </div>
+      <div class="shots" id="shots"></div>
+    </div>
+
+    <div id="ts" style="margin-bottom:14px"></div>
+    <button class="btn" type="submit" id="submit">送信する</button>
+    <p class="status" id="status" role="status" aria-live="polite"></p>
+  </form>
+  </div>
+
+  <p style="margin-top:32px">GitHub のアカウントをお持ちの方は、<a data-issue-form href="#">GitHub の報告フォーム</a>から直接送ることもできます。<br>
+  テストに協力してくださっている方は、<a href="#tester">テスター用の報告フォーム</a>をお使いください。</p>
+</section>
+<section class="view" id="view-tester" data-title="テスター用の報告フォーム — Suzerain 日本語化" hidden>
+  <h1>テスター用の報告フォーム</h1>
+  <p class="lead">テストに協力してくださっている方向けです。ふつうの報告フォームより項目が多く、スクリーンショットを10枚まで付けられます。報告には「tester」の印が付きます。</p>
+
+  <div class="notice">
+    <p><strong>送った内容とスクリーンショットは公開されます。</strong>GitHub の <a href="https://github.com/T1763/Suzerain_JP/issues">報告一覧</a>に誰でも見られる形で載ります。</p>
+    <p>終盤の内容を送るときは、場面の欄に「ネタバレ」と書いてください。</p>
+  </div>
+
+
+  <div id="slot-tester"></div>
+</section>
 </main>
 
 <footer class="site-footer">
   <div class="inner">
     <p>このサイトと日本語化は有志による非公式のものですが、開発元の Torpor Games と連絡を取り合っています。</p>
     <p>このサイトは閲覧状況を知るために Google アナリティクスを使っており、Cookie によって個人を特定しない形でデータが集められます（<a href="https://policies.google.com/technologies/partner-sites?hl=ja" target="_blank" rel="noopener">Google によるデータの使用</a>）。</p>
-    <p><a href="https://github.com/T1763/Suzerain_JP">GitHub</a> ・ <a href="report.html">不備の報告</a> ・ <a href="tester.html">テスターの方へ</a> ・ <a href="https://discord.com/servers/suzerain-universe-473940883906232360" target="_blank" rel="noopener">公式Discord</a></p>
+    <p><a href="https://github.com/T1763/Suzerain_JP">GitHub</a> ・ <a href="#report">不備の報告</a> ・ <a href="#tester">テスターの方へ</a> ・ <a href="https://discord.com/servers/suzerain-universe-473940883906232360" target="_blank" rel="noopener">公式Discord</a></p>
   </div>
 </footer>
-<script src="assets/config.js?v=4"></script>
-<script src="assets/site.js?v=4"></script>
+<script src="assets/config.js?v=5"></script>
+<script src="assets/site.js?v=5"></script>
+<script src="assets/report.js?v=5"></script>
+<script>
+(function () {
+  function filter(input, table, counter) {
+    var q = input.value.trim().toLowerCase();
+    var rows = table.tBodies[0].rows, n = 0;
+    for (var i = 0; i < rows.length; i++) {
+      var hit = !q || rows[i].textContent.toLowerCase().indexOf(q) >= 0;
+      rows[i].classList.toggle('hidden', !hit);
+      if (hit) n++;
+    }
+    counter.textContent = n + ' / ' + rows.length + ' 語';
+  }
+  var qe = document.getElementById('q-early'), te = document.getElementById('t-early'), ce = document.getElementById('c-early');
+  qe.addEventListener('input', function () { filter(qe, te, ce); });
+  filter(qe, te, ce);
+
+  var btn = document.getElementById('show-full');
+  btn.addEventListener('click', function () {
+    btn.disabled = true;
+    btn.textContent = '読み込んでいます…';
+    fetch('data/glossary-full.json').then(function (r) { return r.json(); }).then(function (rows) {
+      var tb = te.tBodies[0];
+      var have = {};
+      Array.prototype.forEach.call(tb.rows, function (tr) { have[tr.cells[0].textContent] = true; });
+      rows.forEach(function (r) {
+        if (have[r[0]]) return;
+        var tr = document.createElement('tr');
+        var a = document.createElement('td'); a.textContent = r[0];
+        var b = document.createElement('td'); b.textContent = r[1];
+        var c = document.createElement('td'); var t = document.createElement('span');
+        t.className = 'tag'; t.textContent = '後半'; c.appendChild(t);
+        tr.appendChild(a); tr.appendChild(b); tr.appendChild(c); tb.appendChild(tr);
+      });
+      // 序盤の語と後半の語を英語の順に並べ直す
+      var all = Array.prototype.slice.call(tb.rows);
+      all.sort(function (x, y) { return x.cells[0].textContent.toLowerCase().localeCompare(y.cells[0].textContent.toLowerCase()); });
+      all.forEach(function (tr) { tb.appendChild(tr); });
+      document.getElementById('spoiler-gate').classList.add('hidden');
+      document.getElementById('t-title').textContent = '索引のすべての語';
+      document.getElementById('t-desc').textContent = '「後半」の印は、物語の序盤には出てこない語です（ネタバレを含みます）。';
+      filter(qe, te, ce);
+    }).catch(function () {
+      btn.disabled = false;
+      btn.textContent = '読み込めませんでした。もう一度押す';
+    });
+  });
+})();
+</script>
+<script>
+// 1枚のページの中で「ダウンロード／用語対訳表／不備の報告／テスター用」を切り替える（#glossary・#report・#tester）
+(function () {
+  var views = { download: 1, glossary: 1, report: 1, tester: 1 };
+  var form = document.getElementById('report-form');
+  function show() {
+    var v = location.hash.replace('#', '');
+    if (!views[v]) v = 'download';
+    Array.prototype.forEach.call(document.querySelectorAll('.view'), function (s) {
+      s.hidden = s.id !== 'view-' + v;
+      if (!s.hidden) document.title = s.getAttribute('data-title');
+    });
+    Array.prototype.forEach.call(document.querySelectorAll('nav a'), function (a) {
+      var h = a.getAttribute('href');
+      var on = (v === 'download' && h === './') || h === '#' + v || (v === 'tester' && h === '#report');
+      if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+    });
+    // 報告フォームは1つ。テスター用のときはテスターの欄へ移し、項目を増やす
+    if (v === 'report' || v === 'tester') {
+      document.getElementById('slot-' + v).appendChild(form);
+      form.setAttribute('data-mode', v);
+    }
+    var tester = form.getAttribute('data-mode') === 'tester';
+    {
+      Array.prototype.forEach.call(form.querySelectorAll('.tester-only'), function (el) {
+        el.hidden = !tester;
+        Array.prototype.forEach.call(el.querySelectorAll('input, textarea, select'), function (i) { i.disabled = !tester; });
+        if (el.tagName === 'OPTION') el.disabled = !tester;
+      });
+      if (window.SJP && window.SJP.reportModeChanged) window.SJP.reportModeChanged();
+    }
+    window.scrollTo(0, 0);
+  }
+  window.addEventListener('hashchange', show);
+  show();
+})();
+</script>
 </body>
 </html>

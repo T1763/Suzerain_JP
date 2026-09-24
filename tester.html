@@ -1,141 +1,14 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJ83MHVDXE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XJ83MHVDXE');
-</script>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>テスター用の報告フォーム — Suzerain 日本語化</title>
-<link rel="stylesheet" href="assets/site.css?v=6">
+<link rel="canonical" href="https://t1763.github.io/Suzerain_JP/#tester">
+<meta http-equiv="refresh" content="0; url=./#tester">
+<script>location.replace('./#tester');</script>
 </head>
 <body>
-<header class="site-header">
-  <div class="inner">
-    <a class="brand" href="./">Suzerain 日本語化<small>非公式</small></a>
-    <nav aria-label="サイト内">
-      <ul>
-        <li><a href="./">ダウンロード</a></li>
-        <li><a href="glossary.html">用語対訳表</a></li>
-        <li><a href="report.html">不備の報告</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
-
-<main>
-  <h1>テスター用の報告フォーム</h1>
-  <p class="lead">テストに協力してくださっている方向けです。ふつうの報告フォームより項目が多く、スクリーンショットを10枚まで付けられます。報告には「tester」の印が付きます。</p>
-
-  <div class="notice">
-    <p><strong>送った内容とスクリーンショットは公開されます。</strong>GitHub の <a href="https://github.com/T1763/Suzerain_JP/issues">報告一覧</a>に誰でも見られる形で載ります。</p>
-    <p>終盤の内容を送るときは、場面の欄に「ネタバレ」と書いてください。</p>
-  </div>
-
-  <div class="notice hidden" id="offline" style="margin-top:12px">
-    <p>このフォームは準備中です。GitHub のアカウントをお持ちの方は、<a data-issue-form href="#">GitHub の報告フォーム</a>からお送りください。</p>
-  </div>
-
-  <form id="report-form" data-mode="tester" style="margin-top:24px" novalidate>
-    <div class="field">
-      <label for="f-version">入れている日本語化の版</label>
-      <p class="hint">ダウンロードした版の名前。最新版の名前を自動で入れています。古い版を使っているときは書き換えてください。</p>
-      <input type="text" id="f-version" name="version" maxlength="100">
-    </div>
-
-    <div class="field">
-      <span class="label">物語</span>
-      <div class="radios">
-        <label><input type="radio" name="story" value="ソードランド（本編）" checked> ソードランド（本編）</label>
-        <label><input type="radio" name="story" value="リジア（DLC）"> リジア（DLC）</label>
-        <label><input type="radio" name="story" value="メニュー・その他"> メニュー・その他</label>
-      </div>
-    </div>
-
-    <div class="field">
-      <label for="f-turn">ターン</label>
-      <input type="text" id="f-turn" name="turn" maxlength="40" placeholder="例: 3">
-    </div>
-
-    <div class="field">
-      <label for="f-type">どんな不備ですか</label>
-      <select id="f-type" name="type">
-        <option>誤訳（意味が違う）</option>
-        <option>不自然な日本語</option>
-        <option>英語のまま</option>
-        <option>表示崩れ・文字化け</option>
-        <option>用語の揺れ</option>
-        <option>口調・呼びかけ</option>
-        <option>その他</option>
-      </select>
-    </div>
-
-    <div class="field">
-      <label for="f-detail">問題の詳細<span class="req">必須</span></label>
-      <p class="hint">どこがどうおかしいかを書いてください。例: 「〜」が英語のまま／人名の読みが前の場面と違う／文字が枠からはみ出している</p>
-      <textarea id="f-detail" name="detail" maxlength="4000" required></textarea>
-    </div>
-
-    <div class="field">
-      <label for="f-scene">場面</label>
-      <p class="hint">誰との会話か、どの画面か（報告書・新聞・索引・法案など）</p>
-      <input type="text" id="f-scene" name="scene" maxlength="200">
-    </div>
-
-    <div class="field">
-      <label for="f-ja">画面に出ている文（分かれば）</label>
-      <textarea id="f-ja" name="ja" maxlength="2000"></textarea>
-    </div>
-
-    <div class="field">
-      <label for="f-en">英語の原文（分かれば）</label>
-      <textarea id="f-en" name="en" maxlength="2000"></textarea>
-    </div>
-
-    <div class="field">
-      <label for="f-steps">その場面までの流れ</label>
-      <p class="hint">直前に選んだ選択肢など、同じ場面を出すのに役立つこと</p>
-      <textarea id="f-steps" name="steps" maxlength="2000"></textarea>
-    </div>
-
-    <div class="field">
-      <label for="f-note">どう直すとよいか・気づいたこと</label>
-      <textarea id="f-note" name="note" maxlength="4000"></textarea>
-    </div>
-
-    <div class="field">
-      <span class="label">スクリーンショット（<span id="max-shots">10</span> 枚まで）</span>
-      <div class="drop" id="drop">
-        <p style="margin:0 0 8px">ここに画像をドラッグするか、<kbd>Ctrl</kbd>+<kbd>V</kbd> で貼り付けてください。</p>
-        <label class="btn secondary" style="display:inline-block;font-weight:700">画像を選ぶ
-          <input type="file" id="shot-input" accept="image/png,image/jpeg,image/webp" multiple class="hidden">
-        </label>
-      </div>
-      <div class="shots" id="shots"></div>
-    </div>
-
-    <div id="ts" style="margin-bottom:14px"></div>
-    <button class="btn" type="submit" id="submit">送信する</button>
-    <p class="status" id="status" role="status" aria-live="polite"></p>
-  </form>
-</main>
-
-<footer class="site-footer">
-  <div class="inner">
-    <p>このサイトと日本語化は有志による非公式のものですが、開発元の Torpor Games と連絡を取り合っています。</p>
-    <p>このサイトは閲覧状況を知るために Google アナリティクスを使っており、Cookie によって個人を特定しない形でデータが集められます（<a href="https://policies.google.com/technologies/partner-sites?hl=ja" target="_blank" rel="noopener">Google によるデータの使用</a>）。</p>
-    <p><a href="https://github.com/T1763/Suzerain_JP">GitHub</a> ・ <a href="./">ダウンロード</a> ・ <a href="report.html">ふつうの報告フォーム</a> ・ <a href="https://discord.com/servers/suzerain-universe-473940883906232360" target="_blank" rel="noopener">公式Discord</a></p>
-  </div>
-</footer>
-<script src="assets/config.js?v=4"></script>
-<script src="assets/site.js?v=4"></script>
-<script src="assets/report.js?v=4"></script>
+<p><a href="./#tester">移動しました。こちらを開いてください。</a></p>
 </body>
 </html>

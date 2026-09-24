@@ -6,8 +6,8 @@
 
 - **サイト**: https://t1763.github.io/Suzerain_JP/
 - **最新版のダウンロード**: https://github.com/T1763/Suzerain_JP/releases
-- **不備の報告**: https://t1763.github.io/Suzerain_JP/report.html
-- **用語対訳表**: https://t1763.github.io/Suzerain_JP/glossary.html
+- **不備の報告**: https://t1763.github.io/Suzerain_JP/#report
+- **用語対訳表**: https://t1763.github.io/Suzerain_JP/#glossary
 
 ## 日本語になるところ
 
@@ -63,11 +63,11 @@ Steam の更新で英語に戻ることがあります。**更新後のゲーム
 
 ### 訳がおかしいところを見つけたら？
 
-[不備の報告](https://t1763.github.io/Suzerain_JP/report.html)から、スクリーンショットを付けて送ってください。GitHub のアカウントは要りません。
+[不備の報告](https://t1763.github.io/Suzerain_JP/#report)から、スクリーンショットを付けて送ってください。GitHub のアカウントは要りません。
 
 ### 固有名詞の訳を確かめたい
 
-[用語対訳表](https://t1763.github.io/Suzerain_JP/glossary.html)で、人名・地名・組織名の英語と日本語を引けます。
+[用語対訳表](https://t1763.github.io/Suzerain_JP/#glossary)で、人名・地名・組織名の英語と日本語を引けます。
 
 ## このリポジトリについて
 
@@ -77,6 +77,6 @@ Steam の更新で英語に戻ることがあります。**更新後のゲーム
 
 ## リンク
 
-[サイト](https://t1763.github.io/Suzerain_JP/) ・ [不備の報告](https://t1763.github.io/Suzerain_JP/report.html) ・ [テスターの方へ](https://t1763.github.io/Suzerain_JP/tester.html) ・ [公式Discord](https://discord.com/servers/suzerain-universe-473940883906232360)
+[サイト](https://t1763.github.io/Suzerain_JP/) ・ [不備の報告](https://t1763.github.io/Suzerain_JP/#report) ・ [テスターの方へ](https://t1763.github.io/Suzerain_JP/#tester) ・ [公式Discord](https://discord.com/servers/suzerain-universe-473940883906232360)
 
 このサイトと日本語化は有志による非公式のものですが、開発元の Torpor Games と連絡を取り合っています。

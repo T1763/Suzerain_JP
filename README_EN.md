@@ -6,8 +6,8 @@ An unofficial, fan-made Japanese translation for playing the political simulatio
 
 - **Site**: https://t1763.github.io/Suzerain_JP/ (Japanese)
 - **Download the latest version**: https://github.com/T1763/Suzerain_JP/releases
-- **Report a problem**: https://t1763.github.io/Suzerain_JP/report.html
-- **Glossary (English ⇔ Japanese)**: https://t1763.github.io/Suzerain_JP/glossary.html
+- **Report a problem**: https://t1763.github.io/Suzerain_JP/#report
+- **Glossary (English ⇔ Japanese)**: https://t1763.github.io/Suzerain_JP/#glossary
 
 ## What gets translated
 
@@ -63,11 +63,11 @@ A Steam update may switch the game back to English. **Do not overwrite an update
 
 ### I found a translation problem
 
-Send it with a screenshot from [Report a problem](https://t1763.github.io/Suzerain_JP/report.html). No GitHub account is needed.
+Send it with a screenshot from [Report a problem](https://t1763.github.io/Suzerain_JP/#report). No GitHub account is needed.
 
 ### I want to check how proper nouns are translated
 
-The [glossary](https://t1763.github.io/Suzerain_JP/glossary.html) lists names of people, places and organizations in English and Japanese.
+The [glossary](https://t1763.github.io/Suzerain_JP/#glossary) lists names of people, places and organizations in English and Japanese.
 
 ## About this repository
 
@@ -77,6 +77,6 @@ The [glossary](https://t1763.github.io/Suzerain_JP/glossary.html) lists names of
 
 ## Links
 
-[Site](https://t1763.github.io/Suzerain_JP/) ・ [Report a problem](https://t1763.github.io/Suzerain_JP/report.html) ・ [For testers](https://t1763.github.io/Suzerain_JP/tester.html) ・ [Official Discord](https://discord.com/servers/suzerain-universe-473940883906232360)
+[Site](https://t1763.github.io/Suzerain_JP/) ・ [Report a problem](https://t1763.github.io/Suzerain_JP/#report) ・ [For testers](https://t1763.github.io/Suzerain_JP/#tester) ・ [Official Discord](https://discord.com/servers/suzerain-universe-473940883906232360)
 
 This site and patch are an unofficial fan project, but we are in contact with the developer, Torpor Games.

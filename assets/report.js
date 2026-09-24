@@ -1,9 +1,9 @@
-// 不備の報告フォーム（report.html / tester.html 共通）。送信先は config.js の relay（Cloudflare Worker）
+// 不備の報告フォーム（index.html の #report と #tester で共通。ふつう／テスター用は data-mode で切り替わる）。送信先は config.js の relay（Cloudflare Worker）
 (function () {
   var cfg = window.SJP || {};
   var form = document.getElementById('report-form');
-  var mode = form.getAttribute('data-mode') || 'report';        // report | tester
-  var MAX_SHOTS = mode === 'tester' ? 10 : 3;
+  function mode() { return form.getAttribute('data-mode') === 'tester' ? 'tester' : 'report'; }
+  function maxShots() { return mode() === 'tester' ? 10 : 3; }
   var MAX_BYTES = 5 * 1024 * 1024;
   var OK_TYPES = ['image/png', 'image/jpeg', 'image/webp'];
   var ISSUE_FORM = 'https://github.com/' + cfg.repo + '/issues/new?template=translation.yml';
@@ -17,7 +17,9 @@
   var tsBox = document.getElementById('ts');
   var tsWidget = null;
 
-  document.getElementById('max-shots').textContent = MAX_SHOTS;
+  // ふつう／テスター用が切り替わったら枚数の上限の表示を合わせる（index.html の切り替えから呼ばれる）
+  cfg.reportModeChanged = function () { document.getElementById('max-shots').textContent = maxShots(); };
+  cfg.reportModeChanged();
 
   // 中継が未設定のときは送信できないので GitHub の Issue フォームへ案内する
   var offline = document.getElementById('offline');
@@ -75,7 +77,7 @@
   function addFiles(files) {
     Array.prototype.forEach.call(files, function (f) {
       if (!/^image\//.test(f.type)) return;
-      if (shots.length + pending >= MAX_SHOTS) { setStatus('スクリーンショットは ' + MAX_SHOTS + ' 枚までです。', 'err'); return; }
+      if (shots.length + pending >= maxShots()) { setStatus('スクリーンショットは ' + maxShots() + ' 枚までです。', 'err'); return; }
       pending++;
       normalize(f).then(function (blob) {
         shots.push({ blob: blob, url: URL.createObjectURL(blob), name: f.name || 'screenshot' });
@@ -103,6 +105,7 @@
 
   fileInput.addEventListener('change', function () { addFiles(fileInput.files); fileInput.value = ''; });
   document.addEventListener('paste', function (e) {
+    if (form.offsetParent === null) return;          // 報告の画面を開いていないときは貼り付けを拾わない
     var items = (e.clipboardData && e.clipboardData.files) || [];
     if (items.length) { addFiles(items); e.preventDefault(); }
   });
@@ -122,8 +125,9 @@
       setStatus('送信ボタンの上の「私はロボットではありません」にチェックを入れてください。', 'err');
       return;
     }
+    if (shots.length > maxShots()) { setStatus('スクリーンショットは ' + maxShots() + ' 枚までです。多い分を外してください。', 'err'); return; }
     var fd = new FormData(form);
-    fd.append('mode', mode);
+    fd.append('mode', mode());
     shots.forEach(function (s, i) { fd.append('shots', s.blob, 'shot' + (i + 1)); });
     if (tsWidget !== null) fd.append('turnstile', window.turnstile.getResponse(tsWidget) || '');
 
